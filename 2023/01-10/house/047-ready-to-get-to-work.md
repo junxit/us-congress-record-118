@@ -1,0 +1,43 @@
+---
+granule: CREC-2023-01-10-pt1-PgH146-3
+date: 2023-01-10
+edition: CREC
+section: HOUSE
+page: H146
+citation: 169 Cong. Rec. H146
+---
+
+# READY TO GET TO WORK
+
+**Speaking:** Scholten, Hillary J. (S001221) [D-MI]
+
+```
+                              {time}  1645
+                          READY TO GET TO WORK
+
+  (Ms. SCHOLTEN asked and was given permission to address the House for 
+1 minute and to revise and extend her remarks.)
+  Ms. SCHOLTEN. Mr. Speaker, I rise today because I believe this 
+Congress has a chance to do what is right.
+  I am an unflinching optimist, and I believe that we can come together 
+to make our communities safer and more just for all.
+  As the first woman and mother in history to represent my district in 
+Congress, and as an attorney that has worked for our Nation's top law 
+enforcement agency, keeping our communities safe is a top priority of 
+mine because violence, of all kinds, takes a massive toll on the people 
+we represent.
+  Just 2 years ago, a friend of mine, Romito Jones, was shot and killed 
+in our neighborhood on the southeast side of Grand Rapids. He was a 
+father of five and a friend to my family.
+  Just last month, a recently elected member of the Muskegon Heights 
+school board, Julius Muhammad, was shot and killed in his home. He was 
+a dad and a public servant. He was loved and admired by his community.
+  Today I honor their lives as I strive for safer communities for all.
+  We must come together to enact commonsense reforms to keep our 
+neighborhoods safe, support our law enforcement, and support fair and 
+equitable enforcement of the law.
+  I am ready to get to work, and I invite all of my colleagues to join 
+me.
+
+                          ____________________
+```

@@ -1,0 +1,40 @@
+---
+granule: CREC-2023-01-10-pt1-PgH121-4
+date: 2023-01-10
+edition: CREC
+section: HOUSE
+page: H121
+citation: 169 Cong. Rec. H121
+---
+
+# HONORING DENNY KELLINGTON
+
+**Speaking:** Tenney, Claudia (T000478) [R-NY]
+
+```
+                       HONORING DENNY KELLINGTON
+
+  (Ms. TENNEY asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. TENNEY. Mr. Speaker, I rise today to honor and thank Buffalo 
+Bills assistant athletic trainer Denny Kellington for his heroic 
+actions saving the life of Bills safety Damar Hamlin during the Bills' 
+January 2 matchup against the Cincinnati Bengals.
+  Kellington graduated from Oklahoma State in 2000 and spent time 
+working for the Denver Broncos, Ohio State, and even working for 
+upstate New York's very own Syracuse University.
+  After Hamlin collapsed, Kellington jumped into action and began 
+performing CPR, continuing this lifesaving treatment for 9 minutes, 
+saving Hamlin's life and opening the door for his speedy recovery.
+  Mr. Speaker, Denny Kellington is a hero. All of New York's 24th 
+District, the Bills Mafia, and America are forever grateful for his 
+heroism and leadership during a truly terrifying moment.
+  Due to his valiant actions, I support the calls for the National 
+Football League to make Denny Kellington the first athletic trainer to 
+be inducted into the Pro Football Hall of Fame.
+  There is power in prayer, and we are so grateful for Damar's 
+promising recovery.
+  Go Bills.
+
+                          ____________________
+```
