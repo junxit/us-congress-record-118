@@ -1,0 +1,42 @@
+---
+granule: CREC-2023-01-11-pt1-PgH168-3
+date: 2023-01-11
+edition: CREC
+section: HOUSE
+page: H168
+citation: 169 Cong. Rec. H168
+---
+
+# CONDEMNING ATTACKS ON LIFE-AFFIRMING FACILITIES
+
+**Speaking:** Fulcher, Russ (F000469) [R-ID]
+
+**Measures:** H.Con.Res. 3
+
+```
+                              {time}  1230
+            CONDEMNING ATTACKS ON LIFE-AFFIRMING FACILITIES
+
+  (Mr. FULCHER asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. FULCHER. Madam Speaker, I rise today to support H. Con. Res. 3. 
+This resolution condemns the recent attacks on pro-life facilities 
+across the country. Since the Supreme Court Dobbs decision, there have 
+been over 100 attacks on pro-life organizations and churches in the 
+U.S., causing life-affirming centers across the country to spend 
+hundreds of thousands of dollars in security--fearing they may be 
+targeted next.
+  In Idaho, life-affirming organizations provide critical services to 
+women. For example, Stanton Healthcare in Meridian, Idaho, recently 
+helped Leandra, a young mother facing an unexpected pregnancy, with 
+encouragement through pre- and post-natal care and education, 
+childbirth classes, material assistance, and mentorship resources.
+  This resolution shouldn't be controversial. It simply highlights that 
+acts of violence and intimidation are unacceptable and have no place in 
+our society. But it is important for all of us to call out this 
+violence and condemn it.
+  Madam Speaker, I thank Congressman   Mike Johnson for taking the lead 
+on this resolution and for his efforts to promote life.
+
+                          ____________________
+```

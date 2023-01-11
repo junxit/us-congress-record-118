@@ -1,0 +1,40 @@
+---
+granule: CREC-2023-01-11-pt1-PgH168-5
+date: 2023-01-11
+edition: CREC
+section: HOUSE
+page: H168
+citation: 169 Cong. Rec. H168
+---
+
+# SIGNIFICANCE OF THE UNITED STATES CAPITOL
+
+**Speaking:** Meuser, Daniel (M001204) [R-PA]
+
+```
+               SIGNIFICANCE OF THE UNITED STATES CAPITOL
+
+  (Mr. MEUSER asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. MEUSER. Madam Speaker, I have been reminded during these first 
+days of the 118th Congress of the importance and significance of an 
+open U.S. Capitol.
+  I have had a number of guests from my district here with us this past 
+week as the people's House has finally been reopened to the public. 
+Yesterday I had Bode Brewer and his family with here with me, the 
+excitement, awe, and inspiration that I saw in this young man's eyes in 
+viewing this Capitol, as well as the opportunity he had to meet so many 
+of my colleagues who play such a significant role in this House, was 
+truly profound.
+  Today I am visited by my constituent, Cadet Aidan Carr, whom I 
+nominated to United States Military Academy West Point and who is in 
+his third year at the Academy. Not only does Aidan have a clear sense 
+of honor being here with us, but he is carrying himself with a great 
+sense of respect, patriotism, and sense of duty for the commitment he 
+has made to protect this country and this institution.
+  So as we begin the 118th Congress, I hope we all are reminded of the 
+responsibility we have in this House to serve the American people in 
+the greatest country on Earth.
+
+                          ____________________
+```
