@@ -1,0 +1,40 @@
+---
+granule: CREC-2023-01-12-pt1-PgH222-3
+date: 2023-01-12
+edition: CREC
+section: HOUSE
+page: H222
+citation: 169 Cong. Rec. H222
+---
+
+# STANDING UP FOR REPRODUCTIVE RIGHTS
+
+**Speaking:** Manning, Kathy E. (M001135) [D-NC]
+
+**Measures:** H.R. 26
+
+```
+                  STANDING UP FOR REPRODUCTIVE RIGHTS
+
+  (Ms. MANNING asked and was given permission to address the House for 
+1 minute and to revise and extend her remarks.)
+  Ms. MANNING. Madam Speaker, last November the American people 
+delivered a clear message: Women want the right to make their own 
+reproductive decisions.
+  My Republican colleagues must have missed that message because they 
+just passed a bill that inserts politics into private family decisions.
+  That bill is an attempt to create a false and gruesome narrative to 
+interfere with a doctor's care for her patients and to falsely suggest 
+that doctors don't already have a legal obligation to provide the best 
+possible care for their patients.
+  This fearmongering is dangerous. It could leave doctors fearful of 
+providing the best care for patients who are facing devastating 
+circumstances. It could cause further pain to families facing the 
+heartbreak of a fetus with a fatal abnormality.
+  The real aim of this bill is to vilify and punish women and their 
+doctors.
+  I voted ``no'' on H.R. 26. I will continue to stand up for women's 
+reproductive rights.
+
+                          ____________________
+```

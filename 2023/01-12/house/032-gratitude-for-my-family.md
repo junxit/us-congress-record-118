@@ -1,0 +1,39 @@
+---
+granule: CREC-2023-01-12-pt1-PgH221-7
+date: 2023-01-12
+edition: CREC
+section: HOUSE
+page: H221
+citation: 169 Cong. Rec. H221
+---
+
+# GRATITUDE FOR MY FAMILY
+
+**Speaking:** Pettersen, Brittany (P000620) [D-CO]
+
+```
+                        GRATITUDE FOR MY FAMILY
+
+  (Ms. PETTERSEN asked and was given permission to address the House 
+for 1 minute.)
+  Ms. PETTERSEN. Madam Speaker, I rise today to recognize two of my 
+most important constituents and the milestones in the week to come.
+  This Sunday, January 15, marks the 12th anniversary with my husband, 
+Ian Silverii. Twelve years ago, I said yes to our first date, and it 
+was the best decision I have made.
+  I am so grateful for his love and support all along the way. No 
+matter how difficult our paths have been, he has always been my rock 
+and biggest cheerleader. I am thankful every day for the life we have 
+built together.
+  Happy anniversary to my partner and best friend and the dad to my 
+other most important constituent, my son, Davis.
+  January 19 is my son's third birthday. Davis has been the greatest 
+gift to both of our lives. It has been amazing to watch him grow and to 
+see him become the loving and empathetic little guy that he is. Nothing 
+makes me happier and prouder than being his mom.
+  His Dad and I love him so much. I can't wait to celebrate him and all 
+that he brings to our lives and the people around him.
+  Happy birthday to my sweet boy.
+
+                          ____________________
+```

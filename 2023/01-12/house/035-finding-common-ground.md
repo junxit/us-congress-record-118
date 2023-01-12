@@ -1,0 +1,36 @@
+---
+granule: CREC-2023-01-12-pt1-PgH222-2
+date: 2023-01-12
+edition: CREC
+section: HOUSE
+page: H222
+citation: 169 Cong. Rec. H222
+---
+
+# FINDING COMMON GROUND
+
+**Speaking:** Landsman, Greg (L000601) [D-OH]
+
+```
+                         FINDING COMMON GROUND
+
+  (Mr. LANDSMAN asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LANDSMAN. Madam Speaker, I rise today for the first time as a 
+Member of Congress to thank the folks back home in Cincinnati and 
+throughout the First Congressional District. I couldn't be more 
+energized to be serving all of you and the country that we love.
+  My commitment to you and my new colleagues, Madam Speaker, is to be 
+here as a new, transparent, bipartisan, and highly reliable leader.
+  We are already working with Republicans on legislative priorities 
+that will help our children and families back home to cap the costs of 
+insulin for children, to help folks pay their bills with an expanded 
+earned income tax credit and a child tax credit, and to provide 
+additional grants to communities to recruit more police officers and 
+firefighters.
+  There will always be more that unites us than divides us.
+  My work will continue to find common ground working across the aisle 
+to get things done on the issues that matter most to us.
+
+                          ____________________
+```

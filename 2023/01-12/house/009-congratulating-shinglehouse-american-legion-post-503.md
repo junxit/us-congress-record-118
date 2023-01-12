@@ -1,0 +1,46 @@
+---
+granule: CREC-2023-01-12-pt1-PgH208-2
+date: 2023-01-12
+edition: CREC
+section: HOUSE
+page: H208
+citation: 169 Cong. Rec. H208
+---
+
+# CONGRATULATING SHINGLEHOUSE AMERICAN LEGION POST 503
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+          CONGRATULATING SHINGLEHOUSE AMERICAN LEGION POST 503
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Mr. Speaker, I rise today to 
+congratulate the Shinglehouse American Legion Post 530 in Potter County 
+on its 100th anniversary.
+  This Friday, January 13, will be 100 years since its charter was 
+enacted.
+  In celebration of this monumental anniversary, Shinglehouse is 
+hosting a weeklong open house for the public. Events include special 
+meals, activities for all ages, and lots of prizes.
+  In the early years of the Shinglehouse American Legion, members 
+gathered at the drycleaning shop of ``Shorty'' Klinger. As time went on 
+and membership grew, the post reached its top membership in 1999 when 
+it had 284 members and 271 social members.
+  Today, it remains a traditional-style legion, with community 
+engagement and a focus on projects that support the legions four 
+pillars: Veterans affairs and rehabilitation, national security, 
+Americanism, and children and youth.
+  The post continues to support community projects like Adopt-a-
+Highway, local Boy Scout and Girl Scout troops, and the Wounded 
+Warriors.
+  Mr. Speaker, the Shinglehouse American Legion Post 530 continues to 
+serve as a community pillar. From supporting local charities, to 
+providing a meeting house for veterans of all ages, they remain an 
+important part of the community.
+  Congratulations to all Shinglehouse American Legion members on their 
+centennial anniversary.
+
+                          ____________________
+```

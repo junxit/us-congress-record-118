@@ -1,0 +1,48 @@
+---
+granule: CREC-2023-01-12-pt1-PgH220-6
+date: 2023-01-12
+edition: CREC
+section: HOUSE
+page: H220
+citation: 169 Cong. Rec. H220
+---
+
+# SECOND BATCH OF CLASSIFIED DOCUMENTS FOUND
+
+**Speaking:** LaMalfa, Doug (L000578) [R-CA]
+
+```
+               SECOND BATCH OF CLASSIFIED DOCUMENTS FOUND
+
+  (Mr. LaMALFA asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LaMALFA. Madam Speaker, on Monday, classified documents were 
+discovered at President Biden's think tank in Washington, D.C. These 
+documents were at least 6 years old, meaning the President had them and 
+took them while he was Vice President, and lacked the authority at the 
+time to declassify them.
+  Yesterday, a second batch of documents has been found. The timing of 
+these discoveries right after the November midterm elections is, I am 
+sure, coincidental.
+  Knowing the history of the Biden family's shady dealings with China 
+and others, this raises serious national security concerns.
+  Mishandling classified information is a serious offense, yet the 
+Democrats, from Hillary Clinton to Joe Biden, seem to get a pass.
+  When Republicans are accused of doing far less, we get special 
+prosecutions and political witch hunts for a long time.
+  This breach of national security should be immediately investigated 
+by Congress and the DOJ to determine the magnitude of this offense. If 
+the DOJ wants to claim to be non-partisan, it must start enforcing with 
+equity across party lines.
+  Who has seen these documents?
+  Who has had access to them with the sloppy storage that we saw in 
+Pennsylvania or wherever else they are?
+  This is a very dangerous precedent, and the Vice President or the 
+President need to be held accountable.
+
+[[Page H221]]
+
+  
+
+                          ____________________
+```
