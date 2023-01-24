@@ -1,0 +1,41 @@
+---
+granule: CREC-2023-01-24-pt1-PgH267-7
+date: 2023-01-24
+edition: CREC
+section: HOUSE
+page: H267
+citation: 169 Cong. Rec. H267
+---
+
+# CELEBRATING THE LIFE OF LT. COL. HAROLD BROWN
+
+**Speaking:** Kaptur, Marcy (K000009) [D-OH]
+
+```
+             CELEBRATING THE LIFE OF LT. COL. HAROLD BROWN
+
+  (Ms. KAPTUR asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. KAPTUR. Mr. Speaker, I rise to celebrate the valorous life of 
+Lieutenant Colonel Harold Brown of Catawba Island, Ohio, who recently 
+took his final flight to the heavens.
+  Since sixth grade, Harold's dream was to be a pilot. By the age of 
+19, he made that dream a reality as a Tuskegee Airman.
+  Harold served as an exemplary officer in the U.S. Army Air Corps, 
+completing dozens of combat missions during World War II. Once while on 
+a mission, his plane was shot down, and Harold was taken as a prisoner 
+of war.
+  This experience did not deter his service to our country. Harold 
+served again during the brutal Korean War. Truly, he embodied the 
+spirit of his Spit Fire legendary airmen.
+  Harold's devotion to his country extended beyond the battlefield. He 
+worked to desegregate the military. He worked as a teacher to inspire 
+new generations of students. His life was dedicated to service beyond 
+self.
+  Today, America honors Harold for his service. We remember what an 
+impact his life had, and our prayers are with his loved ones.
+  Truly, one human being can change the direction of the world for the 
+better, and Harold Brown did that.
+
+                          ____________________
+```

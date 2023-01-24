@@ -1,0 +1,91 @@
+---
+granule: CREC-2023-01-24-pt1-PgS76-2
+date: 2023-01-24
+edition: CREC
+section: SENATE
+page: S76
+citation: 169 Cong. Rec. S76
+---
+
+# Introductory Statement on S. 52
+
+**Speaking:** Thune, John (T000250) [R-SD]
+
+**Measures:** S. 52
+
+```
+      By Mr. THUNE (for himself, Mr. Tester, Mr. Rounds, Mr. Booker, 
+        Ms. Lummis, and Mrs. Gillibrand):
+  S. 52. A bill to amend the Agricultural Marketing Act of 1946 to 
+establish country of origin labeling requirements for beef, and for 
+other purposes; to the Committee on Agriculture, Nutrition, and 
+Forestry.
+  Mr. THUNE. Madam President, I ask unanimous consent that the text of 
+the bill be printed in the Record.
+  There being no objection, the text of the bill was ordered to be 
+printed in the Record, as follows:
+
+                                 S. 52
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``American Beef Labeling Act 
+     of 2023''.
+
+     SEC. 2. COUNTRY OF ORIGIN LABELING FOR BEEF.
+
+       (a) Definitions.--Section 281 of the Agricultural Marketing 
+     Act of 1946 (7 U.S.C. 1638) is amended--
+       (1) by redesignating paragraphs (1) through (7) as 
+     paragraphs (2) through (8), respectively;
+       (2) by inserting before paragraph (2) (as so redesignated) 
+     the following:
+       ``(1) Beef.--The term `beef' means meat produced from 
+     cattle (including veal).''; and
+       (3) in subparagraph (A) of paragraph (2) (as so 
+     redesignated)--
+       (A) in clause (i), by inserting ``, beef,'' after ``lamb''; 
+     and
+
+[[Page S77]]
+
+       (B) in clause (ii), by inserting ``, ground beef,'' after 
+     ``lamb''.
+       (b) Notice of Country of Origin.--Section 282(a)(2) of the 
+     Agricultural Marketing Act of 1946 (7 U.S.C. 1638a(a)(2)) is 
+     amended--
+       (1) in the paragraph heading, by inserting ``beef,'' after 
+     ``for'';
+       (2) in each of subparagraphs (A) through (D), by inserting 
+     ``beef,'' before ``lamb'' each place it appears; and
+       (3) in subparagraph (E)--
+       (A) in the subparagraph heading, by inserting ``beef,'' 
+     after ``Ground''; and
+       (B) by inserting ``ground beef,'' before ``ground lamb'' 
+     each place it appears.
+       (c) Means of Reinstating MCOOL for Beef.--
+       (1) Determination of means.--Not later than 180 days after 
+     the date of enactment of this Act, the United States Trade 
+     Representative, in consultation with the Secretary of 
+     Agriculture, shall determine a means of reinstating mandatory 
+     country of origin labeling for beef in accordance with the 
+     amendments made by subsections (a) and (b) that is in 
+     compliance with all applicable rules of the World Trade 
+     Organization.
+       (2) Implementation of means.--Not later than 1 year after 
+     the date of enactment of this Act, the United States Trade 
+     Representative and the Secretary of Agriculture shall 
+     implement the means determined under paragraph (1).
+       (d) Effective Date.--The amendments made by subsections (a) 
+     and (b) take effect on the earlier of--
+       (1) the date on which the Secretary of Agriculture 
+     publishes a determination in the Federal Register that the 
+     means determined under paragraph (1) of subsection (c) have 
+     been implemented under paragraph (2) of that subsection; and
+       (2) the date that is 1 year after the date of enactment of 
+     this Act.
+                                 ______
+```
