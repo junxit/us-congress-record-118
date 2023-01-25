@@ -1,0 +1,77 @@
+---
+granule: CREC-2023-01-25-pt1-PgH285-2
+date: 2023-01-25
+edition: CREC
+section: HOUSE
+page: H285
+citation: 169 Cong. Rec. H285
+---
+
+# RECOGNIZING STATE-OF-THE-ART UGA POULTRY SCIENCE BUILDING
+
+**Speaking:** Carter, Earl L. "Buddy" (C001103) [R-GA]
+
+```
+       RECOGNIZING STATE-OF-THE-ART UGA POULTRY SCIENCE BUILDING
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from 
+Georgia (Mr. Carter) for 5 minutes.
+  Mr. CARTER of Georgia. Madam Speaker, I rise today to recognize the 
+creation of a state-of-the-art poultry science building at my alma 
+mater, the University of Georgia.
+  In the State of Georgia, the poultry industry contributes an annual 
+$21.5 billion to our State's economy. The industry also generates an 
+annual $2.1 billion in Federal tax revenue. The poultry industry is 
+vital to not only the State of Georgia but also the country. That is 
+why I am proud to recognize the University of Georgia for building a 
+brand-new poultry science building on their campus.
+  This $54.1 million facility will feature new classrooms, research 
+labs, and learning labs. These new labs will enhance the traditional 
+classroom experience by offering students opportunities to learn in a 
+fieldwork setting. These facilities are vital for preparing students as 
+they enter the poultry industry.
+  I know this new project will serve the students at the university and 
+the people of Georgia's First District well.
+
+
+                  Georgia Among LEED-Certified Top 10
+
+  Mr. CARTER of Georgia. Madam Speaker, I rise today to recognize the 
+State of Georgia for being a top 10 finisher in the country last year 
+for Leadership in Energy and Environmental Design-certified green 
+buildings.
+  The United States Green Building Council has been working hard to 
+create a healthier, more sustainable, and resilient world through LEED, 
+and its annual ranking is an opportunity to recognize everyone working 
+toward that goal.
+  Buildings that are LEED certified create healthier spaces for people, 
+use fewer resources, reduce carbon emissions, and improve efficiency 
+while providing operational cost savings.
+  Georgia is a leader in green building and ranks sixth out of the top 
+10 States. 2022 saw growth in green building and sustainability, and I 
+am proud that Georgia is at the forefront of building a healthier, more 
+sustainable future.
+  I thank all the building professionals who helped our State achieve 
+this ranking.
+
+
+                  Recognizing Georgia Ports Authority
+
+  Mr. CARTER of Georgia. Madam Speaker, I rise today to recognize the 
+Georgia Ports Authority for handling nearly 6 million 20-foot 
+containers in 2022. In 2022 alone, the Georgia Ports Authority had a 5 
+percent increase in container handling.
+  Collaborative effort across Georgia's supply chain ensured that cargo 
+movement remained a top priority during a very challenging year.
+  The Port of Savannah achieved 4 of its top 5 months for container 
+volume in 2022, with trade volumes peaking in August at an all-time 
+high of 575,500 20-foot containers.
+  With the renovation of Berth 1 at Garden City Terminal, the 90-acre 
+Garden City Terminal West expansion, and the transition of Ocean 
+Terminal to an all-container facility, the Port of Savannah is set to 
+increase annual capacity from 6 million to 7.5 million 20-foot 
+containers.
+  I congratulate the GPA on this wonderful accomplishment.
+
+                          ____________________
+```

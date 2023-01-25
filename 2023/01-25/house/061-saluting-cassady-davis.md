@@ -1,0 +1,34 @@
+---
+granule: CREC-2023-01-25-pt1-PgH314-4
+date: 2023-01-25
+edition: CREC
+section: HOUSE
+page: H314
+citation: 169 Cong. Rec. H314
+---
+
+# SALUTING CASSADY DAVIS
+
+**Speaking:** Beatty, Joyce (B001281) [D-OH]
+
+```
+                         SALUTING CASSADY DAVIS
+
+  (Mrs. BEATTY asked and was given permission to address the House for 
+1 minute.)
+  Mrs. BEATTY. Madam Speaker, I rise today early to kick off Black 
+History Month. Cassady Davis, a third grader from Evening Street 
+Elementary School, we salute her.
+  She is the daughter of McKenzie and Shawna Davis. She enjoys soccer, 
+swimming, reading, and spending time with her sister, Collins.
+  Students have the opportunity to select past and present-day leaders 
+for their Black history showcase. I am honored that Cassady chose me as 
+her modern-day leader.
+  I commend the work of America's educators who are instilling in our 
+students the importance of Black history, which is American history, 
+and empowering young girls like Cassady to become the Nation's next 
+generation of leaders.
+  So to all listening today, we salute a 9-year-old, Cassady Davis.
+
+                          ____________________
+```
