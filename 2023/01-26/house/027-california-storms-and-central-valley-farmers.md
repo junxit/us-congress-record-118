@@ -1,0 +1,40 @@
+---
+granule: CREC-2023-01-26-pt1-PgH348-7
+date: 2023-01-26
+edition: CREC
+section: HOUSE
+page: H348
+citation: 169 Cong. Rec. H348
+---
+
+# CALIFORNIA STORMS AND CENTRAL VALLEY FARMERS
+
+**Speaking:** Valadao, David G. (V000129) [R-CA]
+
+```
+              CALIFORNIA STORMS AND CENTRAL VALLEY FARMERS
+
+  (Mr. VALADAO asked and was given permission to address the House for 
+1 minute.)
+  Mr. VALADAO. Mr. Speaker, over the last few weeks, California has 
+experienced severe storms that brought much-needed water to our State. 
+If you thought that meant water shortages in California were over, you 
+would be wrong.
+  Since October of last year, California has flushed over 6.4 million 
+acre-feet of water out to the ocean. That is 2 trillion gallons. This 
+is extremely frustrating for the Central Valley farmers who are 
+fallowing their fields and the communities that are running out of 
+water for daily use in their homes and businesses.
+  The pumps that are in place to deliver water to farms, homes, and 
+businesses aren't allowed to run at their full capacity due to 
+environmental regulations. If we had increased flexibility on these 
+pumping regulations to account for real-time conditions, we could have 
+captured 84,000 more acre-feet of water during the 2 weeks of storms.
+  Increasing flexibility in how we operate these pumps, as well as 
+investing in critical water storage infrastructure and conveyance 
+projects, will allow us to maximize what can be stored for these flow 
+events and make us more resilient for drought.
+  Every drop of water is critical to my constituents in Central Valley.
+
+                          ____________________
+```
