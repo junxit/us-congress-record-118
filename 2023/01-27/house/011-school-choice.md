@@ -1,0 +1,39 @@
+---
+granule: CREC-2023-01-27-pt1-PgH434-4
+date: 2023-01-27
+edition: CREC
+section: HOUSE
+page: H434
+citation: 169 Cong. Rec. H434
+---
+
+# SCHOOL CHOICE
+
+**Speaking:** Meuser, Daniel (M001204) [R-PA]
+
+```
+                             SCHOOL CHOICE
+
+  (Mr. MEUSER asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. MEUSER. Mr. Speaker, every student deserves the opportunity to 
+receive an education that empowers them to excel. They are our Nation's 
+future and should have the opportunity to attend a school that best 
+suits them, whether it is public or private, charter or other.
+  This week is not about placing private education over public school 
+education. Many Americans have access to great public schools, but many 
+do not. School choice increases options available for families and 
+incentivizes improvement of all schools.
+  Nobody knows what is best for their children more than a parent does, 
+and a student's ZIP Code should not determine their destiny. School 
+choice policies are a great equalizer and increase opportunity for 
+students no matter where they live.
+  Education savings accounts, like those recently implemented in Iowa, 
+and my colleague Adrian Smith's legislation, the Educational Choice for 
+Children's Act, which provides a tax credit for those who fund 
+scholarship awards for K-12 students, are two examples of policies that 
+will increase opportunity for millions of children across America.
+  As a Member of Congress, I look forward to supporting such proposals.
+
+                          ____________________
+```

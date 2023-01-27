@@ -1,0 +1,41 @@
+---
+granule: CREC-2023-01-27-pt1-PgH434
+date: 2023-01-27
+edition: CREC
+section: HOUSE
+page: H434
+citation: 169 Cong. Rec. H434
+---
+
+# MASS SHOOTINGS IN CALIFORNIA
+
+**Speaking:** Dean, Madeleine (D000631) [D-PA]
+
+```
+                      MASS SHOOTINGS IN CALIFORNIA
+
+  (Ms. DEAN of Pennsylvania asked and was given permission to address 
+the House for 1 minute and to revise and extend her remarks.)
+  Ms. DEAN of Pennsylvania. Mr. Speaker, not even a month into this New 
+Year and I am already on the floor, once again, begging the same 
+question: What will it take to stop the relentless pace of mass 
+shootings?
+  Three mass shootings in California in just 3 days. Three different 
+men of three different ages used guns to murder their own neighbors or 
+coworkers.
+  Beyond the tragedies in California, there are victims of gun violence 
+every day in every State.
+  Regardless of our politics, we cannot continue to live and die this 
+way. We must do more. We must do more for the victims. We must do more 
+for the communities shattered. We must do more for the families left to 
+grieve.
+  Each mass shooting is a glaring violation of our inalienable rights--
+life, liberty, and the pursuit of happiness.
+  According to the 97 percent, a bipartisan group of gun owners and 
+non-gun owners, 70 percent of gun owners want to help reduce gun 
+injuries and deaths. There are a lot of ways we can combat the cruel 
+epidemic of gun violence, but what we cannot do is nothing.
+  We must all find the courage to act.
+
+                          ____________________
+```

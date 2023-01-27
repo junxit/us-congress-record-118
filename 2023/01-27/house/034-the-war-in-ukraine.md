@@ -1,0 +1,36 @@
+---
+granule: CREC-2023-01-27-pt1-PgH473-3
+date: 2023-01-27
+edition: CREC
+section: HOUSE
+page: H473
+citation: 169 Cong. Rec. H473
+---
+
+# THE WAR IN UKRAINE
+
+**Speaking:** Grothman, Glenn (G000576) [R-WI]
+
+```
+                           THE WAR IN UKRAINE
+
+  (Mr. GROTHMAN asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. GROTHMAN. Mr. Speaker, sometimes the press--when a story goes on 
+for months and months--begins to not pay attention or address things 
+they ought to be addressing. I am going to briefly address the Ukraine 
+war.
+  It sure would be wonderful if that war ended. There are different 
+estimates as to the number of people killed in that war, but I think 
+all estimates would put it over 20,000 people.
+  This--for countries that, quite frankly, have problems and a shortage 
+of people--is not frequently commented on, but Ukraine has the second 
+lowest birth rate of any sizable country in the world. Russia also has 
+a low birth rate and has a lot of people immigrating.
+  I would hope the press, or our government would look for somebody--we 
+can't do it--but look for some country, France, Turkey, Israel, someone 
+to broker peace here before any more people die, and the hatred that 
+inevitably comes with war becomes greater and greater.
+
+                          ____________________
+```
