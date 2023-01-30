@@ -1,0 +1,39 @@
+---
+granule: CREC-2023-01-30-pt1-PgH506-3
+date: 2023-01-30
+edition: CREC
+section: HOUSE
+page: H506
+citation: 169 Cong. Rec. H506
+---
+
+# HONORING THE LIFE OF DICK FLOOD
+
+**Speaking:** Carter, Earl L. "Buddy" (C001103) [R-GA]
+
+```
+                    HONORING THE LIFE OF DICK FLOOD
+
+  (Mr. CARTER of Georgia asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. CARTER of Georgia. Mr. Speaker, I rise today to recognize and 
+honor the life of Dick Flood, or as many residents of the First 
+District knew him, ``Okefenokee Joe.''
+  Flood was a singer, songwriter, entertainer, environmentalist, and in 
+the south of Georgia, a local legend.
+  Okefenokee Joe lived in the Okefenokee Swamp for 10 years, learning 
+firsthand about plants and animals in the area. He was well known to 
+Georgia public broadcast viewers for his 1988 documentary, ``The Joy of 
+Snakes.''
+  Flood also hosted the Emmy Award-winning Georgia Public Broadcast 
+Television documentary, ``Swampwise.''
+  In the 1950s and 1960s, he wrote numerous songs for popular country 
+music musicians.
+  This loss will be felt by all of us in the First District, and 
+particularly for those that live in and around the Okefenokee Swamp.
+  On a personal note, when I was dating my wife, we went to see 
+Okefenokee Joe at the Okefenokee Swamp, and I will never forget that.
+  Our thoughts and prayers are with Mr. Flood's family.
+
+                          ____________________
+```

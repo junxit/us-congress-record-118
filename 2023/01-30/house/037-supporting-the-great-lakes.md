@@ -1,0 +1,37 @@
+---
+granule: CREC-2023-01-30-pt1-PgH507-4
+date: 2023-01-30
+edition: CREC
+section: HOUSE
+page: H507
+citation: 169 Cong. Rec. H507
+---
+
+# SUPPORTING THE GREAT LAKES
+
+**Speaking:** Mrvan, Frank J. (M001214) [D-IN]
+
+```
+                       SUPPORTING THE GREAT LAKES
+
+  (Mr. MRVAN asked and was given permission to address the House for 1 
+minute.)
+  Mr. MRVAN. Mr. Speaker, as the Representative for the First District 
+of Indiana, I rise today to express my appreciation for the provisions 
+in the fiscal year 2023 omnibus bill that support the Great Lakes.
+  As the largest body of freshwater in the world, the Great Lakes and 
+the Lake Michigan shoreline in northwest Indiana powered our Nation's 
+industrial revolution and steel production capabilities, and today we 
+continue to harness our region's environmental wonders to grow our 
+economy.
+  I am grateful that the 2023 omnibus bill included robust funds for 
+the Great Lakes Restoration Initiative, my Community Project Funding 
+request to improve our shoreline and the Michigan City Harbor, as well 
+as the provisions championed by my friend, Representative Marcy Kaptur, 
+to establish the Great Lakes Authority.
+  As we move forward, I look forward to continuing to work through the 
+appropriations process to support the economic strength and 
+environmental protection of Lake Michigan and the Great Lakes.
+
+                          ____________________
+```

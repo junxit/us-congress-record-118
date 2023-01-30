@@ -1,0 +1,73 @@
+---
+granule: CREC-2023-01-30-pt1-PgH493-4
+date: 2023-01-30
+edition: CREC
+section: HOUSE
+page: H493
+citation: 169 Cong. Rec. H493
+---
+
+# A REAL CASE OF UNFAIRNESS
+
+**Speaking:** Moylan, James C. (M001219) [R-GU]
+
+```
+                       A REAL CASE OF UNFAIRNESS
+
+  The SPEAKER pro tempore (Mr. Murphy). The Chair recognizes the 
+gentleman from Guam (Mr. Moylan) for 5 minutes.
+  Mr. MOYLAN. Mr. Speaker, I would like to take this time to remember 
+and honor twin sisters Katrina and Leslie. Their story is one of 
+tragedy, as they both are resting with our maker in heaven. Their 
+memories have and shall continue to be shared with their loved ones.
+  Katrina and Leslie were born with disabilities. As they were growing 
+up, they required a caretaker to address their basic needs.
+  These twins were loveable and stole the hearts of those they met. 
+Katrina and Leslie were also emotionally strong. They wanted to be 
+raised like other kids but knew that their conditions were permanent 
+and they wouldn't be able to participate in sports, attend a prom, or 
+get a job.
+  They accepted the reality of their life, but they knew they had each 
+other, and they had a loving family. The two were living in the State 
+of Pennsylvania and received Supplemental Security Income, SSI, 
+benefits that helped their caretaker purchase necessities.
+  Unfortunately, their caretaker, who was their mother, passed away 
+unexpectedly. Leslie and Katrina once again found themselves enduring 
+another unbearable hardship. Because of their conditions and the 
+undertaking it would require to care for not one but two disabled 
+individuals, the sisters were separated.
+
+  Leslie stayed in the State of Pennsylvania and continued to receive 
+SSI benefits. Katrina was taken in by her
+
+[[Page H494]]
+
+mom's sister, who is married to my childhood friend, Dr. John Fegurgur. 
+The couple brought her to Guam, and within 30 days of leaving 
+Pennsylvania, Katrina lost her SSI benefits.
+  Why, you may ask?
+  Because of a Federal inequity which denies American citizens who 
+reside in most territories the rights to secure SSI benefits. This 
+Federal law strips away the financial benefits from American citizens 
+with disabilities who relocate from a State to Guam, American Samoa, 
+the Virgin Islands, or Puerto Rico.
+  We need to change this inequity. Why are U.S. citizens who reside in 
+U.S. territories denied benefits they can attain if they were residing 
+in a State?
+  This is a real case of unfairness.
+  Did you know that Guam has among the highest per capita numbers of 
+enlisted members in the United States armed services throughout the 
+Nation?
+  Yes, we, too, are proud Americans.
+  There have been lawsuits to fix this inequity, and the courts have 
+simply ruled that SSI benefits were created by Congress and, hence, can 
+be changed by Congress. So let's change it and do what is right.
+  Katrina and Leslie are both no longer with us in the world today. In 
+Leslie's final days, she said she sadly wouldn't be able to witness 
+when this wrong would be made right.
+  While neither sister may be here, let us fix this inequity in their 
+names and the names of many others who have been denied this benefit 
+just because they reside in a U.S. territory.
+
+                          ____________________
+```
