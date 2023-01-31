@@ -1,0 +1,43 @@
+---
+granule: CREC-2023-01-31-pt1-PgH556-6
+date: 2023-01-31
+edition: CREC
+section: HOUSE
+page: H556
+citation: 169 Cong. Rec. H556
+---
+
+# CELEBRATING THE LIFE OF COLONEL JOHNNIE PANTANELLI
+
+**Speaking:** Bowman, Jamaal (B001223) [D-NY]
+
+```
+           CELEBRATING THE LIFE OF COLONEL JOHNNIE PANTANELLI
+
+  (Mr. BOWMAN asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. BOWMAN. Mr. Speaker, I rise today to honor and celebrate the life 
+of Colonel Johnnie Pantanelli.
+  Colonel Pantanelli embodied so many of our values. She fought for 
+freedom, broke glass ceilings, and made sure the next generation of 
+women flew.
+  Colonel Pantanelli served in the Marine Corps Reserves in 1944 and 
+1945, and soon after was told her service was no longer needed because 
+the men were coming home.
+  Instead of quitting, she joined the Civil Air Patrol in White Plains 
+and served as a wartime mission observer searching for German subs.
+  After the war, Colonel Pantanelli earned her pilot's license and 
+survived
+
+[[Page H557]]
+
+a plane crash during her flight training. She served for decades as 
+commander of the squadron that is now named after her. In 2011, she 
+earned the rank of colonel.
+  Colonel Pantanelli passed away on January 14, 2023. She would have 
+been 98 in March.
+  New York's 16th District and I thank her for her service and send our 
+deepest condolences to everyone impacted by this monumental loss.
+
+                          ____________________
+```
