@@ -1,0 +1,43 @@
+---
+granule: CREC-2023-02-01-pt1-PgH613-5
+date: 2023-02-01
+edition: CREC
+section: HOUSE
+page: H613
+citation: 169 Cong. Rec. H613
+---
+
+# COVID NATIONAL EMERGENCY MUST END
+
+**Speaking:** Lawler, Michael (L000599) [R-NY]
+
+```
+                   COVID NATIONAL EMERGENCY MUST END
+
+  (Mr. LAWLER asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. LAWLER. Mr. Speaker, I rise today to applaud the House for 
+passing the Pandemic is Over Act, the Freedom For Health Care Workers 
+Act, the SHOW UP Act, and for ending the national emergency.
+  I was in the New York State Assembly when the COVID vaccine mandate 
+was passed, and I argued vociferously against it. Even then we knew it 
+would cause irreparable damage to our healthcare facilities, forcing 
+thousands of healthcare workers out of their jobs, and we were right. 
+That is why it is so important for Congress to take this step and right 
+that wrong.
+  Another refrain I hear over and over again from my constituents is 
+that we need to end the national emergency declaration. We get calls 
+every day in my office from small business owners, teachers, 
+carpenters, and other constituents who simply don't understand why we 
+haven't fully reopened our State and country.
+  COVID cases have dropped dramatically across the country, and the 
+number of cases today compared to the same date last year are down over 
+600,000 cases. The fact is that this no longer constitutes a national 
+emergency, and we should absolutely end the declaration.
+
+  Mr. Speaker, I urge the Senate to pass these important pieces of 
+legislation and encourage the administration to accelerate their 
+timeline on this important matter.
+
+                          ____________________
+```

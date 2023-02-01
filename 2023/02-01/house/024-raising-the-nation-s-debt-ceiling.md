@@ -1,0 +1,40 @@
+---
+granule: CREC-2023-02-01-pt1-PgH587-8
+date: 2023-02-01
+edition: CREC
+section: HOUSE
+page: H587
+citation: 169 Cong. Rec. H587
+---
+
+# RAISING THE NATION'S DEBT CEILING
+
+**Speaking:** Quigley, Mike (Q000023) [D-IL]
+
+```
+                   RAISING THE NATION'S DEBT CEILING
+
+  (Mr. QUIGLEY asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. QUIGLEY. Mr. Speaker, I rise today to talk about what has been 
+and should always be a bipartisan issue, raising our Nation's debt 
+ceiling.
+  Raising America's debt ceiling ensures we do not default on our 
+financial obligations to those we have borrowed from and prevents 
+economic catastrophe in the process. Don't take my word for it.
+  Listen to American businesses, economists, and financial institutions 
+who know the drastic consequences a debt default would have for the 
+U.S. economy and working Americans.
+  The business roundtable, which represents the CEOs of some of the 
+Nation's largest companies, has said about raising the debt limit: 
+``Failure to lift the Federal debt limit to meet U.S. obligations would 
+produce an otherwise avoidable crisis and pose an unacceptable risk to 
+the Nation's economic growth, job creation and financial markets.''
+  If you don't want to take their word for it, I recommend heeding 
+these words:
+  ``The full consequences of a default--or even the serious prospect of 
+a default--by the United States are impossible to predict and awesome 
+to contemplate.'' Those are the words of President Ronald Reagan.
+
+                          ____________________
+```

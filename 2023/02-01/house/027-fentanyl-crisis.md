@@ -1,0 +1,35 @@
+---
+granule: CREC-2023-02-01-pt1-PgH588-2
+date: 2023-02-01
+edition: CREC
+section: HOUSE
+page: H588
+citation: 169 Cong. Rec. H588
+---
+
+# FENTANYL CRISIS
+
+**Speaking:** Kim, Young (K000397) [R-CA]
+
+```
+                            FENTANYL CRISIS
+
+  (Mrs. KIM of California asked and was given permission to address the 
+House for 1 minute and to revise and extend her remarks.)
+  Mrs. KIM of California. Mr. Speaker, as we all know, deceptive drugs 
+made of fentanyl are killing young people and destroying lives in 
+southern California and across our Nation at an alarming rate.
+  In California, fentanyl is responsible for one out of every five 
+youth deaths.
+  The top source of fentanyl is the U.S.-Mexico border, and last year, 
+60 percent of fentanyl found in 2022 was at southern California ports 
+of entry in San Diego and Imperial counties near my district.
+  The Orange County Sheriff's Department seized more than 400 pounds of 
+suspected fentanyl, and nearly 400,000 pills suspected to contain 
+fentanyl during the first 10 months in 2022.
+  I will keep fighting for solutions to secure our border and prevent 
+these drugs from entering our schools, streets, neighborhoods, and 
+homes.
+
+                          ____________________
+```

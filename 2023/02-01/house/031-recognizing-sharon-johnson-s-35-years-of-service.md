@@ -1,0 +1,40 @@
+---
+granule: CREC-2023-02-01-pt1-PgH588-6
+date: 2023-02-01
+edition: CREC
+section: HOUSE
+page: H588
+citation: 169 Cong. Rec. H588
+---
+
+# RECOGNIZING SHARON JOHNSON'S 35 YEARS OF SERVICE
+
+**Speaking:** Guest, Michael (G000591) [R-MS]
+
+```
+            RECOGNIZING SHARON JOHNSON'S 35 YEARS OF SERVICE
+
+  (Mr. GUEST asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. GUEST. Mr. Speaker, it is my privilege to rise today to honor an 
+incredible woman, my deputy chief of staff, Sharon Johnson. Today marks 
+Sharon's 35 years of service to Mississippi's Third Congressional 
+District.
+  Sharon was born and raised in Louisville, Mississippi, and began her 
+career in Washington, D.C., under the legendary G.V. Sonny Montgomery 
+and has served our district under all three Members of Congress since: 
+Congressman Chip Pickering, Congressman Gregg Harper, and now I am 
+blessed that she has been a member of my team since day one.
+  Over the past 35 years, Sharon has proven to be a true asset to the 
+people of Mississippi's Third Congressional District. Her unwavering 
+commitment to service and community has earned her the respect and 
+admiration of those who have had the privilege of working with her.
+  Today, we honor Sharon and celebrate her service. I am hopeful that 
+Sharon's record of public service will inspire future generations of 
+young women to consider this important work.
+  On behalf of Mississippi's Third Congressional District, I extend my 
+sincere thanks to Sharon Johnson for her 35 years of unwavering 
+service.
+
+                          ____________________
+```
