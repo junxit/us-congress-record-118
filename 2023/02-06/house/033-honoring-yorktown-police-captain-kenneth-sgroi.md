@@ -1,0 +1,39 @@
+---
+granule: CREC-2023-02-06-pt1-PgH697-2
+date: 2023-02-06
+edition: CREC
+section: HOUSE
+page: H697
+citation: 169 Cong. Rec. H697
+---
+
+# HONORING YORKTOWN POLICE CAPTAIN KENNETH SGROI
+
+**Speaking:** Lawler, Michael (L000599) [R-NY]
+
+```
+             HONORING YORKTOWN POLICE CAPTAIN KENNETH SGROI
+
+  (Mr. LAWLER asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. LAWLER. Mr. Speaker, today, I rise to recognize a fallen hero 
+from New York's 17th District, Yorktown Police Captain Kenneth Sgroi. 
+Captain Sgroi passed away suddenly on January 2 after fighting a brief 
+illness.
+  He was a model police officer and a humble family man. He graduated 
+from the police academy in 2007, serving as a deputy sheriff in 
+Dutchess County. He then served as a member of the Yorktown Police 
+Department with dignity, honor, and a compelling sense of duty for 
+almost 13 years.
+  His loss has been a profound one felt by the Yorktown community, his 
+fellow officers, and his family.
+  The town of Yorktown recently renamed their police department after 
+him in honor of his service and sacrifice on behalf of the people of 
+Yorktown.
+  Captain Sgroi is survived by his wife, Anne, a classmate of mine at 
+Manhattan College, and two young children. My prayers are with them as 
+they grieve his loss, and my office stands ready to assist them in any 
+way we can.
+
+                          ____________________
+```

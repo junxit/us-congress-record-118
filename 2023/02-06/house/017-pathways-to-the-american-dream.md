@@ -1,0 +1,37 @@
+---
+granule: CREC-2023-02-06-pt1-PgH689
+date: 2023-02-06
+edition: CREC
+section: HOUSE
+page: H689
+citation: 169 Cong. Rec. H689
+---
+
+# PATHWAYS TO THE AMERICAN DREAM
+
+**Speaking:** Foxx, Virginia (F000450) [R-NC]
+
+```
+                     PATHWAYS TO THE AMERICAN DREAM
+
+  (Ms. FOXX asked and was given permission to address the House for 1 
+minute.)
+  Ms. FOXX. Mr. Speaker, the college-for-all mentality failed our 
+country's students.
+  It failed students who paid or borrowed for degrees with no return on 
+their investment.
+  It failed workers who lack the skills to succeed in their field.
+  It failed businessowners who are left with open positions they can't 
+fill.
+  And it failed entire industries suffering from a widening skills gap.
+  That is why I cosponsored the Promoting Employment and Lifelong 
+Learning (PELL) Act.
+  The PELL Act will allow students to use Pell grants for high quality, 
+short-term education programs, creating even more pathways to the 
+American Dream.
+  Instead of financing an expensive diploma, students will obtain in-
+demand skills so they can be successful in the workforce. This is the 
+right path forward for postsecondary education.
+
+                          ____________________
+```
