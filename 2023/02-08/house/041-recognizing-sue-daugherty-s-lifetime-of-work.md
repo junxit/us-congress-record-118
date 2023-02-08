@@ -1,0 +1,45 @@
+---
+granule: CREC-2023-02-08-pt1-PgH769-3
+date: 2023-02-08
+edition: CREC
+section: HOUSE
+page: H769
+citation: 169 Cong. Rec. H769
+---
+
+# RECOGNIZING SUE DAUGHERTY'S LIFETIME OF WORK
+
+**Speaking:** Kaptur, Marcy (K000009) [D-OH]
+
+```
+              RECOGNIZING SUE DAUGHERTY'S LIFETIME OF WORK
+
+  (Ms. KAPTUR asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. KAPTUR. Mr. Speaker, during this week of the State of the Union 
+Address, I rise today to recognize the lifetime of work of Sue 
+Daugherty, a champion for seniors across Ohio.
+  Sue and I are cheering the 8.7 percent cost of living increase for 
+seniors under Social Security and a cap on insulin costs for seniors at 
+$35 per month.
+  Sue serves as the founding executive director of Serving Our Seniors, 
+a nonprofit organization located in Sandusky, Ohio, that supports Erie 
+County seniors as they progress in life.
+  Ms. Daugherty's passion for gerontology was born out of her 
+experience as a nursing assistant in the summer following her freshman 
+year at Ohio University. She went on to receive her bachelor's degree 
+from Ohio University and earned her master of public administration 
+from Cleveland State University.
+  Sue has utilized her knowledge and experience to create an excellent 
+and friendly network for aging Ohioans to receive better treatment and 
+resources as they age. She helped establish a system for seniors to 
+seek proactive care instead of reactive care.
+  Ms. Daugherty has received nearly a dozen community service awards of 
+excellence throughout her career, including the 2002 Acts of Caring 
+Award from the National Association of Counties.
+  I am honored to honor her lifetime of achievement and her work. 
+Today, all of America salutes Ohioan Sue Daugherty. I thank her so much 
+for her service to America.
+
+                          ____________________
+```
