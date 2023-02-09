@@ -1,0 +1,44 @@
+---
+granule: CREC-2023-02-09-pt1-PgH801-7
+date: 2023-02-09
+edition: CREC
+section: HOUSE
+page: H801
+citation: 169 Cong. Rec. H801
+---
+
+# HONORING PETE REED
+
+**Speaking:** Cicilline, David N. (C001084) [D-RI]
+
+```
+                           HONORING PETE REED
+
+  (Mr. CICILLINE asked and was given permission to address the House 
+for 1 minute.)
+  Mr. CICILLINE. Mr. Speaker, I rise today in honor of Pete Reed, an 
+alum
+
+[[Page H802]]
+
+of the Community College of Rhode Island and former U.S. Marine who was 
+killed while on a humanitarian mission delivering aid to evacuees in 
+Bakhmut, a besieged city in the Donetsk region of Ukraine.
+  Pete dedicated his life to the service of others. He deployed twice 
+to the Helmand Province in Afghanistan, joined Team Rubicon after 
+Hurricane Sandy, and helped to train medical teams in both Haiti and 
+Iraq.
+  Pete and fellow veteran Derek Coleman decided to form Global Response 
+Medicine, an NGO dedicated to serving the world's most vulnerable 
+people in the midst of conflict, war, or disaster after seeing the need 
+for such an organization during the battle of Mosul in Iraq.
+  His work brought him to Global Outreach Doctors, which he joined in 
+January, to lead its efforts in Ukraine.
+  A remarkable man, Pete Reed was not only a veteran and a humanitarian 
+but also a mentor to CCRI students and veterans. It is impossible to 
+know how many lives he touched.
+  My thoughts and prayers are with Pete's entire family and all those 
+who loved him and called him a friend.
+
+                          ____________________
+```

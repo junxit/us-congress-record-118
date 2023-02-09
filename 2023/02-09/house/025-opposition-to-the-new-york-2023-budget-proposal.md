@@ -1,0 +1,39 @@
+---
+granule: CREC-2023-02-09-pt1-PgH801-4
+date: 2023-02-09
+edition: CREC
+section: HOUSE
+page: H801
+citation: 169 Cong. Rec. H801
+---
+
+# OPPOSITION TO THE NEW YORK 2023 BUDGET PROPOSAL
+
+**Speaking:** Molinaro, Marcus J. (M001221) [R-NY]
+
+```
+            OPPOSITION TO THE NEW YORK 2023 BUDGET PROPOSAL
+
+  (Mr. MOLINARO asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. MOLINARO. Mr. Speaker, I rise today to voice my strong opposition 
+to New York State Governor Kathy Hochul's 2023 budget proposal.
+  Each year, Congress directs billions of Medicaid dollars to the State 
+and local government to administer programs to help our most vulnerable 
+neighbors.
+  Governor Hochul's budget puts these programs at risk and the people 
+served in danger. Her budget steals $1 billion in Federal Medicaid 
+dollars from the most vulnerable to subsidize a bloated and broken 
+State bureaucracy.
+  It puts programs that are meant to serve hungry children, 
+impoverished seniors, and working mothers on the chopping block.
+  That is what is at risk: Things like food assistance and senior 
+nursing care and addiction treatment services.
+  Governor Hochul is stealing from programs that help children, 
+seniors, and those living in poverty and putting Albany bureaucracy in 
+control of another billion dollars in taxpayer money.
+  Mr. Speaker, I oppose this budget and seek that we protect the most 
+vulnerable of our neighbors all across New York.
+
+                          ____________________
+```

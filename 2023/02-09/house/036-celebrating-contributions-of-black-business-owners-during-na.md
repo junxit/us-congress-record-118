@@ -1,0 +1,43 @@
+---
+granule: CREC-2023-02-09-pt1-PgH803-2
+date: 2023-02-09
+edition: CREC
+section: HOUSE
+page: H803
+citation: 169 Cong. Rec. H803
+---
+
+# CELEBRATING CONTRIBUTIONS OF BLACK BUSINESS OWNERS DURING NATIONAL ENTREPRENEURSHIP WEEK
+
+**Speaking:** Strickland, Marilyn (S001159) [D-WA]
+
+```
+  CELEBRATING CONTRIBUTIONS OF BLACK BUSINESS OWNERS DURING NATIONAL 
+                         ENTREPRENEURSHIP WEEK
+
+  (Ms. STRICKLAND asked and was given permission to address the House 
+for 1 minute and to revise and extend her remarks.)
+  Ms. STRICKLAND. Mr. Speaker, I rise today to celebrate the 
+contributions of Black business owners during National Entrepreneurship 
+Week.
+  Black entrepreneurs have been at the forefront of innovation, 
+introducing new products, services, and industries that drive economic 
+progress. Yet, many face barriers accessing equity capital and 
+financing with affordable interest rates to sustain their growth.
+  According to the Alliance for Entrepreneurial Equity, Black startups 
+receive a mere 1 percent of total venture financing. Most start with 
+just one-third of the capital available to their White counterparts.
+  This Black History Month, I want to recognize Makieda Hart, a startup 
+founder and Black businessowner in my district. Through her tenacity 
+and determination, she continues to grow her business and makes an 
+impact in the 10th Congressional District of Washington State.
+  Knowledge about capital and resources are essential to all small 
+business owners, and she encourages young people to seek a mentor and 
+to always learn.
+  Mr. Speaker, I urge my colleagues in Congress to take a closer look 
+at the challenges faced by Black entrepreneurs and to work together to 
+build a stronger, more equitable economy for all because economic 
+justice is, indeed, social justice.
+
+                          ____________________
+```
