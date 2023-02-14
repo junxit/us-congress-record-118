@@ -1,0 +1,26 @@
+---
+granule: CREC-2023-02-14-pt1-PgS403
+date: 2023-02-14
+edition: CREC
+section: SENATE
+page: S403
+citation: 169 Cong. Rec. S403
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate February 14, 2023:
+
+
+                             THE JUDICIARY
+
+       LINDSAY C. JENKINS, OF ILLINOIS, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE NORTHERN DISTRICT OF ILLINOIS.
+       GINA R. MENDEZ-MIRO, OF PUERTO RICO, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE DISTRICT OF PUERTO RICO.
+       MATTHEW L. GARCIA, OF NEW MEXICO, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE DISTRICT OF NEW MEXICO.
+```
