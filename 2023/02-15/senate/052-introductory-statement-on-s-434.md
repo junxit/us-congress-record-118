@@ -1,0 +1,62 @@
+---
+granule: CREC-2023-02-15-pt1-PgS427-2
+date: 2023-02-15
+edition: CREC
+section: SENATE
+page: S427
+citation: 169 Cong. Rec. S427
+---
+
+# Introductory Statement on S. 434
+
+**Speaking:** Cornyn, John (C001056) [R-TX]
+
+**Measures:** S. 434
+
+```
+      By Mr. CORNYN (for himself, Mr. Whitehouse, Mr. Grassley, Mr. 
+        Rubio, Mr. Hagerty, Mr. Risch, and Mrs. Fischer):
+  S. 434. A bill to amend the Foreign Agents Registration Act of 1938, 
+as amended, to modify requirements under that Act relating to 
+exemptions, and for other purposes; to the Committee on Foreign 
+Relations.
+  Mr. CORNYN. Madam President, I ask unanimous consent to print my bill 
+for introduction in the Congressional Record. The bill amends the 
+Foreign Agents Registration Act of 1938, as amended, to modify 
+requirements under that act relating to exemptions.
+  There being no objection, the text of the bill was ordered to be 
+printed in the Record, as follows:
+
+                                 S. 434
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Preventing Adversary 
+     Influence, Disinformation, and Obscured Foreign Financing Act 
+     of 2023'' or the ``PAID OFF Act of 2023''.
+
+     SEC. 2. TREATMENT OF EXEMPTIONS UNDER FARA.
+
+       (a) Definition.--Section 1 of the Foreign Agents 
+     Registration Act of 1938, as amended (22 U.S.C. 611) is 
+     amended by adding at the end the following:
+       ``(q) The term `country of concern' means--
+       ``(1) the People's Republic of China;
+       ``(2) the Russian Federation;
+       ``(3) the Islamic Republic of Iran;
+       ``(4) the Democratic People's Republic of Korea;
+       ``(5) the Republic of Cuba; and
+       ``(6) the Syrian Arab Republic.''.
+       (b) Exemptions.--Section 3 of the Foreign Agents 
+     Registration Act of 1938, as amended (22 U.S.C. 613), is 
+     amended, in the matter preceding subsection (a), by inserting 
+     ``, except that the exemptions under subsections (d)(1) and 
+     (h) shall not apply to any agent of a foreign principal that 
+     is a country of concern'' before the colon.
+       (c) Sunset.--The amendments made by subsections (a) and (b) 
+     shall terminate on October 1, 2026.
+                                 ______
+```
