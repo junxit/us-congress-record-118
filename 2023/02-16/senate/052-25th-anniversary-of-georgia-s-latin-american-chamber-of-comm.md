@@ -1,0 +1,40 @@
+---
+granule: CREC-2023-02-16-pt1-PgS455
+date: 2023-02-16
+edition: CREC
+section: SENATE
+page: S455
+citation: 169 Cong. Rec. S455
+---
+
+# 25TH ANNIVERSARY OF GEORGIA'S LATIN AMERICAN CHAMBER OF COMMERCE
+
+**Speaking:** Ossoff, Jon (O000174) [D-GA]
+
+```
+                         ADDITIONAL STATEMENTS
+
+                                 ______
+                                 
+
+    25TH ANNIVERSARY OF GEORGIA'S LATIN AMERICAN CHAMBER OF COMMERCE
+
+● Mr. OSSOFF. Mr. President, I rise today to celebrate the Latin 
+American Chamber of Commerce of Georgia's 25th anniversary.
+  Over the last 25 years, the Latin American Chamber of Commerce of 
+Georgia has strengthened the State's Latin American community by 
+championing efforts that boost economic development, expand access to 
+new business opportunities, and promote civic engagement. Founded as 
+the Mexican American Business Chamber in 1998, the LACC today is one of 
+the largest Latin American organizations in the State of Georgia. The 
+chamber plays an important role in the extraordinary contributions of 
+Georgia's Latino community, and it stands as a pillar of unity and 
+diversity that keeps moving the State forward. Georgia's Latin American 
+diaspora community is diverse and fast-growing, and it is a privilege 
+to represent Georgia's Latin American community in the U.S. Senate.
+  As Georgia's U.S. Senator, I recognize the Latin American Chamber of 
+Commerce of Georgia on its 25th anniversary and commend them for their 
+dedication to Georgia's Latino community.●
+
+                          ____________________
+```

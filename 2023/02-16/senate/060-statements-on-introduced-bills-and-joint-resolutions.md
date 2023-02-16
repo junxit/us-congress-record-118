@@ -1,0 +1,295 @@
+---
+granule: CREC-2023-02-16-pt1-PgS459
+date: 2023-02-16
+edition: CREC
+section: SENATE
+page: S459
+citation: 169 Cong. Rec. S459
+---
+
+# STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS
+
+**Speaking:** Padilla, Alex (P000145) [D-CA], Reed, Jack (R000122) [D-RI], Thune, John (T000250) [R-SD]
+
+**Measures:** S. 479, S. 485, S. 496, S. 506
+
+```
+          STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS
+
+      By Mr. PADILLA (for himself and Mr. Sullivan):
+  S. 479. A bill to modify the fire management assistance cost share, 
+and for other purposes; to the Committee on Homeland Security and 
+Governmental Affairs.
+                                 ______
+                                 
+      By Mr. PADILLA (for himself and Mr. Sullivan):
+  S. 485. A bill to amend the Robert T. Stafford Disaster Relief and 
+Emergency Assistance Act to authorize the President to provide hazard 
+mitigation assistance for mitigating and preventing post-wildfire 
+flooding and debris flow, and for other purposes; to the Committee on 
+Homeland Security and Governmental Affairs.
+  Mr. PADILLA, Madam President, I rise to introduce the Fire 
+Suppression and Response Funding Act and the Hazard and Flooding 
+Mitigation Funding Equity Act, two bills that would help both 
+California and our Nation meet the increasing challenges posed by 
+natural disasters.
+  Currently, FEMA's Fire Management Assistance Grant, FMAG, program is 
+available to State, local, and Tribal governments for the mitigation, 
+management, and control of fires that threaten such destruction that 
+they would constitute a major disaster.
+  However, current law does not account for extreme circumstances like 
+consecutive events or have any flexibility like other Federal 
+assistance programs and only allows for reimbursement of expenses 
+incurred after an FMAG is granted.
+  The Fire Suppression and Response Funding Act would explicitly allow 
+for FMAGs to cover the predeployment of assets and resources during 
+times of extreme risk before a catastrophic fire breaks out. These 
+predeployed assets are critical tools to help State, local, and Tribal 
+governments suppress and contain a fire in its early stages before it 
+constitutes a major disaster declaration.
+  Additionally, this bill states that the Federal cost share of FMAGs 
+shall be not less than 75 percent of the eligible cost of such 
+assistance, making FMAGs consistent with other FEMA disaster assistance 
+and allowing for necessary flexibility to address consecutive wildfires 
+in the same area. This bill does not mandate any cost share increase 
+but simply allows for flexibility as FEMA considers FMAGs on an 
+incident-by-incident basis.
+  As we have seen in the West, wildfires strip away vegetation in the 
+form of burn scars, leaving the soil vulnerable to erosion and 
+mudslides. When these burn scars are met with heavy rainfall, they 
+often produce debris flows of loose mud, soil, and rock that pose 
+serious threats to life, property, and public infrastructure. Post-fire 
+events of this type are well documented throughout Southern California 
+and across the Western United States. After the most recent atmospheric 
+river event in California, thousands of people were evacuated due to 
+large scale flooding and fears of debris flows in areas recently 
+affected by wildfires.
+  The Hazard and Flooding Mitigation Funding Equity Act would make 
+FEMA's Hazard Mitigation Grant Program, HMGP, which covers flood 
+protection, consistent with other FEMA disaster assistance by stating 
+that the Federal cost share of HMGP shall be not less than 75 percent 
+of the eligible cost of such assistance. This bill does not mandate any 
+increase but simply allows for flexibility and increased Federal 
+assistance where necessary to address concurrent extreme weather and 
+wildfire events.
+  This bill will better support State and local governments to rebuild 
+and mitigate future risk from flooding like we saw recently in 
+California and postfire risks we have seen across the West.
+  These bills represent commonsense ways to proactively mitigate, 
+effectively respond, and equitably recover from disasters. I look 
+forward to working with my colleagues to enact them as soon as 
+possible.
+                                 ______
+                                 
+      By Mr. REED (for himself, Mr. Brown, Ms. Warren, Mr. Van Hollen, 
+        Mr. Booker, Mr. Whitehouse, Ms. Baldwin, Mr. Padilla, Mr. 
+        Merkley, and Mr. Casey):
+  S. 496. A bill to amend the Federal Reserve Act to reaffirm the 
+importance of workers; to the Committee on Banking, Housing, and Urban 
+Affairs.
+  Mr. REED. Madam President, I am joined by Senators Brown, Warren, Van 
+Hollen, Booker, Whitehouse, Baldwin, Padilla, and Merkley in 
+reintroducing the Respect for Workers Act, a bill that would ensure 
+that at least one Federal Reserve Governor has demonstrated primary 
+experience in supporting or protecting the rights of workers.
+  Today, the Federal Reserve is attempting to curb inflation without 
+plunging the economy into a recession. Over the past year, it has 
+increased the Federal funds rate by 4\1/2\ percentage points to cool 
+the economy and ease prices--its fastest pace of rate hikes since the 
+early 1980s. But this is a difficult balancing act. If the Federal 
+Reserve does not get its policies right, it may fail to defeat 
+inflation or drive us into a recession. Workers would bear the brunt of 
+the economic fallout attached to either outcome through higher prices 
+or higher unemployment.
+  Arguably no group is more affected by the Federal Reserves efforts to 
+meet its dual mandate to promote stable prices and maximum employment 
+than workers. But, while the law requires the Federal Reserve Board of 
+Governors to represent diverse geographic regions and a wide array of 
+commercial interests, no Federal Reserve Governor is required to have a 
+background in protecting the interests of workers. Indeed, while the 
+interests of Wall Street, nonbank financial institutions, and big 
+business have long been well-represented on the Board, everyday working 
+men and women have not been given the same voice in monetary 
+policymaking.
+  Our bill fills this hole by requiring at least one Federal Reserve 
+Governor has experience addressing the challenges facing workers. This 
+is not a new concept. In fact, our bill is modeled on the 2015 law that 
+requires at least one of the seven Federal Reserve Governors to be an 
+individual ``with demonstrated primary experience working in or 
+supervising community banks.''
+  In short, the Respect for Workers Act would ensure workers' economic 
+needs are represented at the Federal Reserve. It would build a 
+stronger, more representative Board of Governors and promote a 
+healthier economy.
+  I thank the AFL-CIO, Groundwork Collaborative, National Employment 
+Law Project, MIT Professor and Former International Monetary Fund Chief 
+Economist Simon Johnson, and Georgetown Law Professor Adam Levitin for 
+their support and urge our colleagues to join in pushing to enact this 
+legislation.
+                                 ______
+                                 
+      By Mr. THUNE (for himself, Mr. Cassidy, Mr. Barrasso, Mrs. Britt, 
+        Mr. Cramer, Ms. Ernst, Mr. Grassley, Mr. Marshall, Mr. Scott of 
+        Florida, and Mr. Scott of South Carolina):
+
+[[Page S460]]
+
+  S. 506. A bill to amend the Higher Education Relief Opportunities for 
+Students Act of 2003 to strike the Secretary's unilateral authority 
+during a national emergency, and for other purposes; to the Committee 
+on Health, Education, Labor, and Pensions.
+  Mr. THUNE. Madam President, I ask unanimous consent that the text of 
+the bill be printed in the Record.
+  There being no objection, the text of the bill was ordered to be 
+printed in the Record, as follows:
+
+                                 S. 506
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Stop Reckless Student Loan 
+     Actions Act of 2023''.
+
+     SEC. 2. FINDINGS.
+
+       Congress finds the following:
+       (1) The Higher Education Relief Opportunities for Students 
+     Act of 2003 (20 U.S.C. 1098aa et seq.) was intended to 
+     provide relief opportunities for members of the armed 
+     services.
+       (2) The authority provided under the Higher Education 
+     Relief Opportunities for Students Act of 2003 has been abused 
+     by the Executive Branch during the COVID-19 national 
+     emergency regarding the payment of Federal student loans.
+       (3) The unilateral payment pause on Federal student loans 
+     has cost more than $160,000,000,000.
+       (4) The unilateral payment pause on Federal student loans 
+     has inflationary impacts.
+       (5) The individuals benefitting the most from the payment 
+     pause continued by the Executive Branch are doctors, who 
+     receive 11 times the benefit of bachelor's degree recipients 
+     and 16 times the benefit of associate's degree recipients.
+
+     SEC. 3. AMENDMENTS TO THE HIGHER EDUCATION RELIEF 
+                   OPPORTUNITIES FOR STUDENTS ACT OF 2003.
+
+       Section 5(2) of the Higher Education Relief Opportunities 
+     for Students Act of 2003 (20 U.S.C. 1098ee) is amended--
+       (1) in the matter preceding subparagraph (A), by inserting 
+     ``(or the spouse or dependent of the parent, as that term is 
+     used in section 480 of the Higher Education Act of 1965 (20 
+     U.S.C. 1087vv))'' after ``an individual'';
+       (2) in subparagraph (A), by inserting ``and'' after the 
+     semicolon;
+       (3) in subparagraph (B), by striking the semicolon and 
+     inserting a period; and
+       (4) by striking subparagraphs (C) and (D).
+
+     SEC. 4. HIGHER EDUCATION RELIEF OPPORTUNITIES FOR CIVILIANS 
+                   IN THE CASE OF A NATIONAL EMERGENCY AND 
+                   LIMITATIONS ON COVERED LOANS.
+
+       (a) Temporary Authority for Higher Education Relief.--
+       (1) In general.--Subject to the limitation provided in 
+     subsection (c), during the 90 day period after a declaration 
+     of a national emergency under section 201 of the National 
+     Emergencies Act (50 U.S.C. 1621), the Secretary of Education 
+     may suspend or defer Federal student loan payments or the 
+     accrual of interest for loans made, insured or guaranteed 
+     under part B, D, or E of title IV of the Higher Education Act 
+     of 1965 (20 U.S.C. 1071 et seq.; 1087a et seq.; 1087aa et 
+     seq.) or loans under the Health Education Assistance Loan 
+     Program.
+       (2) Limitation.--The Secretary of Education may not use the 
+     temporary authority provided under paragraph (1) in 
+     consecutive 90 day periods.
+       (b) Recommendations for Higher Education Relief From the 
+     Secretary of Education.-- In the case of a national emergency 
+     declared by the President under section 201 of the National 
+     Emergencies Act (50 U.S.C. 1621), the Secretary of Education 
+     shall submit to the Committee on Health, Education, Labor, 
+     and Pensions of the Senate and the Committee on Education and 
+     the Workforce of the House of Representatives, not later than 
+     60 days after the date of such declaration, a report that 
+     includes any recommendations on relief necessary for 
+     recipients of student financial assistance under title IV of 
+     the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.).
+       (c) Limits on Executive Authority to Suspend or Defer 
+     Federal Student Loan Payments or Interest.--
+       (1) In general.--Notwithstanding any other provision of 
+     law, the President or the Secretary of Education may not 
+     suspend or defer Federal student loan payments on covered 
+     loans or the accrual of interest on covered loans of 
+     borrowers with annual household incomes over 400 percent of 
+     the poverty line (as determined under the poverty guidelines 
+     updated periodically in the Federal Register by the 
+     Department of Health and Human Services under the authority 
+     of section 673(2) of the Community Services Block Grant Act 
+     (42 U.S.C. 9902(2))).
+       (2) Application of congressional review act.--In any case 
+     where the President or the Secretary of Education suspends or 
+     defers Federal student loan payments on covered loans or the 
+     accrual of interest on covered loans through any type of 
+     executive or regulatory action, the suspension or deferral 
+     shall be--
+       (A) deemed to be a major rule for purposes of chapter 8 of 
+     title 5, United States Code (commonly known as the 
+     ``Congressional Review Act''); and
+       (B) subject to congressional disapproval in accordance with 
+     such chapter.
+       (d) Limits on Executive Authority to Cancel Student 
+     Loans.--
+       (1) In general.--Notwithstanding any other provisions of 
+     law, the President or the Secretary of Education may not 
+     cancel the outstanding balances, or a portion of the 
+     balances, on covered loans due to the COVID-19 national 
+     emergency or any other national emergency.
+       (2) Application of congressional review act.--In any case 
+     where the President or the Secretary of Education cancels the 
+     outstanding balances, or portion of the balances, on covered 
+     loans through any type of executive or regulatory action, the 
+     cancellation shall be--
+       (A) deemed to be a major rule for purposes of chapter 8 of 
+     title 5, United States Code (commonly known as the 
+     ``Congressional Review Act''); and
+       (B) subject to congressional disapproval in accordance with 
+     such chapter.
+       (e) Implementation.--
+       (1) Regarding suspensions or deferments of federal student 
+     loan payments ongoing at the time of enactment.--Not later 
+     than the effective date of this Act, any suspension or 
+     deferment of Federal student loan payments on covered loans 
+     due to the COVID-19 national emergency shall terminate. 
+     Notwithstanding any other provision of law, a subsequent 
+     suspension or deferment of Federal student loan payments on 
+     covered loans for the COVID-19 national emergency shall be 
+     prohibited.
+       (2) Regarding cancellation of student loans prior to 
+     effective date.--Any cancellation of the outstanding balance, 
+     or portion of a balance, on a covered loan made by the 
+     President or Secretary of Education through any type of 
+     executive or regulatory action in the 30 days before the 
+     effective date of this Act shall be--
+       (A) deemed to be a major rule for purposes of chapter 8 of 
+     title 5, United States Code (commonly known as the 
+     ``Congressional Review Act''); and
+       (B) subject to congressional disapproval in accordance with 
+     such chapter.
+       (f) Definition of Covered Loan.--In this subsection, the 
+     term ``covered loan'' means a loan made, insured, or 
+     guaranteed under part B, D, or E of title IV of the Higher 
+     Education Act of 1965 (20 U.S.C. 1071 et seq.; 1087a et seq.; 
+     1087aa et seq.) or a loan under the Health Education 
+     Assistance Loan Program.
+
+     SEC. 5. EFFECTIVE DATE.
+
+       This Act, and the amendments made by this Act, shall take 
+     effect on the date that is 30 days after the date of 
+     enactment of this Act.
+
+                          ____________________
+```
