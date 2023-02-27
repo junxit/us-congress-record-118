@@ -1,0 +1,38 @@
+---
+granule: CREC-2023-02-27-pt1-PgH898-5
+date: 2023-02-27
+edition: CREC
+section: HOUSE
+page: H898
+citation: 169 Cong. Rec. H898
+---
+
+# RESIGNATION AS MEMBER OF COMMITTEE ON ARMED SERVICES
+
+```
+          RESIGNATION AS MEMBER OF COMMITTEE ON ARMED SERVICES
+
+  The SPEAKER pro tempore laid before the House the following 
+resignation as a member of the Committee on Armed Services:
+
+                                    Congress of the United States,
+
+
+                                     House of Representatives,
+
+                                Washington, DC, February 27, 2023.
+     Speaker Kevin McCarthy,
+     House of Representatives,
+     Washington, DC.
+       Dear Speaker McCarthy: This letter serves as my intent to 
+     resign from the House Armed Services Committee.
+           Sincerely,
+                                                       Jason Crow,
+                                               Member of Congress.
+
+  The SPEAKER pro tempore. Without objection, the resignation is 
+accepted.
+  There was no objection.
+
+                          ____________________
+```

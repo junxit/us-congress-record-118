@@ -1,0 +1,41 @@
+---
+granule: CREC-2023-02-27-pt1-PgH885-7
+date: 2023-02-27
+edition: CREC
+section: HOUSE
+page: H885
+citation: 169 Cong. Rec. H885
+---
+
+# END HUNGER NOW
+
+**Speaking:** McGovern, James P. (M000312) [D-MA]
+
+```
+                             END HUNGER NOW
+
+  (Mr. McGOVERN asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. McGOVERN. Mr. Speaker, this week, millions of Americans will see 
+their SNAP benefits drastically reduced when emergency allotments end. 
+These supplemental benefits have been a lifeline for families, and I am 
+deeply disappointed they are ending.
+  In Massachusetts, SNAP benefits will be reduced by $100 per person 
+per month. One family in western Massachusetts, for example, says the 
+reduction will mean having to choose between healthy foods or therapies 
+for their young son with Down syndrome. There are thousands of other 
+heart-wrenching stories just like this.
+  Thankfully, our incredible Governor, Maura Healey, has a proposal to 
+extend 3 months of State-level partial payments. I support the 
+Massachusetts State legislature acting as quickly as possible on her 
+proposal. I encourage other States to look for ways to help ease the 
+cliff for SNAP recipients.
+  In the upcoming farm bill, Congress must thoroughly examine benefit 
+adequacy. The average benefit of $2 a meal
+
+[[Page H886]]
+
+just is not enough. We can and must do more to end hunger now.
+
+                          ____________________
+```

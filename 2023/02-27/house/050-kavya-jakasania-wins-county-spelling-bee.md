@@ -1,0 +1,34 @@
+---
+granule: CREC-2023-02-27-pt1-PgH899-2
+date: 2023-02-27
+edition: CREC
+section: HOUSE
+page: H899
+citation: 169 Cong. Rec. H899
+---
+
+# KAVYA JAKASANIA WINS COUNTY SPELLING BEE
+
+**Speaking:** Payne, Donald M. (P000604) [D-NJ]
+
+```
+                KAVYA JAKASANIA WINS COUNTY SPELLING BEE
+
+  (Mr. PAYNE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. PAYNE. Mr. Speaker, I rise today to praise a great speller in my 
+district, Kavya Jakasania. The seventh grade student at Frank R. 
+Conwell, Middle School 4, in Jersey City won the 2023 Hudson County 
+Spelling Bee recently.
+  Kavya bested a field of 62 of my district's top spellers to take the 
+crown. It was a tough battle to the end, but after 12 rounds, Kavya 
+spelled the word ``internecine'' correctly to win the spelling bee.
+  For my edification and for my colleagues who are curious about 
+``internecine,'' it means deadly or marked by great slaughter.
+  With her victory, Kavya advances to the Scripps National Spelling Bee 
+on May 30 through June 1. I know she will do a great job.
+  She has already made me, her school, and her family very proud of her 
+success.
+
+                          ____________________
+```

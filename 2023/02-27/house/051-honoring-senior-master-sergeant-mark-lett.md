@@ -1,0 +1,41 @@
+---
+granule: CREC-2023-02-27-pt1-PgH899-3
+date: 2023-02-27
+edition: CREC
+section: HOUSE
+page: H899
+citation: 169 Cong. Rec. H899
+---
+
+# HONORING SENIOR MASTER SERGEANT MARK LETT
+
+**Speaking:** Burchett, Tim (B001309) [R-TN]
+
+```
+               HONORING SENIOR MASTER SERGEANT MARK LETT
+
+  (Mr. BURCHETT asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. BURCHETT. Mr. Speaker, I rise to honor Senior Master Sergeant 
+Mark Lett, an American hero who retired after 26 faithful years of 
+service from the United States Air Force in 2011.
+  Senior Master Sergeant Lett was born in Knoxville, Tennessee, and 
+attended Carter High School. He joined the Air Force in 1985.
+  Mr. Speaker, Sergeant Lett served as an in-flight refueling 
+specialist on a KC-135 aircraft in addition to serving as a flight 
+instructor and flight engineer.
+  During his long career, he was stationed in five States across the 
+United States. While serving as a flight engineer, he deployed to 
+Uzbekistan and Afghanistan in support of Operation Enduring Freedom. He 
+received numerous awards during his Air Force career, including the 
+Meritorious Service Medal with two oak leaf clusters, the Afghanistan 
+Campaign Medal, and many more.
+  After retiring from the Air Force in 2011, he returned to Knoxville. 
+In July 2014, I was pleased to note that he joined the Knox County 
+Veterans Services as the deputy veterans service officer.
+
+  Mr. Speaker, it is my honor to recognize American hero Senior Master 
+Sergeant Lett as Tennessee Second District's Veteran of the Month.
+
+                          ____________________
+```
