@@ -1,0 +1,39 @@
+---
+granule: CREC-2023-02-28-pt1-PgH924-3
+date: 2023-02-28
+edition: CREC
+section: HOUSE
+page: H924
+citation: 169 Cong. Rec. H924
+---
+
+# BIDENFLATION BY THE NUMBERS
+
+**Speaking:** Wilson, Joe (W000795) [R-SC]
+
+```
+                      BIDENFLATION BY THE NUMBERS
+
+  (Mr. WILSON of South Carolina asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. WILSON of South Carolina. Mr. Speaker, since Biden has been in 
+office, his irresponsible decisions, supported by the Democrat-led 
+Congress, have left American families in financial stress.
+  Inflation, at a 40-year high, has increased the cost of everyday 
+items. We have destruction of jobs. These policies have cost the 
+typical household $10,000. Additionally, year-to-year wage growth has 
+been negative for 22 months.
+  Bidenflation is a tax on all Americans. At an inflation rate of 6.4 
+percent in January, we have an outrageous situation with rising prices. 
+Eggs are up an astronomical 70 percent, butter up 33 percent, fuel oil 
+up 28 percent, flour up 28 percent, lettuce up 17 percent, bread up 15 
+percent, and milk up 11 percent.
+  The newly elected House Republican majority, led by Speaker Kevin 
+McCarthy, is committed to fighting inflation, lowering the cost of 
+living, and creating jobs.
+  In conclusion, God bless our troops who successfully protected 
+America for 20 years as the global war on terrorism continues moving 
+from the Afghanistan safe haven to America.
+
+                          ____________________
+```
