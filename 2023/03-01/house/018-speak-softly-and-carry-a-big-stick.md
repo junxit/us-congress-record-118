@@ -1,0 +1,43 @@
+---
+granule: CREC-2023-03-01-pt1-PgH989-5
+date: 2023-03-01
+edition: CREC
+section: HOUSE
+page: H989
+citation: 169 Cong. Rec. H989
+---
+
+# SPEAK SOFTLY AND CARRY A BIG STICK
+
+**Speaking:** James, John (J000307) [R-MI]
+
+```
+                   SPEAK SOFTLY AND CARRY A BIG STICK
+
+  (Mr. JAMES asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. JAMES. Madam Speaker, South Africa's Government has recently 
+adopted a worrying path highlighted by its refusal to clearly oppose 
+Putin's war of aggression in Ukraine and its shameful decision to host 
+Russia and China for naval exercises on the war's anniversary.
+  I am a combat veteran. I have participated in both war games and war. 
+Make no mistake, one is intended to prepare for the other.
+  In hard times it is easy to be seduced by the siren song of 
+isolationism. Allowing vacuums of American influence around the world 
+to be filled with Chinese yuan and Russian lies is a threat to our 
+American economy and security at home.
+  We must speak softly and carry a big stick. And with our big stick, 
+we must eliminate safe havens for terror organizations in Africa that 
+would metastasize into direct threats to America in the Western 
+Hemisphere; ensure that American-made goods both catalyze economic 
+growth at home and help reduce long-term aid dependence in Africa; and 
+eliminate slave labor in our battery supply chains starting with 
+minerals stripped from Africa on the backs of Black children.
+  In a world where America is no longer the only choice, we must return 
+to being the most desirable choice. It is in our vital national 
+interest to ensure that when nations like South Africa have a choice 
+between China or the United States of America, they will always choose 
+America first.
+
+                          ____________________
+```

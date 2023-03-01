@@ -1,0 +1,45 @@
+---
+granule: CREC-2023-03-01-pt1-PgH990-4
+date: 2023-03-01
+edition: CREC
+section: HOUSE
+page: H990
+citation: 169 Cong. Rec. H990
+---
+
+# RECOGNIZING INDIANA HIGH SCHOOL BASKETBALL
+
+**Speaking:** Houchin, Erin (H001093) [R-IN]
+
+```
+               RECOGNIZING INDIANA HIGH SCHOOL BASKETBALL
+
+  (Mrs. HOUCHIN asked and was given permission to address the House for 
+1 minute and to revise and extend her remarks.)
+  Mrs. HOUCHIN. Madam Speaker, this Saturday was a big day for 
+basketball in Indiana. Let's be honest: Every day is a big day for 
+basketball in Indiana.
+  Nonetheless, this weekend, the girls' basketball teams throughout the 
+State went head-to-head to compete for the Indiana High School Athletic 
+Association State championship.
+  I am proud to share that not just one but two southern Indiana high 
+schools brought home State titles for the Ninth District.
+  First to play was the Lanesville Eagles girls' basketball team. They 
+walked away from the game with the school's first-ever IHSAA Class 1A 
+State championship title.
+  The Eagles continued their firsts as senior Linzie Wernert was named 
+the first athlete in Lanesville history to win the 2023 Patricia L. Roy 
+Mental Attitude Award.
+  Next up on the basketball court was the Bedford North Lawrence Lady 
+Stars basketball team. They won the game with the IHSAA class 4A State 
+championship title for the fifth time.
+
+  Again, only adding to their success, senior Karsyn Norman was named 
+the 2023 recipient of the Patricia L. Roy Mental Attitude Award.
+  Both teams left their hearts on the basketball court and represented 
+their hometowns well. I join all Hoosiers across the district in saying 
+congratulations. Their dedication to the sport helps make Indiana the 
+best basketball State in the country.
+
+                          ____________________
+```

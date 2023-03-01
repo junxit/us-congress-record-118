@@ -1,0 +1,44 @@
+---
+granule: CREC-2023-03-01-pt1-PgH990-3
+date: 2023-03-01
+edition: CREC
+section: HOUSE
+page: H990
+citation: 169 Cong. Rec. H990
+---
+
+# DENOUNCING ABHORRENT REMARKS
+
+**Speaking:** Lee, Barbara (L000551) [D-CA]
+
+```
+                      DENOUNCING ABHORRENT REMARKS
+
+  (Ms. LEE of California asked and was given permission to address the 
+House for 1 minute and to revise and extend her remarks.)
+  Ms. LEE of California. Madam Speaker, last week, one of our 
+colleagues from across the aisle made very ignorant comments and 
+questioned Representative Judy Chu's loyalty and service to this 
+country.
+  These claims were baseless, discriminatory, and flat-out wrong. As 
+one of his own Republican colleagues said, these types of troubling 
+comments are out of bounds and, yes, beyond the pale.
+  Questioning Congresswoman Judy Chu's loyalty to the United States 
+purely based on her Chinese heritage is not only racist and xenophobic, 
+it is very dangerous, and it is not new.
+  Dr. Martin Luther King, Jr., was subject to baseless accusations of 
+being a communist by J. Edgar Hoover. These same harmful bouts of 
+hateful misinformation have been cast on myself, Congresswoman Ilhan 
+Omar, and other women of color in Congress. It is despicable.
+  Madam Speaker, hate speech leads to hate violence. We must clearly 
+and strongly denounce this kind of rhetoric, especially during a time 
+when our AAPI community continues to be a target of hateful aggression 
+against the country.
+  Congresswoman Chu has been a steadfast warrior for constituents in 
+her district, the AAPI community, and for all marginalized communities 
+she has worked for across our country. She is a great patriot.
+  To question her service and loyalty to the United States is shameful 
+and unacceptable.
+
+                          ____________________
+```

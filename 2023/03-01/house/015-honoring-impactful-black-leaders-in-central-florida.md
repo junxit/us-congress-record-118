@@ -1,0 +1,37 @@
+---
+granule: CREC-2023-03-01-pt1-PgH989-2
+date: 2023-03-01
+edition: CREC
+section: HOUSE
+page: H989
+citation: 169 Cong. Rec. H989
+---
+
+# HONORING IMPACTFUL BLACK LEADERS IN CENTRAL FLORIDA
+
+**Speaking:** Frost, Maxwell (F000476) [D-FL]
+
+```
+          HONORING IMPACTFUL BLACK LEADERS IN CENTRAL FLORIDA
+
+  (Mr. FROST asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. FROST. Madam Speaker, I rise today as Black History Month has 
+come to a close in order to honor some of the most impactful Black 
+leaders Central Florida has ever seen.
+  They blaze trails in my home State, making history by being the first 
+Black Floridians to graduate from local schools, to serve on local city 
+councils, run for city commissioner posts, and pass constitutional 
+amendments.
+  Camille Evans, Sonya Hill, Dr. LaVon Bracy, Dr. Reverend Randolph 
+Bracy, Commissioner Mable Butler, Dr. Alzo Reddick, Byron Brooks, Dr. 
+Bridget Williams, Chester Glover, Denise Diaz, Representative Kamia 
+Brown, and Barbara Chandler.
+  Each one of them has dedicated their lives to service in one way, 
+shape, or form. Because of that, our State, community, and Nation are a 
+better place.
+  Today and always, we celebrate their achievements and continue to 
+honor Black excellence.
+
+                          ____________________
+```
