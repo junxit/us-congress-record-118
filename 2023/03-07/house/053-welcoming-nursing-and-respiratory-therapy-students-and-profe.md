@@ -1,0 +1,41 @@
+---
+granule: CREC-2023-03-07-pt1-PgH1133-2
+date: 2023-03-07
+edition: CREC
+section: HOUSE
+page: H1133
+citation: 169 Cong. Rec. H1133
+---
+
+# WELCOMING NURSING AND RESPIRATORY THERAPY STUDENTS AND PROFESSIONALS FROM WEST COAST UNIVERSITY AND AMERICAN CAREER COLLEGE
+
+**Speaking:** Van Duyne, Beth (V000134) [R-TX]
+
+```
+ WELCOMING NURSING AND RESPIRATORY THERAPY STUDENTS AND PROFESSIONALS 
+         FROM WEST COAST UNIVERSITY AND AMERICAN CAREER COLLEGE
+
+  (Ms. VAN DUYNE asked and was given permission to address the House 
+for 1 minute.)
+  Ms. VAN DUYNE. Mr. Speaker, I rise today to recognize and welcome to 
+Washington, D.C., a group of dedicated nursing and respiratory therapy 
+students and professionals from West Coast University and American 
+Career College.
+  West Coast University first opened its Dallas, Texas, campus in 2012 
+and has since established a state-of-the-art facility in Richardson, 
+providing important education to thousands of students.
+  These colleges play a vital role in expanding access to nursing 
+education and addressing workforce shortages among healthcare 
+professionals across the United States. They are committed to preparing 
+the next generation of healthcare professionals to meet our country's 
+rising demand for care.
+  As the daughter of a nurse, I know firsthand that our healthcare 
+workers are our heroes. My mom worked the graveyard shift so she could 
+be there to tuck my brother and I into bed and be home for us when we 
+woke up.
+  Please join me in welcoming these fine students to our Nation's 
+Capital as they share with Congress their experience, passion, and 
+perspective on providing quality nursing and healthcare.
+
+                          ____________________
+```
