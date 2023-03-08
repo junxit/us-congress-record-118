@@ -1,0 +1,40 @@
+---
+granule: CREC-2023-03-08-pt1-PgH1160-2
+date: 2023-03-08
+edition: CREC
+section: HOUSE
+page: H1160
+citation: 169 Cong. Rec. H1160
+---
+
+# HARRIET TUBMAN DAY
+
+**Speaking:** Espaillat, Adriano (E000297) [D-NY]
+
+```
+                           HARRIET TUBMAN DAY
+
+  (Mr. ESPAILLAT asked and was given permission to address the House 
+for 1 minute.)
+  Mr. ESPAILLAT. Madam Speaker, the contributions of women run deep 
+throughout the history of America and the fabric of our entire Nation.
+  One such woman was Harriet Tubman, who escaped slavery and dedicated 
+her life's mission to ensuring freedom for others.
+  Building a network of abolitionists, Harriet Tubman organized safe 
+houses throughout the Underground Railroad, including in my district, 
+while making rescues and freeing others who were previously enslaved.
+  As she put it, there are one of two things that she had a right to--
+liberty or death.
+  Madam Speaker, on International Women's Day and 2 days before Harriet 
+Tubman Day, we remember her. When we look at young girls in Afghanistan 
+and we look at young girls in other parts of the world like Iran 
+seeking to have education, we remember Harriet Tubman. When we fight 
+for equal pay for equal work, we remember Harriet Tubman. When we fight 
+and advocate for a woman's right to choose, we remember Harriet Tubman. 
+When we help those mothers that try to seek asylum at the border with 
+their children, Madam Speaker, we remember Harriet Tubman.
+  Let's remember Harriet Tubman today as we celebrate International 
+Women's Day.
+
+                          ____________________
+```

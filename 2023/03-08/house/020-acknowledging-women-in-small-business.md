@@ -1,0 +1,43 @@
+---
+granule: CREC-2023-03-08-pt1-PgH1159-8
+date: 2023-03-08
+edition: CREC
+section: HOUSE
+page: H1159
+citation: 169 Cong. Rec. H1159
+---
+
+# ACKNOWLEDGING WOMEN IN SMALL BUSINESS
+
+**Speaking:** Santos, George (S001222) [R-NY]
+
+```
+                 ACKNOWLEDGING WOMEN IN SMALL BUSINESS
+
+  (Mr. SANTOS asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. SANTOS. Madam Speaker, I rise today for International Women's Day 
+to acknowledge women in small business from New York's Third 
+Congressional District.
+  Pam Ocasio from Pam's Jamz--with a z--is a mom with a talent for 
+curating unique homemade jams and marmalades from local ingredients. 
+She is always at the local farmers market in Oyster Bay with a smiling 
+face and a can-do attitude.
+  Another wonder woman, Angela Carillo, is a mother of two from 
+Bethpage with an associate's degree in medical technology and a 
+bachelor's degree in biology. She put her chemistry skills to the test 
+in her basement studio in 2010 curating beautiful and fabulously 
+scented home soaps. I have seen her work at local craft fairs around 
+the district, and I must say, she certainly gives any major 
+manufacturer a run for their money.
+  Joey Bowen is a mother of two who built her business as a single mom. 
+Joey lives in Bethpage and hand makes stylish clear handbags. She 
+started in her living room and expanded to an international operation. 
+She now has storefronts around Nassau County and supports the local 
+economy and the workforce.
+
+  Cheers to all these women out there and for their extraordinary 
+accomplishments.
+
+                          ____________________
+```

@@ -1,0 +1,73 @@
+---
+granule: CREC-2023-03-08-pt1-PgS716-2
+date: 2023-03-08
+edition: CREC
+section: SENATE
+page: S716
+citation: 169 Cong. Rec. S716
+---
+
+# Introductory Statement on S. 707
+
+**Speaking:** Collins, Susan M. (C001035) [R-ME]
+
+**Measures:** S. 707
+
+```
+      By Ms. COLLINS (for herself, Mr. Peters, Mr. Whitehouse, Mr. 
+        Hickenlooper, Ms. Hassan, Ms. Warren, Ms. Smith, Mr. Booker, 
+        Mr. Warnock, Ms. Rosen, Ms. Duckworth, Mr. King, Mr. Padilla, 
+        Mrs. Feinstein, Mr. Van Hollen, Mrs. Shaheen, Mr. Carper, and 
+        Mr. Merkley):
+  S. 707. A bill to amend the Animal Welfare Act to allow for the 
+retirement of certain animals used in Federal research, and for other 
+purposes; to the Committee on Agriculture, Nutrition, and Forestry.
+  Ms. COLLINS. Mr. President, I rise with my colleague from Michigan, 
+Senator Peters, to introduce the Animal Freedom from Testing, 
+Experiments, and Research Act, known as the AFTER Act, to promote the 
+adoption or retirement of animals used for research by Federal 
+Agencies.
+  In fiscal year 2021, the Federal Government experimented on 
+approximately 45,000 regulated animals for research purposes. These 
+experiments occurred across 14 different Federal Agencies. The animals 
+used were mainly cats, dogs, monkeys, and rabbits. Tracking these 
+animals following experimentation is challenging. In many instances, 
+sadly, animals no longer needed for research are killed since many 
+Agencies lack formal retirement or adoption policies. Recent peer-
+reviewed studies indicate that research animals that are adopted, 
+however, often thrive in their new environments.
+  In 2013, led by Senators Harkin, Alexander, Cantwell and myself, the 
+Senate passed the CHIMP Act, which allowed for the retirement of 
+hundreds of primates that were formerly used in National Institute of 
+Health, NIH, experiments. In addition, the Department of Defense DOD, 
+Veterans Affairs, VA, Federal Drug Administration, and NIH recently 
+enacted successful animal retirement policies. While I am encouraged by 
+the Senate's past work on primates and the recent policies developed by 
+a few Federal Agencies, there are many other Federal Agencies, 
+including the Agriculture Department, National Aeronautics and Space 
+Administration, and the Environmental Protection Agency, that lack 
+formal policies for animals used in experiments.
+  The AFTER Act would build on successful policies at DOD, VA, and NIH 
+by directing all Federal Agencies to promulgate regulations that would 
+facilitate the retirement of laboratory animals. The bill would provide 
+flexibility for each Agency to devise its own policy, with the goal of 
+ensuring that such animals, whenever possible, are retired and not 
+killed. Additionally, the AFTER Act would require that animals be 
+evaluated by a licensed veterinarian and pronounced both mentally and 
+physically healthy before leaving an Agency. This will help ensure a 
+smooth transition to a new environment.
+  Our legislation would also encourage Federal Agencies to work with 
+nonprofit organizations to help place retired animals in sanctuaries 
+and shelters across the country, not just those closest to the research 
+facility. This would allow State like Maine, which does not have 
+Federal research labs that use animals, to play a role in retiring 
+these animals and providing homes for them.
+  Mr. President, animals that are suitable for adoption or retirement 
+should not be killed by our Federal Government. The AFTER Act would 
+provide the necessary direction Federal Agencies need in order to move 
+forward with developing retirement policies. I urge all of my 
+colleagues to join in support of this important bipartisan legislation, 
+the Animal Freedom from Testing, Experiments, and Research Act.
+
+                          ____________________
+```
