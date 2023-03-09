@@ -1,0 +1,32 @@
+---
+granule: CREC-2023-03-09-pt1-PgS752-2
+date: 2023-03-09
+edition: CREC
+section: SENATE
+page: S752
+citation: 169 Cong. Rec. S752
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate March 9, 2023:
+
+
+                             THE JUDICIARY
+
+       MARIA ARAUJO KAHN, OF CONNECTICUT, TO BE UNITED STATES 
+     CIRCUIT JUDGE FOR THE SECOND CIRCUIT.
+       JAMES EDWARD SIMMONS, JR., OF CALIFORNIA, TO BE UNITED 
+     STATES DISTRICT JUDGE FOR THE SOUTHERN DISTRICT OF 
+     CALIFORNIA.
+
+
+                       DEPARTMENT OF THE TREASURY
+
+       DANIEL I. WERFEL, OF THE DISTRICT OF COLUMBIA, TO BE 
+     COMMISSIONER OF INTERNAL REVENUE FOR THE TERM EXPIRING 
+     NOVEMBER 12, 2027.
+```
