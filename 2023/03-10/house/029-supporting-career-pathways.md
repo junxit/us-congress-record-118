@@ -1,0 +1,42 @@
+---
+granule: CREC-2023-03-10-pt1-PgH1263-6
+date: 2023-03-10
+edition: CREC
+section: HOUSE
+page: H1263
+citation: 169 Cong. Rec. H1263
+---
+
+# SUPPORTING CAREER PATHWAYS
+
+**Speaking:** Budzinski, Nikki (B001315) [D-IL]
+
+```
+                       SUPPORTING CAREER PATHWAYS
+
+  (Ms. BUDZINSKI asked and was given permission to address the House 
+for 1 minute and to revise and extend her remarks.)
+  Ms. BUDZINSKI. Mr. Speaker, I rise today to introduce my first bill 
+as a Member of Congress, the LEAP Act.
+  This bipartisan piece of legislation aims to create new opportunities 
+for American workers by supporting apprenticeships and pre-
+apprenticeship programs. These training programs are a proven way to 
+address the job skills gap and to get folks ready for careers in 
+growing industries.
+  By providing tax credits to small businesses, this bill will both 
+address the need for more qualified workers and cut educational costs, 
+a win-win for employers and working people.
+  I thank former Congressman Rodney Davis, who was the first to 
+introduce this legislation back in 2013, and I thank Congressman  Mike 
+Carey for
+
+[[Page H1264]]
+
+partnering with me to build on this proposal by eliminating age limits 
+and emphasizing pre-apprenticeship eligibility.
+  Mr. Speaker, I urge my colleagues on both sides of the aisle to join 
+us in supporting career pathways and a chance for everyone to succeed 
+in our changing economy.
+
+                          ____________________
+```
