@@ -1,0 +1,24 @@
+---
+granule: CREC-2023-03-14-pt1-PgS779
+date: 2023-03-14
+edition: CREC
+section: SENATE
+page: S779
+citation: 169 Cong. Rec. S779
+---
+
+# CONFIRMATION
+
+```
+                              CONFIRMATION
+
+  Executive nomination confirmed by the Senate March 14, 2023:
+
+
+                          DEPARTMENT OF STATE
+
+       MICHAEL ALAN RATNEY, OF MASSACHUSETTS, A CAREER MEMBER OF 
+     THE SENIOR FOREIGN SERVICE, CLASS OF MINISTER-COUNSELOR, TO 
+     BE AMBASSADOR EXTRAORDINARY AND PLENIPOTENTIARY OF THE UNITED 
+     STATES OF AMERICA TO THE KINGDOM OF SAUDI ARABIA.
+```
