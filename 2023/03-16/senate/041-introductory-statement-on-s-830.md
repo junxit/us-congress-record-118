@@ -1,0 +1,63 @@
+---
+granule: CREC-2023-03-16-pt1-PgS827-2
+date: 2023-03-16
+edition: CREC
+section: SENATE
+page: S827
+citation: 169 Cong. Rec. S827
+---
+
+# Introductory Statement on S. 830
+
+**Speaking:** Collins, Susan M. (C001035) [R-ME]
+
+**Measures:** S. 830
+
+```
+      By Ms. COLLINS:
+  S. 830. A bill to amend the Internal Revenue Code of 1986 to increase 
+the limitation on the amount individuals filing jointly can deduct for 
+certain State and local taxes; to the Committee on Finance.
+  Ms. COLLINS. Madam President, as Tax Day approaches, Americans 
+families have begun calculating their taxes and filling out returns. 
+They face a Tax Code that is frustratingly complex and at times unfair. 
+The bill that I am introducing today would remedy a major discrepancy. 
+The SALT Deduction Fairness Act would ensure that limits on State and 
+local tax deductions, also known as SALT deductions, do not unfairly 
+penalize married filers.
+  Currently, the amount of State and local taxes that both single and 
+married filers may deduct from their annual income taxes is capped at 
+$10,000. Married people who file their taxes separately are limited to 
+$5,000 each. In other words, people would be better off not getting 
+married at all when it comes to the SALT deduction. My legislation 
+eliminates the marriage penalty by treating married couples fairly by 
+doubling their deduction to $20,000 when they file jointly or $10,000 
+each for married individuals who file separate returns.
+  The SALT deduction has been in the Tax Code since 1913 when the 
+income tax was established. It is intended to protect taxpayers from 
+double taxation. When the Senate considered the Tax Cuts and Jobs Act, 
+I worked to keep the SALT deduction in the Federal Tax Code because of 
+the increased tax burden its elimination would have imposed on Mainers. 
+They already pay taxes on their homes and seasonal properties, annual 
+excise taxes on their vehicles, sales taxes, and State income taxes. 
+The Senate adopted my amendment, preserving the deduction for State and 
+local taxes up to $10,000.
+  Maine has one of the Nation's highest State income tax rates, making 
+this deduction especially important to families in my State. Last year, 
+an analysis by WalletHub found that Maine had the third highest overall 
+tax burden behind only New York and Hawaii. Yet, according to the U.S. 
+Census Bureau, Maine's median household income ranks only 32nd in the 
+Nation and is approximately $5,000 below the U.S. median household 
+income. Many Mainers are also subject to high local property taxes. The 
+SALT deduction helps to offset the burden these taxes place on Maine 
+families, providing critical relief for those who itemize their 
+deductions.
+  More broadly, our Tax Code must be fair to the more than 60 million 
+married couples living in our Nation. A couple should not face a tax 
+penalty for being married. One way to do that is to not penalize the 
+deductions they can take for State and local taxes. The SALT Deduction 
+Fairness Act remedies this.
+  I urge my colleagues to support this commonsense bill to fix this 
+marriage penalty.
+                                 ______
+```
