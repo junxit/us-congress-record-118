@@ -1,0 +1,23 @@
+---
+granule: CREC-2023-03-17-pt1-PgH1295-14
+date: 2023-03-17
+edition: CREC
+section: HOUSE
+page: H1295
+citation: 169 Cong. Rec. H1295
+---
+
+# Constitutional Authority and Single Subject Statements for H.R. 1637
+
+**Measures:** H.R. 1637
+
+```
+           By Mr. LaHOOD:
+       H.R. 1637.
+       Congress has the power to enact this legislation pursuant 
+     to the following:
+       Article 1, Section 8, Clause 18
+       The single subject of this legislation is:
+       Healthcare bill to direct CMS to implement a dementia care 
+     management model.
+```
