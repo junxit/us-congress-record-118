@@ -1,0 +1,50 @@
+---
+granule: CREC-2023-03-22-pt1-PgH1304
+date: 2023-03-22
+edition: CREC
+section: HOUSE
+page: H1304
+citation: 169 Cong. Rec. H1304
+---
+
+# SUPPORTING THE BERING RIVER COALFIELD ACQUISITION
+
+**Speaking:** Duncan, Jeff (D000615) [R-SC]
+
+```
+           SUPPORTING THE BERING RIVER COALFIELD ACQUISITION
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from 
+South Carolina (Mr. Duncan) for 5 minutes.
+  Mr. DUNCAN. Mr. Speaker, I rise today to applaud the commitment of 
+the United States Forest Service to see through the protection of the 
+Bering River coalfield in Alaska.
+  According to the Forest Service, the Copper River watershed, in which 
+the Bering River lies, is one of the largest and most biologically 
+intact places on Earth.
+  Mineral rights to the Bering River coalfield are currently owned by a 
+Korean company, which means almost 12,000 acres of coalfields in the 
+Copper River watershed remain vulnerable to mining.
+  Coal from the Bering River has no value in the U.S. coal market. We 
+have plenty in the lower 48. An extraction would only serve to benefit 
+the Asian markets at the cost of decimating one of the few untouched 
+places left in America. The current owner of the mineral rights 
+expressed that they are willing to sell the rights, and the bid for 
+appraisal opened last week.
+  It is my hope that we are approaching the finish line of the 
+conservation of the Bering River, an effort that has been ongoing for 
+100 years. Forty-six conservation organizations have voiced their 
+support for the protection of this invaluable natural resource.
+  If a purchase of the Bering River coalfield is successful, all future 
+generations of American sportsmen and -women and outdoor recreationists 
+can experience the magnificent wild country the way it emerged from our 
+creator.
+  I will take a brief moment to thank the late Representative Don Young 
+from Alaska for his help and support of this issue to get it to this 
+point.
+  I also thank the Exxon Valdez trust for extending a boundary so that 
+money could be leveraged to help set aside for future generations this 
+important national asset.
+
+                          ____________________
+```

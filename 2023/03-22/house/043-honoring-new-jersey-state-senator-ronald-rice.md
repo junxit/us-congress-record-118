@@ -1,0 +1,37 @@
+---
+granule: CREC-2023-03-22-pt1-PgH1318-2
+date: 2023-03-22
+edition: CREC
+section: HOUSE
+page: H1318
+citation: 169 Cong. Rec. H1318
+---
+
+# HONORING NEW JERSEY STATE SENATOR RONALD RICE
+
+**Speaking:** Payne, Donald M. (P000604) [D-NJ]
+
+```
+             HONORING NEW JERSEY STATE SENATOR RONALD RICE
+
+  (Mr. PAYNE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. PAYNE. Madam Speaker, I rise today to celebrate the life of one 
+of New Jersey's most distinguished State senators.
+  New Jersey State Senator Ronald Rice passed away on March 15. He 
+spent more than 35 years serving the people of New Jersey's 28th 
+District, and he was the longest serving Black legislator in our 
+State's history.
+  Senator Rice started as a Newark City Council member before he became 
+a State senator, but his service to our community and our country 
+extended beyond politics. Senator Rice was a sergeant in the Marine 
+Corps and a decorated Vietnam veteran. He spent 8 years as a police 
+detective and 4 years as Newark's deputy mayor.
+  As a State senator, he was known for his strong advocacy for social 
+justice and civil rights. His dedication to equality was known 
+throughout the State.
+  Senator Rice was an exceptional public servant, and I know his work 
+for Newark and the people of New Jersey will be missed.
+
+                          ____________________
+```
