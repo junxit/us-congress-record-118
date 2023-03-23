@@ -1,0 +1,38 @@
+---
+granule: CREC-2023-03-23-pt1-PgH1334-8
+date: 2023-03-23
+edition: CREC
+section: HOUSE
+page: H1334
+citation: 169 Cong. Rec. H1334
+---
+
+# HONORING JULIE STIVERS 2023 SCHOOL LIBRARIAN OF THE YEAR
+
+**Speaking:** Ross, Deborah K. (R000305) [D-NC]
+
+```
+        HONORING JULIE STIVERS 2023 SCHOOL LIBRARIAN OF THE YEAR
+
+  (Ms. ROSS asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. ROSS. Mr. Speaker, I rise today to honor the 2023 School 
+Librarian of the Year, Wake County's own Julie Stivers.
+  At the Mount Vernon Middle School, she is the librarian and has 
+worked to create an environment where students not only learn and 
+thrive, but also where they can express their creativity and see their 
+identities and interests represented in literature.
+  Outside her library, a sign boldly reads: ``In This Library, We Don't 
+Shush, We Roar.''
+  Children's socioeconomic status should not determine their 
+opportunities to learn, which is exactly why the library holds two book 
+fairs a year where students can choose new books at no cost.
+  As others have worked to ban books from schools across the country, 
+Julie has fought against harmful proposals that will ban LGBTQ+ books 
+in Wake County.
+  Julie cultivates a welcoming space to ensure her students feel at 
+home.
+  Congratulations on this well-deserved achievement.
+
+                          ____________________
+```
