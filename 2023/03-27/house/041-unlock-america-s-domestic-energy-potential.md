@@ -1,0 +1,42 @@
+---
+granule: CREC-2023-03-27-pt1-PgH1455-4
+date: 2023-03-27
+edition: CREC
+section: HOUSE
+page: H1455
+citation: 169 Cong. Rec. H1455
+---
+
+# UNLOCK AMERICA'S DOMESTIC ENERGY POTENTIAL
+
+**Speaking:** LaMalfa, Doug (L000578) [R-CA]
+
+```
+               UNLOCK AMERICA'S DOMESTIC ENERGY POTENTIAL
+
+  (Mr. LaMALFA asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LaMALFA. Mr. Speaker, American families are faced with 
+historically high inflation and energy prices.
+  Energy demand is expected to increase by 50 percent by 2050. Gas and 
+oil needs will increase, and they will be met whether it is in this 
+country or other countries around the world that haven't gone all-
+electric or aren't being forced into doing so.
+  America's needs for minerals necessary for the defense and tech 
+sectors are projected to grow exponentially.
+  To meet these crises, an all-of-the-above approach is needed for 
+American energy. Unfortunately, the NEPA permitting process hinders 
+American domestic energy expansion.
+  For example, it can take a decade to open a new mine in the U.S., 
+while other countries such as Canada and Australia take only 3 years to 
+do the same. There is nothing new under the Sun on what needs to be 
+permitted. Get it done.
+  The NEPA permitting process is filled with repetitive assessments, 
+lengthy and expensive litigation, and bureaucratic hurdles. It is 
+almost impossible for new energy and infrastructure projects to ever 
+see the light of day, but I think they want it that way.
+  What? Are we supposed to all live in caves and eat mealworms? That 
+seems to be the direction we are going.
+
+                          ____________________
+```
