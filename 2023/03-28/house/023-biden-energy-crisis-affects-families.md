@@ -1,0 +1,41 @@
+---
+granule: CREC-2023-03-28-pt1-PgH1473-7
+date: 2023-03-28
+edition: CREC
+section: HOUSE
+page: H1473
+citation: 169 Cong. Rec. H1473
+---
+
+# BIDEN ENERGY CRISIS AFFECTS FAMILIES
+
+**Speaking:** Wilson, Joe (W000795) [R-SC]
+
+```
+                  BIDEN ENERGY CRISIS AFFECTS FAMILIES
+
+  (Mr. WILSON of South Carolina asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. WILSON of South Carolina. Mr. Speaker, every day, American 
+families experience the failed policies of Biden and Democrats.
+  On the day Biden was sworn in, the average price of gas was $2.39. 
+Today, it is $3.44, 44 percent higher. The Biden war on energy resulted 
+in a high cost of over $5 last year.
+  During the same period, the first week of his Presidency, Biden 
+killed the Keystone pipeline, which would supply 800,000 barrels of oil 
+a day from Canada, with the mining equipment in Alberta using Michelin 
+tires made in South Carolina.
+  The idiotic war on fossil fuels subverts science and common sense, 
+and it causes dependence on China for batteries, panels, blades, by 
+Biden.
+  This week, House Republicans have all-of-the-above legislation to 
+reduce inflation, create jobs, and return America to energy 
+independence with the innovative bill by Congressman Jeff Duncan of 
+South Carolina.
+  In conclusion, God bless our troops, who successfully protected 
+America for 20 years in the global war on terrorism as it continues, 
+sadly, moving from the Afghanistan safe haven to America.
+  Our sympathies to the families of Nashville and Mississippi.
+
+                          ____________________
+```
