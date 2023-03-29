@@ -1,0 +1,23 @@
+---
+granule: CREC-2023-03-29-pt1-PgH1643-5
+date: 2023-03-29
+edition: CREC
+section: HOUSE
+page: H1643
+citation: 169 Cong. Rec. H1643
+---
+
+# Constitutional Authority and Single Subject Statements for H.R. 1884
+
+**Measures:** H.R. 1884
+
+```
+           By Mr. BIGGS:
+       H.R. 1884.
+       Congress has the power to enact this legislation pursuant 
+     to the following:
+       Article 1, Section 8
+       The single subject of this legislation is:
+       The single subject of this bill is providing for a 
+     limitation on funding for a discretionary spending item.
+```
