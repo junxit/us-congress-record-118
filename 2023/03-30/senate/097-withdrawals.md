@@ -1,0 +1,27 @@
+---
+granule: CREC-2023-03-30-pt1-PgS1112
+date: 2023-03-30
+edition: CREC
+section: SENATE
+page: S1112
+citation: 169 Cong. Rec. S1112
+---
+
+# WITHDRAWALS
+
+```
+                              WITHDRAWALS
+
+  Executive Message transmitted by the President to the Senate on March 
+30, 2023 withdrawing from further Senate consideration the following 
+nominations:
+
+       GIGI B. SOHN, OF THE DISTRICT OF COLUMBIA, TO BE A MEMBER 
+     OF THE FEDERAL COMMUNICATIONS COMMISSION FOR A TERM OF FIVE 
+     YEARS FROM JULY 1, 2021, VICE AJIT VARADARAJ PAI, TERM 
+     EXPIRED, WHICH WAS SENT TO THE SENATE ON JANUARY 3, 2023.
+       PHILLIP A. WASHINGTON, OF ILLINOIS, TO BE ADMINISTRATOR OF 
+     THE FEDERAL AVIATION ADMINISTRATION FOR THE TERM OF FIVE 
+     YEARS, VICE STEPHEN M. DICKSON, RESIGNED, WHICH WAS SENT TO 
+     THE SENATE ON JANUARY 3, 2023.
+```

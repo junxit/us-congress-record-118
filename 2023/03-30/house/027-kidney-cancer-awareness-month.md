@@ -1,0 +1,36 @@
+---
+granule: CREC-2023-03-30-pt1-PgH1680-4
+date: 2023-03-30
+edition: CREC
+section: HOUSE
+page: H1680
+citation: 169 Cong. Rec. H1680
+---
+
+# KIDNEY CANCER AWARENESS MONTH
+
+**Speaking:** Kim, Young (K000397) [R-CA]
+
+```
+                     KIDNEY CANCER AWARENESS MONTH
+
+  (Mrs. KIM of California asked and was given permission to address the 
+House for 1 minute and to revise and extend her remarks.)
+  Mrs. KIM of California. Madam Speaker, March is also Kidney Cancer 
+Awareness Month, so I rise in support of all Americans suffering from 
+kidney disease and to highlight the importance of regular cancer 
+screenings and learning about their risks.
+  According to the CDC, about 37 million adults are estimated to have 
+kidney disease. Unfortunately, kidney disease is among the 10 most 
+common cancers in both men and women, and 1 out of 3 Americans are at a 
+heightened risk for kidney disease.
+  I also take this opportunity to honor and remember one of our former 
+colleagues and friends, Representative Jim Hagedorn of Minnesota, who 
+tragically lost his life last year due to kidney cancer.
+  Coincidentally, just recently, I found a letter he sent me just 
+before he passed. As Jim used to say, ``Please visit your doctor 
+regularly and get those annual cancer screenings. Early detection could 
+save your life.''
+
+                          ____________________
+```

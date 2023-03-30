@@ -1,0 +1,41 @@
+---
+granule: CREC-2023-03-30-pt1-PgH1662-4
+date: 2023-03-30
+edition: CREC
+section: HOUSE
+page: H1662
+citation: 169 Cong. Rec. H1662
+---
+
+# USING THE TEXAS LEGISLATURE AS A TESTING GROUND
+
+**Speaking:** Casar, Greg (C001131) [D-TX]
+
+```
+            USING THE TEXAS LEGISLATURE AS A TESTING GROUND
+
+  (Mr. CASAR asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. CASAR. Mr. Speaker, I am  Greg Casar, and I represent the heart 
+of Texas. I rise today to sound the alarm. Extremist Republicans are 
+using the Texas legislature as a testing ground for their most extreme 
+policies that they plan to spread across the country.
+  Right now, top Texas officials are considering new laws to, one, 
+create vigilante bounty hunter groups to go after immigrant families; 
+two, defund our public schools; three, bar doctors from providing 
+healthcare to transgender Texans; four, cap how much renewable energy 
+our State can create; five, ban books and drag shows; six, block water 
+breaks for construction workers; seven, ban citizens from Asian 
+countries from attending public college; eight, they have already 
+banned abortion and now they are going after emergency contraception.
+  This vile blueprint may be the Republicans' plan for our State and 
+our country, but they are not representative of Texas values. Texans 
+take care of our neighbors, look out for each other. Americans want 
+decent healthcare, housing they can afford, and a decent future for 
+their kids.
+  As public servants, we should lead with love and integrity. After 
+all, Texas is a native word that means friendship, not cruelty. I may 
+yield back my time, but not my efforts.
+
+                          ____________________
+```

@@ -1,0 +1,40 @@
+---
+granule: CREC-2023-03-30-pt1-PgH1662-3
+date: 2023-03-30
+edition: CREC
+section: HOUSE
+page: H1662
+citation: 169 Cong. Rec. H1662
+---
+
+# CORRECTING THE ISSUE OF CHILD LABOR IN WEST MICHIGAN
+
+**Speaking:** Scholten, Hillary J. (S001221) [D-MI]
+
+```
+          CORRECTING THE ISSUE OF CHILD LABOR IN WEST MICHIGAN
+
+  (Ms. SCHOLTEN asked and was given permission to address the House for 
+1 minute and to revise and extend her remarks.)
+  Ms. SCHOLTEN. Mr. Speaker, this week I am introducing bipartisan 
+emergency legislation to correct the devastating issue of child labor 
+in west Michigan and across the country.
+  In west Michigan, we believe in protecting kids. When big companies 
+and corporations go against that goal, we take the necessary steps to 
+hold them accountable. I have heard from my constituents, and I am 
+responding.
+  Here is what my bill, the Justice For Exploited Children Act, will do 
+and why it is important. Right now, the maximum fine per violation of 
+child labor laws is around $15,000, and there is no minimum. No 
+minimum.
+  If you think that is an embarrassingly low price to pay for 
+exploiting a child, you are right. That is because these are the fines 
+that have been on the books since this law was first introduced almost 
+100 years ago, and they have not been raised.
+  These meager penalties, effectively pennies for big corporations, 
+allow guilty parties to evade meaningful consequences, and as a result, 
+continue these shameful practices. It is unacceptable. This legislation 
+makes clear that exploiting kids cannot be the cost of doing business.
+
+                          ____________________
+```

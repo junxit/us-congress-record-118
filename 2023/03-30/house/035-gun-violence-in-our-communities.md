@@ -1,0 +1,45 @@
+---
+granule: CREC-2023-03-30-pt1-PgH1681-6
+date: 2023-03-30
+edition: CREC
+section: HOUSE
+page: H1681
+citation: 169 Cong. Rec. H1681
+---
+
+# GUN VIOLENCE IN OUR COMMUNITIES
+
+**Speaking:** Tlaib, Rashida (T000481) [D-MI]
+
+```
+                    GUN VIOLENCE IN OUR COMMUNITIES
+
+  (Ms. TLAIB asked and was given permission to address the House for 1 
+minute.)
+  Ms. TLAIB. Madam Speaker, I rise today, yet again, to speak about gun 
+violence in our communities.
+  I would like to read the words of Troy Forbush, a survivor of last 
+month's horrific mass shooting at Michigan State University in my home 
+State. Troy said, ``Seconds after being shot clean through the lung, 
+two entrance wounds and two exit wounds, laying in a state of shock, 
+that will never leave my mind and forever haunt me.''
+
+[[Page H1682]]
+
+  He continued to say, ``I fell to the ground from my seat and tried to 
+act as if I were already dead. As he panned the room with his handgun, 
+I pled for my life and screamed, `Please don't shoot me.' We were met 
+face to face with pure evil.''
+  No person, Madam Speaker, or child should ever have to go through 
+what Troy and the countless others continue to experience in our 
+country of being gunned down while learning, gunned down while praying, 
+gunned down while shopping, gunned down, gunned down over and over 
+again.
+  This is the reality of the United States of America, where gun 
+violence is the number one cause of death for our children.
+  How is this acceptable?
+  We must pass comprehensive gun reform immediately. Enough of the 
+bloodshed.
+
+                          ____________________
+```

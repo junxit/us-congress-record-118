@@ -1,0 +1,129 @@
+---
+granule: CREC-2023-03-30-pt1-PgS1093-2
+date: 2023-03-30
+edition: CREC
+section: SENATE
+page: S1093
+citation: 169 Cong. Rec. S1093
+---
+
+# Introductory Statement on S. 1097
+
+**Speaking:** Padilla, Alex (P000145) [D-CA]
+
+**Measures:** S. 1097
+
+```
+      By Mr. PADILLA (for himself and Mrs. Feinstein):
+  S. 1097. A bill to establish the Cesar E. Chavez and the Farmworker 
+Movement National Historical Park in the States of California and 
+Arizona, and for other purposes; to the Committee on Energy and Natural 
+Resources.
+  Mr. PADILLA. Madam President, I rise to reintroduce the Cesar E. 
+Chavez and the Farmworker Movement National Historical Park Act.
+  This Friday, March 31, we celebrate Cesar Chavez Day to honor and 
+celebrate the life and legacy of the civil rights and labor leader 
+whose impact reverberated throughout California and across the world. 
+For Cesar Chavez, it did not matter where you came from or what your 
+job was, he believed in your fundamental right to dignity and respect.
+  Ahead of Cesar Chavez Day, I introduce this legislation, which would 
+establish the Cesar E. Chavez and the Farmworker Movement National 
+Historical Park in California and Arizona to preserve the nationally 
+significant sites associated with Cesar Chavez and the farmworker 
+movement.
+  In 2008, with strong bipartisan support, Congress enacted legislation 
+directing the National Park Service to conduct a special resource study 
+of sites that are significant to the life of Cesar Chavez and the farm 
+labor movement in the Western United States. The National Park Service 
+evaluated over 100 sites and found that five sites were ``nationally 
+significant.'' Importantly, the Park Service wrote that these 
+nationally significant sites depict a distinct and important aspect of 
+American history associated with civil rights and labor movements that 
+are not adequately represented or protected elsewhere. While the Park 
+Service provided five management alternatives to protect these special 
+places, they ultimately recommended that Congress establish a national 
+historic park that would include several nationally significant sites.
+  In 2012, President Obama established the Cesar E. Chavez National 
+Monument. The property is in Keene, CA, and is known as Nuestra Senora 
+Reina de la Paz. In his Presidential Proclamation, President Obama 
+said: ``This site marks the extraordinary achievements and 
+contributions to the history of the United States made by Cesar Chavez 
+and the farm worker movement that he led with great vision and 
+fortitude. La Paz reflects his conviction that ordinary people can do 
+extraordinary things.''
+  While this was a critical step forward, the National Monument leaves 
+out many nationally significant sites and leaves many important stories 
+untold. The creation of a national historical park, as originally 
+recommended by the Park Service, would allow the National Park Service 
+to tell the full story of Cesar Chavez and the farm labor movement for 
+the benefit of all Americans.
+  In addition to the inclusion of the existing Cesar E. Chavez National 
+Monument, which includes La Nuestra Senora Reina de la Paz, in Keene, 
+CA, the National Park Service would be able to add additional sites to 
+the park upon written agreement from site owners. These sites include 
+the Forty Acres in Delano, CA, the Santa Rita Center in Phoenix, AZ; 
+and McDonnell Hall, in San Jose, CA. These sites contain nationally 
+significant resources associated with Cesar Chavez and the farmworker 
+movement and would be preserved and protected as part of the National 
+Park System.
+  This legislation would also require the National Park Service to 
+complete a national historic trail study to determine the feasibility 
+of creating the Farmworker Peregrinacion National Historic Trail. This 
+trail would commemorate the 1966 Delano to Sacramento March, a major 
+milestone event in the farm labor movement. According to the Special 
+Resource Study, ``More than one hundred men and women set out from 
+Delano on March 17, 1966, and thousands of farm workers and their 
+families joined in for short stretches along the way. By the time the 
+marchers entered Sacramento on Easter Sunday, April 10, 1966, the farm 
+worker movement had secured a contract and attracted new waves of 
+support from across the country.''
+  We must honor and celebrate the life and legacy of Cesar Chavez, the 
+inspirational civil rights advocate and leader of the farm labor 
+movement whose impact reverberated in California and across the world. 
+His list of accomplishments is long, from creating the Nation's first 
+permanent agricultural labor union to helping secure passage of the 
+first American law that recognized farmworkers' rights to organize.
+  While widely respected as the most important Latino leader in the 
+United States in the 20th century, Cesar Chavez was not just a leader 
+for the Latino community. Following the principles of Mahatma Gandhi 
+and Martin Luther King, Jr., Cesar Chavez led a nonviolent movement of 
+protests and boycotts to secure a union, better pay, and better working 
+conditions for farmworkers of all ethnicities. He also played a leading 
+role in the broader labor movement, the Chicano movement, and the 
+environmental movement.
+  But this park will not just focus on Chavez's legacy; it will also 
+preserve
+
+[[Page S1094]]
+
+the thousands of stories of people who played a role in the broader 
+farm labor movement. According to the special resource study, ``During 
+the 1960s, the farm labor movement attracted support from a wide array 
+of individuals, including members of other unions, religious leaders, 
+civil rights activists, high school students and college students 
+(including young Chicanos and Filipinos), environmentalists, and 
+justice-minded consumers across the country and abroad.''
+  As the son of immigrants from Mexico and the first Latino to 
+represent California in the U.S. Senate, I believe the movement Cesar 
+Chavez created is just as important today as it ever has been. The 
+National Park System--which preserves our natural, historical, and 
+cultural heritage while offering vital spaces for teaching, learning, 
+and outdoor recreation-must paint the full mosaic of America. Through 
+the sites preserved by this bill, we can ensure that the National Park 
+System preserves the diverse history of our Nation that is too often 
+overlooked. As a farmworker himself, Cesar Chavez maintained a strong 
+connection to the natural environment. This bill uplifts his story and 
+those of others whose contributions helped build the farmworker and 
+civil rights movements that are pillars of American history.
+  I thank the bill's cosponsors in the Senate and House of 
+Representatives, and I especially want to thank Congressman Ruiz for 
+spearheading this effort with me to ensure that our national monuments 
+and historical parks better reflect the diversity of America's 
+heritage.
+  Today and every day, let's recommit to the work Cesar Chavez began. 
+As he would say: La Lucha Sigue. We must not waver as we keep up the 
+fight for justice and equality for all.
+  I look forward to working with my colleagues to enact the Cesar E. 
+Chavez National Historical Park Act as quickly as possible.
+                                 ______
+```
