@@ -1,0 +1,23 @@
+---
+granule: CREC-2023-04-17-pt1-PgS1137-7
+date: 2023-04-17
+edition: CREC
+section: SENATE
+page: S1137
+citation: 169 Cong. Rec. S1137
+---
+
+# Text of Senate Amendment 75
+
+**Speaking:** Schumer, Charles E. (S000148) [D-NY]
+
+```
+  SA 75. Mr. SCHUMER submitted an amendment intended to be proposed by 
+him to the bill S. 870, to amend the Federal Fire Prevention and 
+Control Act of 1974 to authorize appropriations for the United States 
+Fire Administration and firefighter assistance grant programs; which 
+was ordered to lie on the table; as follows:
+
+  On page 1, line 3, strike ``1 day'' and insert ``2 days''.
+                                 ______
+```

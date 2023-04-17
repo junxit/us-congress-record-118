@@ -1,0 +1,56 @@
+---
+granule: CREC-2023-04-17-pt1-PgS1122-4
+date: 2023-04-17
+edition: CREC
+section: SENATE
+page: S1122
+citation: 169 Cong. Rec. S1122
+---
+
+# Senate Legislative Agenda (Executive Session)
+
+**Speaking:** McConnell, Mitch (M000355) [R-KY], Schumer, Charles E. (S000148) [D-NY]
+
+```
+                       Senate Legislative Agenda
+
+  Mr. McCONNELL. Mr. President, it is good to be back.
+  I want to thank all of my colleagues for their warm wishes shared 
+over the past few weeks. Suffice it to say, this wasn't the first time 
+that being hardheaded has served me very well.
+  We are truly lucky and blessed to get to serve in this remarkable 
+institution, represent our home States, and serve our country. Needless 
+to say, I am very happy to be back.
+  There is important business for Congress to tackle. We should be 
+working to undo this administration's mistakes. We need to secure the 
+border, reduce crime, fight inflation, and invest in America's strength 
+and our security.
+  On an even more basic level, President Biden and his administration 
+are literally ``on the clock'' to negotiate a debt ceiling solution 
+with Speaker McCarthy and the Republican majority over in the House. 
+The President's economic advisers say the deadline for a solution is 
+not far off, but his political advisers apparently think the White 
+House's position should be--listen to this--no talks and no reforms.
+  This extreme position is not even holding up in their own party. Even 
+Washington Democrats are breaking
+
+[[Page S1123]]
+
+ranks from the administration's position of no talks and no reforms.
+  One of our Senate Democratic colleagues wrote an entire Washington 
+Post op-ed calling on the President to sit down with Congress and 
+reform spending. Reports indicate that a whole group of House Democrats 
+are already talking about negotiations and about compromise.
+  Just a few years ago, the Democratic leader, Leader Schumer, said 
+this about the debt ceiling:
+
+       [It] gives another ample opportunity for bipartisanship, 
+     not for one party jamming its choices down the throats of the 
+     other.
+
+  So President Biden does not get to stick his fingers in his ears and 
+refuse to listen, talk, or negotiate, and the American people know 
+that. The White House needs to stop wasting time and start negotiating 
+with the Speaker of the House.
+  The ACTING PRESIDENT pro tempore. The Senator from Illinois.
+```

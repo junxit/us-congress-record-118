@@ -1,0 +1,41 @@
+---
+granule: CREC-2023-04-17-pt1-PgH1742
+date: 2023-04-17
+edition: CREC
+section: HOUSE
+page: H1742
+citation: 169 Cong. Rec. H1742
+---
+
+# CELEBRATING THE LIFE OF RUTH STUENCKEL
+
+**Speaking:** Carter, Earl L. "Buddy" (C001103) [R-GA]
+
+```
+                 CELEBRATING THE LIFE OF RUTH STUENCKEL
+
+  (Mr. CARTER of Georgia asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. CARTER of Georgia. Mr. Speaker, I rise today to celebrate the 
+life of Ruth Stuenckel, a loving wife, mother, and social worker.
+  A native of Egg Harbor City, New Jersey, Ruth held positions with 
+Children's Seashore House and the New Jersey Division of Youth and 
+Family Services.
+  In 1989, Ruth and her husband, Elton, moved to Savannah. Shortly 
+after, Ruth became an active member of the choir at Wesley Monumental 
+United Methodist Church.
+  She traveled internationally with the choir, singing in cathedrals 
+across Europe. Ruth also traveled to Israel and Jordan with the Cape 
+May United Methodist Church.
+  As an artist and avid gardener, she painted much of the beauty she 
+saw in nature. Ruth was also a member of the Savannah Art Association 
+and the Garden Club of Savannah.
+  Another passion of Ruth's was reading. More than being an avid 
+reader, Ruth was a proponent of learning for learning's sake. Every 
+week for more than 20 years, Ruth read to children at Royce Learning 
+Center at Chatham Academy.
+  She will be dearly missed. Our thoughts and prayers are with her and 
+her family.
+
+                          ____________________
+```
