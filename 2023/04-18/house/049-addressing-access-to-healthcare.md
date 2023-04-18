@@ -1,0 +1,42 @@
+---
+granule: CREC-2023-04-18-pt1-PgH1789-5
+date: 2023-04-18
+edition: CREC
+section: HOUSE
+page: H1789
+citation: 169 Cong. Rec. H1789
+---
+
+# ADDRESSING ACCESS TO HEALTHCARE
+
+**Speaking:** Davis, Donald G. (D000230) [D-NC]
+
+```
+                    ADDRESSING ACCESS TO HEALTHCARE
+
+  (Mr. DAVIS of North Carolina asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. DAVIS of North Carolina. Mr. Speaker, I rise to discuss a topic 
+important to the people of North Carolina's First Congressional 
+District: addressing access to healthcare.
+  April is Medicaid Awareness Month, and I was honored to kick it off 
+with my fellow State Medicaid Expansion Caucus co-chairs and Protect 
+Our Care.
+  North Carolina has passed critical legislation that Governor Roy 
+Cooper has signed into law, creating a pathway to expanding Medicaid in 
+our State, showing the significance and power of bipartisanship.
+  Mr. Speaker, nearly 100,000 eastern North Carolinians would have 
+access to healthcare that would come as a result. There would be a 
+creation of roughly 3,000 jobs in one of the most economically 
+distressed parts of the State while saving our rural hospitals.
+  Mr. Speaker, nearly 2 million Americans remain trapped in a coverage 
+gap. Medicaid Awareness Month is the perfect time to make a bipartisan 
+appeal.
+
+[[Page H1790]]
+
+Let us work together to close that gap so that the greater good of 
+Americans will benefit.
+
+                          ____________________
+```
