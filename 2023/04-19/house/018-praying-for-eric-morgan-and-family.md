@@ -1,0 +1,34 @@
+---
+granule: CREC-2023-04-19-pt1-PgH1851-5
+date: 2023-04-19
+edition: CREC
+section: HOUSE
+page: H1851
+citation: 169 Cong. Rec. H1851
+---
+
+# PRAYING FOR ERIC MORGAN AND FAMILY
+
+**Speaking:** Lesko, Debbie (L000589) [R-AZ]
+
+```
+                   PRAYING FOR ERIC MORGAN AND FAMILY
+
+  (Mrs. LESKO asked and was given permission to address the House for 1 
+minute.)
+  Mrs. LESKO. Mr. Speaker, I ask all of you to join me in praying for 
+Eric Morgan. Eric Morgan is a constituent of mine in Arizona, and he 
+also served as the former Republican chairman for the legislative 
+district in my congressional district.
+  On April 5th, Eric was involved in a very serious motorcycle 
+accident. They thought he was going to die. Fortunately, with the help 
+of the doctors and nurses and multiple surgeries, he has now been 
+released out of the critical care unit in a hospital in Arizona, but he 
+has a long road for recovery.
+  Mr. Speaker, the prayers have helped Eric and his wife, Heather, and 
+their family. I want Eric and Heather to know that all of us here in 
+the U.S. House of Representatives and the people in the gallery are 
+praying for Eric's total and complete healing.
+
+                          ____________________
+```
