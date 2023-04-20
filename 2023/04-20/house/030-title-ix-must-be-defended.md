@@ -1,0 +1,48 @@
+---
+granule: CREC-2023-04-20-pt1-PgH1897-6
+date: 2023-04-20
+edition: CREC
+section: HOUSE
+page: H1897
+citation: 169 Cong. Rec. H1897
+---
+
+# TITLE IX MUST BE DEFENDED
+
+**Speaking:** LaMalfa, Doug (L000578) [R-CA]
+
+**Measures:** H.R. 734
+
+```
+                       TITLE IX MUST BE DEFENDED
+
+  (Mr. LaMALFA asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LaMALFA. Mr. Speaker, I am glad to rise today in support of 
+Congressman Steube's H.R. 734. It is amazing how contorted this 
+argument has become.
+  This is simply about protecting women and girls in sports. We have 
+seen what has happened when we don't. We have seen in women's cage 
+fighting, where you have a biological male cracking the heads of the 
+women in there. It is so uncompetitive.
+  Girls in college sports or women's sports when they step up to the 
+starting line in track meets feel already defeated because there are 
+two biological males running against them.
+  Are we going to protect women and girls in sports and the rest of 
+life or not?
+  This legislation simply goes in the direction of allowing sports to 
+be competitive once again for women and
+
+[[Page H1898]]
+
+girls. This legislation is not about all the other things that the 
+folks on the other side of the aisle are trying to turn it into.
+  It is simple and it is really essential if we want to have our women 
+and our girls not feel defeated right out of the chute.
+  I don't know where the feminists are, but there are a lot of us men 
+that feel strongly about this, supporting this, and supporting Title 
+IX, and the whole concept that men and women are different. Girls and 
+women deserve the same chance as everybody else.
+
+                          ____________________
+```
