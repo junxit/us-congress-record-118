@@ -1,0 +1,36 @@
+---
+granule: CREC-2023-04-25-pt1-PgH1935-3
+date: 2023-04-25
+edition: CREC
+section: HOUSE
+page: H1935
+citation: 169 Cong. Rec. H1935
+---
+
+# HOLD BAD ACTORS ACCOUNTABLE FOR ILLEGAL TRADING PRACTICES
+
+**Speaking:** Mrvan, Frank J. (M001214) [D-IN]
+
+```
+       HOLD BAD ACTORS ACCOUNTABLE FOR ILLEGAL TRADING PRACTICES
+
+  (Mr. MRVAN asked and was given permission to address the House for 1 
+minute.)
+  Mr. MRVAN. Mr. Speaker, I rise today in support of the Fighting Trade 
+Cheats Act of 2023, recently introduced by my friend from Illinois (Mr. 
+Bost).
+  As the vice chairman of the Congressional Steel Caucus and 
+Representative from one of the largest steel-producing districts in our 
+Nation, I know it is a necessity that we protect American workers and 
+hold bad actors accountable for illegal trading practices.
+  More must be done to ensure that foreign countries and companies that 
+cheat our trade policies know that their actions will not be tolerated.
+  Mr. Speaker, I thank Representative Bost for his leadership, and 
+appreciate that his legislation will increase penalties for those who 
+harm American manufacturers.
+  Mr. Speaker, I look forward to working with my colleagues to ensure 
+that all American workers can compete and can, no doubt, thrive when we 
+have a level playing field in our global economy.
+
+                          ____________________
+```

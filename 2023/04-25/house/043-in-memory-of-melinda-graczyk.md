@@ -1,0 +1,39 @@
+---
+granule: CREC-2023-04-25-pt1-PgH1934-4
+date: 2023-04-25
+edition: CREC
+section: HOUSE
+page: H1934
+citation: 169 Cong. Rec. H1934
+---
+
+# IN MEMORY OF MELINDA GRACZYK
+
+**Speaking:** Tlaib, Rashida (T000481) [D-MI]
+
+```
+                      IN MEMORY OF MELINDA GRACZYK
+
+  (Ms. TLAIB asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. TLAIB. Mr. Speaker, I rise to honor the memory of Melinda 
+Graczyk, a lifelong volunteer in service to the people of Redford 
+Township in Michigan's 12th District Strong.
+  Melinda embraced her passion to serve the unrepresented, chairing 
+Redford's newly formed commission for diversity, equity, and inclusion 
+in order to create a more welcoming community for all.
+  Through her work with the Jaycees, Melinda volunteered to build local 
+community gardens which provided thousands of pounds of fresh 
+vegetables to families in need. They also founded the Redford farmer's 
+market, providing a local source of fresh, locally grown food at an 
+affordable price.
+  As a volunteer and eventually president of Redford's festival 
+committee, they helped plan and execute all of Redford's local 
+festivals throughout the year, creating opportunities for residents to 
+gather and foster a sense of community.
+  Mr. Speaker, please join me in recognizing Melinda Graczyk's 
+unwavering service to our district and the Redford Township community 
+as we honor her memory.
+
+                          ____________________
+```

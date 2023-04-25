@@ -1,0 +1,44 @@
+---
+granule: CREC-2023-04-25-pt1-PgH1920-7
+date: 2023-04-25
+edition: CREC
+section: HOUSE
+page: H1920
+citation: 169 Cong. Rec. H1920
+---
+
+# RECOGNIZING BUSINESS IN SOUTH CAROLINA
+
+**Speaking:** Wilson, Joe (W000795) [R-SC]
+
+```
+                 RECOGNIZING BUSINESS IN SOUTH CAROLINA
+
+  (Mr. WILSON of South Carolina asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. WILSON of South Carolina. Mr. Speaker, as the United States has 
+only 5 percent of the world population, the remaining 95 percent are 
+job opportunities for South Carolina.
+  Last year, the Palmetto State achieved $32 billion in net export 
+sales. The top industries included: vehicles, nuclear reactors, 
+plastics, aircraft, and rubber tires. South Carolina exports reached 
+196 countries, topped by Canada, Germany, Mexico, and South Korea.
+  The State leads in export sales of motor vehicles with $10 billion 
+from BMW, Volvo, and Mercedes-Benz. Additionally, South Carolina is a 
+leading manufacturer and exporter of tires by Michelin, Bridgestone, 
+Giti, Continental, and Trelleborg.
+  In 2020, over 4,400 companies in South Carolina exported goods, 
+creating 116,000 jobs, promoted by Governor Henry McMaster and Commerce 
+Secretary Harry Lightsey.
+  In conclusion, God bless our troops, who successfully protected 
+America for 20 years as the global war on terrorism continues moving 
+from the Afghanistan safe haven to America.
+  Welcome to President Yoon Suk Yeol of South Korea who will address 
+Congress on Thursday as a champion for democracy.
+
+[[Page H1921]]
+
+  
+
+                          ____________________
+```
