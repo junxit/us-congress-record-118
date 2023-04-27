@@ -1,0 +1,108 @@
+---
+granule: CREC-2023-04-27-pt1-PgH2070
+date: 2023-04-27
+edition: CREC
+section: HOUSE
+page: H2070
+citation: 169 Cong. Rec. H2070
+---
+
+# AITKEN BIBLE FOR THE AMERICAN PUBLIC
+
+**Speaking:** Ogles, Andrew (O000175) [R-TN]
+
+```
+                  AITKEN BIBLE FOR THE AMERICAN PUBLIC
+
+
+
+ =========================== NOTE =========================== 
+
+  
+  On April 27, 2023, on page H2070, in the second column, the 
+following appeared: AITKIN BIBLE FOR THE AMERICAN PUBLIC
+  
+  The online version has been corrected to read: AITKEN BIBLE FOR 
+THE AMERICAN PUBLIC
+
+
+ ========================= END NOTE ========================= 
+
+
+  (Mr. OGLES asked and was given permission to address the House for 1 
+minute.)
+  Mr. OGLES. Mr. Speaker, today I rise to recognize and honor the 
+bravery of one man, Mr. Robert Aitken, the first printer for the 
+Journals of Congress.
+  Prior to the American Revolution, all Bibles entering America were 
+imported from Britain.
+  Shortly after America declared its independence, Mr. Aitken 
+petitioned the Continental Congress to approve a version of the Bible 
+for use in schools.
+
+
+ =========================== NOTE =========================== 
+
+  
+  On April 27, 2023, on page H2070, in the second column, the 
+following appeared: Shortly after America declared its 
+independence, Mr. Aitkin petitioned the Continental Congress to 
+approve a
+  
+  The online version has been corrected to read: Shortly after 
+America declared its independence, Mr. Aitken petitioned the 
+Continental Congress to approve a
+
+
+ ========================= END NOTE ========================= 
+
+
+  This text became the first Bible printed in English in North America 
+and the first Bible approved and recommended by the American Congress.
+  Our Founders keenly understood the importance of religious liberty, 
+and I remain thankful for their integrity in recognizing the Holy 
+Scriptures as a document worth protecting.
+  Accordingly, I include in the Record the Aitken Bible to ensure that 
+this document is made public to the American people throughout history. 
+It can be found at: https://americanbibleproject.org/bible.
+
+
+ =========================== NOTE =========================== 
+
+  
+  On April 27, 2023, on page H2070, in the second column, the 
+following appeared: Accordingly, I include in the Record the 
+Aitkin Bible to ensure that this document is made public to the 
+Amer-
+  
+  The online version has been corrected to read: Accordingly, I 
+include in the Record the Aitken Bible to ensure that this 
+document is made public to the Amer-
+
+
+ ========================= END NOTE ========================= 
+
+
+  I commend the excellence of Robert Aitken and his pursuit of virtue 
+in the public square.
+
+
+ =========================== NOTE =========================== 
+
+  
+  On April 27, 2023, on page H2070, in the third column, the 
+following appeared: I commend the excellence of Robert Aitkin and 
+his pursuit of virtue in the public square.
+  
+  The online version has been corrected to read:I commend the 
+excellence of Robert Aitken and his pursuit of virtue in the 
+public square.
+
+
+ ========================= END NOTE ========================= 
+
+
+
+
+                          ____________________
+```
