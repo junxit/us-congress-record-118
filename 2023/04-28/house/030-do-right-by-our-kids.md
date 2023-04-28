@@ -1,0 +1,42 @@
+---
+granule: CREC-2023-04-28-pt1-PgH2105-3
+date: 2023-04-28
+edition: CREC
+section: HOUSE
+page: H2105
+citation: 169 Cong. Rec. H2105
+---
+
+# DO RIGHT BY OUR KIDS
+
+**Speaking:** Scholten, Hillary J. (S001221) [D-MI]
+
+```
+                          DO RIGHT BY OUR KIDS
+
+  (Ms. SCHOLTEN asked and was given permission to address the House for 
+1 minute and to revise and extend her remarks.)
+  Ms. SCHOLTEN. Mr. Speaker, today, I rise in support of the bipartisan 
+Protecting Sibling Relationships in Foster Care Act.
+  Several students from my district have written in to ask me to 
+support this essential piece of legislation. Frankly, they have a 
+really good point.
+  We know that CPS investigations and removals are traumatizing for 
+children. When we keep kids together in foster care, we protect them 
+from adverse experiences, provide them with continuity, and help 
+expedite the delivery of services to them at a critical time.
+  Currently, it is estimated that 53 to 80 percent of these children 
+are separated from one or more of their siblings while in care. This 
+can't continue.
+  There are overwhelming psychological, academic, operational, and 
+humanitarian reasons for supporting this legislation. This bill would 
+increase the placement of siblings together in foster care and 
+encourage the development of programs designed specifically for sibling 
+groups.
+  It is pragmatic, bipartisan, and, most importantly, good for our 
+kids.
+  Mr. Speaker, I call on my colleagues to do right by our children and 
+support this legislation as well.
+
+                          ____________________
+```

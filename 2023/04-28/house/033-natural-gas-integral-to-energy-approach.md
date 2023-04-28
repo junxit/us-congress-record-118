@@ -1,0 +1,49 @@
+---
+granule: CREC-2023-04-28-pt1-PgH2105-6
+date: 2023-04-28
+edition: CREC
+section: HOUSE
+page: H2105
+citation: 169 Cong. Rec. H2105
+---
+
+# NATURAL GAS INTEGRAL TO ENERGY APPROACH
+
+**Speaking:** LaMalfa, Doug (L000578) [R-CA]
+
+```
+                NATURAL GAS INTEGRAL TO ENERGY APPROACH
+
+  (Mr. LaMALFA asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LaMALFA. Mr. Speaker, today, over 187 million Americans use 
+natural gas, as well as another approximately 50 million who use 
+propane, because it is affordable and available right here in North 
+America. Over half the country uses this product.
+  Over 45 million stoves and ovens, 61 million water heaters, and 73 
+million space heaters use natural gas across the country, which 
+provides consistent, reliable energy for heating and cooking, et 
+cetera.
+  Our Nation is the largest consumer of natural gas and one of the 
+largest producers of natural gas due to the miracle of hydraulic 
+fracturing. It has become an integral and reliable part of our energy 
+arsenal over the decades.
+  Yet, States like California--and now the Biden administration--can't 
+seem to admit the unreliable alternatives that they are trying to force 
+upon all of us are not the be-all and end-all. They can't seem to admit 
+that these technologies have not advanced to the point where they can 
+rely on solar or wind, a tiny part of our grid, for all of our needs.
+
+  Democrats are content to source foreign energy to fill in the gaps 
+where their green energy falls way short. Republicans and other 
+commonsense Americans know we need an all-of-the-above energy approach 
+to fill our energy needs.
+
+[[Page H2106]]
+
+  Natural gas, oil, hydropower, geothermal, nuclear, and biomass are 
+all important parts of the grid, not just windmills, not just solar 
+panels. We need all of the above.
+
+                          ____________________
+```
