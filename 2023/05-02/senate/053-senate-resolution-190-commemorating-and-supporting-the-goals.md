@@ -1,0 +1,65 @@
+---
+granule: CREC-2023-05-02-pt1-PgS1467
+date: 2023-05-02
+edition: CREC
+section: SENATE
+page: S1467
+citation: 169 Cong. Rec. S1467
+---
+
+# SENATE RESOLUTION 190--COMMEMORATING AND SUPPORTING THE GOALS OF "WORLD QUANTUM DAY"
+
+**Measures:** S.Res. 190
+
+```
+   SENATE RESOLUTION 190--COMMEMORATING AND SUPPORTING THE GOALS OF 
+                         ``WORLD QUANTUM DAY''
+
+  Mr. YOUNG (for himself and Ms. Hassan) submitted the following 
+resolution; which was considered and agreed to:
+
+                              S. Res. 190
+
+       Whereas quantum physics describes nature at the scale of 
+     atoms and subatomic particles;
+       Whereas ``World Quantum Day'' is celebrated by scientists 
+     in more than 65 countries to promote public understanding of 
+     quantum science and technology around the world;
+       Whereas the United States has recognized quantum 
+     information science and technology as a key technology area 
+     for economic competition;
+       Whereas quantum physics helps us to understand and develop 
+     technologies critical to everyday life, such as GPS, 
+     semiconductors, and lasers;
+       Whereas quantum information science is a multidisciplinary 
+     field, bridging science, technology, engineering, and 
+     mathematics (referred to in this preamble as ``STEM'');
+       Whereas STEM is a critical part of education for children, 
+     and aptitude in STEM is essential for a knowledge-based 
+     society and for economic competition;
+       Whereas the United States needs to reinforce STEM education 
+     for all students in order to better prepare children for 
+     future careers in emerging technologies, including quantum, 
+     to succeed in a 21st-century economy;
+       Whereas STEM can be a fun and interesting part of education 
+     for children, and learning about quantum principles of 
+     superposition and entanglement can be an engaging way to 
+     teach children and attract the children to study STEM;
+       Whereas the Planck constant is a fundamental constant 
+     governing quantum physics, which is used to define universal 
+     measurements such as the kilogram; and
+       Whereas the rounded first significant digits of the Planck 
+     constant are 4.14, and thus April 14 of each year is 
+     internationally recognized as ``World Quantum Day'': Now, 
+     therefore, be it
+       Resolved, That the Senate--
+       (1) supports the goals of ``World Quantum Day'' to 
+     recognize and celebrate the role that quantum physics plays 
+     in our daily lives; and
+       (2) encourages schools and educators to observe the day 
+     with appropriate activities that teach students about quantum 
+     physics and engage students in the study of science, 
+     technology, engineering, and mathematics.
+
+                          ____________________
+```
