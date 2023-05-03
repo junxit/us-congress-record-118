@@ -1,0 +1,31 @@
+---
+granule: CREC-2023-05-03-pt1-PgS1501-3
+date: 2023-05-03
+edition: CREC
+section: SENATE
+page: S1501
+citation: 169 Cong. Rec. S1501
+---
+
+# TRIBUTE TO SATOURI ROBINS
+
+**Speaking:** Rounds, Mike (R000605) [R-SD]
+
+```
+                       TRIBUTE TO SATOURI ROBINS
+
+● Mr. ROUNDS. Madam President, today I recognize Satouri Robins, 
+an intern in my Washington, DC, office, for all the hard work she has 
+done on behalf of my office and the state of South Dakota.
+  Ms. Robins is a graduate of Mission Viejo High School in Mission 
+Viejo, CA. Currently, she is attending New York University, where she 
+studies international relations and French. Ms. Robins is a dedicated 
+and diligent individual who has been devoted to getting the most out of 
+her internship experience. Ms. Robins has been a true asset to my 
+office.
+  I extend my sincere thanks and appreciation to Ms. Robins for all of 
+the work she has done and wish her continued success in the years to 
+come.●
+
+                          ____________________
+```
