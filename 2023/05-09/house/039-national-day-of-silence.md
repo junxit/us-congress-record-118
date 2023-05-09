@@ -1,0 +1,41 @@
+---
+granule: CREC-2023-05-09-pt1-PgH2155-2
+date: 2023-05-09
+edition: CREC
+section: HOUSE
+page: H2155
+citation: 169 Cong. Rec. H2155
+---
+
+# NATIONAL DAY OF SILENCE
+
+**Speaking:** Panetta, Jimmy (P000613) [D-CA]
+
+```
+                        NATIONAL DAY OF SILENCE
+
+  (Mr. PANETTA asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. PANETTA. Mr. Speaker, I rise to recognize the students and allies 
+who marked the National Day of Silence. On this day, people around the 
+country and in California's 19th Congressional District stand in 
+solidarity with the LGBTQ community by taking a vow of silence.
+  By doing this, students raise awareness on the challenges and the 
+hurdles that continue to face our LGBTQ youth and their fellow 
+classmates.
+  One inspiring young leader in my district is Latisha Vivian Chen 
+Gladney from Santa Cruz High School. Latisha explained that it is still 
+a struggle to get their voices heard in their fight for equal rights. 
+Yet, it is through their act of silence that they can represent their 
+community, recognize the people before us who fought for LGBTQ rights, 
+and be reinvigorated to continue our fight to educate future 
+generations.
+  So thanks to Latisha and others who, through their silence, are 
+giving a voice to so many people and inspiring us in Congress to 
+empower students in our communities, protect them from discrimination 
+and harassment, and to provide the LGBTQ community with the support 
+that they need to feel safe and secure in our classrooms, out in our 
+community, and all across our country.
+
+                          ____________________
+```

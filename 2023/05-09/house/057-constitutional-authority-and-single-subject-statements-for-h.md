@@ -1,0 +1,22 @@
+---
+granule: CREC-2023-05-09-pt1-PgH2172-8
+date: 2023-05-09
+edition: CREC
+section: HOUSE
+page: H2172
+citation: 169 Cong. Rec. H2172
+---
+
+# Constitutional Authority and Single Subject Statements for H.R. 3133
+
+**Measures:** H.R. 3133
+
+```
+           By Ms. CHU:
+       H.R. 3133.
+       Congress has the power to enact this legislation pursuant 
+     to the following:
+       Article I, Section 8, Clause 18
+       The single subject of this legislation is:
+       Health
+```
