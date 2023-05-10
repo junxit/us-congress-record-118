@@ -1,0 +1,39 @@
+---
+granule: CREC-2023-05-10-pt1-PgH2182-6
+date: 2023-05-10
+edition: CREC
+section: HOUSE
+page: H2182
+citation: 169 Cong. Rec. H2182
+---
+
+# HONORING MRS. JANE JESSEN
+
+**Speaking:** Flood, Mike (F000474) [R-NE]
+
+```
+                       HONORING MRS. JANE JESSEN
+
+  (Mr. FLOOD asked and was given permission to address the House for 1 
+minute.)
+  Mr. FLOOD. Mr. Speaker, I rise today to honor one of Nebraska's 
+finest elementary educators, Mrs. Jane Jessen of Norfolk, Nebraska. 
+Mrs. Jessen has taught at Sacred Heart Elementary School and Norfolk 
+Catholic School since 1984.
+  Every single day in the classroom, she worked hard to inspire each 
+student to find their own path and to celebrate what makes them a very 
+important person.
+  Jane has lived her life to help others. She has touched the lives of 
+so many not only in the classroom, but she has also touched the lives 
+of those who have witnessed her resilience by living her faith during 
+times of tragedy and sorrow.
+  Norfolk Catholic School won the lottery of teachers when Mrs. Jane 
+Jessen went to work for the students.
+  Mr. Speaker, on behalf of everybody in the First Congressional 
+District, I thank my fifth grade teacher, Sacred Heart School, and 
+Norfolk Catholic, Jane Jessen, for everything she has done for our 
+State and our Nation.
+  Mr. Speaker, I wish Mrs. Jessen a happy retirement.
+
+                          ____________________
+```
