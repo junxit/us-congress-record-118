@@ -1,0 +1,38 @@
+---
+granule: CREC-2023-05-11-pt1-PgH2296-4
+date: 2023-05-11
+edition: CREC
+section: HOUSE
+page: H2296
+citation: 169 Cong. Rec. H2296
+---
+
+# SECURE BORDERS
+
+**Speaking:** Payne, Donald M. (P000604) [D-NJ]
+
+```
+                             SECURE BORDERS
+
+  (Mr. PAYNE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. PAYNE. Mr. Speaker, I rise today to discuss the Secure the Border 
+Act.
+  A few years ago, Americans were horrified to see pictures and videos 
+of immigrant children in cages. But the MAGA Republicans thought this 
+policy was a great idea.
+  Thankfully, the Biden administration ended this cruel and inhumane 
+practice, but these same MAGA Republicans want to bring it back. They 
+want to punish children because their parents want to become U.S. 
+citizens.
+  This bill would remove all the protections for immigrant children at 
+the border, and it allows them to be detained in cages in Federal 
+facilities indefinitely.
+  The Statue of Liberty, the symbol of America, tells the world that 
+our country is open to all people. It invites them to come here and 
+fulfill their dreams.
+  However, this anti-American bill represents the opposite, and it is 
+an embarrassment and shameful that it was introduced at all.
+
+                          ____________________
+```

@@ -1,0 +1,41 @@
+---
+granule: CREC-2023-05-11-pt1-PgH2297-3
+date: 2023-05-11
+edition: CREC
+section: HOUSE
+page: H2297
+citation: 169 Cong. Rec. H2297
+---
+
+# STOCK BUYBACKS IN DEFENSE
+
+**Speaking:** Deluzio, Christopher R. (D000530) [D-PA]
+
+```
+                       STOCK BUYBACKS IN DEFENSE
+
+  (Mr. DELUZIO asked and was given permission to address the House for 
+1 minute.)
+  Mr. DELUZIO. Mr. Speaker, the defense industrial base is dominated by 
+a handful of massive corporations that have gobbled up competitors. 
+These five companies have a lot of power and responsibility to supply 
+our military. But what are they doing with that power? Are they 
+investing in innovation?
+  They are enriching themselves with stock buybacks and shareholder 
+dividends, fueled by public money, while shrinking their investments to 
+innovation.
+  The Pentagon has reported that over the past decade, research and 
+development is down, but corporate payouts for prime contractors are 
+up.
+  Meanwhile, they are lobbying Congress for more cash every year.
+  Top brass warn that late, over-budget defense orders threaten our 
+readiness. National security shouldn't be subject to the whims of Wall 
+Street or crazy ideas of shareholder primacy. Public money shouldn't 
+bankroll stock buybacks.
+  It doesn't have to be this way. We should, once again, ban buybacks. 
+They used to be illegal, and should be again.
+  We need smarter industrial policy to break up these monopolies so we 
+have got real competition in the defense industry.
+
+                          ____________________
+```
