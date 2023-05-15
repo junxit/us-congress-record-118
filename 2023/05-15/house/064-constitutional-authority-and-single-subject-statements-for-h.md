@@ -1,0 +1,24 @@
+---
+granule: CREC-2023-05-15-pt1-PgH2347-10
+date: 2023-05-15
+edition: CREC
+section: HOUSE
+page: H2347
+citation: 169 Cong. Rec. H2347
+---
+
+# Constitutional Authority and Single Subject Statements for H.R. 3287
+
+**Measures:** H.R. 3287
+
+```
+           By Mr. BALDERSON:
+       H.R. 3287.
+       Congress has the power to enact this legislation pursuant 
+     to the following:
+       Congress has the power to enact this legislation pursuant 
+     to Section 8 of Article I of the United States Constitution.
+       The single subject of this legislation is:
+       To expedite broadband deployment by streamlining permitting 
+     reviews.
+```

@@ -1,0 +1,41 @@
+---
+granule: CREC-2023-05-15-pt1-PgH2333
+date: 2023-05-15
+edition: CREC
+section: HOUSE
+page: H2333
+citation: 169 Cong. Rec. H2333
+---
+
+# HONORING DAVID DISTEFANO
+
+**Speaking:** Carey, Mike (C001126) [R-OH]
+
+```
+                        HONORING DAVID DISTEFANO
+
+  (Mr. CAREY asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. CAREY. Madam Speaker, today I rise to honor my dear friend, David 
+DiStefano. Since November 4, 2021, Dave has been serving the people of 
+Ohio's 15th Congressional District as our chief of staff.
+  Roughly 36 hours after I won the special election on November 2, 
+2021, Dave and I walked into an empty room in the Rayburn House Office 
+Building with no phones, no computers, and no staff. In fact, Dave and 
+I had to scramble just to find out what we were actually being asked to 
+vote on that evening.
+  In short order, with Dave's leadership and tireless work, we were 
+able to not only fill our staff positions, but we were able to fill 
+them with arguably the best team on the Hill and in Ohio.
+  While Dave officially left our office last Friday, you can rest 
+assure, Madam Speaker, that he won't be too far away. Dave and I have 
+been friends and colleagues for over 30 years. From introducing me to 
+my wife, Meghan, as well as being the godfather to my oldest son, 
+Prescott, Dave is more like family.
+  I wish Dave, his wife, Karen, and their son, Vince, all the best as 
+they embark on this new journey.
+  I will end by saying the simplest but sometimes most underused phrase 
+to my dear friend--even by me: Thank you.
+
+                          ____________________
+```

@@ -1,0 +1,34 @@
+---
+granule: CREC-2023-05-15-pt1-PgH2320-4
+date: 2023-05-15
+edition: CREC
+section: HOUSE
+page: H2320
+citation: 169 Cong. Rec. H2320
+---
+
+# RECOGNIZING LIFESPAN RESOURCES
+
+**Speaking:** Houchin, Erin (H001093) [R-IN]
+
+```
+                     RECOGNIZING LIFESPAN RESOURCES
+
+  (Mrs. HOUCHIN asked and was given permission to address the House for 
+1 minute and to revise and extend her remarks.)
+  Mrs. HOUCHIN. Mr. Speaker, ask Hoosiers in New Albany what LifeSpan 
+Resources is and they will tell you it is a key part of the community. 
+Their organization works to support independence and quality of life 
+for people across southern Indiana through their advocacy and client 
+services, and they have great leaders, like Lora Clark, leading the 
+charge.
+  Happy 50 years of helping Hoosiers in Clark, Floyd, Harrison, and 
+Scott Counties live independently. That is 50 years of home-delivered 
+meals, transportation assistance, and numerous in-home services.
+  I am sorry I missed the big celebration at IU Southeast in New Albany 
+last week, but I am proud of the work you do.
+  On behalf of Hoosiers across our district, I congratulate and thank 
+them for 50 years.
+
+                          ____________________
+```
