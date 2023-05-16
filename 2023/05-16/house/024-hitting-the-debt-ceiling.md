@@ -1,0 +1,42 @@
+---
+granule: CREC-2023-05-16-pt1-PgH2359-7
+date: 2023-05-16
+edition: CREC
+section: HOUSE
+page: H2359
+citation: 169 Cong. Rec. H2359
+---
+
+# HITTING THE DEBT CEILING
+
+**Speaking:** Fulcher, Russ (F000469) [R-ID]
+
+```
+                        HITTING THE DEBT CEILING
+
+  (Mr. FULCHER asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. FULCHER. Mr. Speaker, in approximately 2 weeks, our country will 
+hit its debt ceiling.
+  House Republicans understand that this would be disastrous for our 
+already fragile economy. That is why we took decisive action to address 
+this crisis responsibly and sensibly by passing the Limit, Save, Grow 
+Act. This legislation would not only end the debt limit crisis, but it 
+would also address the root cause of that crisis: Washington's 
+irresponsible spending.
+  Since President Biden took office, the 10-year trajectory on Federal 
+spending has increased by a staggering $10 trillion.
+  While House Republicans have been hard at work crafting solutions to 
+the debt ceiling, this administration and House Democrats have wasted 
+valuable time, putting our Nation's financial stability at risk.
+  Two weeks ago, the White House press secretary flatly said the 
+President is ``not going to negotiate on the debt ceiling.'' That is 
+critical time that could have been spent on negotiations, not political 
+stunts.
+  To make matters worse, President Biden is now leaving for an 8-day 
+trip to Asia as our country teeters on the brink of default.
+  It is time for the other side to stop playing politics. We are out of 
+time.
+
+                          ____________________
+```

@@ -1,0 +1,38 @@
+---
+granule: CREC-2023-05-16-pt1-PgS1677
+date: 2023-05-16
+edition: CREC
+section: SENATE
+page: S1677
+citation: 169 Cong. Rec. S1677
+---
+
+# TRIBUTE TO PAUL CASASCO
+
+**Speaking:** Van Hollen, Chris (V000128) [D-MD]
+
+```
+                        TRIBUTE TO PAUL CASASCO
+
+  Mr. VAN HOLLEN. Mr. President, I rise today to honor the achievements 
+of Mr. Paul Casasco, a senior audio operator for the Senate Chamber, on 
+the occasion of his retirement.
+  Maryland is home to a robust Federal workforce that serves our 
+country with pride. Federal employees work day-in and day-out to 
+provide vital services to the American people, and I have the honor of 
+representing many of these dedicated individuals.
+  A native of Howard County, MD, Paul Casasco has served the U.S. 
+Senate with distinction for 37 years. Hired in April 1986, Mr. Casasco 
+was a member of the original team that piloted live national coverage 
+of the Senate floor. Within weeks, the U.S. Senate voted to make this 
+coverage permanent, cementing public access to and transparency of its 
+procedures and activities. Mr. Casasco's contributions have ensured 
+that the Senate Recording Studio has become a modern facility that 
+caters to the body of the Senate. He is the last serving member of the 
+original 1986 team.
+  Paul Casasco's dedication will be sorely missed in the U.S. Senate. 
+His colleagues and I join in wishing him all the best for a fulfilling 
+and enjoyable next chapter in retirement.
+
+                          ____________________
+```
