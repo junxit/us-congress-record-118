@@ -1,0 +1,38 @@
+---
+granule: CREC-2023-05-17-pt1-PgH2408-3
+date: 2023-05-17
+edition: CREC
+section: HOUSE
+page: H2408
+citation: 169 Cong. Rec. H2408
+---
+
+# TELLING THE TRUTH MATTERS
+
+**Speaking:** Payne, Donald M. (P000604) [D-NJ]
+
+**Measures:** H.Res. 114
+
+```
+                       TELLING THE TRUTH MATTERS
+
+  (Mr. PAYNE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. PAYNE. Madam Speaker, I rise today to discuss H. Res. 114. The 
+resolution would expel a Member of Congress who faces 13 Federal 
+charges, such as stealing public funds and lying on Federal disclosure 
+forms. In addition, this Member has lied about his education, 
+employment history, and even his ethnic heritage.
+  This resolution is about more than one Member of Congress. It is 
+about more than the typical political party play that poisons this 
+Chamber.
+  It is about what is expected from a Member of Congress. It is about 
+ethics, morality, and character. It is an opportunity to restore faith 
+in the United States' Congress. Finally, it is an opportunity to show 
+the country that there are consequences to actions.
+  Many of us have children, and we tell our children that telling the 
+truth matters. Now we have a chance to support our words with action 
+and declare that such behavior will not be tolerated in Congress.
+
+                          ____________________
+```

@@ -1,0 +1,44 @@
+---
+granule: CREC-2023-05-17-pt1-PgH2388-6
+date: 2023-05-17
+edition: CREC
+section: HOUSE
+page: H2388
+citation: 169 Cong. Rec. H2388
+---
+
+# INTERNATIONAL TRIP CANCELED
+
+**Speaking:** Rose, John W. (R000612) [R-TN]
+
+```
+                      INTERNATIONAL TRIP CANCELED
+
+  (Mr. ROSE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+
+[[Page H2389]]
+
+  
+
+  Mr. ROSE. Mr. Speaker, once again, Americans are waking up to another 
+embarrassing headline from another self-inflicted wound from President 
+Biden.
+  President Biden delayed almost 100 days to begin good faith 
+negotiations with Speaker McCarthy. In the meantime, House Republicans 
+passed a bill that is a reasonable, sensible, and responsible solution 
+to the default Democrats' debt ceiling crisis.
+  Unfortunately, because of President Biden's unnecessary delay, the 
+President has to cancel part of his international trip to Japan, Papua 
+New Guinea, and Australia.
+  The cancelation is extremely disappointing for Papua New Guinea, 
+which spent 6 months preparing for its first-ever visit from a sitting 
+United States President. They even designated the day of the 
+President's visit as a national holiday.
+  Now, after this embarrassment for our country that is sure to result 
+in a waste of taxpayer dollars, Americans can only hope the President 
+has started to take this self-made crisis seriously. If not, he will be 
+to blame for a default on our Nation's debt.
+
+                          ____________________
+```

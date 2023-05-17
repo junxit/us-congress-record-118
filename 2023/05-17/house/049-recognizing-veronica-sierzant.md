@@ -1,0 +1,38 @@
+---
+granule: CREC-2023-05-17-pt1-PgH2408-4
+date: 2023-05-17
+edition: CREC
+section: HOUSE
+page: H2408
+citation: 169 Cong. Rec. H2408
+---
+
+# RECOGNIZING VERONICA SIERZANT
+
+**Speaking:** Carter, Earl L. "Buddy" (C001103) [R-GA]
+
+```
+                     RECOGNIZING VERONICA SIERZANT
+
+  (Mr. CARTER of Georgia asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. CARTER of Georgia. Madam Speaker, I rise today to celebrate 
+Veronica Sierzant for winning the Lawton M. Calhoun award from the 
+Greater Savannah Athletics Hall of Fame.
+  The Calhoun award is presented annually to the most outstanding 
+athlete across all sports in Chatham County. Veronica is a senior at 
+Islands High School and has committed to playing volleyball next year 
+at Syracuse University where both her parents competed in athletics.
+  She was selected as the Savannah Morning News Player of the Year her 
+junior year and has been the first three-time champion of the Hollis 
+Stacy award, which is given to the most outstanding female athlete in 
+Savannah.
+  During her senior season, she was voted team captain and led the 
+Raiders to a Region 3-4A title.
+  Off the court, Veronica is a member of the National Honor Society, 
+the Spanish National Honor Society, and the Future Farmers of America.
+  Madam Speaker, I wish her the best of luck and know she will 
+represent the First District well at Syracuse University this fall.
+
+                          ____________________
+```
