@@ -1,0 +1,42 @@
+---
+granule: CREC-2023-05-18-pt1-PgH2442
+date: 2023-05-18
+edition: CREC
+section: HOUSE
+page: H2442
+citation: 169 Cong. Rec. H2442
+---
+
+# HONORING FRED ALEXANDER OF GLYNN COUNTY, GEORGIA
+
+**Speaking:** Carter, Earl L. "Buddy" (C001103) [R-GA]
+
+```
+            HONORING FRED ALEXANDER OF GLYNN COUNTY, GEORGIA
+
+  (Mr. CARTER of Georgia asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. CARTER of Georgia. Mr. Speaker, I rise today to honor the life of 
+Mr. Fred Alexander of Glynn County, Georgia.
+  Born in 1940 in Vidalia, Georgia, Fred was a standout athlete in 
+football, basketball, baseball, and track. After graduating from Lyons 
+High School, he went on to attend Georgia Teachers College, then Austin 
+Peay State University in Tennessee on a football scholarship.
+  Along with his brother Bill, Fred owned the Island Grove Motel before 
+joining the local banking industry, an industry he worked in for 35 
+years.
+  Outside of his professional life, Fred was a longtime member of St. 
+Simons United Methodist Church, a past president of the Brunswick 
+Exchange Club, and a member of Boys and Girls Club Board of Directors.
+  Being an avid golfer, he also served on the Board of Directors of the 
+Brunswick Country Club. He enjoyed spending his time off the golf 
+course playing gin rummy and dancing with his beloved wife, Janie.
+  One of his newest hobbies was waving good morning to the Glynn Middle 
+School students as they passed by his Lanier Boulevard home.
+  Fred is survived by his wife, five children, and a whole host of 
+grandchildren and great-grandchildren.
+  My sincerest condolences go out to the Alexander family during this 
+difficult time.
+
+                          ____________________
+```

@@ -1,0 +1,37 @@
+---
+granule: CREC-2023-05-18-pt1-PgH2443
+date: 2023-05-18
+edition: CREC
+section: HOUSE
+page: H2443
+citation: 169 Cong. Rec. H2443
+---
+
+# NATIONAL POLICE WEEK
+
+**Speaking:** Meuser, Daniel (M001204) [R-PA]
+
+```
+                          NATIONAL POLICE WEEK
+
+  (Mr. MEUSER asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. MEUSER. Mr. Speaker, as we celebrate National Police Week, we 
+honor and thank the brave men and women of law enforcement. Just this 
+week we passed the POLICE Act, and I proudly supported it.
+  Public safety is the most important factor to a high quality of life 
+and perhaps the number one function of government, but, sadly, we have 
+seen a rise in anti-law enforcement rhetoric and violence.
+  Already this year, 135 officers have been shot in the line of duty, a 
+more than 50 percent increase from this time in 2020. This should be 
+agonizing to all Americans.
+  As well we must, as elected officials, always show respect for the 
+work and authority of the police. If we don't, portions of the public 
+will not, and weakening the thin blue line is dangerous to police 
+officers and to society as a whole.
+  To all those who put on the uniform every day, we say thank you to 
+America's finest. As your Representative in Congress and the son of a 
+former police detective, know that I will always back the blue.
+
+                          ____________________
+```
