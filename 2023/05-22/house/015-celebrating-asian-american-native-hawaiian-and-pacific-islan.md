@@ -1,0 +1,45 @@
+---
+granule: CREC-2023-05-22-pt1-PgH2467-7
+date: 2023-05-22
+edition: CREC
+section: HOUSE
+page: H2467
+citation: 169 Cong. Rec. H2467
+---
+
+# CELEBRATING ASIAN AMERICAN, NATIVE HAWAIIAN, AND PACIFIC ISLANDER HERITAGE MONTH
+
+**Speaking:** Tokuda, Jill N. (T000487) [D-HI]
+
+```
+   CELEBRATING ASIAN AMERICAN, NATIVE HAWAIIAN, AND PACIFIC ISLANDER 
+                             HERITAGE MONTH
+
+  (Ms. TOKUDA asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Ms. TOKUDA. Mr. Speaker, I rise in celebration of Asian American, 
+Native
+
+[[Page H2468]]
+
+Hawaiian, and Pacific Islander Heritage Month.
+  As a ``fourth generation,'' ``yonsei,'' Okinawan American, I believe 
+this month is not only a chance to recognize our communities and their 
+contributions, but it is also deeply personal to me as I think about 
+the future we want to build for the next generation for our 
+``children,'' ``keiki.''
+  AANHPIs are the fastest-growing population in the United States. We 
+are a diverse diaspora. We are in every State across the country.
+  While we have made great progress, we have also seen an unprecedented 
+rise in xenophobia, discrimination, and violence nationwide, but we 
+will not let these forces of hate hold us down.
+  The stories of AANHPI people in our country are of grit, 
+perseverance, and courage. They are stories that continue today through 
+the tireless advocacy of those fighting to defend our civil rights and 
+our democracy and through hardworking men and women keeping the 
+American Dream alive.
+  I invite my colleagues to join me in celebrating Asian American, 
+Native Hawaiian, and Pacific Islander Heritage Month.
+
+                          ____________________
+```

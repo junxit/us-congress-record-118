@@ -1,0 +1,38 @@
+---
+granule: CREC-2023-05-22-pt1-PgH2486
+date: 2023-05-22
+edition: CREC
+section: HOUSE
+page: H2486
+citation: 169 Cong. Rec. H2486
+---
+
+# COMMEMORATING THE LIFE AND LEGACY OF DR. NICHOLAS BALABKINS
+
+**Speaking:** Wild, Susan (W000826) [D-PA]
+
+```
+      COMMEMORATING THE LIFE AND LEGACY OF DR. NICHOLAS BALABKINS
+
+  (Ms. WILD asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. WILD. Mr. Speaker, I rise today to commemorate the life and 
+legacy of Dr. Nicholas Balabkins of Bethlehem, Pennsylvania.
+  Dr. Balabkins was born in 1926 in Latvia and immigrated to the United 
+States after World War II where he received his master's and doctorate 
+degrees in economics.
+  For decades, Dr. Balabkins was a staple of the Lehigh University 
+community, known for his ready smile and colorful bow ties and 
+recognized by awards for his teaching excellence.
+  He wrote a dozen books and published over 40 professional economics 
+articles, earning worldwide recognition for his work.
+  Following the collapse of the Soviet Union, Dr. Balabkins received 
+the highest civilian honor from his home country of Latvia: Order of 
+the Three Stars.
+  Dr. Balabkins will be remembered as an extraordinary professor, 
+neighbor, colleague, and friend. We honor his lifelong dedication to 
+shaping the lives of the students who were lucky enough to pass through 
+his classroom.
+
+                          ____________________
+```
