@@ -1,0 +1,43 @@
+---
+granule: CREC-2023-05-23-pt1-PgH2532-4
+date: 2023-05-23
+edition: CREC
+section: HOUSE
+page: H2532
+citation: 169 Cong. Rec. H2532
+---
+
+# STUDENT DEBT RELIEF INITIATIVE
+
+**Speaking:** McClellan, Jennifer L. (M001227) [D-VA]
+
+```
+                     STUDENT DEBT RELIEF INITIATIVE
+
+  (Mrs. McCLELLAN asked and was given permission to address the House 
+for 1 minute and to revise and extend her remarks.)
+  Mrs. McCLELLAN. Mr. Speaker, I rise today to oppose House 
+Republicans' extreme attempt to roll back President Biden's one-time 
+emergency student debt relief initiative.
+  This bill would undoubtedly jeopardize the financial well-being of 
+millions of Americans. This bill is cruel and would rescind life-
+changing debt relief of up to $20,000. Ninety percent of Americans who 
+are eligible to receive this relief earn less than $75,000 per year.
+  The bill would also repeal the student loan payment pause and force 
+borrowers to unexpectedly confront months of accumulated payments and 
+interests. Forty-three million borrowers have benefited from the pause 
+and saved on average $150 per month in
+
+[[Page H2533]]
+
+interest. At a time when tuition continues to rise exponentially, 
+countless students and graduates are being crushed by tens of thousands 
+of dollars in student loan debt.
+  President Biden's cancellation would be transformative for millions 
+of Americans who sought to build intergenerational wealth and improve 
+their economic circumstances through education. While House Republicans 
+try to make it harder for young Americans to survive, my Democratic 
+colleagues and I will continue to fight for much provided relief.
+
+                          ____________________
+```

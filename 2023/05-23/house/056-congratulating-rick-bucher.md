@@ -1,0 +1,36 @@
+---
+granule: CREC-2023-05-23-pt1-PgH2534-2
+date: 2023-05-23
+edition: CREC
+section: HOUSE
+page: H2534
+citation: 169 Cong. Rec. H2534
+---
+
+# CONGRATULATING RICK BUCHER
+
+**Speaking:** Mrvan, Frank J. (M001214) [D-IN]
+
+```
+                       CONGRATULATING RICK BUCHER
+
+  (Mr. MRVAN asked and was given permission to address the House for 1 
+minute.)
+  Mr. MRVAN. Mr. Speaker, it is with great respect that I rise today to 
+congratulate Mr. Rick Bucher, assistant director for District 7 of the 
+United Steelworkers, on his retirement.
+  Rick began his career as a pipefitter with the Steelworkers Local 
+6103 in Portage in 1978. Throughout his 45-year career, Rick 
+consistently demonstrated his commitment to our union brothers and 
+sisters as he held multiple union leadership roles, including grievance 
+chairman, international staff representative, and District 7 Sub 5 
+director.
+  Rick is the embodiment of the unwavering dedication, loyalty, and 
+hard work exemplified by the incredible members of the United 
+Steelworkers.
+  For his lifetime of exceptional service and outstanding leadership, 
+Rick is worthy of the highest praise, and I wish him all the best in 
+his retirement.
+
+                          ____________________
+```

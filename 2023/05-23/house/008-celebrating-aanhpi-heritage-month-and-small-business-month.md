@@ -1,0 +1,50 @@
+---
+granule: CREC-2023-05-23-pt1-PgH2507
+date: 2023-05-23
+edition: CREC
+section: HOUSE
+page: H2507
+citation: 169 Cong. Rec. H2507
+---
+
+# CELEBRATING AANHPI HERITAGE MONTH AND SMALL BUSINESS MONTH
+
+**Speaking:** Lee, Susie (L000590) [D-NV]
+
+```
+                              {time}  1015
+       CELEBRATING AANHPI HERITAGE MONTH AND SMALL BUSINESS MONTH
+
+  The SPEAKER pro tempore. The Chair recognizes the gentlewoman from 
+Nevada (Ms. Lee) for 5 minutes.
+  Ms. LEE of Nevada. Mr. Speaker, I rise today in honor of two 
+celebrations that are incredibly important to my community: Asian 
+American, Native Hawaiian, and Pacific Islander Heritage Month and 
+Small Business Month.
+  As the Representative of one of the largest and fastest-growing 
+AANHPI communities in the country, I am beyond proud of the 
+contributions our small business owners have made to our thriving 
+southern Nevada economy, which include folks like: Alex Zen who curates 
+Chinatown's Zen D'core, a boutique jewelry shop offering minimalist 
+decor and jewelry; Amy Zhang Warthan, owner of No. 1 Boba Tea, which 
+has proudly served the Las Vegas community since 1998; and leaders like 
+Ken Cheng, manager of Chinatown Mall.
+  They have all worked tirelessly to create thriving commercial centers 
+for our small businesses.
+  All of this amazing development would not be possible without the 
+support of groups like the Nevada AAPI Chamber of Commerce, the Las 
+Vegas Asian Chamber of Commerce, the Las Vegas India Chamber of 
+Commerce, the Philippine Chamber of Commerce, the Vietnamese American 
+Chamber of Commerce, the Korean American Chamber of Commerce, the Sri 
+Lanka America Association of Las Vegas, and so many more. They all work 
+day in and day out to serve our AANHPI businesses across the Silver 
+State.
+  From Chinatown to the Las Vegas strip and across the valley, southern 
+Nevada draws its strength in our diversity, and the AANHPI Nevadans are 
+key to that success.
+  Thank you to all of the AANHPI Nevadans who put the American Dream on 
+full display by pursuing their passions and growing our small business 
+economy.
+
+                          ____________________
+```
