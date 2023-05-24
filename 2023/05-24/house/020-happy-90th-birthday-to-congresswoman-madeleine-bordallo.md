@@ -1,0 +1,41 @@
+---
+granule: CREC-2023-05-24-pt1-PgH2556
+date: 2023-05-24
+edition: CREC
+section: HOUSE
+page: H2556
+citation: 169 Cong. Rec. H2556
+---
+
+# HAPPY 90TH BIRTHDAY TO CONGRESSWOMAN MADELEINE BORDALLO
+
+**Speaking:** Moylan, James C. (M001219) [R-GU]
+
+```
+        HAPPY 90TH BIRTHDAY TO CONGRESSWOMAN MADELEINE BORDALLO
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from Guam 
+(Mr. Moylan) for 5 minutes.
+  Mr. MOYLAN. Mr. Speaker, it is with distinct honor and respect that I 
+rise to recognize the Honorable Madeleine Bordallo who is celebrating 
+her 90th birthday this month. An eight-term Member of the House of 
+Representatives, Congresswoman Bordallo stood in these very sacred 
+Halls and under this historic dome for 16 years representing Guam and 
+ensuring our community needs were always prioritized on a Federal 
+level.
+  A two-term Lieutenant Governor, a senator for several terms in the 
+Guam legislature, and an iconic first lady for 8 years, Congresswoman 
+Bordallo's record with public service is vast and endless.
+  As a pioneer for education and advocate for our youth and one who has 
+always prioritized the beautification of our island, there are many 
+achievements in Guam which are credited to the work of the 
+Congresswoman. I would need several hours just to name a handful of her 
+accomplishments over the decades.
+  On behalf of a thankful Nation and island, I thank Congresswoman 
+Madeleine Bordallo for her decades of work for the people.
+  Mr. Speaker, I request this august body to join me in these sacred 
+and historic Halls of Congress to wish Congresswoman Madeleine Bordallo 
+a happy birthday and blessings for many, many more.
+
+                          ____________________
+```
