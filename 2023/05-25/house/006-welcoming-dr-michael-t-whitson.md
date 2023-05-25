@@ -1,0 +1,51 @@
+---
+granule: CREC-2023-05-25-pt1-PgH2601-5
+date: 2023-05-25
+edition: CREC
+section: HOUSE
+page: H2601
+citation: 169 Cong. Rec. H2601
+---
+
+# WELCOMING DR. MICHAEL T. WHITSON
+
+**Speaking:** Bishop, Dan (B001311) [R-NC]
+
+```
+                    WELCOMING DR. MICHAEL T. WHITSON
+
+  The SPEAKER. Without objection, the gentleman from North Carolina 
+(Mr. BISHOP) is recognized for 1 minute.
+  There was no objection.
+  Mr. BISHOP of North Carolina. Mr. Speaker, it is my honor to 
+introduce America to First Baptist Church Indian Trail in the person of 
+Pastor Mike Whitson, who opened us in prayer.
+  Pastor Whitson celebrated this past month his 40th anniversary in the 
+pulpit at First Baptist.
+  Indian Trail? You may ask, what is Indian Trail? It is a small town, 
+I would say, immediately east of Charlotte, North Carolina, except that 
+is not quite right. The mayor of Stallings, North Carolina, is in the 
+gallery. Stallings is immediately east of Charlotte, and Indian Trail 
+is immediately east of Stallings.
+  It is a small town, and in its midst, the institution of First 
+Baptist Church has over 7,000 members. In the course of the pastorate 
+of Mike Whitson, more than 7,000 people have been baptized, and they 
+have two satellite campuses.
+  In 1992, they began the Metrolina Christian Academy, which now 
+matriculates 1,477 students in one of the largest K-12 private schools 
+in our State. There is ministry after ministry--to the county jail, a 
+Russian language ministry. Where God undertakes to do His will, it can 
+be in the most unexpected of places.
+
+  It was related in the church's celebration of Mike's pastorate and 
+his 40th anniversary that, in the early days, Mike would surprise 
+everyone, certainly the men of the church, when he would bid them a 
+farewell by saying: I love you.
+  At first, they were taken aback, but after a time, they began saying 
+to Pastor Whitson: I love you.
+  That is what Pastor Whitson has meant, and the work of the Lord 
+through him and in him is a masterful thing for the Nation to behold.
+  It is my honor to have had him here in the House Chamber today.
+
+                          ____________________
+```

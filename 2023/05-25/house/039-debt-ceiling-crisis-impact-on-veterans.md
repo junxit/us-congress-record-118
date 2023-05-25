@@ -1,0 +1,40 @@
+---
+granule: CREC-2023-05-25-pt1-PgH2610-5
+date: 2023-05-25
+edition: CREC
+section: HOUSE
+page: H2610
+citation: 169 Cong. Rec. H2610
+---
+
+# DEBT CEILING CRISIS IMPACT ON VETERANS
+
+**Speaking:** Levin, Mike (L000593) [D-CA]
+
+```
+                 DEBT CEILING CRISIS IMPACT ON VETERANS
+
+  (Mr. LEVIN asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. LEVIN. Madam Speaker, I rise today in opposition to House 
+Republicans holding our economy hostage and planning to slash billions 
+of dollars from veterans' services and benefits in return for 
+maintaining the full faith and credit of the United States.
+  Republicans are delivering a one-two punch to veterans. First, their 
+default on America act would slash $30 billion from veterans' services, 
+eliminate housing vouchers for 50,000 homeless veterans, and cut 81,000 
+jobs from the Veterans Health Administration. They can say whatever 
+they want, but this is what they voted for.
+  Second, Republicans just released a bill to gut the healthcare 
+funding we promised to toxic-exposed veterans in the PACT Act.
+  How about instead of cuts to veterans' services and benefits, we 
+reduce our deficit by ending tax loopholes for the ultra wealthy and by 
+ensuring the largest corporations pay their fair share?
+  House Democrats are united in opposition to Republicans' veteran 
+funding cuts, and we will not go back on the progress we have made.
+
+  As we all head into this Memorial Day weekend, we must do better. We 
+must not default on our debts. Let's keep our promises to our veterans.
+
+                          ____________________
+```

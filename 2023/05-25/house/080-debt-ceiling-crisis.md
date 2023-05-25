@@ -1,0 +1,37 @@
+---
+granule: CREC-2023-05-25-pt1-PgH2618-2
+date: 2023-05-25
+edition: CREC
+section: HOUSE
+page: H2618
+citation: 169 Cong. Rec. H2618
+---
+
+# DEBT CEILING CRISIS
+
+**Speaking:** Plaskett, Stacey E. (P000610) [D-VI]
+
+```
+                          DEBT CEILING CRISIS
+
+  (Ms. PLASKETT asked and was given permission to address the House for 
+1 minute and to revise and extend her remarks.)
+  Ms. PLASKETT. Mr. Speaker, we are days away from defaulting on our 
+debt for the first time in our Nation's history. Extreme MAGA 
+Republicans have needlessly manufactured an economic crisis and refuse 
+to release their grip on the American people.
+  Why do I say the American people? Because the cuts that they want are 
+going to cut 7 million jobs, deprive millions access to Medicare, and 
+slash critical funding for education and food for children. For what? 
+For the shameless protection of tax cuts that they put in their bill 
+that have added $3 trillion to the debt that they now want to cover off 
+of the backs of the American people.
+  Shameless. They are shameless.
+  This flagrant disregard for the lives of everyday Americans and the 
+economic stability of our country demonstrates the House GOP's corrupt 
+and misguided priorities. Do not deprive our elders and children to 
+meet the demands and the insatiable greed of your constituents, the 
+rich American people.
+
+                          ____________________
+```

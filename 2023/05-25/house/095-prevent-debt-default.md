@@ -1,0 +1,39 @@
+---
+granule: CREC-2023-05-25-pt1-PgH2620-3
+date: 2023-05-25
+edition: CREC
+section: HOUSE
+page: H2620
+citation: 169 Cong. Rec. H2620
+---
+
+# PREVENT DEBT DEFAULT
+
+**Speaking:** Scott, Robert C. "Bobby" (S000185) [D-VA]
+
+```
+                          PREVENT DEBT DEFAULT
+
+  (Mr. SCOTT of Virginia asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. SCOTT of Virginia. Madam Speaker, I rise today to voice my 
+opposition to the House Republicans adjourning for the holiday while 
+leaving the American people in limbo.
+  I get tired of being lectured by Republicans about debts and 
+deficits. Twenty-five percent of the entire national debt was 
+accumulated under the 4 years of the Trump administration.
+  Every Democratic administration since Kennedy has left for their 
+Republican successors a better deficit situation than they inherited, 
+and every Republican administration since Nixon has left for their 
+Democratic successors a worse deficit situation than they inherited--
+all without exception.
+  Speaker McCarthy has presented a false choice: either we default on 
+our debts for the first time in history, or we agree to devastating 
+cuts in education, law enforcement, veterans benefits, food assistance, 
+border security, and healthcare and going into a recession.
+  House Republicans created this crisis. It is time they ended it by at 
+least five of them signing the discharge petition and agreeing to 
+responsibly pay our Nation's debts.
+
+                          ____________________
+```

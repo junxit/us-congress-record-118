@@ -1,0 +1,38 @@
+---
+granule: CREC-2023-05-25-pt1-PgH2618
+date: 2023-05-25
+edition: CREC
+section: HOUSE
+page: H2618
+citation: 169 Cong. Rec. H2618
+---
+
+# DEBT CEILING CRISIS
+
+**Speaking:** Hayes, Jahana (H001081) [D-CT]
+
+```
+                          DEBT CEILING CRISIS
+
+  (Mrs. HAYES asked and was given permission to address the House for 1 
+minute.)
+  Mrs. HAYES. Mr. Speaker, we are just days away from catastrophic 
+economic default. House Republicans are playing politics with the lives 
+of the American people to further an extremist agenda.
+  Putting the American economy at risk is reckless and dangerous. In my 
+district, default would eliminate 7,300 jobs, jeopardize Social 
+Security for 93,000 families, and put health benefits at risk for 
+281,000 people who rely on Medicare, Medicaid, or VA health coverage.
+  Their proposals do not solve any of our economic problems. In fact, 
+the default on America is an egregious bill that puts vulnerable 
+families at risk. Their plan would be disastrous in my State of 
+Connecticut, resulting in 2,800 kids losing access to preschool and 
+childcare, 12,000 mothers would be blocked from food assistance, and it 
+would threaten medical care for 57,000 veterans.
+  It is a disgrace that leading into Memorial Day, House Republicans 
+have ghosted the city and left.
+  Mr. Speaker, I urge my colleagues to come back to Washington, pay our 
+bills, and end this now.
+
+                          ____________________
+```

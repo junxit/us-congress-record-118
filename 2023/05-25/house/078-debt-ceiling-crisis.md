@@ -1,0 +1,41 @@
+---
+granule: CREC-2023-05-25-pt1-PgH2617-6
+date: 2023-05-25
+edition: CREC
+section: HOUSE
+page: H2617
+citation: 169 Cong. Rec. H2617
+---
+
+# DEBT CEILING CRISIS
+
+**Speaking:** Garcia, Robert (G000598) [D-CA]
+
+```
+                          DEBT CEILING CRISIS
+
+  (Mr. ROBERT GARCIA of California asked and was given permission to 
+address the House for 1 minute.)
+  Mr. ROBERT GARCIA of California. Mr. Speaker, I rise today in strong 
+opposition to the Republican plan to destroy our Nation's economy. 
+Right now hundreds of Republican Members of Congress have rushed out of 
+town to go on vacation with their friends and family. Democrats are 
+here ready to work.
+  Americans are facing the reality of losing their retirement savings, 
+jobs, and healthcare. Here are just some of the extreme demands that 
+House Republicans have made: They want to cut 100,000 jobs for 
+teachers; they want to put health insurance at risk for 21 million 
+Americans; they want to put food assistance at risk for 1 million 
+Americans.
+  This is cruel and shameful.
+  Let's be clear: House Republicans want to tank the economy and they 
+want to give tax cuts to billionaires and large corporations. We have a 
+default on our debt coming because House Republicans would rather be on 
+vacation than get to work.
+
+[[Page H2618]]
+
+  
+
+                          ____________________
+```

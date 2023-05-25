@@ -1,0 +1,35 @@
+---
+granule: CREC-2023-05-25-pt1-PgH2614
+date: 2023-05-25
+edition: CREC
+section: HOUSE
+page: H2614
+citation: 169 Cong. Rec. H2614
+---
+
+# DEBT CEILING CRISIS
+
+**Speaking:** Doggett, Lloyd (D000399) [D-TX]
+
+```
+                          DEBT CEILING CRISIS
+
+  (Mr. DOGGETT asked and was given permission to address the House for 
+1 minute.)
+  Mr. DOGGETT. Mr. Speaker, the leader they worship, Donald J. Trump, 
+is the ``king of debt,'' as he described himself.
+  Spellbound, whenever he commands, they would crash our government and 
+default on America.
+  Never concerned with the soaring Trump debt that they supported, 
+their sudden interest now in deficit reduction is really about 
+undermining education, health, environmental protection, and social 
+service initiatives that they never supported in the first place.
+  Their plan is not about debt reduction. It is only about making room 
+for another round of tax cuts that they have already scheduled for June 
+to benefit the superrich, the giant multinational corporations, those 
+who refuse to pay their fair share of our national security and other 
+vital public services.
+  Don't make Americans pay for Republican hypocrisy.
+
+                          ____________________
+```

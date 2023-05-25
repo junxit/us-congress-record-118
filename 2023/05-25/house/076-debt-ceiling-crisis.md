@@ -1,0 +1,41 @@
+---
+granule: CREC-2023-05-25-pt1-PgH2617-4
+date: 2023-05-25
+edition: CREC
+section: HOUSE
+page: H2617
+citation: 169 Cong. Rec. H2617
+---
+
+# DEBT CEILING CRISIS
+
+**Speaking:** Williams, Nikema (W000788) [D-GA]
+
+```
+                          DEBT CEILING CRISIS
+
+  (Ms. WILLIAMS of Georgia asked and was given permission to address 
+the House for 1 minute and to revise and extend her remarks.)
+  Ms. WILLIAMS of Georgia. Mr. Speaker, I rise today on behalf of the 
+children in Georgia's Fighting 5th Congressional District at risk of 
+going hungry in the face of this cruel Republican default.
+  Extreme MAGA Republicans are proposing cuts to 200,000 Head Start 
+slots and 180,000 childcare slots nationwide. You all, that is more 
+than 300,000 families who will be thrown into a devastating bind.
+  When families don't have access to care, they can't get to work, 
+making it harder to put food on the table every day. This is a real-
+life dilemma facing parents like Chelsea and Dorian in Clayton County, 
+Georgia, two mamas who are looking for jobs, but facing one major 
+roadblock: Childcare.
+  Now, extreme MAGA Republicans are threatening to make their childcare 
+search even harder. That, or risk a disastrous default on our debt. 
+Republicans are headed home for barbecues and hanging out with their 
+families making their priorities clear.
+  A great speaker once said: ``Sometimes you have to take a punch and 
+give a punch for the children.'' You all, I am ready to fight for a 
+solution on behalf of our children, and I am waiting for my Republican 
+colleagues who are brave enough to fight alongside me for the children 
+putting people over politics.
+
+                          ____________________
+```

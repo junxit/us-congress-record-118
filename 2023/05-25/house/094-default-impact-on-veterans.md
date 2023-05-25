@@ -1,0 +1,40 @@
+---
+granule: CREC-2023-05-25-pt1-PgH2620-2
+date: 2023-05-25
+edition: CREC
+section: HOUSE
+page: H2620
+citation: 169 Cong. Rec. H2620
+---
+
+# DEFAULT IMPACT ON VETERANS
+
+**Speaking:** Thompson, Mike (T000460) [D-CA]
+
+```
+                              {time}  1230
+                       DEFAULT IMPACT ON VETERANS
+
+  (Mr. THOMPSON of California asked and was given permission to address 
+the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of California. Madam Speaker, we are on the brink of 
+defaulting on our debt, and that would be apocalyptic. Millions of jobs 
+would be lost. Mortgage and credit card rates would skyrocket. 
+Retirement accounts would be devalued. A recession would be triggered. 
+The crazy math being offered by the Republicans isn't adding up.
+  The Speaker says that the defense budget and taxes are off the 
+negotiating table. That is 75 percent of the budget. Cutting the 
+remaining budget would have an even greater devastating impact on every 
+American.
+  What is worse is that the Republicans have left town while the 
+Speaker allows us to be pushed toward a default that hurts everybody, 
+including our veterans.
+  Veterans' VA appointments would be canceled. Veterans looking to buy 
+a home would be hit by higher interest rates. Veterans who have credit 
+card bills will face higher interest rates. If House Republicans cause 
+a default, then more than 7 million veterans and their families will 
+lose essential benefits that they have earned.
+  Stop this madness. Come back to work. Let's address this problem.
+
+                          ____________________
+```

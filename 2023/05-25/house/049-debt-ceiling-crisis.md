@@ -1,0 +1,42 @@
+---
+granule: CREC-2023-05-25-pt1-PgH2612-2
+date: 2023-05-25
+edition: CREC
+section: HOUSE
+page: H2612
+citation: 169 Cong. Rec. H2612
+---
+
+# DEBT CEILING CRISIS
+
+**Speaking:** Bush, Cori (B001224) [D-MO]
+
+```
+                          DEBT CEILING CRISIS
+
+  (Ms. BUSH asked and was given permission to address the House for 1 
+minute.)
+  Ms. BUSH. Madam Speaker, St. Louis and I rise against the Speaker of 
+this House sending Members of Congress home on a break as he is taking 
+our economy hostage in service of his dangerous, MAGA Republican agenda 
+designed to gut social programs that save lives.
+  We are on the brink of economic disaster because of a fabricated 
+Republican ultimatum, and the Speaker has decided to send everyone 
+home.
+  This is not a game. Real people and real lives hang in the balance, 
+but the Speaker seems intent on holding our economy hostage and 
+rewarding himself with a break, as he is bringing us to the brink of a 
+default that would devastate communities like mine in St. Louis.
+  Just over 2 years ago, the Republican Party tried to hold our 
+democracy hostage. Now they are holding our economy hostage. They are 
+gambling with Social Security checks, with Medicare and Medicaid 
+benefits, with food for children, and with people's rent money, and 
+that is a bad deal.
+  The Dems are here. The Dems are here. The Dems are here, and we are 
+saying: Where are the Republicans? Sign the discharge petition.
+  Madam Speaker, will you sign the discharge petition? Where are the 
+Republicans? Sign the discharge petition.
+  The Speaker needs to do his job.
+
+                          ____________________
+```
