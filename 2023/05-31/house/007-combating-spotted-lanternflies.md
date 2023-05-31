@@ -1,0 +1,42 @@
+---
+granule: CREC-2023-05-31-pt1-PgH2667-6
+date: 2023-05-31
+edition: CREC
+section: HOUSE
+page: H2667
+citation: 169 Cong. Rec. H2667
+---
+
+# COMBATING SPOTTED LANTERNFLIES
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+                     COMBATING SPOTTED LANTERNFLIES
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Mr. Speaker, I rise today to draw 
+attention to an invasive species attacking Pennsylvania agriculture.
+  The spotted lanternfly was first discovered in the Commonwealth in 
+2014 and has since traveled to 51 out of our 67 counties. This spotted 
+lanternfly can impact the grape, fruit tree, plant nursery, and timber 
+industries, which contribute billions of dollars each year to 
+Pennsylvania's economy.
+  In efforts to prevent the spread of the spotted lanternfly, 
+Pennsylvania has established quarantine zones, but it takes collective 
+and intentional efforts to slow the spread of this insect.
+  Across the Commonwealth, the Pennsylvania Department of Agriculture 
+along with Penn State Extension provide education-based programs to the 
+public. These programs are key resources for community members looking 
+for information on how to combat and slow the spread of the spotted 
+lanternfly.
+  Mr. Speaker, with warmer weather comes spotted lanternfly hatching 
+season, and residents are encouraged to squash the bug and their egg 
+masses.
+  It will take us all doing our part to prevent any further spread of 
+this invasive insect, and I encourage all to utilize their local 
+resources when combating invasive species.
+
+                          ____________________
+```
