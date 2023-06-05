@@ -1,0 +1,43 @@
+---
+granule: CREC-2023-06-05-pt1-PgH2716-5
+date: 2023-06-05
+edition: CREC
+section: HOUSE
+page: H2716
+citation: 169 Cong. Rec. H2716
+---
+
+# CALIFORNIA INSURANCE OPTIONS LIMITED
+
+**Speaking:** LaMalfa, Doug (L000578) [R-CA]
+
+```
+                  CALIFORNIA INSURANCE OPTIONS LIMITED
+
+  (Mr. LaMALFA asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LaMALFA. Mr. Speaker, in California and in the Western States, we 
+see massive wildfires year in and year out due to the nonmanagement or 
+mismanagement of our forests.
+  The result here lately has shown that, in California, you are seeing 
+major insurers pulling out of the State. They are either no longer 
+offering new insurance policies to homeowners or are even withdrawing 
+old ones upon their expiration, which means costs go up for the 
+remaining companies, fewer choices for consumers, and even more 
+disaster in the fact that insurance will no longer be affordable at all 
+for any of them as they have seen skyrocketing costs.
+  What do we do about this? What should government do? Well, it 
+probably shouldn't be getting into the insurance business. Indeed, the 
+California one called FAIR is already expensive and hard to get, beyond 
+what the private ones are.
+  It comes down to forestry, having positive forestry that makes the 
+level of risk in line, as well as not fees and mandates on top of what 
+it takes to build a home already too costly in California, and making 
+land available instead of getting sued over using the land in order to 
+build new housing.
+  Now, you are going to hear the regulators say: It is all due to 
+climate change.
+  No, it is other government actions that are doing this.
+
+                          ____________________
+```

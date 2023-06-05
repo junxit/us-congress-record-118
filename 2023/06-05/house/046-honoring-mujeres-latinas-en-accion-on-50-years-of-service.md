@@ -1,0 +1,38 @@
+---
+granule: CREC-2023-06-05-pt1-PgH2734-5
+date: 2023-06-05
+edition: CREC
+section: HOUSE
+page: H2734
+citation: 169 Cong. Rec. H2734
+---
+
+# HONORING MUJERES LATINAS EN ACCION ON 50 YEARS OF SERVICE
+
+**Speaking:** Garcia, Jesus G. "Chuy" (G000586) [D-IL]
+
+```
+       HONORING MUJERES LATINAS EN ACCION ON 50 YEARS OF SERVICE
+
+  (Mr. GARCIA of Illinois asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. GARCIA of Illinois. Mr. Speaker, today, I rise to honor Mujeres 
+Latinas en Accion on their 50th anniversary of serving and empowering 
+Latinas and their families in Chicago.
+  When it was founded in 1973 to offer support to domestic violence 
+survivors, there were no other services like this for Spanish-speaking 
+women in Chicago. Today, Mujeres Latinas en Accion helps women find 
+pathways to safer and healthier lives by providing wraparound, 
+bilingual, and culturally sensitive domestic violence and sexual 
+assault services, including a 24-hour hotline for crisis counseling and 
+advocacy efforts.
+  However, the support does not stop there. Their program, Empresarias 
+del Futuro, trains women interested in starting and expanding small 
+businesses. By obtaining financial independence, they can break the 
+cycle of codependency from their abusers.
+  Mujeres Latinas en Accion is a force of change. I congratulate and 
+thank them for serving our community with compassion, care, and courage 
+these past 50 years.
+
+                          ____________________
+```
