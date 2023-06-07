@@ -1,0 +1,38 @@
+---
+granule: CREC-2023-06-07-pt1-PgS2011-6
+date: 2023-06-07
+edition: CREC
+section: SENATE
+page: S2011
+citation: 169 Cong. Rec. S2011
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate June 7, 2023:
+
+
+                         DEPARTMENT OF JUSTICE
+
+       JUSTIN L. MARTINEZ, OF UTAH, TO BE UNITED STATES MARSHAL 
+     FOR THE DISTRICT OF UTAH FOR THE TERM OF FOUR YEARS.
+       WILLIAM R. HART, OF NEW HAMPSHIRE, TO BE UNITED STATES 
+     MARSHAL FOR THE DISTRICT OF NEW HAMPSHIRE FOR THE TERM OF 
+     FOUR YEARS.
+
+
+                          DEPARTMENT OF ENERGY
+
+       DAVID CRANE, OF NEW JERSEY, TO BE UNDER SECRETARY OF 
+     ENERGY.
+
+
+                         DEPARTMENT OF JUSTICE
+
+       SHANNON R. SAYLOR, OF VIRGINIA, TO BE UNITED STATES MARSHAL 
+     FOR THE EASTERN DISTRICT OF VIRGINIA FOR THE TERM OF FOUR 
+     YEARS.
+```

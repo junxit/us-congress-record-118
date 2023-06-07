@@ -1,0 +1,42 @@
+---
+granule: CREC-2023-06-07-pt1-PgH2774-5
+date: 2023-06-07
+edition: CREC
+section: HOUSE
+page: H2774
+citation: 169 Cong. Rec. H2774
+---
+
+# CONGRATULATING THE CITIZENS OF BULGARIA
+
+**Speaking:** Wilson, Joe (W000795) [R-SC]
+
+```
+                CONGRATULATING THE CITIZENS OF BULGARIA
+
+  (Mr. WILSON of South Carolina asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. WILSON of South Carolina. Mr. Speaker, congratulations to the 
+citizens of Bulgaria for formally approving their new government 
+yesterday.
+  After negotiations following five elections in 2 years, the National 
+Assembly agreed to form a government where the Prime Minister will 
+change hands halfway through.
+  Lawmakers elected Nikolay Denkov, a chemistry professor and former 
+Education Minister, as Prime Minister. In separate votes, legislators 
+agreed that Mariya Gabriel, a former European Commissioner, will serve 
+as deputy head of government and Foreign Minister. After 9 months, 
+Denkov and Gabriel will switch positions for the rest of the term.
+  Bulgaria is a valued American ally and is appreciated for, 80 years 
+ago, saving the Jewish population from Nazi extermination.
+  Yesterday, Ambassador Georgi Panayotov was the special guest of the 
+Bulgarian Caucus.
+  The new coalition government has pledged to keep Bulgaria, an 
+important NATO and EU member, on a firm pro-Western track and supports 
+Ukraine against the Putin war crimes.
+  In conclusion, God bless our troops, who successfully protected 
+America for 20 years, as the global war on terrorism continues moving 
+from Afghanistan to the safe haven of America with open Biden borders.
+
+                          ____________________
+```
