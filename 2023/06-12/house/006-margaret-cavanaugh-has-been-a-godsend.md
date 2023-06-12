@@ -1,0 +1,44 @@
+---
+granule: CREC-2023-06-12-pt1-PgH2794
+date: 2023-06-12
+edition: CREC
+section: HOUSE
+page: H2794
+citation: 169 Cong. Rec. H2794
+---
+
+# MARGARET CAVANAUGH HAS BEEN A GODSEND
+
+**Speaking:** Stauber, Pete (S001212) [R-MN]
+
+```
+                 MARGARET CAVANAUGH HAS BEEN A GODSEND
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from 
+Minnesota (Mr. Stauber) for 5 minutes.
+  Mr. STAUBER. Mr. Speaker, I rise today to praise the dedication to 
+service and what it means to be a true public servant by recognizing my 
+constituent services director and service academy coordinator, Margaret 
+Cavanaugh.
+  For nearly three decades, Margaret has served thousands of 
+Minnesota's citizens, having worked for three different Members of 
+Congress from the great State of Minnesota.
+  It is devoted staff like Margaret who work behind the scenes solving 
+difficult issues for individuals back home, that so many people receive 
+the help they need from their Federal Government.
+  Public servants like Margaret are seldom recognized for their 
+persistent efforts yet are crucial to the deployment of many Federal 
+programs such as VA and disability benefits, Medicare, Medicaid, 
+passport issues, and all too often, the IRS and refunds.
+  Dedicated caseworkers like Margaret are often a godsend to so many 
+constituents who are often overwhelmed or far too often ignored by our 
+massive bureaucracies right here in Washington.
+  Margaret is up there with the best of them, mentoring other 
+caseworkers in the State and region with advice, contacts, and problem-
+solving techniques.
+  I thank Margaret for all she does for the people of the great State 
+of Minnesota. With people like her, our constituents get the best 
+assistance, and they deserve it. Once again, I thank Margaret.
+
+                          ____________________
+```
