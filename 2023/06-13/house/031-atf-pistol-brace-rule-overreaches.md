@@ -1,0 +1,43 @@
+---
+granule: CREC-2023-06-13-pt1-PgH2821-2
+date: 2023-06-13
+edition: CREC
+section: HOUSE
+page: H2821
+citation: 169 Cong. Rec. H2821
+---
+
+# ATF PISTOL BRACE RULE OVERREACHES
+
+**Speaking:** Moore, Barry (M001212) [R-AL]
+
+**Measures:** H.J.Res. 44
+
+```
+                   ATF PISTOL BRACE RULE OVERREACHES
+
+  (Mr. MOORE of Alabama asked and was given permission to address the 
+House for 1 minute.)
+  Mr. MOORE of Alabama. Mr. Speaker, on May 31, at midnight, 29 million 
+Americans became instant felons, thanks to Biden's weaponization of the 
+ATF.
+  The ATF's overreaching new rule, created by unelected bureaucrats, 
+reclassifies pistols as short-barreled rifles if they have a 
+stabilizing brace attachment. Many disabled veterans and other 
+Americans rely on these braces to be able to correctly use their 
+firearms.
+  Under this new rule, which several courts have already declared 
+unconstitutional, lawful gun owners could face up to 10 years in jail 
+and thousands of dollars in fines if they fail to register pistols with 
+stabilizing braces.
+  This is a blatant assault on our Second Amendment rights that makes 
+29 million Americans, including many veterans, subject to up to 10 
+years in prison and numerous fines. I am glad to see the courts getting 
+involved to temporarily halt this rule, but we need more permanent 
+solutions.
+  Mr. Speaker, I urge my colleagues to vote for H.J. Res. 44, led by 
+the gentleman from Georgia (Mr. Clyde), to block this unconstitutional 
+rule and ensure that lawful gun owners are not considered felons.
+
+                          ____________________
+```
