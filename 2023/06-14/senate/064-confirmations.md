@@ -1,0 +1,31 @@
+---
+granule: CREC-2023-06-14-pt1-PgS2104-2
+date: 2023-06-14
+edition: CREC
+section: SENATE
+page: S2104
+citation: 169 Cong. Rec. S2104
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate June 14, 2023:
+
+
+                             THE JUDICIARY
+
+       DALE E. HO, OF NEW YORK, TO BE UNITED STATES DISTRICT JUDGE 
+     FOR THE SOUTHERN DISTRICT OF NEW YORK.
+       P. CASEY PITTS, OF CALIFORNIA, TO BE UNITED STATES DISTRICT 
+     JUDGE FOR THE NORTHERN DISTRICT OF CALIFORNIA.
+
+
+                         DEPARTMENT OF JUSTICE
+
+       STEPHEN K. EBERLE, OF PENNSYLVANIA, TO BE UNITED STATES 
+     MARSHAL FOR THE WESTERN DISTRICT OF PENNSYLVANIA FOR THE TERM 
+     OF FOUR YEARS.
+```
