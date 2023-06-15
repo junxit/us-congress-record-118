@@ -1,0 +1,39 @@
+---
+granule: CREC-2023-06-15-pt1-PgH2946-4
+date: 2023-06-15
+edition: CREC
+section: HOUSE
+page: H2946
+citation: 169 Cong. Rec. H2946
+---
+
+# PROTECTING ACCESS TO BIRTH CONTROL
+
+**Speaking:** Manning, Kathy E. (M001135) [D-NC]
+
+```
+                   PROTECTING ACCESS TO BIRTH CONTROL
+
+  (Ms. MANNING asked and was given permission to address the House for 
+1 minute and to revise and extend her remarks.)
+  Ms. MANNING. Mr. Speaker, last year in his concurring opinion in the 
+Dobbs case, Justice Clarence Thomas called for the right to 
+contraception to be reconsidered, encouraging extreme Republican State 
+lawmakers who have been attempting to restrict birth control for years.
+  Ninety percent of Americans believe there should be access to all 
+FDA-approved birth control, yet we continue to see States, including my 
+home State of North Carolina, attempt to restrict birth control. I will 
+not stand idly by and watch extreme politicians interfere with 
+Americans' private healthcare choices.
+  Birth control is essential healthcare. Access to birth control is key 
+to women's equality, bolstering education and economic opportunity, and 
+ensuring that people are in control of their futures.
+  That is why I am reintroducing my bill, the Right to Contraception 
+Act, to create a Federal right to access FDA-approved birth control. My 
+bill passed the House last Congress with bipartisan support. There is 
+no reason why that can't happen again.
+  I call upon my colleagues on both sides of the aisle to join me in 
+protecting access to birth control.
+
+                          ____________________
+```

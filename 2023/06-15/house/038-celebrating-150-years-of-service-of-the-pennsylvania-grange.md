@@ -1,0 +1,46 @@
+---
+granule: CREC-2023-06-15-pt1-PgH2949-6
+date: 2023-06-15
+edition: CREC
+section: HOUSE
+page: H2949
+citation: 169 Cong. Rec. H2949
+---
+
+# CELEBRATING 150 YEARS OF SERVICE OF THE PENNSYLVANIA GRANGE
+
+**Speaking:** Thompson, Glenn (T000467) [R-PA]
+
+```
+      CELEBRATING 150 YEARS OF SERVICE OF THE PENNSYLVANIA GRANGE
+
+  (Mr. THOMPSON of Pennsylvania asked and was given permission to 
+address the House for 1 minute and to revise and extend his remarks.)
+  Mr. THOMPSON of Pennsylvania. Mr. Speaker, I rise today to honor the 
+dedication and determination of the Pennsylvania Grange as they 
+celebrate 150 years of service.
+  Their story began in 1871 with the organization of the Eagle Grange 
+No. 1 near Williamsport in Lycoming County. It eventually became 
+statewide in 1873. The PA Grange was founded with the intent to heal a 
+wounded Nation following the Civil War.
+  Today, the PA Grange has members of all ages and represents more than 
+5,440 Pennsylvanians.
+  The PA Grange is honoring their 150 years with 150 acts of service. 
+Each chapter is tasked with completing a service project, and as of 
+Wednesday, June 13, they have completed 194 projects.
+  It is with full confidence I stand here honored to represent a State 
+with people dedicated to helping members grow as individuals, unifying 
+their communities, and fostering opportunities through legislation and 
+community service.
+  Mr. Speaker, every year I have the privilege of attending the Grange 
+Fair in Centre County, my home county. While attending the fair, I am 
+able to witness their mission firsthand. The
+
+[[Page H2950]]
+
+mission of this organization continues to withstand the test of time.
+  I congratulate the Pennsylvania Grange on 150 years of service, 
+education, legislation, and fellowship.
+
+                          ____________________
+```

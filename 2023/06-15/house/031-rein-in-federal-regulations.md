@@ -1,0 +1,41 @@
+---
+granule: CREC-2023-06-15-pt1-PgH2948
+date: 2023-06-15
+edition: CREC
+section: HOUSE
+page: H2948
+citation: 169 Cong. Rec. H2948
+---
+
+# REIN IN FEDERAL REGULATIONS
+
+**Speaking:** LaMalfa, Doug (L000578) [R-CA]
+
+```
+                      REIN IN FEDERAL REGULATIONS
+
+  (Mr. LaMALFA asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LaMALFA. Mr. Speaker, Federal bureaucrats have usurped more and 
+more power over the American people in the last few decades.
+  Three-letter agencies now regularly enact sweeping unilateral rules 
+without congressional approval or consent of the American people. This 
+kind of governance is not in the spirit of the Constitution.
+  Congress makes the laws, the executive branch enforces the laws, and 
+the judiciary makes sure the laws are constitutional.
+  Agency rulemaking makes a mockery of this system of checks and 
+balances. This is why House Republicans passed the REINS Act. This bill 
+will allow Congress to rein in out-of-control agencies by requiring our 
+oversight over any regulation that is going to cost the people over 
+$100 million.
+  Congress for too long has abdicated its authority over these 
+agencies. It is time for that to end.
+  It has been devastating, especially to our rural economies in 
+agriculture, in mining, and in timber. It is killing small towns. 
+Instead, they are burning up because they can't get over the 
+regulations to do normal things like timber harvest, et cetera.
+  The American people elected us to do the job--not the EPA, not the 
+ATF, not the FDA--to make the laws of this country.
+
+                          ____________________
+```
