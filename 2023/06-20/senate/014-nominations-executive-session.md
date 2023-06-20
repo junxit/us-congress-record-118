@@ -1,0 +1,60 @@
+---
+granule: CREC-2023-06-20-pt1-PgS2132-3
+date: 2023-06-20
+edition: CREC
+section: SENATE
+page: S2132
+citation: 169 Cong. Rec. S2132
+---
+
+# Nominations (Executive Session)
+
+**Speaking:** McConnell, Mitch (M000355) [R-KY]
+
+```
+                              Nominations
+
+  Mr. McCONNELL. Madam President, Senate Democrats continue to 
+dutifully advance the Biden administration's radical nominees.
+  This week, the Senate will decide whether to give yet another 
+leftwing lawyer a lifetime appointment to the Federal bench: Natasha 
+Merle, who is an activist lawyer with a penchant for staking out 
+extreme and inflammatory positions that are thoroughly divorced from 
+reality. For example, she attacked widely popular election integrity 
+measures, claiming ``it's inconsistent to denounce White supremacy but 
+not repudiate voter ID laws.''
+  Alongside the self-proclaimed ``wild-eyed leftist'' Democrats just 
+confirmed to the bench last week, Ms. Merle went after the State of 
+Alabama for daring to verify the identities of people who cast ballots 
+in elections. Meanwhile, Ms. Merle has found time to attack what she 
+calls ``unfounded yet repeated public assertions that there is a 
+widespread lack of respect for law enforcement'' and criticize efforts 
+to promote law and order as ``an illegal attempt to advance a false 
+narrative that law enforcement was being attacked.''
+  Well, Madam President, President Biden's first year in office saw the 
+largest number of law enforcement deaths in the line of duty in 20 
+years. But Ms. Merle doesn't appear to like grappling with facts that 
+don't suit her narrative. Normally, a record like this would be 
+shockingly disqualifying, but under the Biden administration, it is not 
+an outlier. It is an essential qualification.
+  Unfortunately, the President's affinity for radical nominees applies 
+to folks already on the job as well. Last week, Democrats on the EPW 
+Committee rammed through the nomination of Jeffery Baran to another 
+term as Commissioner at the Nuclear Regulatory Commission. Mr. Baran 
+already has an extensive record as the NRC's resident liberal 
+obstructionist. While his colleagues collaborate on regulatory 
+frameworks that encourage safe and efficient energy production, this 
+nominee prides himself on being a stick in the mud.
+  Even leading climate activists understand that Mr. Baran's dedication 
+to hindering nuclear development ``harm[s] the environment in the 
+process.'' They know that reducing carbon emissions means embracing 
+safe nuclear energy. Mr. Baran, however, does not.
+  At every opportunity, this nominee has opposed commonsense efforts to 
+revise regulations and keep pace with the smaller and more affordable 
+nuclear technologies of the future. He has shown that his blanket 
+antinuclear approach is both a tired relic and an active obstruction to 
+American prosperity.
+  So no wonder even some Senate Democrats are thinking twice about 
+rubberstamping Mr. Baran's nomination. I would urge each of our 
+colleagues to oppose it.
+```
