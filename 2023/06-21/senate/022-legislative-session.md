@@ -1,0 +1,28 @@
+---
+granule: CREC-2023-06-21-pt1-PgS2180
+date: 2023-06-21
+edition: CREC
+section: SENATE
+page: S2180
+citation: 169 Cong. Rec. S2180
+---
+
+# LEGISLATIVE SESSION
+
+**Speaking:** Bennet, Michael F. (B001267) [D-CO]
+
+```
+                          LEGISLATIVE SESSION
+
+                                 ______
+                                 
+
+                            MORNING BUSINESS
+
+  Mr. BENNET. Madam President, I ask unanimous consent that the Senate 
+proceed to legislative session and be in a period of morning business, 
+with Senators permitted to speak therein for up to 10 minutes each.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+
+                          ____________________
+```
