@@ -1,0 +1,42 @@
+---
+granule: CREC-2023-06-22-pt1-PgH3075-8
+date: 2023-06-22
+edition: CREC
+section: HOUSE
+page: H3075
+citation: 169 Cong. Rec. H3075
+---
+
+# OVERTURNING ROE V. WADE
+
+**Speaking:** Auchincloss, Jake (A000148) [D-MA]
+
+```
+                        OVERTURNING ROE V. WADE
+
+  (Mr. AUCHINCLOSS asked and was given permission to address the House 
+for 1 minute.)
+  Mr. AUCHINCLOSS. Mr. Speaker, 1 year ago, the Supreme Court rolled 
+back a fundamental individual freedom in overturning Roe v. Wade. Now, 
+abortion care is inaccessible in 14 States and heavily restricted in 
+many others, with one in three women now living in States without 
+access to abortion. That is unacceptable.
+  In restricting access, States are forcing women to seek dangerous 
+alternatives, undermining women's health and safety. Women should have 
+the freedom to make their own decisions about their health, not State 
+legislatures or the Federal Government.
+  At this critical moment, my Democratic colleagues and I are taking 
+action, despite the objections of Speaker McCarthy and the extremists 
+in his
+
+[[Page H3076]]
+
+party, to force a floor vote on the Women's Health Protection Act, 
+which would make Roe the law of the land.
+  I am thankful for the work of the Healey administration in my home 
+State to protect Massachusetts residents' healthcare, but I will not 
+stop fighting until women across the country have the same protections 
+to access safe and effective reproductive healthcare.
+
+                          ____________________
+```
