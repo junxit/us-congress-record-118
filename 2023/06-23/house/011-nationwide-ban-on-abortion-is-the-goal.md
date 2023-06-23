@@ -1,0 +1,43 @@
+---
+granule: CREC-2023-06-23-pt1-PgH3114-4
+date: 2023-06-23
+edition: CREC
+section: HOUSE
+page: H3114
+citation: 169 Cong. Rec. H3114
+---
+
+# NATIONWIDE BAN ON ABORTION IS THE GOAL
+
+**Speaking:** Dean, Madeleine (D000631) [D-PA]
+
+```
+                 NATIONWIDE BAN ON ABORTION IS THE GOAL
+
+  (Ms. DEAN of Pennsylvania asked and was given permission to address 
+the House for 1 minute and to revise and extend her remarks.)
+  Ms. DEAN of Pennsylvania. Mr. Speaker, tomorrow, the Supreme Court's 
+decision in Dobbs will have been the cruel law of the land for 1 year.
+  In that short time, 14 States enacted near-total abortion bans, and 
+others are trying to do the same.
+  Wasn't that the goal?
+  This is not about being pro-life or being for States' rights. The 
+goal is a nationwide ban on abortion. The goal is control over women 
+and girls. The goal is cruelty.
+  Healthcare providers, the medical experts actually in the rooms with 
+patients who know them by name, have said many times, and it bears 
+repeating, abortion care is healthcare.
+  Yet, one in three women and over one-fifth of the American public is 
+now living without abortion access.
+  Mr. Speaker, 68 percent of OB/GYNs say the management of pregnancy-
+related medical emergencies is now worse, and 70 percent say Dobbs has 
+widened the racial maternal healthcare gap.
+  Dobbs puts the physical and mental well-being of millions at risk.
+  Judges and legislators are grossly unqualified to make personal 
+medical decisions for millions of women.
+  I have three daughters-in-law and three granddaughters. I will not 
+rest until their full rights, until the rights of all women and girls 
+in this country, are restored.
+
+                          ____________________
+```

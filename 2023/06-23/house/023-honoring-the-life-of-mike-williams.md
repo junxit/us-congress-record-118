@@ -1,0 +1,43 @@
+---
+granule: CREC-2023-06-23-pt1-PgH3129-5
+date: 2023-06-23
+edition: CREC
+section: HOUSE
+page: H3129
+citation: 169 Cong. Rec. H3129
+---
+
+# HONORING THE LIFE OF MIKE WILLIAMS
+
+**Speaking:** Wasserman Schultz, Debbie (W000797) [D-FL]
+
+```
+                   HONORING THE LIFE OF MIKE WILLIAMS
+
+  (Ms. WASSERMAN SCHULTZ asked and was given permission to address the 
+House for 1 minute and to revise and extend her remarks.)
+  Ms. WASSERMAN SCHULTZ. Mr. Speaker, with a heavy heart, I rise to 
+honor the remarkable life of recently departed Florida AFL-CIO 
+President Mike Williams.
+  Starting as an apprentice, he became an electrician, working 
+temporary service and construction jobs and living paycheck to 
+paycheck, like so many workers do.
+  Seeing the critical value of job protections and livable wages, he 
+devoted his life to the labor movement, first as a rank-and-file member 
+for 15 years before becoming business manager of his local, IBEW 177.
+  Later, he became president of the Florida Building Trades Council, 
+and in 2009, Mike was elected president of the Florida AFL-CIO, where 
+he served distinctively until his death.
+  A natural-born leader, Mike revitalized Florida labor by fostering 
+new alliances with community, immigrant, and faith-based groups.
+  Tall and with a contagious smile, he was a straight-shooter and 
+always brought a worthy cause and compelling case for workers to the 
+Capitol.
+  Direct and trustworthy, he was a man of standards whose shoes will be 
+hard to fill.
+  Mike's empathy, dedication, and compassion will be sorely missed, but 
+his legacy and impact must never be forgotten.
+  I will miss my dear friend. May his memory be for a blessing.
+
+                          ____________________
+```

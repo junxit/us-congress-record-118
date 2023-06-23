@@ -1,0 +1,37 @@
+---
+granule: CREC-2023-06-23-pt1-PgH3133-2
+date: 2023-06-23
+edition: CREC
+section: HOUSE
+page: H3133
+citation: 169 Cong. Rec. H3133
+---
+
+# RECOGNIZING LILYANA BALDERAS
+
+**Speaking:** Correa, J. Luis (C001110) [D-CA]
+
+```
+                              {time}  1200
+                      RECOGNIZING LILYANA BALDERAS
+
+  (Mr. CORREA asked and was given permission to address the House for 1 
+minute.)
+  Mr. CORREA. Mr. Speaker, today I rise to recognize one of my 
+constituents, Lilyana Balderas, who is an Anaheim High School freshman 
+and a 15-year-old athlete who is rapidly rising through the Nation's 
+ranks as one of the best wrestlers in the country.
+  Lilyana just finished her freshman year at Anaheim High School with 
+33 wins, crowned the 121-pound CIF Champion and CIF State runner-up 
+champ. She is ranked 10th nationally as the best wrestler in the United 
+States.
+  She is a top-notch student with a 3.9 GPA.
+  What is her goal?
+  Lilyana simply wants to win an Olympic Gold Medal for the United 
+States.
+  I know Lilyana has got this.
+  Go Colonists.
+  We will be watching her career.
+
+                          ____________________
+```
