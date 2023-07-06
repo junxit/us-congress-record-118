@@ -1,0 +1,54 @@
+---
+granule: CREC-2023-07-06-pt1-PgE637-3
+date: 2023-07-06
+edition: CREC
+section: EXTENSIONS
+page: E637
+citation: 169 Cong. Rec. E637
+---
+
+# HONORING ATR2 RONALD J. OTTENWESS
+
+**Speaking:** Harshbarger, Diana (H001086) [R-TN]
+
+```
+                   HONORING ATR2 RONALD J. OTTENWESS
+
+                                 ______
+                                 
+
+                         HON. DIANA HARSHBARGER
+
+                              of tennessee
+
+                    in the house of representatives
+
+                         Thursday, July 6, 2023
+
+  Mrs. HARSHBARGER. Mr. Speaker, Ronald J. Ottenwess enlisted in the 
+U.S. Navy in May 1966. After recruit training at Great Lakes Naval 
+Training Center, he trained as an Aviation Electronics Technician at 
+Naval Air Technical Training Center in Memphis, Tennessee.
+  Then-AT Airman Ottenwess arrived in Rota, Spain in May 1967--just in 
+time for Israel's Six Day War--for his assignment to Fleet Air 
+Reconnaissance Squadron Two (VQ-2). During his assignment in Rota, he 
+trained as an Electronic Warfare Operator and served as a Special 
+Projects technician.
+  During his three-year tour with VQ-2, he deployed to five different 
+aircraft carriers and a dozen countries. He amassed nearly 2,000 flight 
+hours and completed over 400 missions in EA-3B and EC-121M aircrafts. 
+On deployment in 1969, he received a temporary assignment to VQ-1 
+Detachment Bravo in Danang, RVN, where he flew more than fifty combat 
+reconnaissance missions ``up North.'' He was promoted to Petty Officer 
+Second Class in March, 1968.
+  After his release from active duty as a Petty Officer Second Class in 
+February 1970, Mr. Ottenwess received Bachelor's and Master's degrees 
+in Economics and Business. Following graduation, he spent the next 
+forty years as a manufacturing systems engineer, executive, and 
+consultant; and travelled to 45 U.S. states and ten foreign countries.
+  Mr. Speaker, please join me in honoring him for his distinguished 
+military service during the Vietnam war. He is one of the many American 
+heroes that this great Nation is so fortunate to have.
+
+                          ____________________
+```
