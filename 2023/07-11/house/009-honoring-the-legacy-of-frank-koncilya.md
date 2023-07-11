@@ -1,0 +1,39 @@
+---
+granule: CREC-2023-07-11-pt1-PgH3180-2
+date: 2023-07-11
+edition: CREC
+section: HOUSE
+page: H3180
+citation: 169 Cong. Rec. H3180
+---
+
+# HONORING THE LEGACY OF FRANK KONCILYA
+
+**Speaking:** Rosendale, Matthew M. (R000103) [R-MT]
+
+```
+                 HONORING THE LEGACY OF FRANK KONCILYA
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from 
+Montana (Mr. Rosendale) for 5 minutes.
+  Mr. ROSENDALE. Madam Speaker, today I rise to honor a great Montanan 
+whose service to this country will never be forgotten and whose passing 
+will be mourned by many across the Treasure State.
+  Frank Koncilya was born in Roundup, Montana, where he graduated high 
+school in 1942. After graduation, Frank was drafted into the United 
+States Army and was quickly shipped off to England in preparation for 
+the invasion of Normandy.
+  Frank landed on Utah Beach nearly 2 hours before the main invasion on 
+D-day and served with distinction on that fateful day. After the Allies 
+secured northern France, Frank's platoon was deployed to Belgium, where 
+he was one of only two survivors in a fierce battle.
+  Frank was awarded five Bronze Star Medals for his heroic service. 
+After the war, Frank became a teacher and an active member of the 
+American Legion in Lewistown, Montana.
+  Frank's service to his country and his commitment to education are a 
+perfect example of Montana values. It was an honor to represent him in 
+Congress, and it is a privilege to recognize his legacy in the United 
+States House of Representatives.
+
+                          ____________________
+```

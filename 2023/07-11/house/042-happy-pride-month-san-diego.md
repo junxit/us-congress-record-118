@@ -1,0 +1,38 @@
+---
+granule: CREC-2023-07-11-pt1-PgH3192-6
+date: 2023-07-11
+edition: CREC
+section: HOUSE
+page: H3192
+citation: 169 Cong. Rec. H3192
+---
+
+# HAPPY PRIDE MONTH SAN DIEGO
+
+**Speaking:** Peters, Scott H. (P000608) [D-CA]
+
+```
+                      HAPPY PRIDE MONTH SAN DIEGO
+
+  (Mr. PETERS asked and was given permission to address the House for 1 
+minute.)
+  Mr. PETERS. Mr. Speaker, today I rise to recognize a celebration of 
+love, acceptance, and diversity and a powerful testament to the 
+resilience and spirit of the LGBTQ+ community, Pride Month in the city 
+of San Diego.
+  San Diego has long been a beacon of progress and inclusivity, and at 
+the heart of our great city lies Hillcrest, the vibrant LGBTQ+ center 
+of San Diego in my congressional district.
+  Hillcrest stands as a symbol of hope and empowerment. Its colorful 
+streets, adorned with rainbow flags, proudly reflect a community that 
+has overcome adversity and fought for the rights and freedoms of all.
+  Let's take this moment to celebrate the achievements of the LGBTQ+ 
+community and reaffirm our commitment to a future where every 
+individual can live authentically and without fear of discrimination.
+  In San Diego, and across the Nation, let us build a society that 
+celebrates diversity, cherishes our differences, ensures equality for 
+all regardless of who they love or how they identify.
+  Happy Pride Month San Diego.
+
+                          ____________________
+```

@@ -1,0 +1,35 @@
+---
+granule: CREC-2023-07-11-pt1-PgS2329-4
+date: 2023-07-11
+edition: CREC
+section: SENATE
+page: S2329
+citation: 169 Cong. Rec. S2329
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate July 11, 2023:
+
+
+                             THE JUDICIARY
+
+       KYMBERLY KATHRYN EVANSON, OF WASHINGTON, TO BE UNITED 
+     STATES DISTRICT JUDGE FOR THE WESTERN DISTRICT OF WASHINGTON.
+
+
+                         DEPARTMENT OF JUSTICE
+
+       ROSEMARIE HIDALGO, OF THE DISTRICT OF COLUMBIA, TO BE 
+     DIRECTOR OF THE VIOLENCE AGAINST WOMEN OFFICE, DEPARTMENT OF 
+     JUSTICE.
+
+
+                       DEPARTMENT OF AGRICULTURE
+
+       XOCHITL TORRES SMALL, OF NEW MEXICO, TO BE DEPUTY SECRETARY 
+     OF AGRICULTURE.
+```
