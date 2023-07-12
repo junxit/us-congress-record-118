@@ -1,0 +1,37 @@
+---
+granule: CREC-2023-07-12-pt1-PgS2398-3
+date: 2023-07-12
+edition: CREC
+section: SENATE
+page: S2398
+citation: 169 Cong. Rec. S2398
+---
+
+# Text of Senate Amendment 224
+
+**Speaking:** Blackburn, Marsha (B001243) [R-TN]
+
+```
+  SA 224. Mrs. BLACKBURN submitted an amendment intended to be proposed 
+by her to the bill S. 2226, to authorize appropriations for fiscal year 
+2024 for military activities of the Department of Defense, for military 
+construction, and for defense activities of the Department of Energy, 
+to prescribe military personnel strengths for such fiscal year, and for 
+other purposes; which was ordered to lie on the table; as follows:
+
+        At the end of subtitle G of title X, add the following:
+
+     SEC. 1083. AUTHORIZATION OF AMOUNTS TO SUPPORT INITIATIVES 
+                   FOR MOBILE MAMMOGRAPHY SERVICES FOR VETERANS.
+
+       There is authorized to be appropriated to the Secretary of 
+     Veterans Affairs $10,000,000 for the Office of Women's Health 
+     of the Department of Veterans Affairs under section 7310 of 
+     title 38, United States Code, to be used by the Secretary to 
+     expand access of women veterans to--
+       (1) mobile mammography initiatives;
+       (2) advanced mammography equipment; and
+       (3) outreach activities to publicize those initiatives and 
+     equipment.
+                                 ______
+```

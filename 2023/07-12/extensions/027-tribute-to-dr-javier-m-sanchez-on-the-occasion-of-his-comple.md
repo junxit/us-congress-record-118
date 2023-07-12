@@ -1,0 +1,50 @@
+---
+granule: CREC-2023-07-12-pt1-PgE667
+date: 2023-07-12
+edition: CREC
+section: EXTENSIONS
+page: E667
+citation: 169 Cong. Rec. E667
+---
+
+# TRIBUTE TO DR. JAVIER M. SANCHEZ ON THE OCCASION OF HIS COMPLETED TERM AS PRESIDENT OF SAN BERNARDINO COUNTY MEDICAL SOCIETY
+
+**Speaking:** Obernolte, Jay (O000019) [R-CA]
+
+```
+TRIBUTE TO DR. JAVIER M. SANCHEZ ON THE OCCASION OF HIS COMPLETED TERM 
+         AS PRESIDENT OF SAN BERNARDINO COUNTY MEDICAL SOCIETY
+
+                                 ______
+                                 
+
+                           HON. JAY OBERNOLTE
+
+                             of california
+
+                    in the house of representatives
+
+                        Wednesday, July 12, 2023
+
+  Mr. OBERNOLTE. Mr. Speaker, I rise today to honor Dr. Javier M. 
+Sanchez as he completes his term as the 130th President of the San 
+Bernardino County Medical Society. He began this leadership position 
+representing over 1,700 physicians on June 22, 2022. Dr. Sanchez is a 
+family medicine physician partner of the Southern California Permanente 
+Medical Group practicing at their Redlands medical offices. He received 
+his medical degree from the University of lowa Roy J. & Lucille A. 
+Carver College of Medicine in 1996 and completed his residency in 
+family medicine.
+  Dr. Sanchez has been focused on addressing disparities in medicine 
+and helped develop the Southern California Kaiser Permanente Language 
+Concordance Program which helps match those with limited English 
+proficiency with physicians who are fluent in their first language. He 
+has been a Clinical Professor of family Medicine at the Keck School of 
+Medicine and is currently an Associate Professor of Family Medicine at 
+the University of California Riverside School of Medicine. I commend 
+Dr. Sanchez for his service as President of the San Bernardino County 
+Medical Society and remain thankful for the work of all of our medical 
+professionals in California's 23rd District and across the country.
+
+                          ____________________
+```

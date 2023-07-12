@@ -1,0 +1,39 @@
+---
+granule: CREC-2023-07-12-pt1-PgH3218-5
+date: 2023-07-12
+edition: CREC
+section: HOUSE
+page: H3218
+citation: 169 Cong. Rec. H3218
+---
+
+# REMEMBERING THE LIFE AND LEGACY OF DR. DON BEACH
+
+**Speaking:** Williams, Roger (W000816) [R-TX]
+
+```
+            REMEMBERING THE LIFE AND LEGACY OF DR. DON BEACH
+
+  (Mr. WILLIAMS of Texas asked and was given permission to address the 
+House for 1 minute.)
+  Mr. WILLIAMS of Texas. Mr. Speaker, I rise today to honor the life 
+and legacy of Dr. Don Beach, who left a lasting impression on everyone 
+that had the privilege to know him.
+  Dr. Beach dedicated his life to education. His love for the classroom 
+began with teaching science and biology to high school and elementary 
+school students. In 1981, after 8 years at UT Arlington, Dr. Beach 
+joined Tarleton State University as the dean of the School of Education 
+and Fine Arts, but he could not be kept out of the classroom, later 
+returning to full-time teaching as the professor of educational 
+leadership.
+  Today, we are joined by doctoral students from Tarleton State 
+University here on their annual education doctoral trip, originally 
+created by Dr. Beach. His dedication and guidance have inspired the 
+students sitting here today who deeply mourn his absence.
+  Dr. Beach is remembered by many of us as one of the most impactful 
+faculty members in Tarleton history. His contributions to Tarleton, 
+both as a faculty member and as a mentor, will never be forgotten.
+  In God we trust.
+
+                          ____________________
+```

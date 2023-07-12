@@ -1,0 +1,118 @@
+---
+granule: CREC-2023-07-12-pt1-PgS2398-2
+date: 2023-07-12
+edition: CREC
+section: SENATE
+page: S2398
+citation: 169 Cong. Rec. S2398
+---
+
+# Text of Senate Amendment 223
+
+**Speaking:** Blackburn, Marsha (B001243) [R-TN]
+
+```
+  SA 223. Mrs. BLACKBURN submitted an amendment intended to be proposed 
+by her to the bill S. 2226, to authorize appropriations for fiscal year 
+2024 for military activities of the Department of Defense, for military 
+construction, and for defense activities of the Department of Energy, 
+to prescribe military personnel strengths for such fiscal year, and for 
+other purposes; which was ordered to lie on the table; as follows:
+
+       At the appropriate place in title XII, insert the 
+     following:
+
+     SEC. 12__. ENDING CHILD TRAFFICKING.
+
+       (a) Short Title.--This section may be cited as the ``End 
+     Child Trafficking Now Act''.
+       (b) DNA Testing.--
+       (1) In general.--Chapter 2 of title II of the Immigration 
+     and Nationality Act (8 U.S.C. 1181 et seq.) is amended by 
+     inserting after section 211 the following:
+
+     ``SEC. 211A. FAMILIAL RELATIONSHIP DOCUMENTARY REQUIREMENTS.
+
+       ``(a) In General.--Except as provided in subsection (b), an 
+     alien who has attained 18 years of age may not be admitted 
+     into the United States with a minor.
+       ``(b) Exceptions.--An alien described in subsection (a) may 
+     be admitted into the United States with a minor if--
+       ``(1) the alien presents to the Secretary of Homeland 
+     Security--
+       ``(A) 1 or more documents that prove that such alien is a 
+     relative or guardian of such minor; and
+       ``(B) a witness that testifies that such alien is a 
+     relative or guardian of such minor; or
+       ``(2) a DNA test administered by the Secretary of Health 
+     and Human Services proves that such alien is a relative of 
+     such minor.
+       ``(c) Administration of DNA Test.--The Secretary of 
+     Homeland Security shall request, and the Secretary of Health 
+     and Human Services shall administer, a DNA test only if the 
+     Secretary of Homeland Security is unable to determine, based 
+     on the evidence presented in accordance with subsection 
+     (b)(1), that an adult alien is a relative or guardian of the 
+     minor accompanying such alien.
+       ``(d) Denial of Consent.--
+       ``(1) Alien.--An alien described in subsection (a) is 
+     inadmissible if--
+       ``(A) the Secretary of Homeland Security determines that 
+     such alien has presented insufficient evidence under 
+     subsection (b)(1) to prove that the alien is a relative of 
+     the minor; and
+       ``(B) the alien refuses to consent to a DNA test.
+       ``(2) Minor.--A minor accompanying an alien who is 
+     inadmissible under paragraph (1) shall be treated as an 
+     unaccompanied alien child (as defined in section 462(g) of 
+     the Homeland Security Act of 2002 (6 U.S.C. 279(g))).
+       ``(e) DNA Test Results.--If the results of a DNA test 
+     administered pursuant to subsection (c) fail to prove that an 
+     alien described in subsection (a) is a relative of a minor 
+     accompanying such alien, an immigration officer shall conduct 
+     such interviews as may be necessary to determine whether such 
+     alien is a relative or guardian of such minor.
+       ``(f) Arrest.--An immigration officer may, pursuant to 
+     section 287, arrest an alien described in subsection (a) if 
+     the immigration officer--
+       ``(1) determines, after conducting interviews pursuant to 
+     subsection (e), that such alien is not related to the minor 
+     accompanying the alien; and
+       ``(2) has reason to believe that such alien is guilty of a 
+     felony offense, including the offenses of human trafficking, 
+     recycling of a minor, or alien smuggling.
+       ``(g) Definitions.--In this section--
+       ``(1) Minor.--The term `minor' means an alien who has not 
+     attained 18 years of age.
+       ``(2) Recycling.--The term `recycling' means that a minor 
+     is being used to enter the United States on more than 1 
+     occasion by an alien who has attained 18 years of age and is 
+     not the relative or the guardian of such minor;
+       ``(3) Relative.--The term `relative' means an individual 
+     related by consanguinity within the second degree, as 
+     determined by common law.''.
+       (2) Clerical amendment.--The table of contents for the 
+     Immigration and Nationality Act (8 U.S.C. 1101 note) is 
+     amended by inserting after the item relating to section 211 
+     the following:
+``Sec. 211A. Familial relationship documentary requirements.''.
+       (c) Criminalizing Recycling of Minors.--
+       (1) In general.--Chapter 69 of title 18, United States 
+     Code, is amended by adding at the end the following:
+
+     ``Sec. 1430. Recycling of minors
+
+       ``(a) In General.--Any person 18 years of age or older who 
+     knowingly uses, for the purpose of entering the United 
+     States, a minor to whom the individual is not a relative or 
+     guardian, shall be fined under this title, imprisoned not 
+     more than 10 years, or both.
+       ``(b) Relative.--In this section, the term `relative' means 
+     an individual related by consanguinity within the second 
+     degree, as determined by common law.''.
+       (2) Clerical amendment.--The chapter analysis for chapter 
+     69 of title 18, United States Code, is amended by adding at 
+     the end the following:
+``1430. Recycling of minors.''.
+                                 ______
+```
