@@ -1,0 +1,98 @@
+---
+granule: CREC-2023-07-13-pt1-PgS2670
+date: 2023-07-13
+edition: CREC
+section: SENATE
+page: S2670
+citation: 169 Cong. Rec. S2670
+---
+
+# Text of Senate Amendment 538
+
+**Speaking:** Shaheen, Jeanne (S001181) [D-NH]
+
+```
+  SA 538. Mrs. SHAHEEN submitted an amendment intended to be proposed 
+by her to the bill S. 2226, to authorize appropriations for fiscal year 
+2024 for military activities of the Department of Defense, for military 
+construction, and for defense activities of the Department of Energy, 
+to prescribe military personnel strengths for such fiscal year, and for 
+other purposes; which was ordered to lie on the table; as follows:
+
+       At the end of subtitle C of title XII, add the following:
+
+     SEC. 1240A. SPECIAL ENVOY FOR BELARUS.
+
+       (a) Special Envoy.--The President shall appoint a Special 
+     Envoy for Belarus within the Department of State (referred to 
+     in this section as the ``Special Envoy'').
+       (b) Qualifications.--The Special Envoy--
+       (1) should be a person of recognized distinction in the 
+     field of European security, geopolitics, democracy, and human 
+     rights; and
+       (2) may be a career foreign service officer.
+       (c) Central Objective.--The central objective of the 
+     Special Envoy is to coordinate and promote efforts--
+       (1) to improve respect for the fundamental human rights of 
+     the people of Belarus;
+       (2) to sustain focus on the national security implications, 
+     for the United States, of Belarus's political and military 
+     alignment; and
+       (3) to respond to the political, economic, and security 
+     impacts of events in Belarus on neighboring countries and the 
+     wider region.
+       (d) Duties and Responsibilities.--The Special Envoy shall--
+       (1) engage in discussions with Belarusian officials 
+     regarding human rights and political, economic, and security 
+     issues in Belarus;
+       (2) support international efforts to promote human rights 
+     and political freedoms in Belarus, including coordination and 
+     dialogue between the United States and the United Nations, 
+     the Organization for Security and Cooperation in Europe, the 
+     European Union, Belarus, and the other countries in Eastern 
+     Europe;
+       (3) consult with nongovernmental organizations that have 
+     attempted to address human rights and political and economic 
+     instability in Belarus;
+       (4) make recommendations regarding the funding of 
+     activities promoting human rights, democracy, the rule of 
+     law, and the development of a market economy in Belarus;
+       (5) review strategies for improving protection of human 
+     rights in Belarus, including technical training and exchange 
+     programs;
+       (6) develop an action plan for holding to account the 
+     perpetrators of the human rights violations documented in the 
+     United Nations High Commissioner for Human Rights report on 
+     the situation of human rights in Belarus in the run-up to the 
+     2020 presidential election and its aftermath (Human Rights 
+     Council Resolution 49/36);
+       (7) engage with member countries of the North Atlantic 
+     Treaty Organization, the Organization for Security and 
+     Cooperation in Europe, and the European Union with respect to 
+     the implications of Belarus's political and security 
+     alignment for transatlantic security; and
+       (8) to work within the Department of State and among 
+     partnering countries to sustain focus on the political 
+     situation in Belarus.
+       (e) Role.--The position of Special Envoy--
+       (1) shall be a full-time position;
+       (2) may not be combined with any other position within the 
+     Department of State;
+       (3) shall only exist for the period during which United 
+     States diplomatic operations in Belarus at the United States 
+     Embassy in Minsk have been suspended; and
+       (4) shall oversee the operations and personnel of the 
+     Belarus Affairs Unit of the Department of State.
+       (f) Report on Activities.--Not later than 180 days after 
+     the date of the enactment of this Act, and annually 
+     thereafter for the following 5 years, the Secretary of State, 
+     in consultation with the Special Envoy, shall submit to the 
+     appropriate congressional committees a report that describes 
+     the activities undertaken pursuant to subsection (d) during 
+     the reporting period.
+       (g) Termination.--The position of Special Envoy for Belarus 
+     Affairs and the authorities provided by this section shall 
+     terminate on the date that is 5 years after the date of the 
+     enactment of this Act.
+                                 ______
+```

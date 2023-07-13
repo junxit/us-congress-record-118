@@ -1,0 +1,209 @@
+---
+granule: CREC-2023-07-13-pt1-PgS2523-2
+date: 2023-07-13
+edition: CREC
+section: SENATE
+page: S2523
+citation: 169 Cong. Rec. S2523
+---
+
+# Text of Senate Amendment 326
+
+**Speaking:** Warren, Elizabeth (W000817) [D-MA]
+
+```
+  SA 326. Ms. WARREN (for herself, Mr. Warner, Mr. Warnock, Ms. Smith, 
+Ms. Cortez Masto, Mr. King, Mr. Durbin, and Mr. Reed) submitted an 
+amendment intended to be proposed by her to the bill S. 2226, to 
+authorize appropriations for fiscal year 2024 for military activities 
+of the Department of Defense, for military construction, and for 
+defense activities of the Department of Energy, to prescribe military 
+personnel strengths for such fiscal year, and for other purposes; which 
+was ordered to lie on the table; as follows:
+
+       At the end of title X, add the following:
+
+      Subtitle __--Digital Asset Sanctions Compliance Enhancement
+
+     SEC. __01. SHORT TITLE.
+
+       This subtitle may be cited as the ``Digital Asset Sanctions 
+     Compliance Enhancement Act of 2023''.
+
+     SEC. __02. DEFINITIONS.
+
+       In this subtitle:
+       (1) Appropriate congressional committees and leadership.--
+     The term ``appropriate congressional committees and 
+     leadership'' means--
+       (A) the Committee on Banking, Housing, and Urban Affairs, 
+     the Committee on Foreign Relations, and the majority and 
+     minority leaders of the Senate; and
+       (B) the Committee on Financial Services, the Committee on 
+     Foreign Affairs, and the Speaker, the majority leader, and 
+     the minority leader of the House of Representatives.
+       (2) Digital asset.--The term ``digital asset'' means any 
+     digital representation of value, financial asset or 
+     instrument, or claim that is used to make payments or 
+     investments, or to transmit or exchange funds or the 
+     equivalent thereof, and is issued or represented in digital 
+     form through the use of distributed ledger technology.
+       (3) Digital asset trading platform.--The term ``digital 
+     asset trading platform'' means a person, or group of persons, 
+     that operates as an exchange or other trading facility for 
+     the purchase, sale, lending, or borrowing of digital assets.
+       (4) Digital asset transaction facilitator.--The term 
+     ``digital asset transaction facilitator'' means--
+       (A) any person, or group of persons, that significantly and 
+     materially facilitates the purchase, sale, lending, 
+     borrowing, exchange, custody, holding, validation, or 
+     creation of digital assets on the account of others, 
+     including any communication protocol, decentralized finance 
+     technology, smart contract, or other software, including 
+     open-source computer code--
+
+[[Page S2524]]
+
+       (i) deployed through the use of distributed ledger or any 
+     similar technology; and
+       (ii) that provides a mechanism for multiple users to 
+     purchase, sell, lend, borrow, or trade digital assets; and
+       (B) any person, or group of persons, that the Secretary of 
+     the Treasury otherwise determines to be significantly and 
+     materially facilitating digital assets transactions in 
+     violation of sanctions.
+       (5) Foreign person.--The term ``foreign person'' means an 
+     individual or entity that is not a United States person.
+       (6) United states person.--The term ``United States 
+     person'' means--
+       (A) an individual who is a United States citizen or an 
+     alien lawfully admitted for permanent residence to the United 
+     States; or
+       (B) an entity organized under the laws of the United States 
+     or any jurisdiction within the United States, including a 
+     foreign branch of such an entity.
+
+     SEC. __03. IMPOSITION OF SANCTIONS WITH RESPECT TO THE USE OF 
+                   DIGITAL ASSETS TO FACILITATE TRANSACTIONS BY 
+                   RUSSIAN PERSONS SUBJECT TO SANCTIONS.
+
+       (a) Report Required.--Not later than 90 days after the date 
+     of enactment of this Act, and periodically thereafter as 
+     necessary, the President shall submit to Congress a report 
+     identifying any foreign person that--
+       (1) operates a digital asset trading platform or is a 
+     digital asset transaction facilitator; and
+       (2)(A) has significantly and materially assisted, 
+     sponsored, or provided financial, material, or technological 
+     support to, or has provided goods or services to or in 
+     support of, any person with respect to which sanctions have 
+     been imposed by the United States relating to the Russian 
+     Federation, including by facilitating transactions that evade 
+     such sanctions; or
+       (B) is owned or controlled by, or is acting or purporting 
+     to act for or on behalf of, any person with respect to which 
+     sanctions have been imposed by the United States relating to 
+     the Russian Federation.
+       (b) Imposition of Sanctions.--The President may exercise 
+     all of the powers granted to the President under the 
+     International Emergency Economic Powers Act (50 U.S.C. 1701 
+     et seq.) to the extent necessary to block and prohibit all 
+     transactions in property and interests in property of a 
+     foreign person identified in a report submitted under 
+     subsection (a) if such property and interests in property are 
+     in the United States, come within the United States, or are 
+     or come within the possession or control of a United States 
+     person.
+       (c) Implementation; Penalties.--
+       (1) Implementation.--The President may exercise all 
+     authorities provided under sections 203 and 205 of the 
+     International Emergency Economic Powers Act (50 U.S.C. 1702, 
+     1704) to carry out this section.
+       (2) Penalties.--A person that violates, attempts to 
+     violate, conspires to violate, or causes a violation of this 
+     section or any regulation, license, or order issued to carry 
+     out this section shall be subject to the penalties set forth 
+     in subsections (b) and (c) of section 206 of the 
+     International Emergency Economic Powers Act (50 U.S.C. 1705) 
+     to the same extent as a person that commits an unlawful act 
+     described in subsection (a) of that section.
+       (d) National Security Waiver.--The President may waive the 
+     imposition of sanctions under this section with respect to a 
+     person if the President--
+       (1) determines that such a waiver is in the national 
+     security interests of the United States; and
+       (2) submits to Congress a notification of the waiver and 
+     the reasons for the waiver.
+       (e) Exceptions.--
+       (1) Exception for intelligence activities.--This section 
+     shall not apply with respect to activities subject to the 
+     reporting requirements under title V of the National Security 
+     Act of 1947 (50 U.S.C. 3091 et seq.) or any authorized 
+     intelligence activities of the United States.
+       (2) Exception relating to importation of goods.--
+       (A) In general.--The authority to block and prohibit all 
+     transactions in all property and interests in property under 
+     subsection (b) shall not include the authority or a 
+     requirement to impose sanctions on the importation of goods.
+       (B) Good.--In this paragraph, the term ``good'' means any 
+     article, natural or manmade substance, material, supply or 
+     manufactured product, including inspection and test 
+     equipment, and excluding technical data.
+
+     SEC. __04. DISCRETIONARY PROHIBITION OF TRANSACTIONS.
+
+       The Secretary of the Treasury may require that no digital 
+     asset trading platform or digital asset transaction 
+     facilitator that does business in the United States transact 
+     with, or fulfill transactions of, digital asset addresses 
+     that are known to be, or could reasonably be known to be, 
+     affiliated with persons headquartered or domiciled in the 
+     Russian Federation if the Secretary--
+       (1) determines that exercising such authority is important 
+     to the national interest of the United States; and
+       (2) not later than 90 days after the date on which the 
+     Secretary exercises the authority described in paragraph (1), 
+     submits to the appropriate congressional committees and 
+     leadership a report on the basis for any determination under 
+     that paragraph.
+
+     SEC. __05. TRANSACTION REPORTING.
+
+       Not later than 120 days after the date of enactment of this 
+     Act, the Financial Crimes Enforcement Network of the 
+     Department of the Treasury shall require United States 
+     persons engaged in a transaction with a value greater than 
+     $10,000 in digital assets through 1 or more accounts outside 
+     of the United States to file a report described in section 
+     1010.350 of title 31, Code of Federal Regulations, or any 
+     successor regulation,using the form described in that 
+     section, in accordance with section 5314 of title 31, United 
+     States Code.
+
+     SEC. __06. REPORTS.
+
+       (a) In General.--Not later than 120 days after the date of 
+     enactment of this Act, the Secretary of the Treasury shall 
+     submit to the appropriate congressional committees and 
+     leadership a report on the progress of the Department of the 
+     Treasury in carrying out this subtitle, including any 
+     resources needed by the Department to improve implementation 
+     and progress in coordinating with governments of countries 
+     that are allies or partners of the United States.
+       (b) Other Reports.--
+       (1) In general.--Not later than 120 days after the date of 
+     enactment of this Act, and annually thereafter, the Secretary 
+     of the Treasury shall submit to the appropriate congressional 
+     committees and leadership and make publicly available a 
+     report identifying the digital asset trading platforms that 
+     the Office of Foreign Assets Control of the Department of the 
+     Treasury determines to be high risk for sanctions evasion, 
+     money laundering, or other illicit activities.
+       (2) Petition.--Any exchange included in a report submitted 
+     under paragraph (1) may petition the Office of Foreign Assets 
+     Control of the Department of the Treasury for removal, which 
+     shall be granted upon demonstrating that the exchange is 
+     taking steps sufficient to comply with applicable United 
+     States law.
+                                 ______
+```

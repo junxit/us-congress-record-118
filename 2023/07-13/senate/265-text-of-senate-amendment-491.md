@@ -1,0 +1,135 @@
+---
+granule: CREC-2023-07-13-pt1-PgS2635
+date: 2023-07-13
+edition: CREC
+section: SENATE
+page: S2635
+citation: 169 Cong. Rec. S2635
+---
+
+# Text of Senate Amendment 491
+
+**Speaking:** Scott, Rick (S001217) [R-FL]
+
+```
+  SA 491. Mr. SCOTT of Florida submitted an amendment intended to be 
+proposed by him to the bill S. 2226, to authorize appropriations for 
+fiscal year 2024 for military activities of the Department of Defense, 
+for military construction, and for defense activities of the Department 
+of Energy, to prescribe military personnel strengths for such fiscal 
+year, and for other purposes; which was ordered to lie on the table; as 
+follows:
+
+       At the end of subtitle B of title VIII, add the following:
+
+     SEC. 823. PROHIBITION ON CONTRACTING WITH PERSONS THAT HAVE 
+                   BUSINESS OPERATIONS WITH THE GOVERNMENT OF THE 
+                   RUSSIAN FEDERATION OR THE RUSSIAN ENERGY 
+                   SECTOR.
+
+       (a) Prohibition.--Except as provided under subsections (b), 
+     (c), and (d), the Secretary of Defense may not enter into a 
+     contract for the procurement of goods or services with any 
+     person that has business operations with--
+       (1) an authority of the Government of the Russian 
+     Federation; or
+       (2) a fossil fuel company that operates in the Russian 
+     Federation, except if the fossil fuel company transports oil 
+     or gas--
+       (A) through the Russian Federation for sale outside of the 
+     Russian Federation; and
+       (B) that was extracted from a country other than the 
+     Russian Federation with respect to the energy sector of which 
+     the President has not imposed sanctions as of the date on 
+     which the contract is awarded.
+       (b) Exceptions.--
+       (1) In general.--The prohibition under subsection (a) does 
+     not apply to a contract that the Secretary of Defense and the 
+     Secretary of State jointly determine--
+       (A) is necessary--
+       (i) for purposes of providing humanitarian assistance to 
+     the people of Russia; or
+       (ii) for purposes of providing disaster relief and other 
+     urgent life-saving measures;
+       (B) is vital to the military readiness, basing, or 
+     operations of the United States or the North Atlantic Treaty 
+     Organization; or
+       (C) is vital to the national security interests of the 
+     United States.
+       (2) Notification requirement.--The Secretary of Defense 
+     shall notify the appropriate congressional committees of any 
+     contract entered into on the basis of an exception provided 
+     for under paragraph (1).
+       (3) Office of foreign assets control licenses.--The 
+     prohibition in subsection (a) shall not apply to a person 
+     that has a valid license to operate in Russia issued by the 
+     Office of Foreign Assets Control of the Department of the 
+     Treasury or is otherwise authorized to operate in Russia by 
+     the Federal Government notwithstanding the imposition of 
+     sanctions.
+       (4) American diplomatic mission in russia.--The prohibition 
+     in subsection (a) shall not apply to contracts related to the 
+     operation and maintenance of the United States Government's 
+     consular offices and diplomatic posts in Russia.
+       (c) Applicability.--This section shall take effect on the 
+     date of the enactment of this Act and apply with respect to 
+     any contract entered into on or after such effective date.
+       (d) Sunset.--This section shall terminate on the date on 
+     which the President submits to the appropriate congressional 
+     committees a certification in writing that contains a 
+     determination of the President that the Russian Federation--
+
+[[Page S2636]]
+
+       (1) has reached an agreement relating to the withdrawal of 
+     Russian forces and cessation of military hostilities that is 
+     accepted by the free and independent government of Ukraine;
+       (2) poses no immediate military threat of aggression to any 
+     North Atlantic Treaty Organization member; and
+       (3) recognizes the right of the people of Ukraine to 
+     independently and freely choose their own government.
+       (e) Definitions.--In this section:
+       (1) Appropriate congressional committees.--The term 
+     ``appropriate congressional committees'' means--
+       (A) the Committee on Oversight and Reform, the Committee on 
+     Armed Services, and the Committee on Foreign Affairs of the 
+     House of Representatives; and
+       (B) the Committee on Homeland Security and Governmental 
+     Affairs, the Committee on Armed Services, and the Committee 
+     on Foreign Relations of the Senate.
+       (2) Business operations.--The term ``business operations'' 
+     means engaging in commerce in any form, including acquiring, 
+     developing, maintaining, owning, selling, possessing, 
+     leasing, or operating equipment, facilities, personnel, 
+     products, services, personal property, real property, or any 
+     other apparatus of business or commerce.
+       (3) Fossil fuel company.--The term ``fossil fuel company'' 
+     means a person that--
+       (A) carries out oil, gas, or coal exploration, development, 
+     or production activities;
+       (B) processes or refines oil, gas, or coal; or
+       (C) transports, or constructs facilities for the 
+     transportation of, Russian oil, gas, or coal.
+       (4) Government of the russian federation.--The term 
+     ``Government of the Russian Federation'' includes the 
+     government of any political subdivision of Russia, and any 
+     agency or instrumentality of the Government of the Russian 
+     Federation. For purposes of this paragraph, the term ``agency 
+     or instrumentality of the Government of the Russian 
+     Federation'' means an agency or instrumentality of a foreign 
+     state as defined in section 1603(b) of title 28, United 
+     States Code, with each reference in such section to ``a 
+     foreign state'' deemed to be a reference to ``Russia''.
+       (5) Person.--The term ``person'' means--
+       (A) a natural person, corporation, company, business 
+     association, partnership, society, trust, or any other 
+     nongovernmental entity, organization, or group;
+       (B) any governmental entity or instrumentality of a 
+     government, including a multilateral development institution 
+     (as defined in section 1701(c)(3) of the International 
+     Financial Institutions Act (22 U.S.C. 262r(c)(3))); and
+       (C) any successor, subunit, parent entity, or subsidiary 
+     of, or any entity under common ownership or control with, any 
+     entity described in subparagraph (A) or (B).
+                                 ______
+```
