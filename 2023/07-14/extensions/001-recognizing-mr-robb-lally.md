@@ -1,0 +1,49 @@
+---
+granule: CREC-2023-07-14-pt1-PgE675-2
+date: 2023-07-14
+edition: CREC
+section: EXTENSIONS
+page: E675
+citation: 169 Cong. Rec. E675
+---
+
+# RECOGNIZING MR. ROBB LALLY
+
+**Speaking:** Vargas, Juan (V000130) [D-CA]
+
+```
+                       RECOGNIZING MR. ROBB LALLY
+
+                                 ______
+                                 
+
+                            HON. JUAN VARGAS
+
+                             of california
+
+                    in the house of representatives
+
+                         Friday, July 14, 2023
+
+  Mr. VARGAS. Mr. Speaker, I rise today to posthumously honor Mr. Robb 
+Lally, a dedicated public servant and volunteer for more than 35 years.
+  Robert (Robb) Lally entered the seminary at a young age and as a 
+deacon, served in a Catholic Parish. After finishing seminary school, 
+Mr. Lally continued to help and aid those in need through his work with 
+the Franciscans at Arch Street, and later for the Salvation Army.
+  In 1988, Robb Lally headed to San Diego to work with the founder of 
+the Alpha Project, a non-profit human services organization that serves 
+over 4,000 men, women and children daily. As director, he empowered 
+individuals, families and communities by providing work, recovery and 
+support services to those who were motivated to change their lives and 
+achieve self-sufficiency. During his tenure, Robb was instrumental in 
+the overall mission and growth of the organization and had assisted 
+with over 1,000 apartment units that were preserved and created.
+  On June 7, 2023, Robb's life and legacy were honored at a Celebration 
+of Life in San Diego, CA. On behalf of the residents of California's 
+52nd Congressional District, I would like to express my deepest 
+condolences to the family of Robb Lally. His legacy is felt, and his 
+presence will be greatly missed.
+
+                          ____________________
+```

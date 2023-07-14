@@ -1,0 +1,45 @@
+---
+granule: CREC-2023-07-14-pt1-PgH3603-2
+date: 2023-07-14
+edition: CREC
+section: HOUSE
+page: H3603
+citation: 169 Cong. Rec. H3603
+---
+
+# REMEMBERING DETECTIVE DELBERTH PHIPPS, JR.
+
+**Speaking:** Plaskett, Stacey E. (P000610) [D-VI]
+
+```
+               REMEMBERING DETECTIVE DELBERTH PHIPPS, JR.
+
+  (Ms. PLASKETT asked and was given permission to address the House for 
+1 minute and to revise and extend her remarks.)
+  Ms. PLASKETT. Mr. Speaker, I stand here today on behalf of slain 
+Virgin Islands Detective Delberth Phipps, Jr.
+  Detective Phipps was killed in the line of duty on July 4, 2023. He 
+and his fellow officers rushed to the scene of an active shooting where 
+a gunman, armed with an AR-15 rifle and bulletproof vest, opened fire. 
+He gave his life in service to his community.
+  My prayers and deepest condolences go to his family, his son, Demel 
+Phipps, along with his loved ones and fellow Virgin Islands Police 
+Department officers.
+  According to the Giffords Law Center to Prevent Gun Violence, arms 
+trafficking is a major factor as to why the U.S. Virgin Islands, my 
+home, has had a homicide rate nine times higher than on the mainland. 
+The Virgin Islands does not manufacture guns, yet we have one of the 
+highest per capita murder rates in the world.
+  It is no secret that with open land, there is drug trafficking 
+through our corridor. The weapons that continue to flood our shores are 
+a byproduct of the lax, if not nonexistent, gun laws throughout the 
+continental U.S., particularly Florida,
+
+  The daughter of multiple generations of law enforcement officers, I 
+understand the commitment of not just officers but their families to 
+protect and serve.
+  I stand with Officer Phipps and all of the Virgin Islands Police 
+Department. You have my commitment to fight for you all.
+
+                          ____________________
+```

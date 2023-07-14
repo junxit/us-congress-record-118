@@ -1,0 +1,48 @@
+---
+granule: CREC-2023-07-14-pt1-PgH3602-5
+date: 2023-07-14
+edition: CREC
+section: HOUSE
+page: H3602
+citation: 169 Cong. Rec. H3602
+---
+
+# A TROUBLING AMENDMENT TO THE NDAA
+
+**Speaking:** Sanchez, Linda T. (S001156) [D-CA]
+
+```
+                   A TROUBLING AMENDMENT TO THE NDAA
+
+  (Ms. SANCHEZ asked and was given permission to address the House for 
+1 minute and to revise and extend her remarks.)
+  Ms. SANCHEZ. Mr. Speaker, I rise today to point out just one of the 
+very troubling and extreme amendments in the NDAA, specifically Mr. 
+Green's amendment which would effectively cut all Federal Government 
+support to filmmakers who distribute films in China.
+  This amendment takes a page right out of 1950s McCarthyism, and it 
+will devastate the film industry. It requires the DOD to create a 
+blacklist of studios that often, by necessity, have made changes to 
+films in anticipation of distribution in China.
+  It would decide, without any evidence necessary, to withhold 
+assistance for filmmakers who edit sexual or violent scenes to make 
+films more appropriate for children. Further, it would ensure that 
+these American filmmakers can no longer film on U.S. public lands or 
+access resources paid for by American taxpayers.
+  Filmmaking is a First Amendment right, and this amendment attacks 
+that right by allowing the DOD to censor content and editorial 
+viewpoints of American films. The Green amendment could also push film 
+production overseas.
+  In my home State of California, this amendment would devastate an 
+industry that brings in $226 billion alone in jobs and economic 
+activities.
+  Sadly, this amendment is just one of many dangerous and extreme MAGA
+
+[[Page H3603]]
+
+amendments attached to what has been a historically bipartisan bill. 
+This amendment would hurt American industries and workers, and it does 
+not belong in the NDAA.
+
+                          ____________________
+```

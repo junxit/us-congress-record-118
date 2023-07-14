@@ -1,0 +1,40 @@
+---
+granule: CREC-2023-07-14-pt1-PgH3602-2
+date: 2023-07-14
+edition: CREC
+section: HOUSE
+page: H3602
+citation: 169 Cong. Rec. H3602
+---
+
+# THE ACCOMPLISHMENTS OF THE NDAA
+
+**Speaking:** Meuser, Daniel (M001204) [R-PA]
+
+```
+                    THE ACCOMPLISHMENTS OF THE NDAA
+
+  (Mr. MEUSER asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. MEUSER. Mr. Speaker, the National Defense Authorization Act is 
+vital to the national security of the United States, as is border 
+security and energy dominance. I am very pleased we are making strides 
+into these areas with the passage of the NDAA and continue to 
+strengthen and have a dominant military.
+  This NDAA includes significant resources to counter China in the 
+Indo-Pacific, requires the DOD to identify and mitigate land purchases 
+near military installations, and makes certain the United States 
+continues to have the world's superior fighting force.
+  This legislation also funds the National Guard's border security 
+deployment mission and rejects the Biden administration's plan to 
+shrink our U.S. Navy.
+  This bill includes language to require allies to provide proportional 
+levels of funding for the Ukraine conflict, alleviating the burden on 
+U.S. taxpayers, yet fortifying the Ukraine freedom fighters.
+  Importantly, it supports our servicemembers with a 5.2 percent pay 
+increase, the largest raise in 20 years.
+  This NDAA strengthens the national security of the United States as 
+well as the world, and I am pleased to have supported it.
+
+                          ____________________
+```

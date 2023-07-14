@@ -1,0 +1,34 @@
+---
+granule: CREC-2023-07-14-pt1-PgH3580-2
+date: 2023-07-14
+edition: CREC
+section: HOUSE
+page: H3580
+citation: 169 Cong. Rec. H3580
+---
+
+# IN REMEMBRANCE OF DEB SLATTEN
+
+**Speaking:** Stauber, Pete (S001212) [R-MN]
+
+```
+                     IN REMEMBRANCE OF DEB SLATTEN
+
+  (Mr. STAUBER asked and was given permission to address the House for 
+1 minute.)
+  Mr. STAUBER. Mr. Speaker, I rise today in remembrance of Deb Slatten 
+who tragically passed away recently.
+  Deb served honorably for both the Carlton County Sheriff's Office and 
+St. Louis County Sheriff's Office for 36 years, eventually retiring as 
+a sergeant. She was the first female sheriff's deputy on patrol in 
+Duluth and the department's first female sergeant in Duluth.
+  Following her retirement, she continued to selflessly give her time 
+and talents to our community as a member of the St. Louis County 
+Sheriff's Volunteer Rescue Squad. This squad is one of the very best in 
+the Nation because of Deb and others' commitment to our region.
+  Please take a moment to reflect on how precious life is and how 
+critical these local heroes are to our communities.
+  Rest in peace, faithful servant.
+
+                          ____________________
+```
