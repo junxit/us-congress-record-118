@@ -1,0 +1,39 @@
+---
+granule: CREC-2023-07-17-pt1-PgH3630
+date: 2023-07-17
+edition: CREC
+section: HOUSE
+page: H3630
+citation: 169 Cong. Rec. H3630
+---
+
+# CONGRATULATING CHRIS EUBANKS
+
+**Speaking:** Carter, Earl L. "Buddy" (C001103) [R-GA]
+
+```
+                      CONGRATULATING CHRIS EUBANKS
+
+  (Mr. CARTER of Georgia asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. CARTER of Georgia. Mr. Speaker, I rise today to congratulate 
+tennis star Chris Eubanks on his impressive Wimbledon run.
+  Chris Eubanks is an Atlanta native who played tennis at Georgia Tech. 
+During his time at Tech, Eubanks was named the ACC Player of the Year 
+twice and was a two-time all-American.
+  At Wimbledon, Eubanks beat the number one British player and 2022 
+Wimbledon semifinalist in a second round in front of a lively crowd. He 
+advanced to the quarterfinals of the tournament after defeating the 
+world number five player in a more than 3-hour battle.
+  Eubanks is now the 13th man in the Open Era to reach the final eight 
+in his debut at Wimbledon and the first American man to do so since 
+1984.
+  His performance at Wimbledon propelled him to a world number 43 
+ranking and has now guaranteed himself entry into every tournament and 
+a seeding at the U.S. Open.
+  I congratulate Mr. Eubanks on his valiant Wimbledon run and wish him 
+the best of luck in his future endeavors. He has made Georgia proud and 
+made his country proud.
+
+                          ____________________
+```

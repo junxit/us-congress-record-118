@@ -1,0 +1,68 @@
+---
+granule: CREC-2023-07-17-pt1-PgE679-6
+date: 2023-07-17
+edition: CREC
+section: EXTENSIONS
+page: E679
+citation: 169 Cong. Rec. E679
+---
+
+# INTRODUCTION OF A BILL TO REQUIRE THE DIRECTOR OF THE COURT SERVICES AND OFFENDER SUPERVISION AGENCY FOR THE DISTRICT OF COLUMBIA AND THE DIRECTOR OF THE DISTRICT OF COLUMBIA PRETRIAL SERVICES...
+
+**Speaking:** Norton, Eleanor Holmes (N000147) [D-DC]
+
+```
+ INTRODUCTION OF A BILL TO REQUIRE THE DIRECTOR OF THE COURT SERVICES 
+ AND OFFENDER SUPERVISION AGENCY FOR THE DISTRICT OF COLUMBIA AND THE 
+DIRECTOR OF THE DISTRICT OF COLUMBIA PRETRIAL SERVICES AGENCY TO RESIDE 
+                      IN THE DISTRICT OF COLUMBIA
+
+                                 ______
+                                 
+
+                       HON. ELEANOR HOLMES NORTON
+
+                      of the district of columbia
+
+                    in the house of representatives
+
+                         Monday, July 17, 2023
+
+  Ms. NORTON. Mr. Speaker, today, I introduce a bill that would require 
+the Directors of 2 federal agencies, the Court Services and Offender 
+Supervision Agency for the District of Columbia (CSOSA) and the 
+District of Columbia Pretrial Services Agency (PSA), to reside in the 
+District of Columbia during their terms. Residency requirements for 
+certain government positions are found in federal law, D.C. law and the 
+laws of jurisdictions throughout the United States. The primary reason 
+such laws exist is so that government officials have a connection to 
+the residents they serve and in-depth knowledge of the unique issues 
+and challenges faced by residents. Last Congress, the House Committee 
+on Oversight and Reform passed this bill.
+  CSOSA and PSA are federal agencies that focus exclusively on D.C. 
+CSOSA supervises individuals on probation, parole or supervised release 
+under D.C. law. PSA makes recommendations regarding pretrial release 
+and supervises defendants for the D.C. Superior Court and the U.S. 
+District Court for D.C. The Directors of CSOSA and PSA should be 
+required to be D.C. residents since these agencies serve only D.C.
+  Congress has justifiably required that certain federal officials live 
+in the jurisdictions to which they are appointed, including U.S. 
+district court judges, U.S. Marshals and U.S. Attorneys. Similarly, 
+Congress, which controls the local D.C. court system, has justifiably 
+required local D.C. judges and members of the D.C. Judicial Nomination 
+Commission and the D.C. Commission on Judicial Disabilities and Tenure 
+to reside in D.C.
+  There is no reason that the Directors of CSOSA and PSA, federal 
+agencies that uniquely serve D.C., should not be required to live in 
+D.C. These federal officials need to be part of the community they 
+serve. A D.C. residency requirement for these federal officials will 
+lead to better outcomes in the criminal justice system and is a matter 
+of fairness for D.C. residents.
+  I strongly urge my colleagues to support this bill.
+
+[[Page E680]]
+
+  
+
+                          ____________________
+```
