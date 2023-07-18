@@ -1,0 +1,40 @@
+---
+granule: CREC-2023-07-18-pt1-PgH3685-2
+date: 2023-07-18
+edition: CREC
+section: HOUSE
+page: H3685
+citation: 169 Cong. Rec. H3685
+---
+
+# HONORING TYRONE BROWN
+
+**Speaking:** Carter, Earl L. "Buddy" (C001103) [R-GA]
+
+```
+                              {time}  1830
+                         HONORING TYRONE BROWN
+
+  (Mr. CARTER of Georgia asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. CARTER of Georgia. Mr. Speaker, I rise today to honor Tyrone 
+``Hollywood'' Brown, who was recently inducted into the American 
+Basketball Hall of Fame.
+  Tyrone Brown was born in Savannah, Georgia, where he went to Alfred 
+E. Beach High School.
+  After years of hard work at Savannah State University, Tyrone joined 
+the Harlem Globetrotters in 1985.
+  He was a member of the Harlem Globetrotters for over 10 years. During 
+his time with the Globetrotters, Tyrone put an emphasis on children's 
+education and development.
+  He remained passionate about inspiring children to set goals and work 
+hard, leading him to create the Ambassadors of Responsibility 
+Foundation to enable former teammates to better serve elementary and 
+middle school students across the country.
+  Tyrone also wrote a book ``A Piece of Paper'' that tells his own 
+story of how he worked to become a Harlem Globetrotter.
+  Tyrone was inducted into the Hall of Fame this past June alongside 
+many other basketball legends.
+
+                          ____________________
+```

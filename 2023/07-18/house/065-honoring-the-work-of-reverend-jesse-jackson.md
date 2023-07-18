@@ -1,0 +1,39 @@
+---
+granule: CREC-2023-07-18-pt1-PgH3687-3
+date: 2023-07-18
+edition: CREC
+section: HOUSE
+page: H3687
+citation: 169 Cong. Rec. H3687
+---
+
+# HONORING THE WORK OF REVEREND JESSE JACKSON
+
+**Speaking:** Garcia, Jesus G. "Chuy" (G000586) [D-IL]
+
+```
+              HONORING THE WORK OF REVEREND JESSE JACKSON
+
+  (Mr. GARCIA of Illinois asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. GARCIA of Illinois. Mr. Speaker, I rise to honor the work of 
+Reverend Jesse Jackson as he steps down as president of Rainbow PUSH 
+Coalition.
+  Reverend Jackson has fearlessly fought for the rights of marginalized 
+communities, serving as a beacon of hope and inspiration for millions.
+  His Presidential campaign in 1988 was a defining moment, not only for 
+our brothers and sisters in the African-American community, but for all 
+Americans who believed in a more inclusive society.
+  Jesse Jackson has taught us many lessons, among them, that political 
+empowerment is vital to improving our communities. He has encouraged 
+countless individuals to exercise their fundamental right to vote and 
+ensure that every voice is heard and every vote is counted.
+  There is no doubt that his relentless pursuit with the Rainbow 
+Coalition played a crucial role in the election of Congressman Harold 
+Washington as Chicago's first progressive and Black mayor.
+  Mr. Speaker, I thank Reverend Jackson for his lifelong commitment to 
+civil rights and his role in helping shape our country's politics to 
+reflect its diversity.
+
+                          ____________________
+```
