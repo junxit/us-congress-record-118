@@ -1,0 +1,55 @@
+---
+granule: CREC-2023-07-19-pt1-PgE696
+date: 2023-07-19
+edition: CREC
+section: EXTENSIONS
+page: E696
+citation: 169 Cong. Rec. E696
+---
+
+# HONORING CARLOS GRAUPERA
+
+**Speaking:** Smucker, Lloyd (S001199) [R-PA]
+
+```
+                        HONORING CARLOS GRAUPERA
+
+                                 ______
+                                 
+
+                           HON. LLOYD SMUCKER
+
+                            of pennsylvania
+
+                    in the house of representatives
+
+                        Wednesday, July 19, 2023
+
+  Mr. SMUCKER. Mr. Speaker, I rise today to congratulate and offer my 
+thanks to Carlos Graupera, of Lancaster, for his 50 years of service 
+and leadership. Mr. Graupera retired this year as the Chief Executive 
+Officer of the Spanish American Civic Association (SACA), an 
+organization he founded in 1973 to serve Lancaster's growing Latino 
+community.
+  In 1961, Mr. Graupera emigrated to the United States with his family 
+from Cuba. He would attend Saint Joseph's College and work in community 
+development, before founding SACA and beginning his tenure as the 
+organization's first CEO.
+  In 50 years, SACA has grown substantially to support and improve the 
+lives of Lancaster County residents. SACA operates a senior center, 
+behavior and health services, a community radio station called Radio 
+Centro, supports economic development through SACA Development, and 
+operates a network of workforce development training programs called 
+Tec Centro. I've been fortunate to see the good work that they do 
+first-hand.
+  Mr. Graupera is now assuming the role of Chief Executive Officer of 
+the Tec Centro Workforce Network, which operates workforce development 
+programs in Lancaster, York, Lebanon, and Reading.
+  Mr. Speaker, Mr. Graupera's 50 years of service as CEO of SACA have 
+made a deep and lasting impact on the community and in countless lives 
+of those who have benefited from good works of SACA.
+  As he steps into a new role, we wish him continued success and thank 
+him for his life of leadership and service to our community.
+
+                          ____________________
+```
