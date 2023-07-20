@@ -1,0 +1,204 @@
+---
+granule: CREC-2023-07-20-pt1-PgS3461
+date: 2023-07-20
+edition: CREC
+section: SENATE
+page: S3461
+citation: 169 Cong. Rec. S3461
+---
+
+# STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS
+
+**Speaking:** Thune, John (T000250) [R-SD]
+
+**Measures:** S. 2405, S. 2412
+
+```
+          STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS
+
+                                 ______
+                                 
+      By Mr. THUNE (for himself, Mr. Brown, Mr. Barrasso, and Ms. 
+        Stabenow):
+  S. 2405. A bill to amend title XVIII of the Social Security Act to 
+assure pharmacy access and choice for Medicare beneficiaries; to the 
+Committee on Finance.
+  Mr. THUNE. Madam President, I ask unanimous consent that the text of 
+the bill be printed in the Record.
+  There being no objection, the text of the bill was ordered to be 
+printed in the Record, as follows:
+
+                                 S.2405
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Strengthening Pharmacy 
+     Access for Seniors Act''.
+
+     SEC. 2. ASSURING PHARMACY ACCESS AND CHOICE FOR MEDICARE 
+                   BENEFICIARIES.
+
+       Section 1860D-4(b)(1) of the Social Security Act (42 U.S.C. 
+     1395w-104(b)(1)) is amended by adding at the end the 
+     following new subparagraph:
+       ``(F) Limited access drugs.--
+       ``(i) Limitation on restrictions or limits on access.--For 
+     each plan year (beginning with plan year 2026), a PDP sponsor 
+     offering a prescription drug plan or pharmacy benefit 
+     manager--
+
+       ``(I) may not restrict or limit access to any covered part 
+     D drug to a subset of their network pharmacies, other than 
+     with respect to a limited access drug, as defined in clause 
+     (v); and
+       ``(II) shall record in writing the rationale for why a 
+     covered part D drug meets the definition of a limited access 
+     drug under clause (v) and maintain written records of any 
+     such rationales, if such plan restricts or limits access to a 
+     limited access drug to a subset of network pharmacies.
+
+       ``(ii) Annual submission of information to the secretary on 
+     limited access drugs.--For each plan year (beginning with 
+     plan year 2026), each PDP sponsor offering a prescription 
+     drug plan shall submit to the Secretary, at a time and in a 
+     manner specified by the Secretary, with respect to each 
+     prescription drug plan offered by the sponsor during such 
+     plan year--
+
+       ``(I) a list of all covered part D drugs that the PDP 
+     sponsor designated as a limited access drug;
+       ``(II) the written rationales for why any covered part D 
+     drugs listed under subclause (I) meet the definition of a 
+     limited access drug;
+       ``(III) the requirements imposed on network pharmacies to 
+     ensure appropriate handling and dispensing of the covered 
+     part D drugs listed under subclause (I);
+       ``(IV) the percentages of covered part D drugs listed under 
+     subclause (I) that are dispensed through retail pharmacies, 
+     specialty pharmacies, mail order pharmacies, or other 
+     dispensing channels as defined by the PDP sponsor, 
+     respectively, during the most recent plan year for which such 
+     data are available;
+       ``(V) the annual percentage of covered part D drugs listed 
+     under subclause (I) that are dispensed through pharmacies 
+     wholly or partially owned by, or otherwise affiliated with 
+     (such as through common ownership), the plan or pharmacy 
+     benefit manager; and
+       ``(VI) any other information determined appropriate by the 
+     Secretary.
+
+[[Page S3462]]
+
+       ``(iii) Pharmacy access to limited access drug 
+     information.--For plan years beginning with plan year 2026, 
+     upon the request of a network pharmacy, a PDP sponsor of a 
+     prescription drug plan (or a pharmacy benefit manager acting 
+     on behalf of such sponsor) shall present such pharmacy, on a 
+     timely basis (as determined by the Secretary), with 
+     information specific to any covered part D drug listed under 
+     subclause (II) of clause (i) of this subparagraph, along with 
+     the rationale for its designation as a limited access drug 
+     (as described in subclause (II) of clause (ii)) and the 
+     requirements imposed with respect to such drug (as described 
+     in subclause (III) of subclause (ii)). Any PDP sponsor or 
+     pharmacy benefit manager that provides false information upon 
+     such a request or that fails to provide the information 
+     requested on a timely basis shall be found in violation of 
+     this subsection.
+       ``(iv) HHS annual report on limited access drugs.--Not 
+     later than December 31, 2027, and annually thereafter, the 
+     Secretary shall submit to the Committee on Finance of the 
+     Senate, and the Committee on Ways and Means and the Committee 
+     on Energy and Commerce of the House of Representatives a 
+     report on compliance by PDP sponsors with the requirements 
+     under this subparagraph. Each such report shall include--
+
+       ``(I) a description of the patterns, trends, variations, 
+     and rationales for the designation by PDP sponsors of certain 
+     covered part D drugs as limited access drugs described in 
+     clause (v), and the implications of such designations on 
+     beneficiary access to such covered part D drugs;
+       ``(II) a description of the information submitted to the 
+     Secretary under clause (ii) (in a manner that does not 
+     disclose the identity of a pharmacy, a PDP sponsor, a 
+     prescription drug plan, or pharmacy benefit manager, or any 
+     proprietary pricing information); and
+       ``(III) any other information determined appropriate by the 
+     Secretary.
+
+       ``(v) Limited access drug defined.--In this subparagraph, 
+     the term `limited access drug' means a covered part D drug 
+     that meets at least one of the following:
+
+       ``(I) The Food and Drug Administration has restricted 
+     distribution of such covered part D drug to certain 
+     facilities or physicians.
+       ``(II) The dispensing of such covered part D drug requires 
+     extraordinary special handling, provider coordination, or 
+     patient education that cannot be met by a network 
+     pharmacy.''.
+
+                                 ______
+                                 
+      By Mr. THUNE (for himself, Ms. Smith, Mr. Rounds, Mr. Cramer, Ms. 
+        Klobuchar, and Mr. Hoeven):
+  S. 2412. A bill to require the Secretary of Agriculture to allow 
+emergency haying under the conservation reserve program during the 
+primary nesting season under certain conditions; to the Committee on 
+Agriculture, Nutrition, and Forestry.
+  Mr. THUNE. Madam President, I ask unanimous consent that the text of 
+the bill be printed in the Record.
+  There being no objection, the text of the bill was ordered to be 
+printed in the Record, as follows:
+
+                                S. 2412
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Conservation Reserve Program 
+     Flexibility Act of 2023'' or the ``CRP Flexibility Act of 
+     2023''.
+
+     SEC. 2. EMERGENCY HAYING DURING THE PRIMARY NESTING SEASON.
+
+       Section 1233(b)(1) of the Food Security Act of 1985 (16 
+     U.S.C. 3833(b)(1)) is amended--
+       (1) in subparagraph (A)(ii), by inserting ``subject to 
+     subclauses (I) and (III) of clause (i), and subclauses (I) 
+     and (II) of clause (ii), of subparagraph (B),'' before ``are 
+     subject to''; and
+       (2) in subparagraph (B)(i)--
+       (A) by redesignating subclauses (I) through (VI) as 
+     subclauses (II) through (VII), respectively;
+       (B) by inserting before subclause (II) (as so redesignated) 
+     the following:
+
+       ``(I) emergency haying in response to a localized or 
+     regional drought, flooding, wildfire, or other emergency, on 
+     all practices, during or outside the primary nesting season, 
+     when--
+
+       ``(aa) the county is designated as D2 (severe drought) or 
+     greater according to the United States Drought Monitor;
+       ``(bb) there is at least a 40 percent loss in forage 
+     production in the county; or
+       ``(cc) the Secretary, in coordination with the State 
+     technical committee, determines that the program can assist 
+     in the response to a natural disaster event without permanent 
+     damage to the established cover;'';
+       (C) in subclause (II) (as so redesignated), in the matter 
+     preceding item (aa), by striking ``emergency haying, 
+     emergency grazing, or other emergency use'' and inserting 
+     ``emergency grazing or other emergency use''; and
+       (D) in subclause (IV) (as so redesignated), by striking 
+     ``outside the primary nesting season'' and inserting ``during 
+     or outside the primary nesting season''.
+
+                          ____________________
+```

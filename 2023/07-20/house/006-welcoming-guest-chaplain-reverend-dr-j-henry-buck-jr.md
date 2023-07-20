@@ -1,0 +1,33 @@
+---
+granule: CREC-2023-07-20-pt1-PgH3861-5
+date: 2023-07-20
+edition: CREC
+section: HOUSE
+page: H3861
+citation: 169 Cong. Rec. H3861
+---
+
+# WELCOMING GUEST CHAPLAIN REVEREND DR. J. HENRY BUCK, JR.
+
+**Speaking:** Evans, Dwight (E000296) [D-PA]
+
+```
+        WELCOMING GUEST CHAPLAIN REVEREND DR. J. HENRY BUCK, JR.
+
+  (Mr. EVANS asked and was given permission to address the House for 1 
+minute.)
+  Mr. EVANS. Mr. Speaker, it is my honor to welcome the Reverend Dr. J. 
+Henry Buck, Jr., from my district as today's guest chaplain.
+  Reverend Buck is the senior pastor of the Grace Baptist Church, which 
+has a rich history in Pennsylvania and the Germantown neighborhood. He 
+has opened an early childhood development center to local parents, and 
+he has created opportunities for many youth, and to date has sent five 
+students to study at Howard University.
+  In addition, Reverend Buck started a pie company to help with 
+employment for returning citizens. He is also a proud member of Kappa 
+Alpha Psi fraternity.
+  Mr. Speaker, I thank Reverend Buck for all that he does for our 
+community and welcome him to the people's House.
+
+                          ____________________
+```

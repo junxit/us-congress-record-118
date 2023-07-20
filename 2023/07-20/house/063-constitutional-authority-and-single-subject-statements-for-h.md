@@ -1,0 +1,22 @@
+---
+granule: CREC-2023-07-20-pt1-PgH3889-18
+date: 2023-07-20
+edition: CREC
+section: HOUSE
+page: H3889
+citation: 169 Cong. Rec. H3889
+---
+
+# Constitutional Authority and Single Subject Statements for H.R. 4777
+
+**Measures:** H.R. 4777
+
+```
+           By Mr. CARTWRIGHT:
+       H.R. 4777
+       Congress has the power to enact this legislation pursuant 
+     to the following:
+       Article I
+       The single subject of this legislation is:
+       Environment
+```

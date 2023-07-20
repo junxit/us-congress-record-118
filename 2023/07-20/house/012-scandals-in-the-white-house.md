@@ -1,0 +1,43 @@
+---
+granule: CREC-2023-07-20-pt1-PgH3862-3
+date: 2023-07-20
+edition: CREC
+section: HOUSE
+page: H3862
+citation: 169 Cong. Rec. H3862
+---
+
+# SCANDALS IN THE WHITE HOUSE
+
+**Speaking:** Meuser, Daniel (M001204) [R-PA]
+
+```
+                      SCANDALS IN THE WHITE HOUSE
+
+  (Mr. MEUSER asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. MEUSER. Mr. Speaker, ``I think that there's no doubt about the 
+seriousness of the problem we've got. We have a cancer within--close to 
+the Presidency, that's growing. It's growing daily.''
+  Mr. Speaker, that is a quote from the Watergate scandal, but the 
+American people are applying it to current circumstances in the White 
+House.
+  We have a laptop referencing ``the big guy'' is getting his 10 
+percent. We have text messages stating: My father is sitting next to me 
+and you better pay up.
+  I am paraphrasing, slightly.
+  Despite statements from the White House on how there was no contact 
+with business partners, we have pictures of them playing golf together, 
+and White House visitor logs.
+  Mr. Speaker, we have bank records, lots of them, around 20, with tens 
+of millions of dollars going to members of the President's family, 
+including grandchildren. We don't know what they did for it, and 
+recently a bag of cocaine was found in the White House, but case 
+closed. No one accused. No one found.
+  Mr. Speaker, if this was a bag of anthrax, would that have been taken 
+more seriously and solved? I think the answer is yes. The only reason 
+there are any investigations taking place or oversight is because 
+Republicans have a majority in the House.
+
+                          ____________________
+```
