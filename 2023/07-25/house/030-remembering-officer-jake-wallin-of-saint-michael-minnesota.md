@@ -1,0 +1,36 @@
+---
+granule: CREC-2023-07-25-pt1-PgH3906-6
+date: 2023-07-25
+edition: CREC
+section: HOUSE
+page: H3906
+citation: 169 Cong. Rec. H3906
+---
+
+# REMEMBERING OFFICER JAKE WALLIN OF SAINT MICHAEL, MINNESOTA
+
+**Speaking:** Fischbach, Michelle (F000470) [R-MN]
+
+```
+      REMEMBERING OFFICER JAKE WALLIN OF SAINT MICHAEL, MINNESOTA
+
+  (Mrs. FISCHBACH asked and was given permission to address the House 
+for 1 minute and to revise and extend her remarks.)
+  Mrs. FISCHBACH. Mr. Speaker, I rise today in memory of Officer Jake 
+Wallin, a brave young veteran from Saint Michael, Minnesota.
+  On July 14, while responding to a crash in south Fargo, a gunman shot
+
+[[Page H3907]]
+
+and killed Jake and wounded two of his fellow officers and one 
+civilian.
+  Without hesitation, to protect those whom he served, Officer Jake 
+Wallin made the ultimate sacrifice.
+  My prayers go out to the Wallin family. Please know that the people 
+of western Minnesota share your loss and we pray for Jake's family and 
+for his law enforcement family.
+  Mr. Speaker, let us never take for granted the heroes who walk among 
+us.
+
+                          ____________________
+```
