@@ -1,0 +1,42 @@
+---
+granule: CREC-2023-07-26-pt1-PgH3964-10
+date: 2023-07-26
+edition: CREC
+section: HOUSE
+page: H3964
+citation: 169 Cong. Rec. H3964
+---
+
+# RECOGNIZING ERIN DOTY
+
+**Speaking:** Ruiz, Raul (R000599) [D-CA]
+
+```
+                         RECOGNIZING ERIN DOTY
+
+  (Mr. RUIZ asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. RUIZ. Mr. Speaker, I rise to honor Erin Doty and celebrate her 
+great accomplishments as my legislative director for the past 8 years.
+  She led my legislative strategies to great success. Under her 
+leadership, we passed 47 bills into law. Some of our most memorable 
+bills are the Safe Step Act, the Protecting People from Surprise 
+Medical Bills Act, the Humanitarian Standards for Individuals in 
+Customs and Border Protection Act, and the Honoring our PACT Act.
+  Erin has a heart of gold, a relentless commitment to social justice, 
+and a
+
+[[Page H3965]]
+
+special talent to make sure I never missed a vote. She was unwaveringly 
+dedicated, often staying very late for votes, despite me insisting that 
+she go home to rest.
+  Erin is a wonderful human being, a good friend, and a trusted 
+adviser.
+  Mr. Speaker, I thank Erin for her service on behalf of the American 
+people, especially the people of California's 36th and now 25th 
+District. We miss you dearly and we wish you luck and look forward to 
+your future endeavors.
+
+                          ____________________
+```
