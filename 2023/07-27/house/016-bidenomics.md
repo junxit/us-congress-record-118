@@ -1,0 +1,40 @@
+---
+granule: CREC-2023-07-27-pt1-PgH4039-3
+date: 2023-07-27
+edition: CREC
+section: HOUSE
+page: H4039
+citation: 169 Cong. Rec. H4039
+---
+
+# BIDENOMICS
+
+**Speaking:** McClain, Lisa C. (M001136) [R-MI]
+
+```
+                               BIDENOMICS
+
+  The SPEAKER pro tempore. The Chair recognizes the gentlewoman from 
+Michigan (Mrs. McClain) for 5 minutes.
+  Mrs. McCLAIN. Mr. Speaker, I rise today to talk about the reality of 
+Bidenomics.
+  We have heard the President say time and time again that his economic 
+policies have worked. He actually believes that the American economy is 
+better today than it was before he took office.
+  Mr. Speaker, let's look at the facts because we know this 
+administration has a habit of changing terms, redefining issues, and 
+really not looking at the facts.
+  So let's look at the facts.
+  Gas is up 34 percent since Joe Biden took office, energy prices are 
+up 28.5 percent, and the average American family is paying almost 
+$1,200 more per month in everyday needs.
+  Now, tell me, Mr. Speaker, does that sound like an economy that is 
+strong?
+  The clear answer is no, the economy is not strong. It is actually a 
+lot weaker than it was before Joe Biden took office.
+  The sad reality is that hardworking taxpayers are footing the bill 
+for Biden's policy failures. I think it is time we tell the truth, that 
+Bidenomics has been a complete and utter failure.
+
+                          ____________________
+```

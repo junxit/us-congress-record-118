@@ -1,0 +1,44 @@
+---
+granule: CREC-2023-07-27-pt1-PgH4042-3
+date: 2023-07-27
+edition: CREC
+section: HOUSE
+page: H4042
+citation: 169 Cong. Rec. H4042
+---
+
+# TRAIN DERAILMENT IN WHITE MARSH
+
+**Speaking:** Dean, Madeleine (D000631) [D-PA]
+
+```
+                    TRAIN DERAILMENT IN WHITE MARSH
+
+  (Ms. DEAN of Pennsylvania asked and was given permission to address 
+the House for 1 minute and to revise and extend her remarks.)
+  Ms. DEAN of Pennsylvania. Mr. Speaker, last week another train 
+derailment alarmed a Pennsylvania community. This time 15 CSX cars 
+derailed in Whitemarsh Township in the heart of my district. 
+Fortunately, no one was hurt and there was no environmental harm. 
+Authorities believe it was due to a sinkhole after the area endured 
+major flooding in the days before.
+  Whitemarsh is just another example of a train derailment, two in 
+Pennsylvania this year, and, of course, the disaster in neighboring 
+East Palestine, Ohio. This is a growing and alarming trend that cannot 
+be overlooked.
+  These are different scenarios, but whether it is a repercussion of 
+improper oversight or a consequence of growing climate crises, we must 
+meet this moment.
+  Whether it is a sinkhole or overheated wheels, we must do better at 
+monitoring freight trains and their rails because we rely upon our 
+rails to feed us, heat and cool our homes, and bring other necessities. 
+Many of these freight trains carry hazardous chemicals. These trains 
+run through Pennsylvania neighborhoods directly threatening the safety 
+of our residents.
+  In the face of this climate crisis, re-imagining and investing in 
+America is what we must do. Investing in our infrastructure is vital, 
+and that is exactly what we are doing. Freight trains are essential to 
+our Nation and should never be a threat to our communities.
+
+                          ____________________
+```

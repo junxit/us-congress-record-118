@@ -1,0 +1,39 @@
+---
+granule: CREC-2023-07-27-pt1-PgH4058-2
+date: 2023-07-27
+edition: CREC
+section: HOUSE
+page: H4058
+citation: 169 Cong. Rec. H4058
+---
+
+# HUDSON RIVER TUNNEL FUNDING
+
+**Speaking:** Payne, Donald M. (P000604) [D-NJ]
+
+```
+                              {time}  1530
+                      HUDSON RIVER TUNNEL FUNDING
+
+  (Mr. PAYNE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. PAYNE. Mr. Speaker, I rise today to thank President Biden for 
+helping me provide $7 billion for the Hudson River tunnel project. The 
+Hudson River tunnel project is the most important infrastructure 
+project in the country.
+  Every day, more than 200,000 people travel through the Hudson River 
+tunnel between New Jersey and New York. If it were to suffer a safety 
+shutdown, it could cost America $100 million in lost economic activity.
+  The current tunnel is 113 years old, and it needs to be upgraded to 
+avoid future shutdowns. The Hudson River tunnel project will repair the 
+current tunnel, and it would build a new tunnel next to it to improve 
+travel throughout the Northeast corridor.
+  I worked diligently to get the funds for the Hudson River tunnel and 
+the entire Gateway Program. The $7 billion grant is the largest Federal 
+transportation grant in American history.
+  Mr. Speaker, I am proud to work with a President that understands the 
+importance of the Hudson River tunnel project and what it will do for 
+American prosperity.
+
+                          ____________________
+```
