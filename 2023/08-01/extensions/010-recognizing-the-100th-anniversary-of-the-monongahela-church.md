@@ -1,0 +1,52 @@
+---
+granule: CREC-2023-08-01-pt1-PgE749-3
+date: 2023-08-01
+edition: CREC
+section: EXTENSIONS
+page: E749
+citation: 169 Cong. Rec. E749
+---
+
+# RECOGNIZING THE 100TH ANNIVERSARY OF THE MONONGAHELA CHURCH OF THE NAZARENE
+
+**Speaking:** Reschenthaler, Guy (R000610) [R-PA]
+
+```
+  RECOGNIZING THE 100TH ANNIVERSARY OF THE MONONGAHELA CHURCH OF THE 
+                                NAZARENE
+
+                                 ______
+                                 
+
+                         HON. GUY RESCHENTHALER
+
+                            of pennsylvania
+
+                    in the house of representatives
+
+                        Tuesday, August 1, 2023
+
+  Mr. RESCHENTHALER. Mr. Speaker, I rise to recognize and congratulate 
+the congregation of the Monongahela Church of the Nazarene in 
+Monongahela, Pennsylvania for 100 years of service to God and the 
+surrounding community.
+  The Monongahela Church of the Nazarene was originally organized with 
+24 members on July 25, 1923, the small group of members sought God's 
+will for their lives. The congregation held tent meetings until the 
+physical church was built and established nearly a decade later. Rev. 
+Frank Strickler from the California Church of the Nazarene, aided by 
+David Mitchell, became the Church's first Pastor. Throughout the years, 
+the church was blessed with the spiritual leadership of nine Pastors.
+  In 2000, Reverend Raymond DiCamillo became the current Pastor of the 
+church. Under his leadership, the Monongahela Church of the Nazarene 
+remains committed to reaching the lost, helping those in need, and 
+loving those they meet. With the Holy Spirit guiding them, they look 
+forward to building on this storied history for the next 100 years.
+  Mr. Speaker, the Monongahela Church of the Nazarene's story is deeply 
+rooted in our great Nation's origins. On behalf of the people of 
+Pennsylvania's 14th Congressional District, I congratulate them on 
+their 100th anniversary and thank them for their service to 
+southwestern Pennsylvania's faith community.
+
+                          ____________________
+```
