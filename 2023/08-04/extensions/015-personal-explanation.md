@@ -1,0 +1,53 @@
+---
+granule: CREC-2023-08-04-pt1-PgE757-2
+date: 2023-08-04
+edition: CREC
+section: EXTENSIONS
+page: E757
+citation: 169 Cong. Rec. E757
+---
+
+# PERSONAL EXPLANATION
+
+**Speaking:** Trone, David J. (T000483) [D-MD]
+
+**Measures:** H.Res. 461, H.Res. 503, H.Res. 529
+
+```
+                          PERSONAL EXPLANATION
+
+                                 ______
+                                 
+
+                          HON. DAVID J. TRONE
+
+                              of maryland
+
+                    in the house of representatives
+
+                         Friday, August 4, 2023
+
+  Mr. TRONE. Mr. Speaker, on June 22, 2023, I was unavoidably detained. 
+Had I been present, I would have voted ``NAY'' on rollcall No. 285.
+  I strongly oppose H. Res. 529, a resolution to refer H. Res. 503 from 
+the House floor to the Committee on Homeland Security and the Committee 
+on the Judiciary. That resolution impeaches President Joe Biden for 
+high crimes and misdemeanors relating to actions taken that involve 
+immigration and the southern border. President Biden continues to lead 
+with integrity and has done more than any other President to combat 
+substance use disorder and address the mental health crisis. In the 
+absence of Congressional action, I have been heartened to work with the 
+Biden Administration to make significant and meaningful reforms to 
+address the immigration challenges facing our Nation. Rather than 
+consider legislation that is purely politically driven, it is my hope 
+that we get back to the serious work of legislating on the real issues 
+our country faces. for the People.
+  I also would have voted ``NAY'' on rollcall No. 286. I strongly 
+oppose H. Res. 461. condemning the use of elementary and secondary 
+school facilities to provide shelter for aliens who are not admitted to 
+the United States. Migrants deserve to be treated with dignity and 
+respect, and I commend anyone who follows the Golden Rule and finds 
+shelter for those most in need.
+
+                          ____________________
+```
