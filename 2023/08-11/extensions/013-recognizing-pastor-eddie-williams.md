@@ -1,0 +1,51 @@
+---
+granule: CREC-2023-08-11-pt1-PgE770-4
+date: 2023-08-11
+edition: CREC
+section: EXTENSIONS
+page: E770
+citation: 169 Cong. Rec. E770
+---
+
+# RECOGNIZING PASTOR EDDIE WILLIAMS
+
+**Speaking:** Tlaib, Rashida (T000481) [D-MI]
+
+```
+                   RECOGNIZING PASTOR EDDIE WILLIAMS
+
+                                 ______
+                                 
+
+                           HON. RASHIDA TLAIB
+
+                              of michigan
+
+                    in the house of representatives
+
+                        Friday, August 11, 2023
+
+  Ms. TLAIB. Mr. Speaker, I rise today to recognize Pastor Eddie 
+Williams for his 17 years of service to the congregation at Lakeridge 
+Ministries Church of God in Christ.
+  Lakeridge Village Ministries was founded on the principle of 
+uplifting people from all walks of life in spirituality and that the 
+gift of spirituality is not limited to clergy. Pastor Williams has 
+sought to lead his flock under that guidance, fostering a true sense of 
+community and caring for the most vulnerable. In addition to his work 
+in ministry, Pastor Williams has sought to expand resources and options 
+for people suffering from the pain of addiction and mental illness. His 
+work at Lakeridge Village has accomplished so much in fighting the 
+stigma around mental health issues and connecting those struggling with 
+substance abuse to the assistance they need. In short Pastor Williams 
+has performed outstanding service to the community through his ministry 
+and charitable work.
+
+[[Page E771]]
+
+  Please join me in tribute to Pastor Eddie Williams in celebration of 
+his 17 years in spiritual service to Lakeridge Ministries Church of God 
+in Christ.
+
+                          ____________________
+```

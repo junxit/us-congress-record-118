@@ -1,0 +1,58 @@
+---
+granule: CREC-2023-08-11-pt1-PgE771-3
+date: 2023-08-11
+edition: CREC
+section: EXTENSIONS
+page: E771
+citation: 169 Cong. Rec. E771
+---
+
+# FOUNDER'S DAY FOR THE LADIES OF FUTURITY, INC ORGANIZATION
+
+**Speaking:** Frankel, Lois (F000462) [D-FL]
+
+```
+       FOUNDER'S DAY FOR THE LADIES OF FUTURITY, INC ORGANIZATION
+
+                                 ______
+                                 
+
+                           HON. LOIS FRANKEL
+
+                               of florida
+
+                    in the house of representatives
+
+                        Friday, August 11, 2023
+
+  Ms. LOIS FRANKEL of Florida. Mr. Speaker, I rise today to honor 
+founders Tracey & Amaris Graham, and each of the members of the Ladies 
+of Futurity Inc. on the occasion of their 10 year anniversary. Amaris 
+is a member of my team as a Staff Assistant and Legislative 
+Correspondent.
+  Amaris and her mother, Tracey Graham, founded the Ladies of Futurity, 
+Inc. nonprofit organization on May 26, 2013, to equip and empower young 
+girls of diverse backgrounds to become ladies, obtain a higher 
+education, and to be servant leaders in their community with essential 
+life and leadership skills to create a pathway to educational success 
+and career development through workshops, sisterly gatherings, and 
+exceptional community service in Palm Beach County, Florida.
+  With over 312 inducted members since its inception, Ladies of 
+Futurity continues to accomplish its mission of helping girls realize 
+their true potential as they establish and ultimately achieve their 
+future goals. Their dedication to ensuring each of its members is 
+``empowered to achieve, educated to succeed, and forever evolving as a 
+lady'' is truly admirable. Tracey and Amaris Graham strive to provide 
+the tools necessary for each young lady to ``possess a favor, 
+fulfilling, future.''
+  Speaker, I ask my colleagues to join me in extending congratulatory 
+wishes to the Ladies of Futurity, Inc. for 10 years of remarkable 
+service. I am honored to recognize them today and wish them continued 
+success in the years to come.
+
+[[Page E772]]
+
+  
+
+                          ____________________
+```
