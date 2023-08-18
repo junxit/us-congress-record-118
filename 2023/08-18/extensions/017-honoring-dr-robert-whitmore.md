@@ -1,0 +1,52 @@
+---
+granule: CREC-2023-08-18-pt1-PgE784-2
+date: 2023-08-18
+edition: CREC
+section: EXTENSIONS
+page: E784
+citation: 169 Cong. Rec. E784
+---
+
+# HONORING DR. ROBERT WHITMORE
+
+**Speaking:** Murphy, Gregory F. (M001210) [R-NC]
+
+```
+                      HONORING DR. ROBERT WHITMORE
+
+                                 ______
+                                 
+
+                         HON. GREGORY F. MURPHY
+
+                           of north carolina
+
+                    in the house of representatives
+
+                        Friday, August 18, 2023
+
+  Mr. MURPHY. Mr. Speaker, I rise today to formally commend Dr. Robert 
+Whitmore of New Bern, North Carolina for more than 40 years of service 
+as a physician and his exemplary record of service. He has attended to 
+our Eastern North Carolina community and our Nation honorably.
+  His reputation and accolades for patient experience are a testament 
+to the great care and expertise he has consistently provided throughout 
+his career. As a urologist myself, I understand that providing top 
+quality medical care is more than simply treating a disease but taking 
+the time to listen to patient concerns and answering their questions. 
+His standing in our community as a caring doctor, who personally 
+follows up with patients, shows his commitment to the profession and 
+his great character. Furthermore, his CarolinaEast Beacon of Service 
+Award attests to his expertise and ability to touch the lives of so 
+many others.
+  I would be remiss if I failed to say thank you for Dr. Whitmore's 
+service to our Country as a staff urologist in the U.S. Army. Military 
+doctors endure so much, and it takes a special person to do the job. 
+Dr. Whitmore is a true servant-leader with a heart for others and is 
+revered among America's heroes.
+  Mr. Speaker, please join me in honoring this incredible physician for 
+all he has done and continues to do for the people of Eastern North 
+Carolina.
+
+                          ____________________
+```
