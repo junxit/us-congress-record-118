@@ -1,0 +1,45 @@
+---
+granule: CREC-2023-08-22-pt1-PgE788-4
+date: 2023-08-22
+edition: CREC
+section: EXTENSIONS
+page: E788
+citation: 169 Cong. Rec. E788
+---
+
+# HONORING HOMETOWN HERO KANDI STEWART
+
+**Speaking:** Van Duyne, Beth (V000134) [R-TX]
+
+```
+                  HONORING HOMETOWN HERO KANDI STEWART
+
+                                 ______
+                                 
+
+                          HON. BETH VAN DUYNE
+
+                                of texas
+
+                    in the house of representatives
+
+                        Tuesday, August 22, 2023
+
+  Ms. VAN DUYNE. Mr. Speaker, I rise today to recognize Kandi Stewart, 
+co-owner of Courage to Conquer Cancer (C2CC). C2CC is devoted to 
+promoting research, advocating for patients, and ensuring cost-
+efficient resources and systems that will enhance post-surgical 
+management outcomes for dialysis, cardiac surgery, cancer, and other 
+patients. Kandi is a HEBISD teacher and was diagnosed with breast 
+cancer in the fall of 2014. After her diagnosis and treatment, she had 
+the inclination to help other cancer patients surmount the financial 
+and physical costs. C2CC's first initiative was the Breast Cancer 
+Recovery Tee Shirt, which is designed with fashion, affordability, and 
+functionality in mind. The nonprofit arm of C2CC works to donate free 
+recovery kits to mastectomy patients facing financial hardship through 
+post-surgical care. Kandi is undergoing cancer treatment for the second 
+time after being in remission for years. I want to thank Kandi for 
+being a beacon of selflessness and strength within our community.
+
+                          ____________________
+```
