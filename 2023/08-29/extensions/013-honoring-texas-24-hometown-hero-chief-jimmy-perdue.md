@@ -1,0 +1,48 @@
+---
+granule: CREC-2023-08-29-pt1-PgE801-4
+date: 2023-08-29
+edition: CREC
+section: EXTENSIONS
+page: E801
+citation: 169 Cong. Rec. E801
+---
+
+# HONORING TEXAS-24 HOMETOWN HERO CHIEF JIMMY PERDUE
+
+**Speaking:** Van Duyne, Beth (V000134) [R-TX]
+
+```
+           HONORING TEXAS-24 HOMETOWN HERO CHIEF JIMMY PERDUE
+
+                                 ______
+                                 
+
+                          HON. BETH VAN DUYNE
+
+                                of texas
+
+                    in the house of representatives
+
+                        Tuesday, August 29, 2023
+
+  Ms. VAN DUYNE. Mr. Speaker, I rise today to recognize our TX-24 
+Hometown Hero, retired police chief Jimmy Perdue. Chief Perdue spent 
+over 40 years in public service, 18 of them serving as the North 
+Richland Hills Chief of Police and Director of Public Safety. Under his 
+leadership, the North Richland Hills Police Department earned 
+``Recognized Status'' from the Texas Police Chiefs Association 
+Foundation Best Practices Recognition Program in 2011, a status which 
+the department continues to maintain year after year. He also served as 
+a past President of the North Texas Police Chiefs Association and as 
+the President of the Texas Police Chiefs Association from 2022-2023.
+  Chief Perdue continually displayed his dedication to public service 
+by developing the Women of Law Enforcement Conference, leading the 
+city's response to the COVID-19 outbreak, overseeing the design and 
+construction of the North Richland Hills Animal Adoption and Rescue 
+Center, and bringing the SHIELD program to life, a 3-day training 
+course for NRH police officers. I commend Chief Perdue for going above 
+and beyond for our community and congratulate him on his retirement. He 
+will be missed.
+
+                          ____________________
+```
