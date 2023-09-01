@@ -1,0 +1,43 @@
+---
+granule: CREC-2023-09-01-pt1-PgE807-4
+date: 2023-09-01
+edition: CREC
+section: EXTENSIONS
+page: E807
+citation: 169 Cong. Rec. E807
+---
+
+# COMMEMORATING GARDEN CITY'S ROSIE THE RIVETER ROSE GARDEN
+
+**Speaking:** Tlaib, Rashida (T000481) [D-MI]
+
+```
+       COMMEMORATING GARDEN CITY'S ROSIE THE RIVETER ROSE GARDEN
+
+                                 ______
+                                 
+
+                           HON. RASHIDA TLAIB
+
+                              of michigan
+
+                    in the house of representatives
+
+                       Friday, September 1, 2023
+
+  Ms. TLAIB. Mr. Speaker, today I want to celebrate the legacy of our 
+nation's Rosie the Riveters in recognition of the dedication of the 
+Rosie the Riveter Rose Garden in Garden City.
+  During World War II countless women from across the nation and right 
+here in Southeast Michigan took over jobs that had been previously 
+performed by men. Three hundred thousand Rosie the Riveters held our 
+country down during extremely trying times and became icons of women's 
+empowerment and strength. This Labor Day, I am proud to recognize these 
+women who blazed the trail for women in the workforce and for their 
+contributions to the labor movement and our history.
+  As we gather to ring a bell for Rosie, please join me and the people 
+of Garden City in Michigan's 12th District Strong as we honor their 
+legacy with the dedication of the Rosie the Riveter Rose Garden.
+
+                          ____________________
+```
