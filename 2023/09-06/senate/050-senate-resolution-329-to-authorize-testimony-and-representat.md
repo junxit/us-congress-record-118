@@ -1,0 +1,69 @@
+---
+granule: CREC-2023-09-06-pt1-PgS4231
+date: 2023-09-06
+edition: CREC
+section: SENATE
+page: S4231
+citation: 169 Cong. Rec. S4231
+---
+
+# SENATE RESOLUTION 329--TO AUTHORIZE TESTIMONY AND REPRESENTATION IN UNITED STATES V. HORN
+
+**Measures:** S.Res. 329
+
+```
+                         SUBMITTED RESOLUTIONS
+
+                                 ______
+                                 
+
+  SENATE RESOLUTION 329--TO AUTHORIZE TESTIMONY AND REPRESENTATION IN 
+                         UNITED STATES V. HORN
+
+  Mr. SCHUMER (for himself and Mr. McConnell) submitted the following 
+resolution; which was considered and agreed to:
+
+                              S. Res. 329
+
+       Whereas, in the case of United States v. Horn, Cr. No. 21-
+     301, pending in the United States District Court for the 
+     District of Columbia, the prosecution is seeking the 
+     production of testimony from Michael J. Mastrian, Director of 
+     the Senate Radio and Television Gallery, and Jeffrey S. Kent, 
+     Director of the Press Photographers' Gallery, departments of 
+     the Office of the Sergeant at Arms and Doorkeeper of the 
+     Senate;
+       Whereas, pursuant to sections 703(a) and 704(a)(2) of the 
+     Ethics in Government Act of 1978, 2 U.S.C. Sec. Sec. 288b(a) 
+     and 288c(a)(2), the Senate may direct its counsel to 
+     represent current and former officers and employees of the 
+     Senate with respect to any subpoena, order, or request for 
+     evidence relating to their official responsibilities;
+       Whereas, by the privileges of the Senate of the United 
+     States and Rule XI of the Standing Rules of the Senate, no 
+     evidence under the control or in the possession of the Senate 
+     may, by the judicial or administrative process, be taken from 
+     such control or possession but by permission of the Senate; 
+     and
+
+[[Page S4232]]
+
+       Whereas, when it appears that evidence under the control or 
+     in the possession of the Senate may promote the 
+     admministration of justice, the Senate will take such action 
+     as will promote the ends of justice consistent with the 
+     privileges of the Senate: Now, therefore, be it
+       Resolved, That Michael J. Mastrian, Director of the Senate 
+     Radio and Television Gallery, and Jeffrey S. Kent, Director 
+     of the Press Photographers' Gallery, are authorized to 
+     provide relevant testimony in the case of United States v. 
+     Horn, except concerning matters for which a privilege should 
+     be asserted.
+       Sec. 2.  The Senate Legal Counsel is authorized to 
+     represent Messrs. Mastrian and Kent, and any current or 
+     former officer or employee of their offices, in connection 
+     with the production of evidence authorized in section one of 
+     this resolution.
+
+                          ____________________
+```
