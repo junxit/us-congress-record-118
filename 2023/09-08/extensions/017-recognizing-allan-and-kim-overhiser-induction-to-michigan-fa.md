@@ -1,0 +1,63 @@
+---
+granule: CREC-2023-09-08-pt1-PgE818-4
+date: 2023-09-08
+edition: CREC
+section: EXTENSIONS
+page: E818
+citation: 169 Cong. Rec. E818
+---
+
+# RECOGNIZING ALLAN AND KIM OVERHISER INDUCTION TO MICHIGAN FARMERS HALL OF FAME
+
+**Speaking:** Huizenga, Bill (H001058) [R-MI]
+
+```
+RECOGNIZING ALLAN AND KIM OVERHISER INDUCTION TO MICHIGAN FARMERS HALL 
+                                OF FAME
+
+                                 ______
+                                 
+
+                           HON. BILL HUIZENGA
+
+                              of michigan
+
+                    in the house of representatives
+
+                       Friday, September 8, 2023
+
+  Mr. HUIZENGA. Mr. Speaker, I rise today to recognize and congratulate 
+both Allan and Kim Overhiser for their incredible service to Allegan 
+County and on their induction to the prestigious Michigan Farmers Hall 
+of Fame. It is an honor to express my gratitude for their dedication 
+and commitment to our community and Southwest Michigan.
+  Mr. Allan Overhiser was raised on the Overhiser farm and decided to 
+follow in his family's fruit growing tradition. When his father 
+retired, Allan and Kim Overhiser took over the business and became the 
+fifth generation of family farmers. Under their combined leadership, 
+the farm has expanded to 325 acres and includes more than 30,000 fruit 
+trees. Allan and Kim have brought on their son, Alex, to continue 
+managing the family's farming operations.
+  Coinciding with his agricultural and business leadership, Allan has 
+also diligently served his community. Allan spent 16 years as the Casco 
+Township Clerk from 1988 to 2004 and has continued his service as the 
+Township Supervisor since he was first elected in 2004. On Allan's 
+watch, his constituents have directly benefitted from the development 
+of a 20-acre park overlooking Lake Michigan, the creation of the South 
+Haven Area Water and Sewer Authority, and the establishment of the 
+South Haven Area Emergency Services Authority. He is a recipient of the 
+Michigan Horticultural Society Distinguished Service Award.
+  In addition to helping run their family farm, Kim Overhiser has also 
+distinguished herself as a community leader. She is a founding member 
+of the Michigan Agritourism Association, a board member for the 
+Lakeshore Harvest Country Association, a Cub Scout leader, and as a 
+strong supporter of Fennville High School Athletics and Bands. Kim's 
+passion for service has helped make Southwest Michigan an even better 
+place to live, work, and raise a family.
+  Mr. Speaker, I thank the House for joining me to congratulate Allan 
+and Kim Overhiser on their well-deserved Hall of Fame induction and for 
+their years of dedicated service to Allegan County and Michigan's 4th 
+Congressional District.
+
+                          ____________________
+```
