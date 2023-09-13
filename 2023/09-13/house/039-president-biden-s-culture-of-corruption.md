@@ -1,0 +1,43 @@
+---
+granule: CREC-2023-09-13-pt1-PgH4278-4
+date: 2023-09-13
+edition: CREC
+section: HOUSE
+page: H4278
+citation: 169 Cong. Rec. H4278
+---
+
+# PRESIDENT BIDEN'S CULTURE OF CORRUPTION
+
+**Speaking:** Alford, Mark (A000379) [R-MO]
+
+```
+                PRESIDENT BIDEN'S CULTURE OF CORRUPTION
+
+  (Mr. ALFORD asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. ALFORD. Mr. Speaker, I rise today to voice my strong support for 
+the impeachment inquiry into President Joe Biden.
+  House Republicans have uncovered serious and credible allegations of 
+his conduct, a culture of corruption.
+  We now know this to be true:
+  The Biden family received more than $20 million in foreign payments 
+from China, Russia, Ukraine, and Romania.
+  That 10 percent cut for the big guy, well, yes, that was for Joe 
+Biden.
+  The Bidens created over 20-plus shell companies to conceal the money.
+  Joe Biden joined 20 phone calls with Hunter Biden's business 
+partners.
+  Texts invoked Biden to shake down a Chinese business partner for 
+cash.
+  Joe Biden used pseudonyms on emails.
+  There are at least 150 suspicious activity reports.
+  Joe Biden's pattern of behavior is deeply disturbing and concerning 
+for our national security.
+  Mr. Speaker, we need answers. We need those bank records. We need the 
+truth.
+  The SPEAKER pro tempore. Members are reminded to refrain from 
+engaging in personalities toward the President.
+
+                          ____________________
+```
