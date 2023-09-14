@@ -1,0 +1,39 @@
+---
+granule: CREC-2023-09-14-pt1-PgH4308-5
+date: 2023-09-14
+edition: CREC
+section: HOUSE
+page: H4308
+citation: 169 Cong. Rec. H4308
+---
+
+# GOVERNMENT SHUTDOWN
+
+**Speaking:** Ruiz, Raul (R000599) [D-CA]
+
+```
+                          GOVERNMENT SHUTDOWN
+
+  (Mr. RUIZ asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. RUIZ. Mr. Speaker, I rise today deeply frustrated that so many 
+Members on the other side of the aisle seem determined to shut down the 
+government and create a national crisis of massive proportions.
+  Let's be clear. We are not asking Republicans to break new ground. We 
+are only asking them to live up to the bipartisan budget agreement that 
+a majority on both sides of the aisle already voted for and passed the 
+House. We are only asking them to support the essential programs 
+critical to veterans, seniors, childcare programs, working families, 
+farmers, and retirees; the people I care about and came to serve 
+because, again, let's be clear, if they force a government shutdown, 
+these are the people who will suffer most.
+  Veterans won't receive their full benefits, retirees will lose their 
+economic security and medical care, and our businesses will face 
+massive economic turmoil. For what? A political stunt created by 
+extremists who care more about riling up their base than helping their 
+constituents.
+  Every one of us here swore an oath to serve our constituents. It is 
+time to live up to that oath.
+
+                          ____________________
+```

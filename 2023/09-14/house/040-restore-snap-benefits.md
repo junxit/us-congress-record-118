@@ -1,0 +1,41 @@
+---
+granule: CREC-2023-09-14-pt1-PgH4309-5
+date: 2023-09-14
+edition: CREC
+section: HOUSE
+page: H4309
+citation: 169 Cong. Rec. H4309
+---
+
+# RESTORE SNAP BENEFITS
+
+**Speaking:** Dean, Madeleine (D000631) [D-PA]
+
+```
+                         RESTORE SNAP BENEFITS
+
+  (Ms. DEAN of Pennsylvania asked and was given permission to address 
+the House for 1 minute and to revise and extend her remarks.)
+  Ms. DEAN of Pennsylvania. Mr. Speaker, my husband and I have raised 
+three hungry boys. I know how difficult and expensive it can be. Our 
+government should not be making it any harder.
+  Yet, Republicans in this Chamber are working overtime to make it 
+harder for families to receive SNAP benefits, putting more than 14 
+million children at risk of hunger.
+  Republicans talk about trusting parents and protecting our kids only 
+when it fits their agenda, because when it comes to trusting parents to 
+use programs like SNAP to feed their children, this Republican majority 
+pushes for more regulation, less trust. We have seen this play out 
+firsthand.
+  Under the last Congress, Democrats, our majority, expanded the child 
+tax credit and cut child poverty in half. When it tragically ended, and 
+every Republican refused to restore it, children plunged back into 
+poverty.
+  As the Speaker's self-inflicted chaos inches us closer to a Federal 
+budget deadline, it is clear: Our children are suffering because of the 
+antics and extremism of the Republican majority.
+  Mr. Speaker, I urge this House majority to rethink their chaos, 
+protect SNAP benefits, and lift all of our children out of poverty.
+
+                          ____________________
+```

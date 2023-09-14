@@ -1,0 +1,40 @@
+---
+granule: CREC-2023-09-14-pt1-PgH4329-3
+date: 2023-09-14
+edition: CREC
+section: HOUSE
+page: H4329
+citation: 169 Cong. Rec. H4329
+---
+
+# CONGRATULATING JEREMIAS CASTILLO
+
+**Speaking:** Payne, Donald M. (P000604) [D-NJ]
+
+```
+                    CONGRATULATING JEREMIAS CASTILLO
+
+  (Mr. PAYNE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. PAYNE. Madam Speaker, I rise today to congratulate Jeremias 
+Castillo, this year's $25,000 National Honor Society Scholarship 
+winner.
+  Castillo, a senior at Technology High School in Newark, was chosen 
+from a pool of 13,000 applicants. He won because his commitment to 
+enacting positive change in the country's healthcare system is what he 
+is all about.
+  When his father passed away, Jeremias witnessed the health 
+disparities that affect underrepresented groups, so he decided to do 
+something about it.
+  He volunteered weekly at a local medical center, he collected medical 
+supplies from the Newark Department of Health and Welfare, and he spoke 
+about his passion to improve healthcare at a symposium that reached 
+more than 3.6 million people.
+  Jeremias will use this scholarship to study neuroscience and 
+political science at Harvard University, and he will continue to help 
+create more equitable healthcare systems in America.
+  Again, I congratulate Jeremias for his dedication to his family, his 
+community, and his country.
+
+                          ____________________
+```

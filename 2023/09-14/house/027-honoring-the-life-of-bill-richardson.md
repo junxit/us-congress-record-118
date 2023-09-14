@@ -1,0 +1,38 @@
+---
+granule: CREC-2023-09-14-pt1-PgH4307-7
+date: 2023-09-14
+edition: CREC
+section: HOUSE
+page: H4307
+citation: 169 Cong. Rec. H4307
+---
+
+# HONORING THE LIFE OF BILL RICHARDSON
+
+**Speaking:** Garcia, Sylvia R. (G000587) [D-TX]
+
+```
+                  HONORING THE LIFE OF BILL RICHARDSON
+
+  (Ms. GARCIA of Texas asked and was given permission to address the 
+House for 1 minute and to revise and extend her remarks.)
+  Ms. GARCIA of Texas. Mr. Speaker, I rise today to honor the life of 
+Bill Richardson.
+  Former Governor Bill Richardson was a devoted public servant and a 
+skilled diplomat whose career improved countless lives in New Mexico 
+and across America, and indeed, the world.
+  As Governor of New Mexico, he tirelessly worked to improve the lives 
+of his constituents while making history leading as a Latino, but Bill 
+Richardson's influence extended well beyond the borders of New Mexico. 
+He served as Energy Secretary and also as the U.S. Ambassador to the 
+United Nations, where his diplomatic skills and commitment to peace 
+played a pivotal role in addressing many global challenges.
+  Today, we remember Governor Bill Richardson, and we also honor his 
+legacy of public service and diplomacy, which continues with his work 
+at his center. He was an inspiration to all of us, and he was a true 
+American patriot.
+  His leadership and kindness will forever be remembered. Rest in 
+peace, my friend.
+
+                          ____________________
+```
