@@ -1,0 +1,39 @@
+---
+granule: CREC-2023-09-18-pt1-PgH4374
+date: 2023-09-18
+edition: CREC
+section: HOUSE
+page: H4374
+citation: 169 Cong. Rec. H4374
+---
+
+# RALLY AROUND THE SECOND AMENDMENT
+
+**Speaking:** Grothman, Glenn (G000576) [R-WI]
+
+```
+                   RALLY AROUND THE SECOND AMENDMENT
+
+  (Mr. GROTHMAN asked and was given permission to address the House for 
+1 minute.)
+  Mr. GROTHMAN. Mr. Speaker, I call attention one more time to the 
+Members of this body about the lack of respect for the Second Amendment 
+that took place in the State of New Mexico recently.
+  We all know where the increase in crime rate came from; probably 
+three things: first of all, the breakdown of the family, which was 
+encouraged by Lyndon Johnson's war on the family; secondly, liberal 
+judges, who are not predisposed to put criminals in jail; and finally, 
+liberal district attorneys who do not want to put members of the 
+criminal class in jail.
+  As a result, we wind up with an increase in murders and an increase 
+in crimes committed with guns. We have to rally and make it impossible, 
+politically impossible, for anybody else to do what the New Mexico 
+Governor did a few weeks ago.
+  The Second Amendment is designed to keep the power in this country 
+with the people. Just because we have a family breakdown, together with 
+ultra leftwing judges and district attorneys, is no reason to give up 
+on our Second Amendment.
+  Rally, America. Rally around that Second Amendment.
+
+                          ____________________
+```
