@@ -1,0 +1,50 @@
+---
+granule: CREC-2023-09-19-pt1-PgE863
+date: 2023-09-19
+edition: CREC
+section: EXTENSIONS
+page: E863
+citation: 169 Cong. Rec. E863
+---
+
+# COMMEMORATING THE 150TH ANNIVERSARY OF THE VILLAGE OF CAPRON, ILLINOIS
+
+**Speaking:** LaHood, Darin (L000585) [R-IL]
+
+```
+ COMMEMORATING THE 150TH ANNIVERSARY OF THE VILLAGE OF CAPRON, ILLINOIS
+
+                                 ______
+                                 
+
+                           HON. DARIN LaHOOD
+
+                              of illinois
+
+                    in the house of representatives
+
+                      Tuesday, September 19, 2023
+
+  Mr. LaHOOD. Mr. Speaker, I would like to recognize the Village of 
+Capron, Illinois, for celebrating their 150th anniversary.
+  On December 3, 1873, the Village of Capron was established in Boone 
+County, Illinois. The Village of Capron was named after Colonel Capron 
+who purchased the land from Nancy Scott and Nathan H. Wooster served as 
+the village's first president. Today, the village serves as the third 
+largest municipality in Boone County with a population of 1,400 
+residents.
+  The village celebrated significant achievements throughout its 
+history, such as the drilling of its first municipal well in 1881, the 
+building of its original water tower in 1900, and electricity coming to 
+the village in 1911. We are grateful for Capron's commitment and 
+investment in agriculture and business development in northern 
+Illinois.
+  The Village of Capron is known throughout northern Illinois for the 
+services that it has provided for the community over the last 150 
+years. Today, we celebrate the village and their residents for their 
+dedication to their community. I extend my sincere congratulations to 
+the Village of Capron, Illinois for a successful 150 years, and I wish 
+them even more success going forward.
+
+                          ____________________
+```

@@ -1,0 +1,38 @@
+---
+granule: CREC-2023-09-19-pt1-PgH4405-2
+date: 2023-09-19
+edition: CREC
+section: HOUSE
+page: H4405
+citation: 169 Cong. Rec. H4405
+---
+
+# PAID SICK LEAVE FOR RAILROAD WORKERS
+
+**Speaking:** Payne, Donald M. (P000604) [D-NJ]
+
+```
+                              {time}  1545
+                  PAID SICK LEAVE FOR RAILROAD WORKERS
+
+  (Mr. PAYNE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. PAYNE. Madam Speaker, I rise today to discuss the need for the 
+Freight Rail Workforce Health and Safety Act.
+  I introduced this bill to give our critical railroad workers 7 days 
+of paid sick leave. It would allow them to care for their health and 
+the health of family members without using their vacation time. It is a 
+benefit enjoyed by millions of American workers every single day. Yet, 
+for some reason, railroad companies have refused to provide it to 
+railroad workers, but they do provide it to railroad management.
+  Our railroad workers should have the right to paid sick leave. They 
+risked their health and safety to keep food and medicine on store 
+shelves during the COVID-19 pandemic.
+  This bill would allow them to take care of their health without 
+worrying about their income, and I encourage all of my colleagues to 
+support it.
+  We have it here in the Congress, our staff has it here in the 
+Congress. The railroad workers need it as well.
+
+                          ____________________
+```

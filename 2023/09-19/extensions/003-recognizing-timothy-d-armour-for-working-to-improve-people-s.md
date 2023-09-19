@@ -1,0 +1,67 @@
+---
+granule: CREC-2023-09-19-pt1-PgE861-4
+date: 2023-09-19
+edition: CREC
+section: EXTENSIONS
+page: E861
+citation: 169 Cong. Rec. E861
+---
+
+# RECOGNIZING TIMOTHY D. ARMOUR FOR WORKING TO IMPROVE PEOPLE'S LIVES THROUGH SUCCESSFUL INVESTING
+
+**Speaking:** Sherman, Brad (S000344) [D-CA]
+
+```
+  RECOGNIZING TIMOTHY D. ARMOUR FOR WORKING TO IMPROVE PEOPLE'S LIVES 
+                      THROUGH SUCCESSFUL INVESTING
+
+                                 ______
+                                 
+
+                           HON. BRAD SHERMAN
+
+                             of california
+
+                    in the house of representatives
+
+                      Tuesday, September 19, 2023
+
+  Mr. SHERMAN. Mr. Speaker, I rise today to speak about Capital Group 
+and one of its retiring leaders, Mr. Timothy D. Armour. Capital Group 
+is not only headquartered, but was also founded more than 90 years ago, 
+in my hometown of Los Angeles. Today, I want to recognize Tim for his 
+contributions to the field of asset management and his dedication to 
+the tens of millions of investors in the United States and around the 
+world who have entrusted Capital Group to safeguard and grow their 
+savings.
+  At the end of this year, Tim will retire from Capital Group, a firm 
+he joined over 40 years ago at its Los Angeles headquarters. After 
+graduating from the firm's early-career rotational program, he served 
+as an investment research analyst covering telecommunications and U.S. 
+service companies and later as a portfolio manager in several of the 
+American Funds. He distinguished himself throughout his career as a 
+savvy investor able to identify companies that deliver long-term value 
+for their shareholders.
+  Tim also served in various leadership roles, including as Chairman of 
+Capital Group's Management Committee and Board of Directors over the 
+past 8 years. Under his leadership, the 92-year old firm expanded its 
+reach to global investors while evolving to meet the demands of a 
+changing world and provide for future success for the benefit of 
+Capital Group's clients, associates and the communities where those 
+associates live and work.
+  Tim has been regarded by his colleagues and peers within the 
+financial services industry as the embodiment of Capital Group's core 
+values. His personal integrity, long-term focus and commitment to 
+clients have set the tone for the current generation of the firm's 
+associates and created a legacy that the next generation can follow.
+  In anticipation of his retirement at the end of this year, associates 
+of Capital Group were asked to characterize Tim's leadership with just 
+a single word. The words most often repeated included kind, trusted, 
+candid, inclusive, present, and caring. One close colleague added, ``It 
+is rare to find a leader who cares so genuinely and openly about his 
+colleagues and clients.'' I am proud to celebrate the career 
+accomplishment of Tim Armour and wish him all the very best in life's 
+next chapter.
+
+                          ____________________
+```

@@ -1,0 +1,31 @@
+---
+granule: CREC-2023-09-19-pt1-PgS4606-4
+date: 2023-09-19
+edition: CREC
+section: SENATE
+page: S4606
+citation: 169 Cong. Rec. S4606
+---
+
+# NOTICE OF INTENT TO SUSPEND THE RULES
+
+**Speaking:** Lee, Mike (L000577) [R-UT]
+
+**Measures:** S. 2721
+
+```
+                 NOTICE OF INTENT TO SUSPEND THE RULES
+
+  Mr. LEE. Madam President, I submit the following notice in writing: 
+In accordance with Rule V of the Standing Rules of the Senate, I hereby 
+give notice in writing that it is my intention to move to suspend Rule 
+XVI and Rule XXII, including germaneness requirements and dilatory 
+provisions, to offer the following amendments, either as floor 
+amendments, or as motions to recommit with instructions: Vance No. 
+1210, Lee No. 1121, Cruz No. 1176, Rubio No. 1159, Rubio No. 1237, 
+Hawley No. 1200, Marshall No. 1161, Braun No. 1182, Paul No. 1226, Paul 
+No. 1217. Scott of Florida S. 2721, as amended with a Scott of Florida-
+Rubio substitute amendment.
+
+                          ____________________
+```

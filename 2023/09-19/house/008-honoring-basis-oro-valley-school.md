@@ -1,0 +1,48 @@
+---
+granule: CREC-2023-09-19-pt1-PgH4386-3
+date: 2023-09-19
+edition: CREC
+section: HOUSE
+page: H4386
+citation: 169 Cong. Rec. H4386
+---
+
+# HONORING BASIS ORO VALLEY SCHOOL
+
+**Speaking:** Ciscomani, Juan (C001133) [R-AZ]
+
+```
+                    HONORING BASIS ORO VALLEY SCHOOL
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from 
+Arizona (Mr. Ciscomani) for 5 minutes.
+  Mr. CISCOMANI. Mr. Speaker, I rise today in honor of BASIS Oro 
+Valley, a school in my district that has been included in U.S. News & 
+World Report's 2023 Best Public High Schools, securing the 21st 
+position.
+  This accomplishment is a testament to the hard work and dedication of 
+our students, educators, and the entire school community.
+  BASIS Oro Valley prides themselves on their award-winning STEM 
+curriculum and liberal arts program to help children pursue their 
+dreams.
+  From advanced AP courses to high-level music classes, this school has 
+something for everyone.
+
+                              {time}  1015
+
+  The average ACT score for BASIS Oro Valley students is a 32 and the 
+average SAT score is 1368. This is one of
+
+[[Page H4387]]
+
+the best high schools in the country and it is located right in 
+Arizona-06, my district.
+  This school, which has only been around since 2010, has made a huge 
+impact on our community. I am so proud of the teachers who make this a 
+great experience for the kids and the kids that push themselves to be 
+better every single day.
+  I am proud to represent this outstanding school in Congress and to 
+recognize the BASIS Oro Valley school here today.
+
+                          ____________________
+```
