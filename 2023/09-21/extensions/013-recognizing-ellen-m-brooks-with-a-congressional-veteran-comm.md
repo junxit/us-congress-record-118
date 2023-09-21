@@ -1,0 +1,61 @@
+---
+granule: CREC-2023-09-21-pt1-PgE875-5
+date: 2023-09-21
+edition: CREC
+section: EXTENSIONS
+page: E875
+citation: 169 Cong. Rec. E875
+---
+
+# RECOGNIZING ELLEN M. BROOKS WITH A CONGRESSIONAL VETERAN COMMENDATION
+
+**Speaking:** Sessions, Pete (S000250) [R-TX]
+
+```
+ RECOGNIZING ELLEN M. BROOKS WITH A CONGRESSIONAL VETERAN COMMENDATION
+
+                                 ______
+                                 
+
+                           HON. PETE SESSIONS
+
+                                of texas
+
+                    in the house of representatives
+
+                      Thursday, September 21, 2023
+
+  Mr. SESSIONS. Mr. Speaker, I rise to present Ellen M. Brooks of 
+Crockett, Texas,
+
+[[Page E876]]
+
+with a Congressional Veteran Commendation. Her service to this nation 
+and community speaks to the best of Texas.
+  Ellen enlisted in the United States Air Force in 1994. Recognizing 
+her innate leadership capabilities, the Air Force sent her to officer 
+training after only two and a half years as an enlisted Airman. During 
+the five years she served as a commissioned officer, Ellen rose to the 
+rank of Captain. Before leaving the U.S. Air Force in 1998, she served 
+as Commander of a communications unit in Alaska. During her active 
+service she was recognized with the Air Force Commendation Medal w/1 
+device, the Air Force Outstanding Unit Award w/1 device, and the 
+National Defense Service Medal, together with a Good Conduct Medal, Air 
+Force Longevity Service Award, Air Force Overseas Long Tour Ribbon, and 
+Air Force Training Ribbon w/1 device.
+  Ellen has given much to her community. In 2007 she joined the 
+Crockett Noon Lions Club and was instrumental in forming the Leo Club 
+where she served as Sponsor. She established a new Evening Lions Club 
+and served as its first President. She has spent countless hours 
+investing in the lives of the members and youth, teaching leadership, 
+character, and kindness. She is a member of First United Methodist 
+Church. Whether working to keep her community clean or distributing 
+food to the needy, Ellen can always be counted on. In 2020, the 
+Crockett Area Chamber of Commerce recognized Ellen's service to the 
+community with its highest honor, Citizen of the Year.
+  Her leadership will have a long-lasting effect on young people for 
+years to come--and it is my honor to award Ellen M. Brooks of Crockett, 
+Texas, a Congressional Veteran Commendation.
+
+                          ____________________
+```

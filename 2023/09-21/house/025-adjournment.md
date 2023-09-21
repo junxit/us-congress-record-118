@@ -1,0 +1,20 @@
+---
+granule: CREC-2023-09-21-pt1-PgH4453-4
+date: 2023-09-21
+edition: CREC
+section: HOUSE
+page: H4453
+citation: 169 Cong. Rec. H4453
+---
+
+# ADJOURNMENT
+
+```
+                              ADJOURNMENT
+
+  Mr. VAN ORDEN. Mr. Speaker, I move that the House do now adjourn.
+  The motion was agreed to; accordingly (at 10 p.m.), the House 
+adjourned until tomorrow, Friday, September 22, 2023, at 9 a.m.
+
+                          ____________________
+```

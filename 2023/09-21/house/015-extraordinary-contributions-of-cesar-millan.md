@@ -1,0 +1,43 @@
+---
+granule: CREC-2023-09-21-pt1-PgH4442-6
+date: 2023-09-21
+edition: CREC
+section: HOUSE
+page: H4442
+citation: 169 Cong. Rec. H4442
+---
+
+# EXTRAORDINARY CONTRIBUTIONS OF CESAR MILLAN
+
+**Speaking:** Cardenas, Tony (C001097) [D-CA]
+
+```
+                              {time}  0915
+              EXTRAORDINARY CONTRIBUTIONS OF CESAR MILLAN
+
+  (Mr. CARDENAS asked and was given permission to address the House
+
+[[Page H4443]]
+
+for 1 minute and to revise and extend his remarks.)
+  Mr. CARDENAS. Madam Speaker, as we celebrate Hispanic Heritage Month, 
+I wish to recognize the extraordinary contributions of Cesar Millan. 
+Cesar has transformed the lives of countless people and dogs and has 
+also touched the hearts of people all over the world.
+  From humble beginnings in Culiacan, Sinaloa, Mexico, working on his 
+grandfather Teodoro Millan Angulo's farm, Cesar came to the United 
+States undocumented and unable to speak English. He lives his dream 
+right here in America doing the job that he has always wanted to do, to 
+be the best dog and human trainer in the world.
+  Through his television series, ``The Dog Whisperer with Cesar 
+Millan,'' Cesar taught us how to understand our four-legged friends and 
+to better understand ourselves. He launched the Cesar Millan 
+Foundation, a nonprofit organization designed to support the rescue, 
+rehabilitation, and placement of abused and abandoned animals.
+  Cesar Millan has inspired us to become more compassionate, more 
+understanding, and more forgiving. As Cesar would say, better human, 
+better dog, better together.
+  Cesar is both a proud immigrant and a proud United States citizen.
+
+                          ____________________
+```
