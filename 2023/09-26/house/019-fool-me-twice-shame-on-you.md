@@ -1,0 +1,40 @@
+---
+granule: CREC-2023-09-26-pt1-PgH4471-3
+date: 2023-09-26
+edition: CREC
+section: HOUSE
+page: H4471
+citation: 169 Cong. Rec. H4471
+---
+
+# FOOL ME TWICE, SHAME ON YOU
+
+**Speaking:** Casten, Sean (C001117) [D-IL]
+
+```
+                      FOOL ME TWICE, SHAME ON YOU
+
+  (Mr. CASTEN asked and was given permission to address the House for 1 
+minute.)
+  Mr. CASTEN. Mr. Speaker, there was a time in Washington less than a 
+year ago when if the Speaker of the House of Representatives gave you 
+their word, it meant something.
+  That is no longer true.
+  Earlier this year, Speaker McCarthy stood in the Oval Office with the 
+President of the United States and negotiated a deal to raise the debt 
+limit and fund the government. Today, instead of keeping his end of the 
+deal, Speaker McCarthy is refusing to even allow bills to come to the 
+floor that would honor that promise and avert a government shutdown.
+  His failures mean that 1.3 million Active-Duty troops will have to 
+continue to work but not be paid for their service.
+  His failures mean that 7 million women and children will not receive 
+the nutrition assistance that they depend on.
+  His failures mean that every one of you can expect flight 
+disruptions, less border security, fewer food and rail safety 
+inspections.
+  There is an old saying, Mr. Speaker: Fool me once, shame on you; fool 
+me twice, shame on me. Shame on Speaker McCarthy for forcing the 
+American people to suffer all this foolishness.
+
+                          ____________________
+```
