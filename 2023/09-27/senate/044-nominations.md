@@ -1,0 +1,115 @@
+---
+granule: CREC-2023-09-27-pt1-PgS4727-7
+date: 2023-09-27
+edition: CREC
+section: SENATE
+page: S4727
+citation: 169 Cong. Rec. S4727
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                             THE JUDICIARY
+
+        SHANLYN A.S. PARK, OF HAWAII, TO BE UNITED STATES DISTRICT 
+     JUDGE FOR THE DISTRICT OF HAWAII, VICE LESLIE E. KOBAYASHI, 
+     RETIRING.
+
+
+                            IN THE AIR FORCE
+
+       THE FOLLOWING NAMED AIR NATIONAL GUARD OF THE UNITED STATES 
+     OFFICER FOR APPOINTMENT IN THE RESERVE OF THE AIR FORCE TO 
+     THE GRADE INDICATED UNDER TITLE 10, U.S.C., SECTIONS 12203 
+     AND 12212:
+
+
+ =========================== NOTE =========================== 
+
+  
+  On page S4727, September 27, 2023, in the middle of the third 
+column, the following appears: IN THE ARMY THE FOLLOWING NAMED 
+ARMY NATIONAL GUARD OF THE UNITED STATES OFFICERS FOR APPOINTMENT 
+IN THE RESERVE OF THE AIR FORCE TO THE GRADE INDICATED UNDER TITLE 
+10, U.S.C., SECTIONS 12203 AND 12212:
+  
+  The online Record has been corrected to read: IN THE AIR FORCE 
+THE FOLLOWING NAMED AIR NATIONAL GUARD OF THE UNITED STATES 
+OFFICER FOR APPOINTMENT IN THE RESERVE OF THE AIR FORCE TO THE 
+GRADE INDICATED UNDER TITLE 10, U.S.C., SECTIONS 12203 AND 12212:
+
+
+ ========================= END NOTE ========================= 
+
+
+                          To be major general
+
+BRIG. GEN. MICHAEL J. REGAN, JR.
+
+
+                            IN THE AIR FORCE
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE RESERVE OF THE AIR FORCE UNDER TITLE 10, 
+     U.S.C., SECTION 12203:
+
+                             To be colonel
+
+WILLIAM D. MAGEE
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE RESERVE OF THE AIR FORCE UNDER TITLE 10, 
+     U.S.C., SECTION 12203:
+
+                             To be colonel
+
+MICHAEL P. KUNKLER
+
+
+                          IN THE MARINE CORPS
+
+       THE FOLLOWING NAMED INDIVIDUAL FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE REGULAR MARINE CORPS UNDER TITLE 10, U.S.C., 
+     SECTION 531:
+
+                              To be major
+
+CHRISTOPHER F. MELLING
+
+
+                              IN THE NAVY
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES NAVY RESERVE UNDER TITLE 10, 
+     U.S.C., SECTION 12203:
+
+                             To be captain
+
+T M. ALFORD
+
+
+                           IN THE SPACE FORCE
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES SPACE FORCE UNDER TITLE 10, 
+     U.S.C., SECTION 624:
+
+                        To be lieutenant colonel
+
+DUSTIN L. WHITE
+       THE FOLLOWING NAMED OFFICERS FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES SPACE FORCE UNDER TITLE 10, 
+     U.S.C., SECTION 624:
+
+                              To be major
+
+JOHN S. DONELSON
+AMBER V. HAGY
+BENJAMIN F. MOE
+RYAN M. WILSON
+```
