@@ -1,0 +1,26 @@
+---
+granule: CREC-2023-09-28-pt1-PgS4798-7
+date: 2023-09-28
+edition: CREC
+section: SENATE
+page: S4798
+citation: 169 Cong. Rec. S4798
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate September 28, 2023:
+
+
+                      POSTAL REGULATORY COMMISSION
+
+       ROBERT G. TAUB, OF NEW YORK, TO BE A COMMISSIONER OF THE 
+     POSTAL REGULATORY COMMISSION FOR A TERM EXPIRING OCTOBER 14, 
+     2028.
+       THOMAS G. DAY, OF VIRGINIA, TO BE A COMMISSIONER OF THE 
+     POSTAL REGULATORY COMMISSION FOR A TERM EXPIRING OCTOBER 14, 
+     2028.
+```
