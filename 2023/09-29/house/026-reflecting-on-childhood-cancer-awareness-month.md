@@ -1,0 +1,38 @@
+---
+granule: CREC-2023-09-29-pt1-PgH4899
+date: 2023-09-29
+edition: CREC
+section: HOUSE
+page: H4899
+citation: 169 Cong. Rec. H4899
+---
+
+# REFLECTING ON CHILDHOOD CANCER AWARENESS MONTH
+
+**Speaking:** D'Esposito, Anthony (D000632) [R-NY]
+
+```
+             REFLECTING ON CHILDHOOD CANCER AWARENESS MONTH
+
+  (Mr. D'ESPOSITO asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. D'ESPOSITO. Mr. Speaker, I rise today in honor of Childhood 
+Cancer Awareness Month, which is being observed through the end of 
+September.
+  During this period of reflection, Americans from coast to coast honor 
+our Nation's youngest warriors in their battle against pediatric cancer 
+and recommit themselves to finding a cure for such a terrible disease.
+  One of those young warriors is a 1-year-old, Cooper Graham, of 
+Oceanside, New York, who is fighting the good fight at such a young 
+age.
+  Cooper is a tough little guy, always with a smile. I know that all 
+Long Islanders are standing in solidarity with him in his fight right 
+alongside Cooper's parents, Michael and Rachel, as well as his big 
+sister, Rylie.
+  During Cancer Awareness Month, we are all Coop's troops, and we are 
+going to stand with Cooper and all pediatric cancer warriors through 
+thick and thin.
+  Cooper, if you are listening back home, we all remain Coop strong.
+
+                          ____________________
+```

@@ -1,0 +1,35 @@
+---
+granule: CREC-2023-09-29-pt1-PgH4859-6
+date: 2023-09-29
+edition: CREC
+section: HOUSE
+page: H4859
+citation: 169 Cong. Rec. H4859
+---
+
+# WELCOMING HEAD GRANTHI GIANI JASWINDER SINGH
+
+**Speaking:** Norcross, Donald (N000188) [D-NJ]
+
+```
+              WELCOMING HEAD GRANTHI GIANI JASWINDER SINGH
+
+  The SPEAKER. Without objection, the gentleman from New Jersey (Mr. 
+Norcross) is recognized for 1 minute.
+  There was no objection.
+  Mr. NORCROSS. Mr. Speaker, it is my honor today to welcome guest 
+chaplain, Head Granthi Giani Jaswinder Singh, who made history today as 
+the first Sikh to serve as guest chaplain in the United States House of 
+Representatives.
+  Giani Singh proudly serves the people of South Jersey at the Gurdwara 
+in Pine Hill in my district. His spiritual leadership has helped foster 
+a vibrant Sikh community.
+  The history made today by Giani Singh is a reminder that the United 
+States welcomes and values all and will remain committed to free 
+expression of religion.
+  Giani Singh has made South Jersey proud today, and it is an honor to 
+be a part of this moment with him. I thank him for leading the prayer 
+and for the work he does in our community each and every day.
+
+                          ____________________
+```

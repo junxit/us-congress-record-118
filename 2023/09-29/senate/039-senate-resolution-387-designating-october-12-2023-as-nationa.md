@@ -1,0 +1,52 @@
+---
+granule: CREC-2023-09-29-pt1-PgS4828
+date: 2023-09-29
+edition: CREC
+section: SENATE
+page: S4828
+citation: 169 Cong. Rec. S4828
+---
+
+# SENATE RESOLUTION 387--DESIGNATING OCTOBER 12, 2023, AS "NATIONAL LOGGERS DAY"
+
+**Measures:** S.Res. 387
+
+```
+  SENATE RESOLUTION 387--DESIGNATING OCTOBER 12, 2023, AS ``NATIONAL 
+                             LOGGERS DAY''
+
+  Ms. BALDWIN (for herself, Ms. Collins, and Mr. King) submitted the 
+following resolution; which was referred to the Committee on the 
+Judiciary:
+
+                              S. Res. 387
+
+       Whereas the logging industry has served as an economic 
+     driver and cultural tradition in the United States for 
+     centuries;
+       Whereas the logging industry creates rural jobs and 
+     provides revenue for local and State governments and National 
+     forests;
+       Whereas loggers provide renewable material for products 
+     used by people in the United States every day;
+       Whereas loggers are the first link in the $300,000,000,000 
+     domestic forest products supply chain;
+       Whereas loggers are the means by which healthy forest 
+     management plans are accomplished;
+       Whereas logging provides for healthy forests, which--
+       (1) maintain vital animal habitats;
+       (2) protect watersheds;
+       (3) sequester carbon;
+       (4) provide public recreational opportunities; and
+       (5) reduce loss of life and property from wildfires; and
+       Whereas logging provides for healthy forests through 
+     regeneration, including by planting 2,500,000,000 trees 
+     annually: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) designates October 12, 2023, as ``National Loggers 
+     Day''; and
+       (2) encourages the President to officially designate 
+     October 12th as ``National Loggers Day''.
+
+                          ____________________
+```

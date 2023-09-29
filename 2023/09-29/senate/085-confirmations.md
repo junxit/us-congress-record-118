@@ -1,0 +1,26 @@
+---
+granule: CREC-2023-09-29-pt1-PgS4883-4
+date: 2023-09-29
+edition: CREC
+section: SENATE
+page: S4883
+citation: 169 Cong. Rec. S4883
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate September 29, 2023:
+
+
+                         DEPARTMENT OF JUSTICE
+
+       TODD GEE, OF THE DISTRICT OF COLUMBIA, TO BE UNITED STATES 
+     ATTORNEY FOR THE SOUTHERN DISTRICT OF MISSISSIPPI FOR THE 
+     TERM OF FOUR YEARS.
+       TARA K. MCGRATH, OF CALIFORNIA, TO BE UNITED STATES 
+     ATTORNEY FOR THE SOUTHERN DISTRICT OF CALIFORNIA FOR THE TERM 
+     OF FOUR YEARS.
+```

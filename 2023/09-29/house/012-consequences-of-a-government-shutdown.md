@@ -1,0 +1,36 @@
+---
+granule: CREC-2023-09-29-pt1-PgH4860-4
+date: 2023-09-29
+edition: CREC
+section: HOUSE
+page: H4860
+citation: 169 Cong. Rec. H4860
+---
+
+# CONSEQUENCES OF A GOVERNMENT SHUTDOWN
+
+**Speaking:** McGarvey, Morgan (M001220) [D-KY]
+
+```
+                 CONSEQUENCES OF A GOVERNMENT SHUTDOWN
+
+  (Mr. McGARVEY asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. McGARVEY. Madam Speaker, I rise today because I am frustrated. I 
+came here to work--to work across the aisle and get things done. 
+Rightwing extremists are preventing us from doing our most important 
+job, passing a budget. It is catastrophic for our country, our 
+community, and our economy if extremist Republicans shut down our 
+government.
+  Let me be clear. Kentuckians cannot afford a shutdown. There are 
+119,884 Kentucky moms and babies who will lose access to vital 
+nutrition assistance. Nearly 556,000 SNAP recipients will lose access 
+to their benefits in a prolonged shutdown, and 10,672 Federal civilian 
+workers in my district could be furloughed or have to work without pay. 
+These are real consequences to Republicans' harmful actions.
+  Pass a spending bill. It is our job. When you are done playing 
+political games, we are ready to work together to avoid a disastrous 
+shutdown.
+
+                          ____________________
+```

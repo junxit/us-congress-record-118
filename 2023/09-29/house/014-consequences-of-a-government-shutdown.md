@@ -1,0 +1,41 @@
+---
+granule: CREC-2023-09-29-pt1-PgH4860-6
+date: 2023-09-29
+edition: CREC
+section: HOUSE
+page: H4860
+citation: 169 Cong. Rec. H4860
+---
+
+# CONSEQUENCES OF A GOVERNMENT SHUTDOWN
+
+**Speaking:** Vasquez, Gabe (V000136) [D-NM]
+
+```
+                 CONSEQUENCES OF A GOVERNMENT SHUTDOWN
+
+  (Mr. VASQUEZ asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. VASQUEZ. Madam Speaker, I rise today to deliver a message on 
+behalf of Native American youth.
+  As the Representative of New Mexico's Second District with seven 
+sovereign nations, I have heard from leaders from the Center for Native 
+American Youth who are deeply troubled about their future. They are 
+asking for Congress to be good relatives.
+  Failing to pass an agreement means that over 30,000 Native parents 
+and caregivers who are Federal workers are at risk of being unable to 
+provide for their families.
+  It means over 70,000 Native students in Head Start, BIE schools, and 
+Tribal colleges and universities are at risk of a disruption in their 
+education, harm to their mental health, and food security.
+  I proudly represent Zuni, Acoma, Isleta, and Laguna Pueblos, and the 
+Mescalero, Fort Sill Apache, and Navajo Nations.
+  A government shutdown is a failure to uphold the Federal trust 
+responsibility with real-life consequences that disproportionately 
+impact Native youth and their families.
+  Native youth from across the country are asking Congress to do what 
+is right. Find an agreement. Be good relatives, not just in New Mexico, 
+but across the country.
+
+                          ____________________
+```
