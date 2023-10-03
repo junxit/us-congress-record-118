@@ -1,0 +1,64 @@
+---
+granule: CREC-2023-10-03-pt1-PgH4953-4
+date: 2023-10-03
+edition: CREC
+section: HOUSE
+page: H4953
+citation: 169 Cong. Rec. H4953
+---
+
+# BRIDGING THE DIGITAL DIVIDE
+
+**Speaking:** Joyce, John (J000302) [R-PA]
+
+**Measures:** H.R. 1, H.R. 2, H.R. 5
+
+```
+                      BRIDGING THE DIGITAL DIVIDE
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from 
+Pennsylvania (Mr. Joyce) for 5 minutes.
+  Mr. JOYCE of Pennsylvania. Madam Speaker, this morning, 40 million 
+Americans will begin their day without access to broadband internet. 
+These high-speed broadband connections, which were once a luxury, have 
+now become essential tools for students, businessowners, farmers, and 
+patients.
+  Last year, historic BEAD funding was disbursed to the States. Today, 
+it is critical that these funds are used efficiently, not to gold-plate 
+the infrastructure in our cities, but to finally connect our rural 
+communities to fast, reliable, high-speed internet.
+  Recently, I was proud to introduce the 5G SALE Act to require the FCC 
+to release previously auctioned spectrum in order to expand access to 
+5G internet for communities across central and western Pennsylvania.
+  Bridging the digital divide has never been more important as we fight 
+to ensure that our students can learn from home, that small businesses 
+can operate from home, and that patients can heal from home.
+
+
+              Enacting Republicans' Commitment to America
+
+  Mr. JOYCE of Pennsylvania. Madam Speaker, in the past 10 months since 
+retaking the majority, House Republicans have fought to enact our 
+Commitment to America, working each day to forge an economy that is 
+strong, to build a nation that is safe, to create a future that is 
+built on freedom, and to once again have a government that is 
+accountable to the American people.
+  We fought to reopen the people's House. We passed H.R. 1, the Lower 
+Energy Costs Act, 225-204, because Americans are paying too high a 
+price for gas. We passed H.R. 2, the Secure the Border Act, 219-213, 
+because President Biden's border crisis has made each and every State a 
+border State. We passed H.R. 5, the Parents Bill of Rights Act, 213-
+208, because parents deserve to be involved in their children's 
+education.
+  These legislative victories have only been possible because House 
+Republicans have remained united and willing to stand up to President 
+Biden's radical agenda. It must be a top priority to fight President 
+Biden's out-of-control spending, his Green New Deal initiatives, and 
+his threats to strip away our constitutional rights.
+  Madam Speaker, it is time for House Republicans to renew our 
+commitment to the American people and to our shared conservative 
+values. The work that is still ahead is too great to waste any 
+additional time.
+
+                          ____________________
+```

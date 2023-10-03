@@ -1,0 +1,41 @@
+---
+granule: CREC-2023-10-03-pt1-PgH4962-2
+date: 2023-10-03
+edition: CREC
+section: HOUSE
+page: H4962
+citation: 169 Cong. Rec. H4962
+---
+
+# TRIBUTE TO THE LIFE AND MEMORY OF ALAN BERNIKOW
+
+**Speaking:** Malliotakis, Nicole (M000317) [R-NY]
+
+```
+            TRIBUTE TO THE LIFE AND MEMORY OF ALAN BERNIKOW
+
+  (Ms. MALLIOTAKIS asked and was given permission to address the House 
+for 1 minute.)
+  Ms. MALLIOTAKIS. Mr. Speaker, I rise today to honor the life and 
+memory of Alan Bernikow, whose generosity impacted thousands of Staten 
+Islanders.
+  Alan was a mentor and a dear friend of mine. He was a compassionate 
+community leader, entrepreneur, and philanthropist looking to make a 
+difference in the lives of those around him.
+  He climbed to the top of the corporate ladder. He was the inaugural 
+chairman of the Heart Institute at Staten Island University Hospital; 
+he served on the board of directors of the Richmond University Medical 
+Center; and he was the former President of the Richmond County Country 
+Club and the Jewish Community Center. He also founded the JCC's annual 
+golf and bocce classic which funds scholarships for local children.
+  He and his wife, Joan, were married for over 50 years and they 
+donated their time, their energy, and their resources to Staten 
+Island's flagship JCC, which bears their name.
+  Today, on Staten Island, there is a celebration of Alan's life, and I 
+send my deepest condolences to his family and friends and our community 
+during this difficult time.
+  Mr. Speaker, I offer this tribute of Alan's life for the official 
+Congressional Record.
+
+                          ____________________
+```

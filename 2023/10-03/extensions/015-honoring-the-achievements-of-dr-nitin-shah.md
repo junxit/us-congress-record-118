@@ -1,0 +1,60 @@
+---
+granule: CREC-2023-10-03-pt1-PgE928-9
+date: 2023-10-03
+edition: CREC
+section: EXTENSIONS
+page: E928
+citation: 169 Cong. Rec. E928
+---
+
+# HONORING THE ACHIEVEMENTS OF DR. NITIN SHAH
+
+**Speaking:** Correa, J. Luis (C001110) [D-CA]
+
+```
+              HONORING THE ACHIEVEMENTS OF DR. NITIN SHAH
+
+                                 ______
+                                 
+
+                          HON. J. LUIS CORREA
+
+                             of california
+
+                    in the house of representatives
+
+                        Tuesday, October 3, 2023
+
+  Mr. CORREA. Mr. Speaker, I rise today to honor the achievements of 
+Dr. Nitin Shah, a compassionate and dedicated physician whose 
+unwavering commitment to the well-being of his community has had a 
+profound and lasting impact on the lives of thousands of individuals.
+  Dr. Nitin Shah's journey began in 1975, where he began his rotating 
+medical internship in Vadodara, India before migrating to New York. 
+There, he continued his career as a research fellow--and eventually 
+moved to the City of Anaheim and continued to provide medical care as 
+an anesthesiologist.
+  In 2006, Dr. Shah's deep sense of empathy and vision for a healthier 
+and more equitable society led him to establish the Anaheim Free Health 
+Clinic and Citizenship Fair, an event that provides free medical, 
+dental, vision, and other health care services to Anaheim residents 
+with the help of countless doctors and volunteers. Recognizing the 
+pressing need for
+
+[[Page E929]]
+
+accessible healthcare in our community, he made it his life's mission 
+to provide quality medical care to those who were underserved and often 
+overlooked.
+  From humble beginnings, the clinic has developed into a cornerstone 
+of community health, with an impact that extends far beyond the 
+facility's walls. Countless lives have been changed because of his 
+efforts. Families that could not previously afford crucial health 
+visits now have access to these services. Children get the vaccinations 
+they need to stay healthy, and those with chronic illnesses get the 
+continuing care and assistance they need to manage their ailments. His 
+tireless commitment to providing free health care services to those in 
+need exemplifies the values of compassion, selflessness, and service.
+  Mr. Speaker, I call upon my fellow members of Congress to join me in 
+recognizing the incredible work of Dr. Shah.
+```

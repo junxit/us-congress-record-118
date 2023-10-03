@@ -1,0 +1,39 @@
+---
+granule: CREC-2023-10-03-pt1-PgH4958
+date: 2023-10-03
+edition: CREC
+section: HOUSE
+page: H4958
+citation: 169 Cong. Rec. H4958
+---
+
+# HONORING DAVE SMIGLEWSKI
+
+**Speaking:** Fischbach, Michelle (F000470) [R-MN]
+
+```
+                        HONORING DAVE SMIGLEWSKI
+
+  The SPEAKER pro tempore. The Chair recognizes the gentlewoman from 
+Minnesota (Mrs. Fischbach) for 5 minutes.
+  Mrs. FISCHBACH. Mr. Speaker, I rise today in memory of Granite Falls 
+Mayor David Smiglewski.
+  On September 22, the mayor passed away after a long and courageous 
+battle with ALS.
+  Mr. Granite Falls, as many came to know him, began his service in 
+city government in 1979 as a member of the city council. In 1996, he 
+became the city's mayor and served in that role for 27 years until his 
+passing.
+  During his tenure, Dave's commitment as a leader and advocate never 
+wavered. He guided his community through devastating floods in 1997 and 
+2001 and a tornado in 2000.
+  He even spent his final days here in Washington, working to secure 
+highway funding for his community.
+  The people of Granite Falls and the people of Minnesota have lost one 
+of their greatest public servants.
+  We can all only hope to be more like Dave Smiglewski. I offer my 
+deepest condolences to Cindy, his wife of 40 years, and his children, 
+Cody, Seth, and Laurel.
+
+                          ____________________
+```
