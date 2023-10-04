@@ -1,0 +1,54 @@
+---
+granule: CREC-2023-10-04-pt1-PgS4957
+date: 2023-10-04
+edition: CREC
+section: SENATE
+page: S4957
+citation: 169 Cong. Rec. S4957
+---
+
+# SENATE RESOLUTION 403--RECOGNIZING THE 10TH ANNIVERSARY OF THE USA RICE-DUCKS UNLIMITED RICE STEWARDSHIP PARTNERSHIP
+
+**Measures:** S.Res. 403
+
+```
+  SENATE RESOLUTION 403--RECOGNIZING THE 10TH ANNIVERSARY OF THE USA 
+           RICE-DUCKS UNLIMITED RICE STEWARDSHIP PARTNERSHIP
+
+  Mr. BOOZMAN (for himself and Mr. Padilla) submitted the following 
+resolution; which was considered and agreed to:
+
+                              S. Res. 403
+
+       Whereas the USA Rice-Ducks Unlimited Rice Stewardship 
+     Partnership (referred to in this preamble as the ``Rice 
+     Stewardship Partnership'') is celebrating its 10th 
+     anniversary in 2023;
+       Whereas the Rice Stewardship Partnership is a unique 
+     collaboration between an agricultural commodity group and a 
+     conservation organization that has led to historic outcomes 
+     for both United States rice farmers and migratory shorebirds 
+     and waterfowl, namely ducks;
+       Whereas, since its inception, the Rice Stewardship 
+     Partnership has beneficially impacted more than 800,000 acres 
+     of rice and rice rotation lands on more than 1,000 farms, 
+     primarily through the Regional Conservation Partnership 
+     Program of the Department of Agriculture;
+       Whereas additional conservation funding has been provided 
+     to United States rice farmers to conduct on-the-ground 
+     conservation efforts, contributing exponentially to the 
+     environment; and
+       Whereas the work of Ducks Unlimited and USA Rice, along 
+     with tremendous support from more than 100 partners and the 
+     Natural Resources Conservation Service of the Department of 
+     Agriculture, has made the Rice Stewardship Partnership 
+     possible: Now, therefore, be it
+       Resolved, That the Senate recognizes--
+       (1) the contributions of Ducks Unlimited and USA Rice to 
+     environmental stewardship for rice farmers, conservationists, 
+     and duck hunters alike; and
+       (2) the 10th anniversary of the USA Rice-Ducks Unlimited 
+     Rice Stewardship Partnership.
+
+                          ____________________
+```

@@ -1,0 +1,31 @@
+---
+granule: CREC-2023-10-04-pt1-PgS4959-3
+date: 2023-10-04
+edition: CREC
+section: SENATE
+page: S4959
+citation: 169 Cong. Rec. S4959
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                             THE JUDICIARY
+
+        SETH ROBERT AFRAME, OF NEW HAMPSHIRE, TO BE UNITED STATES 
+     CIRCUIT JUDGE FOR THE FIRST CIRCUIT, VICE JEFFREY R. HOWARD, 
+     RETIRED.
+        EDWARD SUNYOL KIEL, OF NEW JERSEY, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE DISTRICT OF NEW JERSEY, VICE KEVIN 
+     MCNULTY, RETIRING.
+        SARAH FRENCH RUSSELL, OF CONNECTICUT, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE DISTRICT OF CONNECTICUT, VICE SARAH 
+     A.L. MERRIAM, ELEVATED.
+
+                          ____________________
+```

@@ -1,0 +1,30 @@
+---
+granule: CREC-2023-10-04-pt1-PgS4959-4
+date: 2023-10-04
+edition: CREC
+section: SENATE
+page: S4959
+citation: 169 Cong. Rec. S4959
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate October 4, 2023:
+
+
+                             THE JUDICIARY
+
+       BRENDAN ABELL HURSON, OF MARYLAND, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE DISTRICT OF MARYLAND.
+       SUSAN KIM DECLERCQ, OF MICHIGAN, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE EASTERN DISTRICT OF MICHIGAN.
+
+
+                          DEPARTMENT OF STATE
+
+       JAMES C. O'BRIEN, OF NEBRASKA, TO BE AN ASSISTANT SECRETARY 
+     OF STATE (EUROPEAN AND EURASIAN AFFAIRS).
+```
