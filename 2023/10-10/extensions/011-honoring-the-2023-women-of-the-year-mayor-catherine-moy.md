@@ -1,0 +1,52 @@
+---
+granule: CREC-2023-10-10-pt1-PgE945
+date: 2023-10-10
+edition: CREC
+section: EXTENSIONS
+page: E945
+citation: 169 Cong. Rec. E945
+---
+
+# HONORING THE 2023 WOMEN OF THE YEAR: MAYOR CATHERINE MOY
+
+**Speaking:** Garamendi, John (G000559) [D-CA]
+
+```
+        HONORING THE 2023 WOMEN OF THE YEAR: MAYOR CATHERINE MOY
+
+                                 ______
+                                 
+
+                          HON. JOHN GARAMENDI
+
+                             of california
+
+                    in the house of representatives
+
+                       Tuesday, October 10, 2023
+
+  Mr. GARAMENDI. Mr. Speaker pro tempore, I rise today to recognize the 
+contributions of Mayor Catherine Moy as she is honored as one of 
+California's 8th Congressional District's Women of the Year.
+  Cat is a dedicated public servant who has offered years of service to 
+her community. A Fairfield native, she stepped up to serve on the 
+Fairfield City Council in 2008, following a career as a journalist. 
+Cat's work on the City Council, and current service as Mayor, have 
+helped make life better for the residents of Fairfield, including 
+through reducing gang violence and working to address homelessness. As 
+a member of the National Conference of Mayors, Cat serves on a task 
+force aimed at finding solutions to homelessness for populations in 
+need across our county. In addition to her work as an elected official, 
+Cat offers her own time in service to her community. She has been 
+involved with countless organizations serving youth and those in need, 
+including Girls of the Run, Boy Scouts, and local youth sports 
+programs. Cat also makes a point of reaching out to those living in 
+homeless encampments, helping them to find the support they need while 
+working toward a more permanent solution. She is an impactful leader 
+who has offered her time and resources in service to her community.
+  On behalf of the people of California's 8th Congressional District, 
+it is my pleasure to honor and recognize Mayor Catherine Moy for her 
+positive contributions to our community.
+
+                          ____________________
+```
