@@ -1,0 +1,45 @@
+---
+granule: CREC-2023-10-16-pt1-PgE977-3
+date: 2023-10-16
+edition: CREC
+section: EXTENSIONS
+page: E977
+citation: 169 Cong. Rec. E977
+---
+
+# INTRODUCTION OF THE DISTRICT OF COLUMBIA JUROR PAY PARITY ACT
+
+**Speaking:** Norton, Eleanor Holmes (N000147) [D-DC]
+
+```
+     INTRODUCTION OF THE DISTRICT OF COLUMBIA JUROR PAY PARITY ACT
+
+                                 ______
+                                 
+
+                       HON. ELEANOR HOLMES NORTON
+
+                      of the district of columbia
+
+                    in the house of representatives
+
+                        Monday, October 16, 2023
+
+  Ms. NORTON. Mr. Speaker Pro Tempore, today, I introduce the District 
+of Columbia Juror Pay Parity Act, which would require D.C.'s local 
+trial court, the Superior Court, to pay jurors the same amount federal 
+courts pay jurors. Currently, the Superior Court pays jurors the same 
+amount as federal jurors, but the Superior Court has sometimes paid 
+less.
+  Under the National Capital Revitalization and Self-Government 
+Improvement Act of 1997, Congress assumed responsibility for funding 
+the local D.C. courts. The local D.C. courts, however, have always been 
+under the direct control of Congress, even when they were funded by 
+D.C. The D.C. Home Rule Act prohibits the D.C. Council from enacting 
+any law with respect to any provision of Title 11 of the D.C. Code. 
+Under Title 11, the Board of Judges of the Superior Court sets juror 
+pay.
+  I urge my colleagues to support this bill.
+
+                          ____________________
+```

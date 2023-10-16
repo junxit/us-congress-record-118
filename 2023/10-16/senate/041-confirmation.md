@@ -1,0 +1,24 @@
+---
+granule: CREC-2023-10-16-pt1-PgS5022-4
+date: 2023-10-16
+edition: CREC
+section: SENATE
+page: S5022
+citation: 169 Cong. Rec. S5022
+---
+
+# CONFIRMATION
+
+```
+                              CONFIRMATION
+
+  Executive nomination confirmed by the Senate October 16, 2023:
+
+
+                          DEPARTMENT OF STATE
+
+       KAREN SASAHARA, OF MASSACHUSETTS, A CAREER MEMBER OF THE 
+     SENIOR FOREIGN SERVICE, CLASS OF MINISTER-COUNSELOR, TO BE 
+     AMBASSADOR EXTRAORDINARY AND PLENIPOTENTIARY OF THE UNITED 
+     STATES OF AMERICA TO THE STATE OF KUWAIT.
+```

@@ -1,0 +1,55 @@
+---
+granule: CREC-2023-10-16-pt1-PgE977-5
+date: 2023-10-16
+edition: CREC
+section: EXTENSIONS
+page: E977
+citation: 169 Cong. Rec. E977
+---
+
+# RECOGNIZING THE PUBLIC SERVICE OF GARY CARPENTER
+
+**Speaking:** Burgess, Michael C. (B001248) [R-TX]
+
+```
+            RECOGNIZING THE PUBLIC SERVICE OF GARY CARPENTER
+
+                                 ______
+                                 
+
+                        HON. MICHAEL C. BURGESS
+
+                                of texas
+
+                    in the house of representatives
+
+                        Monday, October 16, 2023
+
+  Mr. BURGESS. Mr. Speaker Pro Tempore, I rise today to express my 
+sincere appreciation to Mr. Gary Carpenter for the excellent 
+professional and dedicated service he has rendered as the Congressional 
+Liaison for the United States Air Force Academy for the past 18 years.
+
+[[Page E978]]
+
+  He previously served his country in the U.S. Air Force from 1982 to 
+2004, as an active-duty enlisted Public Affairs Specialist for the U.S. 
+Northern Command/NORAD and the Uniformed Services University. The 
+productive and collaborative relationships he has fostered between the 
+USAFA Directorate of Admissions and congressional offices across the 
+nation will be greatly missed. I have no doubt Mr. Carpenter will leave 
+USAFA in good hands. His accomplishments attest to his integrity, 
+quality of character and his dedication to the institution and country 
+which he has served with such honor.
+  It has been the privilege of my staff to work with him and his office 
+throughout the years on behalf of potential Air Force Academy 
+candidates from Texas. As he moves on to new challenges, Mr. Carpenter 
+has had a tremendous and positive impact on the futures of thousands of 
+students and military leaders.
+  On behalf of myself and my colleagues in the U.S. House of 
+Representatives, I extend my warmest regards to Gary Carpenter on a job 
+well done and wish him all the very best in the future. He has our 
+thanks and gratitude.
+
+                          ____________________
+```
