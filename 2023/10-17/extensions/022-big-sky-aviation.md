@@ -1,0 +1,45 @@
+---
+granule: CREC-2023-10-17-pt1-PgE985-3
+date: 2023-10-17
+edition: CREC
+section: EXTENSIONS
+page: E985
+citation: 169 Cong. Rec. E985
+---
+
+# BIG SKY AVIATION
+
+**Speaking:** Van Drew, Jefferson (V000133) [R-NJ]
+
+```
+                            BIG SKY AVIATION
+
+                                 ______
+                                 
+
+                        HON. JEFFERSON VAN DREW
+
+                             of new jersey
+
+                    in the house of representatives
+
+                       Tuesday, October 17, 2023
+
+  Mr. VAN DREW. Mr. Speaker Pro Tempore, in April, I had the pleasure 
+of attending the 25th anniversary celebration of Big Sky Aviation in 
+Millville, South Jersey. As a full-service, fixed-base operator, this 
+aviation center provides a valuable and enriching experience to our 
+South Jersey residents through its many services. These services 
+include hangar leasing, aircraft cleaning, jet fueling, pre-purchased 
+inspections, airframe repairs, tie downs, car services, catering, and 
+much more. They also offer personalized flight school programs working 
+directly with students to create a strategy that aligns with their 
+individual needs and objectives. The experienced team of aviation 
+professionals at Big Sky Aviation ensure that your visit to South 
+Jersey is as convenient and enjoyable as possible. I thank all the 
+staff at Big Sky Aviation for sharing their passion for aviation with 
+our South Jersey community for the past 25 years. God Bless Big Sky 
+Aviation, and God Bless our United States of America.
+
+                          ____________________
+```

@@ -1,0 +1,91 @@
+---
+granule: CREC-2023-10-17-pt1-PgS5054-4
+date: 2023-10-17
+edition: CREC
+section: SENATE
+page: S5054
+citation: 169 Cong. Rec. S5054
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                            IN THE AIR FORCE
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE RESERVE 
+     OF THE AIR FORCE TO THE GRADE INDICATED UNDER TITLE 10, 
+     U.S.C., SECTION 12203:
+
+                        To be brigadier general
+
+COL. HAROLD W. LINNEAN III
+
+
+                              IN THE ARMY
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES ARMY TO THE GRADE INDICATED WHILE ASSIGNED TO A 
+     POSITION OF IMPORTANCE AND RESPONSIBILITY UNDER TITLE 10, 
+     U.S.C., SECTION 601:
+
+                        To be lieutenant general
+
+LT. GEN. DOUGLAS A. SIMS II
+       THE FOLLOWING NAMED ARMY NATIONAL GUARD OF THE UNITED 
+     STATES OFFICER FOR APPOINTMENT IN THE RESERVE OF THE ARMY IN 
+     THE GRADE INDICATED UNDER TITLE 10, U.S.C., SECTIONS 12203 
+     AND 12211:
+
+                        To be brigadier general
+
+COL. ERIK A. FESSENDEN
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES ARMY TO THE GRADE INDICATED WHILE ASSIGNED TO A 
+     POSITION OF IMPORTANCE AND RESPONSIBILITY UNDER TITLE 10, 
+     U.S.C., SECTION 601:
+
+                        To be lieutenant general
+
+MAJ. GEN. DAVID T. ISAACSON
+
+
+                              IN THE NAVY
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES NAVY TO THE GRADE INDICATED UNDER TITLE 10, U.S.C., 
+     SECTION 624:
+
+                    To be rear admiral (lower half)
+
+CAPT. CHRISTOPHER A. NASH
+
+
+                           IN THE SPACE FORCE
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES SPACE FORCE TO THE GRADE INDICATED WHILE ASSIGNED TO A 
+     POSITION OF IMPORTANCE AND RESPONSIBILITY UNDER TITLE 10, 
+     U.S.C., SECTION 601:
+
+                        To be lieutenant general
+
+MAJ. GEN. DOUGLAS A. SCHIESS
+
+
+                           IN THE COAST GUARD
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES COAST GUARD RESERVE TO THE GRADE INDICATED UNDER TITLE 
+     10, U.S.C., SECTION 12203(A):
+
+                    To be rear admiral (lower half)
+
+CAPT. JOANNA K. HIIGEL
+
+                          ____________________
+```
