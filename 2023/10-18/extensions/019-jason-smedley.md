@@ -1,0 +1,47 @@
+---
+granule: CREC-2023-10-18-pt1-PgE991
+date: 2023-10-18
+edition: CREC
+section: EXTENSIONS
+page: E991
+citation: 169 Cong. Rec. E991
+---
+
+# JASON SMEDLEY
+
+**Speaking:** Hill, J. French (H001072) [R-AR]
+
+```
+                             JASON SMEDLEY
+
+                                 ______
+                                 
+
+                          HON. J. FRENCH HILL
+
+                              of arkansas
+
+                    in the house of representatives
+
+                      Wednesday, October 18, 2023
+
+  Mr. HILL. Mr. Speaker Pro Tempore, I rise today to congratulate 
+Lieutenant Colonel Jason Smedley, a native of Little Rock and decorated 
+Marine Corps veteran, who will serve as the commandant of the brand-new 
+Arkansas Military and First Responders Academy.
+  His distinguished military service includes multiple deployments, 
+working within the Pentagon, and a Purple Heart when serving in 
+Operation Iraqi Freedom.
+  Back home in Little Rock, Colonel Smedley has continued his service 
+in the Marine Corps Reserves. He has also strived to serve within his 
+community, including time as a volunteer firefighter.
+  Colonel Smedley has proven his dedication time and time again to the 
+United States Marine Corps, his home state of Arkansas, and the youth 
+of our communities.
+  I thank him for his distinguished service, and I am confident that he 
+will be an inspiring leader for the lucky students of the Arkansas 
+Military and First Responders Academy.
+  Semper Fi Colonel.
+
+                          ____________________
+```
