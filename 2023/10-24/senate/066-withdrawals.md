@@ -1,0 +1,26 @@
+---
+granule: CREC-2023-10-24-pt1-PgS5153-2
+date: 2023-10-24
+edition: CREC
+section: SENATE
+page: S5153
+citation: 169 Cong. Rec. S5153
+---
+
+# WITHDRAWALS
+
+```
+                              WITHDRAWALS
+
+  Executive Message transmitted by the President to the Senate on 
+October 24, 2023 withdrawing from further Senate consideration the 
+following nominations:
+       NANCY ANDERSON SPEIGHT, OF PENNSYLVANIA, TO BE A MEMBER OF 
+     THE FEDERAL LABOR RELATIONS AUTHORITY FOR A TERM OF FIVE 
+     YEARS EXPIRING JULY 1, 2024, VICE ERNEST W. DUBESTER, TERM 
+     EXPIRED, WHICH WAS SENT TO THE SENATE ON JUNE 12, 2023.
+       NANCY ANDERSON SPEIGHT, OF PENNSYLVANIA, TO BE A MEMBER OF 
+     THE FEDERAL LABOR RELATIONS AUTHORITY FOR A TERM OF FIVE 
+     YEARS EXPIRING JULY 1, 2029, (REAPPOINTMENT), WHICH WAS SENT 
+     TO THE SENATE ON JUNE 12, 2023.
+```

@@ -1,0 +1,76 @@
+---
+granule: CREC-2023-10-24-pt1-PgE1006-4
+date: 2023-10-24
+edition: CREC
+section: EXTENSIONS
+page: E1006
+citation: 169 Cong. Rec. E1006
+---
+
+# HONORING THE LIFE AND LEGACY OF SAMANTHA WOLL
+
+**Speaking:** Slotkin, Elissa (S001208) [D-MI]
+
+```
+             HONORING THE LIFE AND LEGACY OF SAMANTHA WOLL
+
+                                 ______
+                                 
+
+                          HON. ELISSA SLOTKIN
+
+                              of michigan
+
+                    in the house of representatives
+
+                       Tuesday, October 24, 2023
+
+  Ms. SLOTKIN. Mr, Speaker Pro Tempore, it is with profound grief that 
+I pay tribute to the life of a passionate advocate, a dedicated former 
+Congressional staff member, an organizer, and a true believer in 
+interfaith dialogue, Samantha Woll. Sam had a brilliant mind, a 
+generous spirit, and was a true light in the community. While we do not 
+yet know the circumstances of her death, we do know how she lived, so 
+today I ask that we remember the profound impact she had on her 
+community, our state, and the Nation in her short time on this earth.
+
+[[Page E1007]]
+
+  Sam worked for me from nearly the moment I became a Congresswoman--
+helping us set up the Lansing office in 2019 and helping to lead it for 
+my full first term as Team Slotkin's Deputy District Director. Like 
+everyone who met her, I was immediately struck by her kindness, her 
+sharp mind, and her ever-present smile. Though she was young, Sam came 
+to our team already well-established, having worked for multiple 
+members of the state legislature, as well as many different causes 
+close to her heart. She would go on to work for Michigan Attorney 
+General Dana Nessel and State Senator Stephanie Chang, among others.
+  I was also struck by her profound faith; not just her personal faith 
+in Judaism, but her profound faith in humanity. Sam dedicated her time 
+on my staff, and truly her entire life, to building understanding and 
+bridges between people, and bringing light in the face of darkness. She 
+helped establish our first interfaith roundtable and continued that 
+work when she left our office, serving as president of the Isaac Agree 
+Synagogue in Detroit where she was known for her outreach and dialogue 
+with her Muslim and Christian neighbors. As the Detroit Jewish News 
+noted in naming her one of the ``36 Under 36'' influential young people 
+in the Jewish community, ``By extending her hand and creating space for 
+connection between Muslims and Jews, she has exemplified the values of 
+healing the world.'' She also played a vital role in the revitalization 
+of Detroit, including the renovation and reopening of her historic 
+synagogue just a few months ago. It is deeply painful that we have lost 
+someone so dedicated to healing, and connecting so many people, no 
+matter their background, to such a destructive act.
+  Sam's senseless death has left a hole not just in our hearts but in 
+the fabric of our community. She was a beacon of light and I ask that 
+as we grieve her loss, we recommit ourselves to the principles by which 
+she lived. Sam firmly believed in the power of government to do good: 
+to lift people out of poverty, to give a voice to the voiceless, and to 
+bring justice and equality to all. She was deeply committed to the idea 
+that what united us as Americans and Michiganders was much more 
+important than the ways some try to divide us. I send my deepest 
+condolences to all who knew and loved her. May her memory be a blessing 
+forever in our hearts.
+
+                          ____________________
+```
