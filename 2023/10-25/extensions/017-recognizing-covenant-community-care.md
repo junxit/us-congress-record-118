@@ -1,0 +1,58 @@
+---
+granule: CREC-2023-10-25-pt1-PgE1015-3
+date: 2023-10-25
+edition: CREC
+section: EXTENSIONS
+page: E1015
+citation: 169 Cong. Rec. E1015
+---
+
+# RECOGNIZING COVENANT COMMUNITY CARE
+
+**Speaking:** Tlaib, Rashida (T000481) [D-MI]
+
+```
+                  RECOGNIZING COVENANT COMMUNITY CARE
+
+                                 ______
+                                 
+
+                           HON. RASHIDA TLAIB
+
+                              of michigan
+
+                    in the house of representatives
+
+                      Wednesday, October 25, 2023
+
+  Ms. TLAIB. Mr. Speaker, today I want to recognize Covenant Community 
+Care, a well-known and trusted healthcare provider, as they celebrate 
+the grand opening of their newest health clinic on Joy Road in Detroit 
+in the 12th Congressional District.
+  Covenant Care grew from humble beginnings in southwest Detroit when a 
+doctor and pastor joined forces to with the simple idea of providing 
+free healthcare access to the uninsured. The doctor delivered on her 
+promise to provide free healthcare to the uninsured and many more 
+rallied behind the cause, creating Covenant Community Care in 2000. The 
+need for more resources was evident, and Covenant Community Care has 
+been steadfast in its mission to remove barriers to high quality 
+healthcare services. Over the years, Covenant Community Care has 
+leveraged partnerships with other medical service providers and now has 
+several locations across metropolitan Detroit.
+  I had the honor of securing House-appropriated Community Project 
+Funding for Covenant Community Care in FY2023 to support the 
+construction of their newest clinic to provide critical services to our 
+community. Covenant has operated a small health clinic at 18917 Joy Rd 
+in Detroit for nearly eight years that has limited their ability to 
+expand services. This project will be impactful not only tripling the 
+clinical footprint in the community but providing accessibility to 
+essential care like primary medical, dental, and behavioral health 
+services to the Cody-Rouge neighborhood and surrounding communities.
+  I am always incredibly honored to serve as a partner for the Covenant 
+Community Care team and appreciate the ongoing high level of care and 
+compassion you provide to our communities across the district and 
+region. We offer congratulations and wish them well on the opening of 
+their new clinic.
+
+                          ____________________
+```
