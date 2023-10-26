@@ -1,0 +1,39 @@
+---
+granule: CREC-2023-10-26-pt1-PgH5154-3
+date: 2023-10-26
+edition: CREC
+section: HOUSE
+page: H5154
+citation: 169 Cong. Rec. H5154
+---
+
+# DISCUSSING THE NEW HOUSE SPEAKER
+
+**Speaking:** Payne, Donald M. (P000604) [D-NJ]
+
+```
+                    DISCUSSING THE NEW HOUSE SPEAKER
+
+  (Mr. PAYNE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. PAYNE. Mr. Speaker, I rise today to discuss the new House 
+Speaker, Representative Mike Johnson.
+  In doing some research, not knowing the gentleman very well, I have 
+come to find out that he is not the moderate unifier that we need right 
+now.
+  Speaker Johnson was a key player in Trump's plot to overthrow our 
+democracy. He worked to justify the tragic January 6 insurrection, an 
+attack that threatened the lives of my House colleagues, Republican and 
+Democrat alike.
+  Speaker Johnson wants the government to control a woman's right to 
+her healthcare decisions. He wants the government to control who 
+Americans can marry. He wants the government to ban interracial 
+marriage.
+  He also wants to slash funding for Social Security, Medicare, and 
+Medicaid and deny critical healthcare to vulnerable seniors.
+  Americans reject these extreme agenda items, yet Republicans voted 
+for him to lead the people's House. Once again, they are putting 
+politics over the American people.
+
+                          ____________________
+```

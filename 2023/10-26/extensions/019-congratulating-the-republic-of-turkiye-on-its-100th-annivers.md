@@ -1,0 +1,49 @@
+---
+granule: CREC-2023-10-26-pt1-PgE1022-2
+date: 2023-10-26
+edition: CREC
+section: EXTENSIONS
+page: E1022
+citation: 169 Cong. Rec. E1022
+---
+
+# CONGRATULATING THE REPUBLIC OF TURKIYE ON ITS 100TH ANNIVERSARY
+
+**Speaking:** Cohen, Steve (C001068) [D-TN]
+
+```
+    CONGRATULATING THE REPUBLIC OF TURKIYE ON ITS 100TH ANNIVERSARY
+
+                                 ______
+                                 
+
+                            HON. STEVE COHEN
+
+                              of tennessee
+
+                    in the house of representatives
+
+                       Thursday, October 26, 2023
+
+  Mr. COHEN. Mr. Speaker, on October 29, 2023, the Republic of Turkiye 
+celebrates the 100th anniversary of its founding, and I congratulate 
+the People of Turkiye and Turkish Americans on this 100th 
+commemoration.
+  As a co-chair of the Congressional Caucus on U.S.-Turkiye Relations 
+and Turkish Americans and the only Member of Congress of Turkish 
+descent, I recognize the vast reforms that were undertaken by Mustafa 
+Kemal Ataturk and his vision for a reformed, modernized, and democratic 
+Turkish Republic. Today, Turkish Americans represent a vital thread of 
+the American fabric, and with rich culture and history, they serve as 
+the best ambassadors for strong relations between our two countries.
+  I take pride in the contributions and cultural richness brought by 
+Turkish-Americans to the United States. Our heritage is a tapestry 
+woven into the diverse fabric of this nation, and we remain committed 
+to fostering understanding and collaboration between Turkiye and the 
+United States.
+  I congratulate the Turkish people and Turkish Americans on this 
+centennial milestone and look forward to strengthening U.S. Turkiye 
+relations.
+
+                          ____________________
+```

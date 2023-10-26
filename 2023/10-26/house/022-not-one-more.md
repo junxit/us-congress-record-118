@@ -1,0 +1,37 @@
+---
+granule: CREC-2023-10-26-pt1-PgH5155-3
+date: 2023-10-26
+edition: CREC
+section: HOUSE
+page: H5155
+citation: 169 Cong. Rec. H5155
+---
+
+# NOT ONE MORE
+
+**Speaking:** Salinas, Andrea (S001226) [D-OR]
+
+```
+                              NOT ONE MORE
+
+  (Ms. SALINAS asked and was given permission to address the House for 
+1 minute and to revise and extend her remarks.)
+  Ms. SALINAS. Mr. Speaker, I rise today out of deep sadness, 
+frustration, and anger.
+  Last night, we witnessed yet another mass shooting, in Maine, that 
+claimed the lives of at least 18 innocent people. These tragedies have 
+come to define daily life in America, but it doesn't have to.
+  We need to pass commonsense gun safety legislation that a majority of 
+Americans support, including expanded background checks and a Federal 
+assault weapons ban.
+  At the same time, we need to address the mental health crisis in our 
+communities by expanding access to care and ensuring more people can 
+get the help they need.
+  There are many solutions to this problem and no time to waste.
+  Mr. Speaker, I urge my colleagues on both sides of the aisle to join 
+me in saying not one more, no more lives taken and families irreparably 
+broken by gun violence, and no more thoughts and prayers without 
+action.
+
+                          ____________________
+```

@@ -1,0 +1,43 @@
+---
+granule: CREC-2023-10-26-pt1-PgH5152-2
+date: 2023-10-26
+edition: CREC
+section: HOUSE
+page: H5152
+citation: 169 Cong. Rec. H5152
+---
+
+# MOMENT OF SILENCE HONORING VICTIMS OF BOMBINGS IN BEIRUT, LEBANON
+
+**Speaking:** Murphy, Gregory F. (M001210) [R-NC]
+
+```
+   MOMENT OF SILENCE HONORING VICTIMS OF BOMBINGS IN BEIRUT, LEBANON
+
+  (Mr. MURPHY asked and was given permission to address the House for 1 
+minute.)
+  Mr. MURPHY. Mr. Speaker, I rise today to honor those servicemembers 
+whose lives were taken in the tragic Beirut bombing 40 years ago.
+  On October 23, 1983, 2 suicide bombers took the lives of 220 marines, 
+18 sailors, and 3 soldiers at the marine barracks in Beirut, Lebanon, 
+wounding another 128 Americans.
+  A few minutes later, in a coordinated attack, another suicide bomber 
+blew up the French barracks about 4 miles away, killing 58 French 
+paratroopers.
+  On Monday, my good friend Congressman   Greg Pence--who had been 
+stationed in these barracks not a week prior to the attack--and I 
+attended the 40th anniversary memorial service in my district, in 
+Jacksonville, North Carolina.
+  Jacksonville is home to the world renowned Camp Lejeune, for which 
+the 24th Marine Amphibious Unit deployed to Beirut under the direction 
+of President Ronald Reagan.
+  Their mission was a peacekeeping one. Today, etched in the stone of 
+the Beirut Memorial in Jacksonville is a line that reads: ``They came 
+in peace.''
+  Eastern North Carolina continues to grief today for the loss of life 
+and the loss of loved ones in the devastating attack 40 years ago.
+  Mr. Speaker, in honor of these fallen heroes, I ask that the House 
+observe a moment of silence.
+
+                          ____________________
+```

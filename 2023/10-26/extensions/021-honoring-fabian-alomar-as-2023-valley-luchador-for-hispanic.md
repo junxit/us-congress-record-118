@@ -1,0 +1,58 @@
+---
+granule: CREC-2023-10-26-pt1-PgE1023
+date: 2023-10-26
+edition: CREC
+section: EXTENSIONS
+page: E1023
+citation: 169 Cong. Rec. E1023
+---
+
+# HONORING FABIAN ALOMAR AS 2023 VALLEY LUCHADOR FOR HISPANIC HERITAGE MONTH
+
+**Speaking:** Cardenas, Tony (C001097) [D-CA]
+
+```
+ HONORING FABIAN ALOMAR AS 2023 VALLEY LUCHADOR FOR HISPANIC HERITAGE 
+                                 MONTH
+
+                                 ______
+                                 
+
+                           HON. TONY CARDENAS
+
+                             of california
+
+                    in the house of representatives
+
+                       Thursday, October 26, 2023
+
+  Mr. CARDENAS. Mr. Speaker, I rise today to honor Fabian Aiomar as a 
+Valley Luchador.
+  Fabian is a professional skateboarder and actor. He stated his career 
+in the `90s, and since then he has involved himself in community 
+advocacy. He most recently appeared in FLAMIN' HOT, an ode to the 
+invention of Hot Cheetos--a beloved snack.
+  A former resident of Panorama City, Fabian balances acting with his 
+love for skateboarding. He supports the sport and kids interested in it 
+by donating skateboards so they can get involved in and improve at 
+skateboarding.
+  Over four years ago, Fabian became involved with the Anti-Recidivism 
+Coalition as a formerly incarcerated individual. The ARC empowers 
+formerly and currently incarcerated people to thrive by providing a 
+support network, comprehensive reentry services, and opportunities to 
+advocate for policy changes that will help others caught in cycles of 
+incarceration.
+  Today, Fabian uses his platform to share the mission of ARC to help 
+others who are formerly incarcerated integrate back into society.
+  Fabian, like me, is the son of immigrants and came from a lineage of 
+farmers.
+  He told one of our local newspapers, the San Fernando Sun, that he 
+recently reconnected with his campesino roots and is expanding his 
+advocacy efforts to include agricultural workers.
+  His advocacy, energy, and compassion are limitless, and we are proud 
+to call him a Valley native.
+  I thank Fabian. It is my honor to recognize him as a distinguished 
+leader and luchador during Hispanic Heritage Month.
+
+                          ____________________
+```
