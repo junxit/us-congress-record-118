@@ -1,0 +1,102 @@
+---
+granule: CREC-2023-11-01-pt1-PgH5184
+date: 2023-11-01
+edition: CREC
+section: HOUSE
+page: H5184
+citation: 169 Cong. Rec. H5184
+---
+
+# PROTECTING WOMEN'S SPORTS
+
+**Speaking:** LaMalfa, Doug (L000578) [R-CA]
+
+**Measures:** H.R. 734
+
+```
+                       PROTECTING WOMEN'S SPORTS
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from 
+California (Mr. LaMalfa) for 5 minutes.
+  Mr. LaMALFA. Mr. Speaker, a year and a half ago, Riley Gaines bravely 
+spoke out when she was forced to compete against a biological male, Lia 
+Thomas, at the 2022 NCAA swimming championships.
+  It is still an issue. Riley and Lia at the time tied for fifth place 
+in the 200-yard freestyle after Lia had won the 500-yard freestyle the 
+previous night.
+  On the podium, the NCAA handed Lia the fifth place trophy for the tie 
+that Lia and Riley had and gave Riley the sixth place trophy, telling 
+Riley she would receive her correct trophy in the mail later, not even 
+deciding by a coin flip or some other tiebreaker.
+  I remember hearing this story and being completely appalled. I was 
+sympathetic for Riley and for the heartbreak and disrespect she and all 
+of the other women and girls had who worked their whole lives to 
+compete at the highest level in collegiate swimming or even in high 
+school and lower levels.
+  I also remember hearing calls and rebuttals from those who 
+sympathized with Lia Thomas and transgender kids across the country: 
+Just let Lia compete. She deserves it. Transgender kids have the 
+highest rates of suicide. Let them play sports and they will be happy. 
+It is not happening often. Don't worry about it. This is just a one-
+time thing. This won't open the floodgates.
+
+  Unfortunately, this is not a one-time thing. This is happening often, 
+and the floodgates have been opened at all age ranges. In the last year 
+and a half, we have seen countless stories of opportunities being taken 
+away from young women by biological males competing in their sports, 
+whether it is being bumped from first place to second place or top two 
+or males in running events where the girls are losing out on Olympic 
+spots, endorsement deals, college scholarships, or even whether they 
+are going to make the varsity team or not. All of these tragedies for 
+women and girls in sports deserve outrage from all Americans.
+  In addition, the left has silenced young women who have stated that 
+they feel uncomfortable sharing locker rooms with biological males. 
+Instead, for the case of Lia Thomas' teammates, these young women have 
+been outrageously--get this--told to get counseling.
+  Just a few years ago, we had the #MeToo movement in which we were 
+told to believe all women, yet a few years later we are being told not 
+to believe women or even see what their feelings and thoughts are but 
+rather believe the biological male who believes he is a woman.
+  Speaking of believe all women, last week, up in Canada, a 50-year-old 
+biological male was allowed to participate in a swim meet with 13- to 
+14-year old girls because he identified as a 13-year-old girl. You 
+cannot make this stuff up. This 50-year-old man was able to use the 
+girls' locker room to change with underage young women. I cannot 
+express how angry this makes me and many sensible Americans and 
+Canadians.
+  Where are the adults in the room? How can any responsible adults 
+allow this to happen, to just blindly stand by and say: Oh, this is no 
+big deal?
+  The safety, fair competition, and happiness of these young girls 
+should be prioritized over this deranged 50-year-old man who somehow 
+believes he has the right to violate everyone else's rights for his 
+pathetic interest in competing against girls.
+  We see this other sports as well, in ring fighting and others, where 
+a biological male can actually do very devastating damage to a woman.
+  What can we do about all this? In the House, we passed H.R. 734, the 
+Protection of Women and Girls in Sports Act, back in April. It passed, 
+unfortunately, on a party-line vote. Sadly, not one Democrat could find 
+the way to support and vote in keeping girls' sports for biological 
+females.
+  I am proud of the Republican Conference for making the safety, 
+privacy, and opportunity of women and girls in sports, and in general, 
+a top priority.
+  I strongly urge my colleagues in the Senate to bring this bill up for 
+a vote, to put your name on the line as to what you think about the 
+sanctity of women's sports and women's and girls' place in society in 
+general.
+  In addition, many State legislatures have since passed bills to 
+protect women's sports in their State. Some of their Governors even 
+felt the need to pass a bill titled: the Women's Bill of Rights, which 
+defines the word ``woman'' because of increasing numbers of challenges 
+as to what the words ``man'' and ``woman'' mean. Unfortunately, this is 
+necessary because if we do not codify the definition of sex-based 
+terms, laws that prohibit sex discrimination don't mean anything.
+  It is amazing that the media figure Matt Walsh has a film titled: 
+``What is a Woman?'' that many on the left cannot even answer the 
+question, or they give such contorted answers in their nonanswer that 
+it is just pathetic. Even a Supreme Court Justice nominee had to avoid 
+the language. Lord, help us.
+
+                          ____________________
+```
