@@ -1,0 +1,40 @@
+---
+granule: CREC-2023-11-03-pt1-PgH5395-4
+date: 2023-11-03
+edition: CREC
+section: HOUSE
+page: H5395
+citation: 169 Cong. Rec. H5395
+---
+
+# HONORING COACH BOB KNIGHT
+
+**Speaking:** Houchin, Erin (H001093) [R-IN]
+
+```
+                       HONORING COACH BOB KNIGHT
+
+  (Mrs. HOUCHIN asked and was given permission to address the House for 
+1 minute and to revise and extend her remarks.)
+  Mrs. HOUCHIN. Mr. Speaker, I rise today to honor the life of the 
+General of IU basketball, the legendary Coach Bob Knight.
+  Growing up in southern Indiana, there were three things that shaped 
+my childhood: family, faith, and IU basketball.
+  Any game day, TVs across our towns would play the game, and on the 
+screen was Coach Bob Knight. During those games, my mom really only had 
+two emotions: frustration, yelling, Come on, boys; or elation, 
+celebrating game play.
+  I was a student during Coach Knight's last year at IU, and I always 
+said that you haven't really seen an IU game unless you were able to 
+witness one that he had coached or had been kicked out of.
+  Coach Knight's legacy was complex to say the least, but that didn't 
+stop Hoosiers from loving him and through him the game of basketball. 
+Boy, did he create champions on and off the court. He brought home 
+three national championship banners to the walls of Assembly Hall and 
+902 wins, more than any other coach in IU history.
+  Under Coach Knight, IU basketball wasn't just a sport about wins and 
+championships, it was a way of life.
+  In his honor, today we remember what it means to be an IU Hoosier.
+
+                          ____________________
+```

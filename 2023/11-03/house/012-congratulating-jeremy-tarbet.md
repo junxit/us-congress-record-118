@@ -1,0 +1,39 @@
+---
+granule: CREC-2023-11-03-pt1-PgH5382-5
+date: 2023-11-03
+edition: CREC
+section: HOUSE
+page: H5382
+citation: 169 Cong. Rec. H5382
+---
+
+# CONGRATULATING JEREMY TARBET
+
+**Speaking:** Ciscomani, Juan (C001133) [R-AZ]
+
+```
+                      CONGRATULATING JEREMY TARBET
+
+  (Mr. CISCOMANI asked and was given permission to address the House 
+for 1 minute and to revise and extend his remarks.)
+  Mr. CISCOMANI. Mr. Speaker, I rise today to congratulate Jeremy 
+Tarbet, an automotive teacher in my district, who was awarded the 
+Harbor Freight Tools for Schools Prize for Teaching Excellence.
+  Mr. Tarbet has dedicated almost a decade of his life to teaching at 
+his alma mater, Canyon del Oro High School in Arizona's Sixth District, 
+just a few miles away from my home.
+  For the past 3 years, Mr. Tarbet has worked with SkillsUSA, a 
+technical student organization, where he encourages his students to 
+showcase their skills by participating in competitions.
+  Throughout the year, Mr. Tarbet offers three classic cars for 
+restoration projects, giving his students the opportunity to see 
+firsthand their education at work.
+  This award, given to only 25 teachers every year, is a testament to 
+his dedication to his students.
+  I have no doubt that he will continue to shape the future of our 
+students for years to come.
+  Congratulations, again, Jeremy, on receiving this well-deserved 
+distinction.
+
+                          ____________________
+```

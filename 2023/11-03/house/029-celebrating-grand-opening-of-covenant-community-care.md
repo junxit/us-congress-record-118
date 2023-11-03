@@ -1,0 +1,39 @@
+---
+granule: CREC-2023-11-03-pt1-PgH5396
+date: 2023-11-03
+edition: CREC
+section: HOUSE
+page: H5396
+citation: 169 Cong. Rec. H5396
+---
+
+# CELEBRATING GRAND OPENING OF COVENANT COMMUNITY CARE
+
+**Speaking:** Tlaib, Rashida (T000481) [D-MI]
+
+```
+          CELEBRATING GRAND OPENING OF COVENANT COMMUNITY CARE
+
+  (Ms. TLAIB asked and was given permission to address the House for 1 
+minute.)
+  Ms. TLAIB. Mr. Speaker, the 12th Congressional District is 
+celebrating. We are celebrating the grand opening of Covenant Community 
+Care, an essential health clinic on Joy Road in Detroit.
+  For 8 years, Covenant Community Care operated a small healthcare 
+clinic, limiting very much their ability to provide and serve the most 
+vulnerable. However, my team and I worked incredibly hard and 
+successfully obtained community project funding of $500,000 to expand 
+to a 10,000 square foot health center, tripling healthcare services for 
+our community.
+  The facility will serve 10,000 patients and offer primary care like 
+medical, dental, and behavioral health services. I saw it myself. It is 
+incredible. This increases healthcare access to people living in that 
+part of Detroit that is right now designated by the Health Resources 
+and Services Administration as a ``health professional shortage area'' 
+and a medically underserved area.
+  Again, I am incredibly proud and congratulate the CEO there, Joslyn 
+Pettway, and the Covenant Community Care staff for their ongoing 
+partnership to serve and care for our communities and residents.
+
+                          ____________________
+```
