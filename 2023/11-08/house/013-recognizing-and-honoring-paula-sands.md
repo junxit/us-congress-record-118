@@ -1,0 +1,36 @@
+---
+granule: CREC-2023-11-08-pt1-PgH5550-4
+date: 2023-11-08
+edition: CREC
+section: HOUSE
+page: H5550
+citation: 169 Cong. Rec. H5550
+---
+
+# RECOGNIZING AND HONORING PAULA SANDS
+
+**Speaking:** Sorensen, Eric (S001225) [D-IL]
+
+```
+                  RECOGNIZING AND HONORING PAULA SANDS
+
+  (Mr. SORENSEN asked and was given permission to address the House for 
+1 minute.)
+  Mr. SORENSEN. Mr. Speaker, I rise today to honor a local leader in 
+broadcast news and fellow Quad citizen.
+  For more than 40 years, families in our region could count on the 
+friendly demeanor and seasoned professionalism of Paula Sands on KWQC 
+TV 6 News.
+  Paula boasts an accomplished career, taking the helm as the region's 
+youngest woman to host her own TV show at the age of 23. Since then, 
+and for the past three decades, she hosted ``Paula Sands Live'', a news 
+show dedicated to current events and local businesses.
+  She is an Emmy award winner. She has taken a seat in the National 
+Academy of Television Arts and Sciences' Silver Circle.
+  All the while, Paula served her hometown as a trusted voice.
+  Mr. Speaker, I am honored to enter the contributions of such a 
+legendary figure into the Record. I wish Paula Sands my sincerest 
+gratitude and well-wishes as she enters retirement.
+
+                          ____________________
+```

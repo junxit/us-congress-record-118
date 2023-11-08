@@ -1,0 +1,203 @@
+---
+granule: CREC-2023-11-08-pt1-PgS5431-4
+date: 2023-11-08
+edition: CREC
+section: SENATE
+page: S5431
+citation: 169 Cong. Rec. S5431
+---
+
+# Text of Senate Amendment 1363
+
+**Speaking:** Whitehouse, Sheldon (W000802) [D-RI]
+
+```
+  SA 1363. Mr. WHITEHOUSE (for Mr. Peters) proposed an amendment to the 
+bill S. 670, to improve services for trafficking victims by 
+establishing, in Homeland Security Investigations, the Investigators 
+Maintain Purposeful Awareness to Combat Trafficking Trauma Program and 
+the Victim Assistance Program; as follows:
+
+        Strike all after the enacting clause and insert the 
+     following:
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``IMPACTT Human Trafficking 
+     Act''.
+
+     SEC. 2. INVESTIGATORS MAINTAIN PURPOSEFUL AWARENESS TO COMBAT 
+                   TRAFFICKING TRAUMA PROGRAM.
+
+       (a) Establishment.--There is established, in Homeland 
+     Security Investigations of U.S. Immigration and Customs 
+     Enforcement, the Investigators Maintain Purposeful Awareness 
+     to Combat Trafficking Trauma Program (referred to in this Act 
+     as the ``IMPACTT Program'').
+       (b) Functions.--The IMPACTT Program shall--
+       (1) provide outreach and training to Homeland Security 
+     Investigations employees who have been exposed to various 
+     forms of trauma in working with victims of human trafficking, 
+     including--
+       (A) self-awareness training for the relevant employees on 
+     recognizing the signs of burnout, compassion fatigue, 
+     critical incident stress, traumatic stress, posttraumatic 
+     stress, secondary traumatic stress, and vicarious trauma;
+       (B) training material that--
+       (i) provides mechanisms for self-care and resilience and 
+     notification of resources that are available through U.S. 
+     Immigration and Customs Enforcement, such as the Employee 
+     Assistance Program, the Peer Support Program, the Chaplain 
+     Program, and other relevant accredited programs that are 
+     available; and
+       (ii) provides examples of potential resources that are 
+     available outside of U.S. Immigration and Customs 
+     Enforcement, which may include, faith-based and community-
+     based resources; and
+       (C) provide additional training to first line supervisors 
+     of relevant employees on recognizing the signs referred to in 
+     subparagraph (A) and the appropriate responses to employees 
+     exhibiting such signs;
+       (2) include training modules that are carried out by--
+       (A) licensed and accredited clinicians who--
+       (i) have been trained on the exposure of various forms of 
+     trauma and other stressors experienced in working with 
+     victims; and
+       (ii) may have experience working with faith-based 
+     organizations, community-based organizations, counseling 
+     programs, or other social service programs; and
+       (B) additional subject matter experts who are available; 
+     and
+       (3) be overseen and coordinated by the Department of 
+     Homeland Security Center for Countering Human Trafficking to 
+     ensure that--
+       (A) appropriate program materials are distributed;
+       (B) training is offered to all relevant employees; and
+       (C) any needed travel and equipment is provided.
+
+     SEC. 3. HOMELAND SECURITY INVESTIGATIONS VICTIM ASSISTANCE 
+                   PROGRAM.
+
+       (a) In General.--Subtitle D of title IV of the Homeland 
+     Security Act of 2002 (6 U.S.C. 251 et seq.) is amended by 
+     adding at the end the following:
+
+     ``SEC. 447. HOMELAND SECURITY INVESTIGATIONS VICTIM 
+                   ASSISTANCE PROGRAM.
+
+       ``(a) Definitions.--In this section:
+       ``(1) Forensic interview specialist.--The term `forensic 
+     interview specialist' is an interview professional who has 
+     specialized experience and training in conducting trauma-
+     informed forensic interviews with victims of crime.
+       ``(2) Victim.--The term `victim' has the meaning given such 
+     term in section 503(e)(2) of the Victims' Rights and 
+     Restitution Act of 1990 (34 U.S.C. 20141(e)(2)).
+       ``(3) Victim assistance specialist.--The term `victim 
+     assistance specialist' is a victim assistance professional 
+     who--
+       ``(A) has experience working with victims of crime in a 
+     service capacity;
+       ``(B) has been trained on the exposure of various forms of 
+     trauma and other stressors experienced in working with 
+     victims; and
+       ``(C) may have experience working with local government and 
+     community-based organizations, including victim advocacy 
+     centers, child advocacy centers, child welfare agencies, 
+     faith-based organizations, and other social service programs.
+       ``(b) In General.--There is established, in Homeland 
+     Security Investigations of U.S. Immigration and Customs 
+     Enforcement, the Victim Assistance Program.
+       ``(c) Functions.--The Victim Assistance Program shall--
+       ``(1) provide oversight, guidance, training, travel, 
+     equipment, and coordination to Homeland Security 
+     Investigations victim assistance personnel throughout the 
+     United States;
+       ``(2) recruit not fewer than--
+       ``(A) 1 forensic interview specialist and 1 victim 
+     assistance specialist for each Homeland Security 
+     Investigations Special Agent in Charge office;
+       ``(B) 1 victim assistance specialist for--
+       ``(i) every Homeland Security Investigations office 
+     participating in a human trafficking task force; and
+       ``(ii) every Homeland Security Investigations office 
+     participating in a child sexual exploitation task force;
+       ``(3) support Homeland Security Investigations regional 
+     attache offices, to the extent necessary;
+
+[[Page S5432]]
+
+       ``(4) provide training regarding victims' rights, victim-
+     related policies, roles of forensic interviewers and victim 
+     assistance specialists, and an approach that is--
+       ``(A) victim-centered;
+       ``(B) trauma-informed; and
+       ``(C) linguistically appropriate, to the extent feasible; 
+     and
+       ``(5) purchase emergency items that are needed to assist 
+     identified victims in Homeland Security Investigations 
+     criminal investigations, including food, clothing, hygiene 
+     products, transportation, and temporary shelter that is not 
+     otherwise provided by a nongovernmental organization.''.
+       (b) Technical and Conforming Amendments.--The Homeland 
+     Security Act of 2002 (Public Law 107-296) is amended--
+       (1) in section 1(b) (6 U.S.C. 101 note)--
+       (A) by striking the item relating to section 442 and 
+     inserting the following:
+
+``Sec. 442. U.S. Immigration and Customs Enforcement.'';
+     and
+       (B) by inserting after the item relating to section 446 the 
+     following:
+
+``Sec. 447. Homeland Security Investigations Victim Assistance 
+              Program.'';
+       (2) in section 442--
+       (A) by amending the section heading to read as follows: 
+     ``u.s. immigration and customs enforcement'';
+       (B) by striking ``bureau'' each place such term appears 
+     (except in subsection (a)(1)) and inserting ``agency'';
+       (C) by striking ``the Bureau of Border Security'' each 
+     place such term appears and inserting ``U.S. Immigration and 
+     Customs Enforcement'';
+       (D) in subsection (a)--
+       (i) in the subsection heading, by striking ``of Bureau'';
+       (ii) in paragraph (3)(C), by striking ``affecting the 
+     Bureau of'' and inserting ``affecting U.S.''; and
+       (iii) in paragraph (4), by striking ``the Bureau.'' and 
+     inserting ``the agency.''; and
+       (E) in subsection (b)(2)--
+       (i) in the matter preceding subparagraph (A), by striking 
+     ``Bureau of Border Security'' and inserting ``U.S. 
+     Immigration and Customs Enforcement''; and
+       (ii) in subparagraph (B), by striking ``the Bureau of'' 
+     before ``Citizenship and Immigration Services'' and inserting 
+     ``U.S.''; and
+       (3) in section 443(2), by striking ``such bureau'' and 
+     inserting ``such agency''.
+
+     SEC. 4. ANNUAL REPORT.
+
+       Not later than 1 year after the date of the enactment of 
+     this Act, and annually thereafter, the Secretary of Homeland 
+     Security shall submit a report to Congress that identifies, 
+     with respect to the reporting period--
+       (1) the number of trainings that were provided through the 
+     IMPACTT Program and the number of personnel who received such 
+     training; and
+       (2) the number of human trafficking victims who were 
+     assisted by the Homeland Security Investigations Victim 
+     Assistance Program.
+
+     SEC. 5. NO ADDITIONAL FUNDS.
+
+       No additional funds are authorized to be appropriated for 
+     the purpose of carrying out this Act.
+
+     SEC. 6. SUNSET.
+
+       This Act and the amendments made by this Act shall cease to 
+     have force or effect beginning on October 1, 2030.
+
+                          ____________________
+```

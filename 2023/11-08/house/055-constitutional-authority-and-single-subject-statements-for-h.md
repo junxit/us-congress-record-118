@@ -1,0 +1,23 @@
+---
+granule: CREC-2023-11-08-pt1-PgH5652-19
+date: 2023-11-08
+edition: CREC
+section: HOUSE
+page: H5652
+citation: 169 Cong. Rec. H5652
+---
+
+# Constitutional Authority and Single Subject Statements for H.R. 6300
+
+**Measures:** H.R. 6300
+
+```
+           By Mr. GOOD of Virginia:
+       H.R. 6300.
+       Congress has the power to enact this legislation pursuant 
+     to the following:
+       Article 1, Section 8 of the United States Constitution.
+       The single subject of this legislation is:
+       Enabling veterans and their families access to their 
+     education benefits by removing various delimiting dates.
+```

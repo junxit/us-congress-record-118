@@ -1,0 +1,40 @@
+---
+granule: CREC-2023-11-08-pt1-PgH5550
+date: 2023-11-08
+edition: CREC
+section: HOUSE
+page: H5550
+citation: 169 Cong. Rec. H5550
+---
+
+# RECOGNIZING DEPUTY CHIEF MIKE MERNICK OF THE WARWICK FIRE DEPARTMENT
+
+**Speaking:** Magaziner, Seth (M001223) [D-RI]
+
+```
+  RECOGNIZING DEPUTY CHIEF MIKE MERNICK OF THE WARWICK FIRE DEPARTMENT
+
+  (Mr. Magaziner asked and was given permission to address the House 
+for 1 minute.)
+  Mr. MAGAZINER. Mr. Speaker, I rise today to honor the heroic actions 
+of Deputy Chief Mike Mernick of the Warwick Fire Department.
+  Mike and his wife, Tara, were enjoying a night out in Providence, not 
+long ago, when they noticed a fire had broken out at a nearby home on 
+Goddard Street.
+  When he saw the smoke coming out of the triple-decker and realized 
+there were people trapped inside the building, the off-duty, 28-year-
+old firefighter sprang into action.
+  He ran into the burning building with two Providence police officers 
+at his side, covered in no protective gear or equipment. He just knew 
+there was no time to waste.
+  They headed up two flights of smoke-filled stairs where they found a 
+mother with her two children and rushed them out to safety. Mernick 
+remained in the building, clearing each floor, as the fire raged around 
+him.
+  Thanks to the quick actions of Deputy Chief Mernick and the two 
+officers, all eight people in the building were rescued safely.
+  Deputy Chief Mernick's actions are a reminder that firefighters are 
+heroes in every sense of the word.
+
+                          ____________________
+```
