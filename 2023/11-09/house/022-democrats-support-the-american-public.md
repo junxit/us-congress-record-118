@@ -1,0 +1,36 @@
+---
+granule: CREC-2023-11-09-pt1-PgH5664-2
+date: 2023-11-09
+edition: CREC
+section: HOUSE
+page: H5664
+citation: 169 Cong. Rec. H5664
+---
+
+# DEMOCRATS SUPPORT THE AMERICAN PUBLIC
+
+**Speaking:** Payne, Donald M. (P000604) [D-NJ]
+
+```
+                 DEMOCRATS SUPPORT THE AMERICAN PUBLIC
+
+  (Mr. PAYNE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. PAYNE. Madam Speaker, I rise today to praise the Democratic Party 
+for putting people over politics. Every day House Democrats fight to 
+better the lives of working Americans.
+  We are ready to support commonsense legislation to keep the 
+government open and to provide vital services to the American people. 
+We continue to bring down inflation and lower costs for food, medicine, 
+and other necessities. We invest in American families with bills to 
+help them with childcare and home energy costs.
+  We support our friends overseas with bills to provide aid to innocent 
+Palestinian civilians, Ukraine, and Israel, and we work daily to make 
+our country work for all Americans.
+  We are committed to voting rights for all Americans. We are committed 
+to reproductive rights for all women, and we want an America with 
+equality for all and prejudice toward none. That is why I am proud to 
+be a Democrat.
+
+                          ____________________
+```

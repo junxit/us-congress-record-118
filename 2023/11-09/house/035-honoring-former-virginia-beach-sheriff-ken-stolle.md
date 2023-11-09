@@ -1,0 +1,40 @@
+---
+granule: CREC-2023-11-09-pt1-PgH5666-3
+date: 2023-11-09
+edition: CREC
+section: HOUSE
+page: H5666
+citation: 169 Cong. Rec. H5666
+---
+
+# HONORING FORMER VIRGINIA BEACH SHERIFF KEN STOLLE
+
+**Speaking:** Kiggans, Jennifer A. (K000399) [R-VA]
+
+```
+           HONORING FORMER VIRGINIA BEACH SHERIFF KEN STOLLE
+
+  (Mrs. KIGGANS of Virginia asked and was given permission to address 
+the House for 1 minute and to revise and extend her remarks.)
+  Mrs. KIGGANS of Virginia. Mr. Speaker, I rise today to honor Virginia 
+Beach Sheriff Ken Stolle, who recently retired after an incredibly 
+successful 43-year career in public service.
+  During his 13-year tenure as sheriff, Ken Stolle brought about 
+numerous positive changes for our local law enforcement officers and 
+our community, including creating a successful transition program for 
+inmates at the end of their sentences, implementing body cameras for 
+all Virginia Beach sheriff's deputies, and establishing successful 
+mental health programs for those serving time in the prison system.
+  Stolle was often quoted as saying he ran the largest mental health 
+facility in Hampton Roads, and his emphasis on this issue led to 
+policies that have been a blueprint for agencies across the country.
+  Before serving as sheriff of Virginia Beach, Ken worked for the 
+Virginia Beach Police Department, practiced law in Hampton Roads, 
+represented Virginia Beach in the Virginia State Senate, and served our 
+great Nation as a United States Navy reservist.
+  Mr. Speaker, I thank Sheriff Stolle for his many years of service to 
+our community, our Commonwealth, and our country. We wish him the best 
+of luck in retirement.
+
+                          ____________________
+```

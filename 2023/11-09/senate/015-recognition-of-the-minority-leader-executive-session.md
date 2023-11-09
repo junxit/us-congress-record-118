@@ -1,0 +1,16 @@
+---
+granule: CREC-2023-11-09-pt1-PgS5438-5
+date: 2023-11-09
+edition: CREC
+section: SENATE
+page: S5438
+citation: 169 Cong. Rec. S5438
+---
+
+# Recognition of the Minority Leader (Executive Session)
+
+```
+                   Recognition of the Minority Leader
+
+  The ACTING PRESIDENT pro tempore. The Republican leader.
+```

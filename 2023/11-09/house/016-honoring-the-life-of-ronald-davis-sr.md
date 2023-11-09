@@ -1,0 +1,40 @@
+---
+granule: CREC-2023-11-09-pt1-PgH5657-2
+date: 2023-11-09
+edition: CREC
+section: HOUSE
+page: H5657
+citation: 169 Cong. Rec. H5657
+---
+
+# HONORING THE LIFE OF RONALD DAVIS, SR.
+
+**Speaking:** Burchett, Tim (B001309) [R-TN]
+
+```
+                 HONORING THE LIFE OF RONALD DAVIS, SR.
+
+  (Mr. BURCHETT asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. BURCHETT. Mr. Speaker, I rise to honor a dear friend of mine, 
+Ronald Davis, Sr., who passed away on October 17 at the age of 73.
+  Ron grew up in West Knoxville to a great, great family. He had six 
+siblings who all learned a love of nature and the outdoors of east 
+Tennessee from their father.
+  Ron became the first Black person to receive a bachelor of science 
+degree in forestry from the University of Tennessee. He was very 
+involved with his community and held several positions at the Tennessee 
+Valley Authority. He also cofounded the Minorities in Natural Resources 
+Conservation organization.
+  Ron is survived by his wife, Dr. Maxine Thompson Davis; his daughter, 
+Renee, who is a dear friend of mine; his sons, Ron and Khary; and his 
+brothers, Edward, Stanford, Stephen, and Teddy. Stephen and Teddy went 
+to Bearden High School where my mama had them in class.
+  Ron had eight wonderful grandchildren.
+  Ron was a good man. He was really a great man, Mr. Speaker. He was 
+always very kind to me, and he will be dearly missed. I miss seeing him 
+all the time at Wright's Cafeteria with his wife. Those days will be 
+gone forever.
+
+                          ____________________
+```
