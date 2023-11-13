@@ -1,0 +1,40 @@
+---
+granule: CREC-2023-11-13-pt1-PgH5716-3
+date: 2023-11-13
+edition: CREC
+section: HOUSE
+page: H5716
+citation: 169 Cong. Rec. H5716
+---
+
+# CELEBRATING TRANSGENDER AWARENESS WEEK
+
+**Speaking:** Tonko, Paul (T000469) [D-NY]
+
+```
+                 CELEBRATING TRANSGENDER AWARENESS WEEK
+
+  (Mr. TONKO asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. TONKO. Mr. Speaker, I rise today to mark Transgender Awareness 
+Week. This is an important time to celebrate, honor, and uplift trans 
+people--their history, their stories, and their culture.
+  It is also a time to stand up against ongoing hate and 
+discrimination. Extremist politicians around our country and in this 
+Chamber continue to work to strip away the rights and liberties of the 
+trans community.
+  In ongoing appropriations debates, House Republicans have brought 
+forward unserious proposals with riders targeting and demonizing the 
+trans and broader LGBTQ+ communities. These riders include limiting 
+access to essential and safe gender-affirming healthcare; bans on art 
+forms, including drag; and allowing broad licenses to discriminate.
+  The trans community deserves so much better. They deserve the 
+ability, like all of us, to live fully and authentically without facing 
+violence, discrimination, or harassment.
+  Mr. Speaker, I urge all of my colleagues to support the trans 
+community and oppose these cruel and relentless attacks. As a member of 
+the Congressional Equality Caucus, I vow to continue to fight for the 
+cause.
+
+                          ____________________
+```
