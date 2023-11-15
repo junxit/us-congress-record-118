@@ -1,0 +1,57 @@
+---
+granule: CREC-2023-11-15-pt1-PgE1107-2
+date: 2023-11-15
+edition: CREC
+section: EXTENSIONS
+page: E1107
+citation: 169 Cong. Rec. E1107
+---
+
+# INTRODUCTION OF THE FOSTERING FAMILY COHESION NATIONWIDE ACT
+
+**Speaking:** Sablan, Gregorio Kilili Camacho (S001177) [D-MP]
+
+```
+      INTRODUCTION OF THE FOSTERING FAMILY COHESION NATIONWIDE ACT
+
+                                 ______
+                                 
+
+                  HON. GREGORIO KILILI CAMACHO SABLAN
+
+                    of the northern mariana islands
+
+                    in the house of representatives
+
+                      Wednesday, November 15, 2023
+
+  Mr. SABLAN. Mr. Speaker, I rise today to introduce the Fostering 
+Family Cohesion Nationwide Act. The legislation makes Temporary 
+Assistance for Needy Families (TANF), child support enforcement, and 
+foster care programs available everywhere else in our Nation also 
+available in the Northern Mariana Islands.
+  My district is the only jurisdiction ineligible for such programs 
+under Title IV of the Social Security Act. In every other part of the 
+United States, these programs help low-income families with children 
+achieve economic self-sufficiency, promote joint parental 
+responsibility, and provide safe foster care placements for children 
+who cannot remain in their homes.
+  The continued exclusion of our islands is not only inequitable, but 
+also violates the agreement negotiated in the covenant that established 
+the current political relationship between the Marianas and the United 
+States. Section 703 of P.L. 94-241 provides that the United States will 
+make available to the Marianas the full range of federal programs and 
+services available to the other territories. And by failing to remedy 
+the Marianas' exclusion from programs under Title IV, Congress is 
+reneging on its promise and perpetuating the unequal treatment of 
+Americans residing in U.S. territories.
+  My bill, the Fostering Family Cohesion Nationwide Act, makes this 
+long overdue correction, and upholds our nation's statutory obligation 
+to the people of the Marianas. Each child's right to a safe, nurturing, 
+and permanent family must be safeguarded no matter where they grow up 
+in the United States.
+  I thank my colleagues who joined me in introducing this bipartisan 
+legislation--Mr. Moylan, Ms. Radewagen, Ms. Plaskett, and Mr. Case.
+
+                          ____________________
+```

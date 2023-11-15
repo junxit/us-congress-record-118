@@ -1,0 +1,44 @@
+---
+granule: CREC-2023-11-15-pt1-PgH5860-2
+date: 2023-11-15
+edition: CREC
+section: HOUSE
+page: H5860
+citation: 169 Cong. Rec. H5860
+---
+
+# REMEMBERING LIVES LOST AND CALLING FOR A CEASE-FIRE
+
+**Speaking:** Tlaib, Rashida (T000481) [D-MI]
+
+```
+          REMEMBERING LIVES LOST AND CALLING FOR A CEASE-FIRE
+
+  (Ms. TLAIB asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. TLAIB. Madam Speaker, as Americans like me continue to fight to 
+save lives, no matter faith or ethnicity, I hope we remember all lives 
+lost.
+  I still remember the celebrations across Palestinian villages of Al 
+Shaima, who earned the highest high school exam score, making Gaza 
+proud. Al Shaima was a symbol of hope because even though she grew up 
+in a refugee camp, she still succeeded with the highest score.
+  She was killed with members of her family when missiles hit the al-
+Nuseirat refugee camp in Gaza.
+  Yousef Maher Dawas was a young poet and writer. He died alongside 
+members of his family. His last words, Madam Speaker, were: ``We are 
+not numbers.''
+  Viola and Yara, sisters, were killed at Saint Porphyrius Greek 
+Orthodox Church, where a missile hit while hundreds of people were 
+crowded into the compound seeking shelter. They were members of former 
+Congressman Justin Amash's family. They were among at least 16 people 
+killed at the church.
+  Madam Speaker, please know that silencing me silences Palestinian 
+voices who are asking to live, so we must ask and demand a cease-fire 
+now.
+  Madam Speaker, more information can be found at: https://
+www.theguardian.com/world/2023/oct/23/doctors-poets-families-babies-
+victims-of-israels-war-on-gaza.
+
+                          ____________________
+```

@@ -1,0 +1,42 @@
+---
+granule: CREC-2023-11-15-pt1-PgH5861-2
+date: 2023-11-15
+edition: CREC
+section: HOUSE
+page: H5861
+citation: 169 Cong. Rec. H5861
+---
+
+# CONGRATULATIONS TO THE ARLINGTON BABE RUTH 13U ALL-STAR TEAM
+
+**Speaking:** Beyer, Donald S. (B001292) [D-VA]
+
+```
+      CONGRATULATIONS TO THE ARLINGTON BABE RUTH 13U ALL-STAR TEAM
+
+  (Mr. BEYER asked and was given permission to address the House for 1 
+minute.)
+  Mr. BEYER. Madam Speaker, I rise today to congratulate the Arlington 
+Babe Ruth 13U All-Star Team, who won the Virginia Babe Ruth Baseball 
+13U State championship and represented Virginia in the 2023 Babe Ruth 
+World Series.
+  The team was undefeated in the State tournament, outscoring their 
+opponents 41-7. The team went on to proudly represent Virginia in the 
+2023 Babe Ruth World Series where they faced regional champions from 
+all over the country.
+  While they came up short in their goal of winning the world series, 
+they should nevertheless be tremendously proud of a wonderful season. 
+It would also not have been possible without a dedicated group of 
+friends, families, and supporters who cheered them on and spent 
+countless hours and hundreds of miles supporting the team.
+  It made Arlington and the rest of the Eighth District proud. I am 
+sure they will go on to even greater things.
+  Madam Speaker, please join me in congratulating head coach Chris 
+Chiuchiolo, assistant coach Thor Koomey, and their championship team: 
+Sammy Braccia, George Cocker, Ryan DiVincenzo, Nolan Foerster, Luca 
+Feden, Clive Gay, Aden Heinzer, Michael Huff, Booker Lawson, Michael 
+Mastrangelo, Jack Riordan, Charlie Rotz, and Jones Tallent.
+  Go Arlington.
+
+                          ____________________
+```

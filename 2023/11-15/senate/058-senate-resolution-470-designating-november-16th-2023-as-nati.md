@@ -1,0 +1,95 @@
+---
+granule: CREC-2023-11-15-pt1-PgS5553-3
+date: 2023-11-15
+edition: CREC
+section: SENATE
+page: S5553
+citation: 169 Cong. Rec. S5553
+---
+
+# SENATE RESOLUTION 470--DESIGNATING NOVEMBER 16TH, 2023, AS "NATIONAL RURAL HEALTH DAY"
+
+**Measures:** S.Res. 470
+
+```
+ SENATE RESOLUTION 470--DESIGNATING NOVEMBER 16TH, 2023, AS ``NATIONAL 
+                           RURAL HEALTH DAY''
+
+  Mr. BARRASSO (for himself, Ms. Smith, Mrs. Blackburn, Mr. Bennet, Ms. 
+Lummis, Mr. Marshall, Ms. Sinema, Mr. Daines, Ms. Ernst, Mr. Hawley, 
+Mrs. Capito, Mr. Crapo, Mr. Risch, Mr. Thune, Mr. Scott of South 
+Carolina, Mr. Lankford, Mr. Ricketts, Mr. Wicker, Mr. Hickenlooper, Mr. 
+Cramer, Mr. Manchin, Mr. Moran, Mr. Tester, Mr. Van Hollen, Mr. 
+Merkley, Mr. Brown, and Mr. Heinrich) submitted the following 
+resolution; which was considered and agreed to:
+
+                              S. Res. 470
+
+       Whereas over 60,000,000 hardworking individuals in the 
+     United States live in rural communities;
+       Whereas, according to the Bureau of the Census, 97 percent 
+     of the total landmass of the United States is designated as 
+     ``rural'';
+       Whereas individuals in the United States in rural areas 
+     live in pursuit of the common good and keep values of the 
+     United States alive by fostering a spirit of generosity and 
+     respect among neighbors;
+       Whereas rural health care providers and patients showcase a 
+     selfless and community-minded spirit;
+       Whereas rural areas in the United States are places of 
+     opportunity for--
+       (1) mission-minded health professionals to provide 
+     individualized care to rural communities; and
+       (2) fueling innovations in rural health infrastructure, 
+     quality, and delivery of health care;
+       Whereas health care providers in rural areas are uniquely 
+     positioned to provide value-based holistic care;
+       Whereas rural health care providers are known and trusted 
+     by their patients;
+       Whereas residents in rural areas tend to experience lower 
+     life expectancy and poorer health status due to structural, 
+     behavioral, and geographic factors;
+       Whereas residents in rural areas face barriers accessing 
+     health care due to higher rates of uninsurance and 
+     underinsurance, lack of reliable transportation options, 
+     increased exposure to public health and occupational hazards, 
+     and a limited number of available providers, especially those 
+     providing specialized care;
+       Whereas rural health facilities in the United States face 
+     systemic challenges, including clinician workforce shortages, 
+     difficulty accessing certain technologies such as telehealth, 
+     and lower volumes of services spread over fixed costs;
+       Whereas the systemic challenges rural health facilities 
+     face have contributed to 150 rural hospital closures since 
+     2010;
+
+[[Page S5554]]
+
+       Whereas the systemic challenges rural health facilities 
+     face have made it more difficult for all rural health care 
+     facilities to keep their doors open and serve patients;
+       Whereas National Rural Health Day was established to honor 
+     rural communities in the United States and the contributions 
+     and efforts of rural communities in addressing the unique 
+     challenges facing rural health care;
+       Whereas the National Organization of State Offices of Rural 
+     Health has recognized National Rural Health Day to be the 
+     third Thursday of each November since 2011, in collaboration 
+     with partners such as the National Rural Health Association; 
+     and
+       Whereas National Rural Health Day will be recognized this 
+     year on November 16, 2023: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) designates November 16, 2023, as ``National Rural 
+     Health Day'';
+       (2) recognizes and supports the goals and ideals of 
+     National Rural Health Day;
+       (3) celebrates rural health care providers and the millions 
+     of individuals in the United States that rural health care 
+     providers serve; and
+       (4) expresses a commitment to advancing policies to improve 
+     health care accessibility and affordability in rural areas of 
+     the United States.
+
+                          ____________________
+```

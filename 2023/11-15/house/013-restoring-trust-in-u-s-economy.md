@@ -1,0 +1,37 @@
+---
+granule: CREC-2023-11-15-pt1-PgH5860-4
+date: 2023-11-15
+edition: CREC
+section: HOUSE
+page: H5860
+citation: 169 Cong. Rec. H5860
+---
+
+# RESTORING TRUST IN U.S. ECONOMY
+
+**Speaking:** Nickel, Wiley (N000194) [D-NC]
+
+```
+                    RESTORING TRUST IN U.S. ECONOMY
+
+  (Mr. NICKEL asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. NICKEL. Madam Speaker, last week Moody's changed its rating 
+outlook on the United States Government from stable to negative. This 
+was a direct consequence of partisan gridlock, continued political 
+polarization, and the chaos and confusion that we see playing out here 
+on the House floor with 19 votes for Speaker already.
+  That is why it was so important that we passed a short-term 
+government funding bill to keep the Federal Government open through 
+January. Avoiding a government shutdown will help restore trust in the 
+United States economy and ensure that working families aren't affected 
+by the chaos and confusion that we, again, see playing out here in 
+Washington.
+  As we look ahead, we must continue to put people over politics and 
+deliver a real budget that funds critical services, secures our border, 
+and supports our allies in Israel and Ukraine.
+  I remain ready to work in a bipartisan way to deliver results for the 
+American people.
+
+                          ____________________
+```
