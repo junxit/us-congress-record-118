@@ -1,0 +1,46 @@
+---
+granule: CREC-2023-11-21-pt1-PgE1119-2
+date: 2023-11-21
+edition: CREC
+section: EXTENSIONS
+page: E1119
+citation: 169 Cong. Rec. E1119
+---
+
+# RECOGNIZING HUME G. MERRITT
+
+```
+                      RECOGNIZING HUME G. MERRITT
+
+                                 ______
+                                 
+
+                           HON. RASHIDA TLAIB
+
+                              of michigan
+
+                    in the house of representatives
+
+                       Tuesday, November 21, 2023
+
+  Ms. Tlaib. Mr. Speaker, today I want to recognize long-time resident 
+and veteran Hume G. Merritt, as he is joined by his family and well-
+wishers as he celebrates his eightieth birthday.
+  A resident of Michigan since 1967 and Southfield resident since 1986, 
+Mr. Merritt has been an active and engaged community member. He is 
+proud of his military service. Mr. Merritt served as a drill sergeant 
+in the United States Army in Fort Lewis in Washington and Fort Campbell 
+in Kentucky. Mr. Merritt enjoyed a long career in finance, working for 
+both General Motors and Bank of the Commonwealth before he retired.
+  Mr. Merritt remains an active member of his church, True Love 
+Missionary Baptist Church, he also serves as treasurer of the Ravines 
+Subdivision Homeowners Association in Southfield, and volunteers his 
+time with the Urban Bankers of Detroit. He also enjoys spending time 
+with his wife of fifty-seven years, Helen, and his two grown children 
+Necole Merritt and Hume Merritt, Ill.
+  Please join me in recognizing and wishing Hume Merritt, a happy 
+eightieth birthday and his contributions to our communities in 
+Michigan's 12th District.
+
+                          ____________________
+```
