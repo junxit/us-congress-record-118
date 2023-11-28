@@ -1,0 +1,75 @@
+---
+granule: CREC-2023-11-28-pt1-PgE1133-3
+date: 2023-11-28
+edition: CREC
+section: EXTENSIONS
+page: E1133
+citation: 169 Cong. Rec. E1133
+---
+
+# CELEBRATING DR. HANK HINE FOR HIS CONTRIBUTIONS TO THE ARTS
+
+**Speaking:** Castor, Kathy (C001066) [D-FL]
+
+```
+      CELEBRATING DR. HANK HINE FOR HIS CONTRIBUTIONS TO THE ARTS
+
+                                 ______
+                                 
+
+                           HON. KATHY CASTOR
+
+                               of florida
+
+                    in the house of representatives
+
+                       Tuesday, November 28, 2023
+
+  Ms. CASTOR of Florida. Mr. Speaker, I rise today to celebrate Dr. 
+Hank Hine, his remarkable achievements and the well-deserved 
+recognition from Spain's King, Felipe VI of the Order of Isabel la 
+Catolica. As the Executive Director of The Dali Museum in St. 
+Petersburg. Florida, Dr. Hine has not only enriched our community and 
+cultural landscape, but also has forged international connections that 
+highlight the artistic and cultural treasures we hold dear.
+  Dr. Hine's lifelong commitment to the arts and his exceptional 
+stewardship of The Dali Museum have left an indelible mark on the 
+cultural life of our community. The Dali Museum holds the largest 
+collection of Salvador Dali's artworks outside of Dali's home country 
+of Spain. Under his visionary leadership, the museum has become a 
+beacon of creativity and inspiration, welcoming visitors from all 
+corners of the globe to experience the masterpieces of Dali and other 
+renowned artists.
+  The recent honor bestowed upon Dr. Hine, the Order of Isabel la 
+Catolica, is a testament to his dedication and tireless efforts in 
+fostering cultural exchange and promoting the legacy of Salvador Dali, 
+one of the most celebrated artists of all times. This recognition is 
+one of the highest civilian honors Spain bestows, and it reflects the 
+deep respect and admiration with which he is regarded not only in our 
+local community but also on the international stage. Dr. Hine expressed 
+his gratitude to the entire community in his acceptance address, 
+recognizing all those who welcomed The Dali to St. Petersburg--the 
+founders, staff, trustees, and volunteers whose embrace of the power of 
+art propelled all the Museum's achievements.
+  Dr. Hine's work transcends borders, enriching our understanding of 
+art, culture and the human experience. His tireless commitment to 
+fostering collaboration and understanding among different cultures and 
+nations deserves our highest praise and gratitude.
+  As we congratulate Dr. Hine on this prestigious recognition, we also 
+express our gratitude for his continued contributions to the vibrant 
+cultural tapestry of our community. His passion and leadership at The 
+Dali Museum have made Tampa Bay a cultural hub and a destination for 
+art enthusiasts worldwide.
+  Mr. Speaker, I ask my colleagues to join me in recognizing and 
+applauding Dr. Hank Hine for his outstanding achievements and for 
+bringing the world of art and culture closet to our hearts and our 
+community. Dr. Hine's unwavering commitment to the arts has enhanced 
+the lives of my community and his work will be celebrated by many 
+generations. May his work continue to inspire and enrich us all.
+
+[[Page E1134]]
+
+  
+
+                          ____________________
+```

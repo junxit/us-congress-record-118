@@ -1,0 +1,63 @@
+---
+granule: CREC-2023-11-28-pt1-PgE1131-3
+date: 2023-11-28
+edition: CREC
+section: EXTENSIONS
+page: E1131
+citation: 169 Cong. Rec. E1131
+---
+
+# RECOGNIZING MARY ELLEN STONE, 44 YEARS WITH THE KING COUNTY SEXUAL ASSAULT RESOURCE CENTER
+
+**Speaking:** Smith, Adam (S000510) [D-WA]
+
+```
+  RECOGNIZING MARY ELLEN STONE, 44 YEARS WITH THE KING COUNTY SEXUAL 
+                        ASSAULT RESOURCE CENTER
+
+                                 ______
+                                 
+
+                            HON. ADAM SMITH
+
+                             of washington
+
+                    in the house of representatives
+
+                       Tuesday, November 28, 2023
+
+  Mr. SMITH of Washington. Mr. Speaker, I rise to recognize Mary Ellen 
+Stone for her many years of service for the King County Sexual Assault 
+Resource Center (KCSARC) and congratulate her on her retirement as the 
+Executive Director.
+  Mary Ellen has served as a steadfast advocate for survivors of sexual 
+assault over the past 44 years throughout King County and Washington 
+State. She has been a visionary leader in changing the landscape of 
+sexual assault services including prevention, education, and victim 
+advocacy. She was influential in establishing the state's first 
+accreditation process for sexual assault providers, professionalizing 
+service delivery and ensuring core services to be accessible; and 
+publishing ``He Told Me Not to Tell,'' one of the first educational 
+pieces in the nation for parents to talk with their children about 
+sexual assault. As a result, KCSARC is nationally recognized for its 
+effective and innovative services.
+  Mary Ellen has shared her time and expertise in many ways to better 
+inform systems and communities about the needs of victims. This 
+includes serving on the Seattle Archdiocese Review Board, Mental 
+Illness Drug Dependence Oversight Board, Seattle Chief of Police Search 
+committees, Washington Coalition of Sexual Assault Programs, Sex 
+Offender Management Committee, Women's Funding Alliance, and Municipal 
+League Seattle-King County. My staff and I have had the privilege of 
+working with Mary Ellen on multiple occasions. Through her productive 
+relationships with several elected officials, Mary Ellen has helped the 
+KCSARC gain exposure at both the state and federal level. Her passion, 
+tenacity and leadership have shaped KCSARC into the strong, vibrant 
+nonprofit it is today.
+
+[[Page E1132]]
+
+  Mr. Speaker, I sincerely thank Mary Ellen Stone for her tireless work 
+and contributions to the community, and I wish her a happy retirement.
+
+                          ____________________
+```
