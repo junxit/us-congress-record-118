@@ -1,0 +1,33 @@
+---
+granule: CREC-2023-11-30-pt1-PgS5697-2
+date: 2023-11-30
+edition: CREC
+section: SENATE
+page: S5697
+citation: 169 Cong. Rec. S5697
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                          DEPARTMENT OF STATE
+
+        JUAN CARLOS ITURREGUI, OF MARYLAND, TO BE AMBASSADOR 
+     EXTRAORDINARY AND PLENIPOTENTIARY OF THE UNITED STATES OF 
+     AMERICA TO THE DOMINICAN REPUBLIC.
+
+
+      UNITED STATES INTERNATIONAL DEVELOPMENT FINANCE CORPORATION
+
+        DEVEN J. PAREKH, OF NEW YORK, TO BE A MEMBER OF THE BOARD 
+     OF DIRECTORS OF THE UNITED STATES INTERNATIONAL DEVELOPMENT 
+     FINANCE CORPORATION FOR A TERM OF THREE YEARS. 
+     (REAPPOINTMENT)
+
+                          ____________________
+```
