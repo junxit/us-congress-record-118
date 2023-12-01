@@ -1,0 +1,36 @@
+---
+granule: CREC-2023-12-01-pt1-PgH6064-2
+date: 2023-12-01
+edition: CREC
+section: HOUSE
+page: H6064
+citation: 169 Cong. Rec. H6064
+---
+
+# CONGRATULATING WILLIAM "LOU" REED
+
+**Speaking:** Carter, Earl L. "Buddy" (C001103) [R-GA]
+
+```
+                  CONGRATULATING WILLIAM ``LOU'' REED
+
+  (Mr. CARTER of Georgia asked and was given permission to address the 
+House for 1 minute and to revise and extend his remarks.)
+  Mr. CARTER of Georgia. Mr. Speaker, I rise today to congratulate 
+William ``Lou'' Reed on being named Rincon's new fire chief.
+  Reed started with the Rincon Fire Department in November of 2011 and 
+has served as a firefighter, an engineer, and a captain.
+  Lou was appointed to be the Rincon fire chief on September 11 after 
+having led the department on an interim basis for 20 months.
+  He recently received a bachelor's degree in fire administration and 
+is working toward a master's degree in public health administration.
+  As the new chief, he has already created goals to reduce the number 
+of fires and fire-related deaths by analyzing response data, providing 
+safety education programs to residents, and enforcing State and local 
+fire prevention codes.
+  Lou has already shown he has the skills of a true leader. I am 
+excited to see what he accomplishes further as the new Rincon fire 
+chief.
+
+                          ____________________
+```

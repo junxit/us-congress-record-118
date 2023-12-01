@@ -1,0 +1,42 @@
+---
+granule: CREC-2023-12-01-pt1-PgH6054-2
+date: 2023-12-01
+edition: CREC
+section: HOUSE
+page: H6054
+citation: 169 Cong. Rec. H6054
+---
+
+# CALIFORNIA HIGH-SPEED RAIL BOONDOGGLE
+
+**Speaking:** LaMalfa, Doug (L000578) [R-CA]
+
+```
+                 CALIFORNIA HIGH-SPEED RAIL BOONDOGGLE
+
+  (Mr. LaMALFA asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. LaMALFA. Madam Speaker, if you want to look in the dictionary 
+under the word ``boondoggle,'' you would probably find the California 
+High-Speed Rail project.
+  It was passed in 2008 by a narrow majority with $9 billion worth of 
+State funding by the taxpayers for this project to connect L.A. to San 
+Francisco.
+  Fifteen years later, they still haven't laid any track. They have 
+interrupted the flow of towns up and down the Central Valley and have 
+put some causeways in so far, but many billions have been spent, and it 
+is woefully over time. It was supposed to be completed by 2020.
+  They are going to seek more and more Federal funding. It started out 
+to be a $33 billion project, and now it is a $128 billion project. At 
+most, they would identify $20 billion worth of funding. They are going 
+to come here looking for the rest of it.
+  Instead, why don't we invest in something that can help all 
+Americans, such as food supply and building water storage in 
+California. That would help all Americans, not a boondoggle running up 
+and down the valley stopping at an almond orchard near Bakersfield. 
+That is why I am seeking to get help for Sites Reservoir, raising 
+Shasta Dam, and other water projects that will grow the food that 
+Americans use from California.
+
+                          ____________________
+```

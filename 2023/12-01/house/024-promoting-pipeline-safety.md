@@ -1,0 +1,40 @@
+---
+granule: CREC-2023-12-01-pt1-PgH6063-5
+date: 2023-12-01
+edition: CREC
+section: HOUSE
+page: H6063
+citation: 169 Cong. Rec. H6063
+---
+
+# PROMOTING PIPELINE SAFETY
+
+**Speaking:** Payne, Donald M., Jr. (P000604) [D-NJ]
+
+```
+                       PROMOTING PIPELINE SAFETY
+
+  (Mr. PAYNE asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. PAYNE. Mr. Speaker, I rise today to discuss the bipartisan 
+efforts to make our Nation's pipeline network safer.
+  Recently, the House Committee on Transportation and Infrastructure 
+introduced the Promoting Innovation in Pipeline Efficiency and Safety 
+Act, or PIPES Act, of 2023. This bill would help secure 2.6 million 
+miles of pipelines that carry natural gas and petroleum to communities 
+nationwide.
+  It would allow the Pipeline and Hazardous Materials Safety 
+Administration to hire more workers to monitor pipeline safety and 
+create proper protections to regulate carbon dioxide pipelines more 
+efficiently. Also, it would promote more methods to contain greenhouse 
+gases.
+  In addition, the bill would make it easier for historically Black 
+colleges and universities and other minority-serving institutions to 
+educate and develop the next generation of pipeline safety 
+professionals.
+  As the ranking member of the Railroads, Pipelines, and Hazardous 
+Materials Subcommittee, I applaud my colleagues from both parties for 
+creating a bill that works for the American people.
+
+                          ____________________
+```
