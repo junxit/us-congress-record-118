@@ -1,0 +1,54 @@
+---
+granule: CREC-2023-12-05-pt1-PgE1170
+date: 2023-12-05
+edition: CREC
+section: EXTENSIONS
+page: E1170
+citation: 169 Cong. Rec. E1170
+---
+
+# RECOGNIZING WRIGHTSTOWN FOOTBALL TEAM
+
+**Speaking:** Gallagher, Mike (G000579) [R-WI]
+
+```
+                 RECOGNIZING WRIGHTSTOWN FOOTBALL TEAM
+
+                                 ______
+                                 
+
+                          HON. MIKE GALLAGHER
+
+                              of wisconsin
+
+                    in the house of representatives
+
+                       Tuesday, December 5, 2023
+
+  Mr. GALLAGHER. Mr. Speaker, today I rise to recognize the Wrightstown 
+Tigers Football Team for their runner-up finish at the 2023 WIAA 
+Division 5 State Boys Football Championship.
+  Following an impressive season and playoff run, the Wrightstown 
+football team traveled to Camp Randall in Madison to compete in the 
+2023 WIAA State Football Championship Game. With a record of 11-3 
+during the season, the Wrightstown team worked together all season to 
+become a dominant force in the conference. I commend head coach Steve 
+Klister, the coaching staff, and the entire team for their unwavering 
+commitment and dedication to an incredibly impressive season.
+  This being their first trip to the state championship since 2011, the 
+entire team and community have much for which they should be proud. 
+Although they lost a tough battle to a talented La Crosse Aquinas team, 
+the team displayed great skill and determination throughout the season. 
+Congratulations to the entire team for this remarkable achievement, and 
+a special congratulations to the senior players on the team: Riley 
+Verbeten, Quade Thompson, Payton Vande Hey, Kevin Biese, Riley Sundin, 
+Landon Helphrey, Elijah Lemke, Ben Zemple, Sam Keuler, Charlie Garvey, 
+Trent Vande Hey, Garrett Hitner, Brendan Gustafson, Carter Lamers, 
+Everett Lamers, and Gavin Ducat.
+  Mr. Speaker, I extend my sincere congratulations to head coach Steve 
+Klister and the entire Wrightstown Football Team for his outstanding 
+accomplishment. It is my honor to recognize this team and I ask my 
+colleagues to join me in applauding their remarkable season.
+
+                          ____________________
+```

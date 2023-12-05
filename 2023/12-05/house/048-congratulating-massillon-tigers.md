@@ -1,0 +1,45 @@
+---
+granule: CREC-2023-12-05-pt1-PgH6133-4
+date: 2023-12-05
+edition: CREC
+section: HOUSE
+page: H6133
+citation: 169 Cong. Rec. H6133
+---
+
+# CONGRATULATING MASSILLON TIGERS
+
+**Speaking:** Sykes, Emilia Strong (S001223) [D-OH]
+
+```
+                    CONGRATULATING MASSILLON TIGERS
+
+  (Mrs. SYKES asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Mrs. SYKES. Mr. Speaker, today, I rise to recognize the Massillon 
+Tigers high school football team as Ohio's 13th Congressional District 
+champion of the week.
+  With a record-breaking season of 16-0, the Tigers won their first-
+ever Ohio High School Athletic Association Division 2 championship last 
+week.
+  In a repeat of the Massillon versus Archbishop Hoban High School, 
+another Ohio 13th District high school, playoff rivalry for the fifth 
+time in 6 years, the Tigers edged out their opponents with a hard-
+fought 7-2 victory.
+  More than 14,000 fans filled the Tom Benson Hall of Fame Stadium to 
+cheer on the best of Ohio's 13th Congressional District, demonstrating 
+just how much this team and this championship mean to the entire 
+district.
+  This victory is a testament to the hard work and determination of 
+these exceptional student athletes both on the field and in the 
+classroom.
+  Once again, our phenomenal student athletes in Ohio's 13th 
+Congressional District are reaffirming our district's legacy as the 
+Birthplace of Champions and the City of Champions, which is the motto 
+of Massillon.
+  Mr. Speaker, I congratulate the Massillon Tigers for their hard work, 
+and I hope they continue to dominate the world of sports one play at a 
+time.
+
+                          ____________________
+```
