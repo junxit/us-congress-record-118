@@ -1,0 +1,41 @@
+---
+granule: CREC-2023-12-12-pt1-PgE1216
+date: 2023-12-12
+edition: CREC
+section: EXTENSIONS
+page: E1216
+citation: 169 Cong. Rec. E1216
+---
+
+# QUENTIN BANKS
+
+**Speaking:** Pettersen, Brittany (P000620) [D-CO]
+
+```
+                             QUENTIN BANKS
+
+                                 ______
+                                 
+
+                        HON. BRITTANY PETTERSEN
+
+                              of colorado
+
+                    in the house of representatives
+
+                       Tuesday, December 12, 2023
+
+  Ms. PETTERSEN. Mr. Speaker, I rise today to recognize Quentin Banks 
+for earning the Arvada Wheat Ridge Service Ambassadors for Youth Award.
+  Quentin has achieved great things, all while overcoming adversity and 
+challenges along the way. Students like Quentin, who strive to make the 
+most of their education, develop crucial skills and a work ethic that 
+will guide them for the rest of their lives. This award is a testament 
+to Quentin's hard work, determination, and perseverance at Oberon 
+Middle School and is clearly just the beginning of a bright and 
+promising future.
+  It is my honor to congratulate Quentin Banks on achieving the Arvada 
+Wheat Ridge Service Ambassadors for Youth Award.
+
+                          ____________________
+```

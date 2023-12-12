@@ -1,0 +1,34 @@
+---
+granule: CREC-2023-12-12-pt1-PgH6843-4
+date: 2023-12-12
+edition: CREC
+section: HOUSE
+page: H6843
+citation: 169 Cong. Rec. H6843
+---
+
+# ENDANGERING OUR NATION'S SECURITY
+
+**Speaking:** Harris, Andy (H001052) [R-MD]
+
+```
+                   ENDANGERING OUR NATION'S SECURITY
+
+  (Mr. HARRIS asked and was given permission to address the House for 1 
+minute and to revise and extend his remarks.)
+  Mr. HARRIS. Madam Speaker, one of the greatest threats to our 
+national security is a woke military.
+  Nothing exemplifies a woke military as much as the National Defense 
+Authorization Act that is going to come before this body out of a 
+Conference Report that allows transgender surgery to continue to be 
+funded in the U.S. military.
+  I can guarantee you that Russia and China aren't using their military 
+dollars to pay for transgender surgery.
+  Here in the United States, we are, and we will. If this House and the 
+Senate passes the Conference Report, that will be the official U.S. 
+policy.
+  Madam Speaker, that is not defense of the Nation. That is a woke 
+military that endangers our Nation's security.
+
+                          ____________________
+```

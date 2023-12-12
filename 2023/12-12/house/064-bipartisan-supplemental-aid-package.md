@@ -1,0 +1,38 @@
+---
+granule: CREC-2023-12-12-pt1-PgH6851
+date: 2023-12-12
+edition: CREC
+section: HOUSE
+page: H6851
+citation: 169 Cong. Rec. H6851
+---
+
+# BIPARTISAN SUPPLEMENTAL AID PACKAGE
+
+**Speaking:** Gottheimer, Josh (G000583) [D-NJ]
+
+```
+                  BIPARTISAN SUPPLEMENTAL AID PACKAGE
+
+  (Mr. GOTTHEIMER asked and was given permission to address the House 
+for 1 minute.)
+  Mr. GOTTHEIMER. Madam Speaker, Israel and Ukraine may be 2,000 miles 
+apart, but the evils they face are connected. Hamas and Putin have 
+waged unprovoked wars on neighboring democracies, murdering thousands 
+of civilians and kidnapping innocent people, including children.
+  Recently, Moscow hosted Hamas and Iranian leaders. This is incredibly 
+concerning because Hamas is funded by Russia's military ally, Iran.
+  I fear the extreme ultra rightwing wants to cut and run and hand 
+Putin a win. It sends the wrong message to China and empowers our 
+adversaries.
+  The United States has a responsibility to support Ukraine in its 
+fight against a murdering dictator and provide the support Israel needs 
+to kill the terrorists responsible for the atrocities on October 7. 
+Hamas terrorists have made it clear that they will not back down and 
+are committed to a second, third, and fourth October 7.
+  We must pass a bipartisan supplemental aid package that makes sure 
+that we do not ever send the wrong signal about fighting against terror 
+and protecting global democracy and our national security.
+
+                          ____________________
+```

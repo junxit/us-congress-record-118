@@ -1,0 +1,44 @@
+---
+granule: CREC-2023-12-12-pt1-PgH6822-3
+date: 2023-12-12
+edition: CREC
+section: HOUSE
+page: H6822
+citation: 169 Cong. Rec. H6822
+---
+
+# CELEBRATING AN IMPORTANT DAY IN GUAM'S HISTORY
+
+**Speaking:** Moylan, James C. (M001219) [R-GU]
+
+```
+             CELEBRATING AN IMPORTANT DAY IN GUAM'S HISTORY
+
+  The SPEAKER pro tempore. The Chair recognizes the gentleman from Guam 
+(Mr. Moylan) for 5 minutes.
+  Mr. MOYLAN. Mr. Speaker, I rise to celebrate and recognize a very 
+important day in Guam's history, December 10, 1898. On this day, the 
+United States and Spain signed the Treaty of Paris, officially handing 
+over Guam to the United States and ending the Spanish-American War. 
+This year, we celebrate the 125th year Guam has been part of our great 
+Nation.
+  Following the United States' acquisition of Guam, it established 
+America as a global superpower and ensured our position in the Indo-
+Pacific region. Now, 125 years later, the U.S. remains a global 
+superpower and the strongest force in the Pacific and the world, and 
+Guam is a developed and thriving community.
+  Since 1898, Guam has proven to be an essential piece of America that 
+is filled with patriotism and faith. From being a vital military center 
+in the region during World War II to being the tip of the spear against 
+China today, Guam is a hub of American success.
+  Guam is a beacon of hope and American values in the middle of the 
+Pacific. Our American flag is a symbol of liberty and freedom in the 
+region. It is also a warning to all people who seek to provoke 
+violence. The United States and Guam are forces that are not to be 
+reckoned with.
+  Let us take this day to reaffirm the United States' commitment to 
+protecting freedom, peace, and democracy across the Indo-Pacific while 
+maintaining the strong ties that connect Guam and our amazing country.
+
+                          ____________________
+```
