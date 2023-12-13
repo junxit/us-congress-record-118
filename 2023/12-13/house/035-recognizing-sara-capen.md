@@ -1,0 +1,37 @@
+---
+granule: CREC-2023-12-13-pt1-PgH6874-8
+date: 2023-12-13
+edition: CREC
+section: HOUSE
+page: H6874
+citation: 169 Cong. Rec. H6874
+---
+
+# RECOGNIZING SARA CAPEN
+
+**Speaking:** Higgins, Brian (H001038) [D-NY]
+
+```
+                         RECOGNIZING SARA CAPEN
+
+  (Mr. HIGGINS of New York asked and was given permission to address 
+the House for 1 minute.)
+  Mr. HIGGINS of New York. Mr. Speaker, I rise today to recognize the 
+work of Sara Capen, chair of the Alliance of National Heritage Areas.
+  Sara, who also serves as executive director of the Niagara Falls 
+Heritage Area, is a dedicated leader, collaborator, and facilitator 
+committed to preserving and celebrating the Niagara region's rich 
+history.
+  From the growth of the Discover Niagara Shuttle to the success of the 
+Niagara Falls Underground Railroad Heritage Center, Sara has been the 
+energy behind projects connecting people to stories, destinations, and 
+to one another.
+  At the national level, Sara was the driving force behind approval of 
+the National Heritage Areas Act, which reauthorizes all 45 heritage 
+areas for the next 15 years, safeguarding and strengthening economic 
+opportunities across the country.
+  We thank Sara Capen for her passion and commitment to ensuring 
+America's history is woven into our future for generations to come.
+
+                          ____________________
+```

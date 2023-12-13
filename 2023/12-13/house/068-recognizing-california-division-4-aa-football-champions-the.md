@@ -1,0 +1,42 @@
+---
+granule: CREC-2023-12-13-pt1-PgH6925
+date: 2023-12-13
+edition: CREC
+section: HOUSE
+page: H6925
+citation: 169 Cong. Rec. H6925
+---
+
+# RECOGNIZING CALIFORNIA DIVISION 4-AA FOOTBALL CHAMPIONS, THE SOQUEL HIGH KNIGHTS
+
+**Speaking:** Panetta, Jimmy (P000613) [D-CA]
+
+```
+  RECOGNIZING CALIFORNIA DIVISION 4-AA FOOTBALL CHAMPIONS, THE SOQUEL 
+                              HIGH KNIGHTS
+
+  (Mr. PANETTA asked and was given permission to address the House for 
+1 minute and to revise and extend his remarks.)
+  Mr. PANETTA. Madam Speaker, I rise today to recognize and 
+congratulate the new California Division 4-AA football champions, the 
+Soquel High Knights. This is the first team from Santa Cruz County to 
+win a State football title.
+  Head Coach Dwight Lowery, a former defensive back for the San Diego 
+Chargers, took the team over 6 years ago, and ever since he has been 
+working with these young men day in and day out to get them better and 
+better in order to dominate the Pacific Coast Athletic League.
+  This season, though, Soquel only lost two games with their last 
+defeat on September 22. Since then they went undefeated, extending 
+their five-game winning streak into the postseason and ultimately into 
+the championship title at Pasadena City College defeating Jurupa Hills 
+High School 28-7.
+  The Knights' superior defense was on full display as well as the 
+passing game, and all the while 1,000 fans cheered them on.
+  We on the Central Coast are very proud of the Soquel Knights. As the 
+United States Representative for California's 19th Congressional 
+District and as someone who played high school football against Soquel, 
+I am proud to celebrate the school's victory.
+  Congratulations. Go Knights.
+
+                          ____________________
+```
