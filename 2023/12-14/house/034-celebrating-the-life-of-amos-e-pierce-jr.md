@@ -1,0 +1,47 @@
+---
+granule: CREC-2023-12-14-pt1-PgH6964-6
+date: 2023-12-14
+edition: CREC
+section: HOUSE
+page: H6964
+citation: 169 Cong. Rec. H6964
+---
+
+# CELEBRATING THE LIFE OF AMOS E. PIERCE, JR.
+
+**Speaking:** Carter, Troy A. (C001125) [D-LA]
+
+```
+              CELEBRATING THE LIFE OF AMOS E. PIERCE, JR.
+
+  (Mr. CARTER of Louisiana asked and was given permission to address 
+the House for 1 minute and to revise and extend his remarks.)
+  Mr. CARTER of Louisiana. Mr. Speaker, I rise today to celebrate the 
+life of Amos E. Pierce, Jr., a World War
+
+[[Page H6965]]
+
+II hero and father of my dear friend and acclaimed actor, Wendell 
+Pierce. His life, spanning 98 years, was a testament to resilience, 
+courage, and the pursuit of justice.
+  Amos served as an Army corporal with the 24th Infantry Regiment 
+during the battle of Saipan in 1944. Though he faced racial 
+discrimination, his commitment to country and values remained 
+unwavering. Despite losing his home to Hurricane Katrina in 2005, Amos 
+and his family triumphed over diversity.
+  Wendell Pierce's dedication and courage to rebuilding Pontchartrain 
+Park and founding Pontchartrain Park Community Development Corporation 
+was a testament to the leadership he learned at an early age from his 
+father and reflects the family commitment to legacy and community.
+  Amos' enduring spirit, active involvement in church, and unwavering 
+support for his son's artistic pursuit, define a life rich in love and 
+a profound sense of purpose.
+  As a World War II veteran, father, and community pillar, Amos leaves 
+behind an enduring legacy.
+  To my friends, Wendell and Ron, your father was an inspiration to me 
+and so many others.
+  Our prayers are with you and your entire family. May he rest in 
+peace. God bless you all.
+
+                          ____________________
+```

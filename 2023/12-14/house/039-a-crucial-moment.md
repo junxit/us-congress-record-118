@@ -1,0 +1,42 @@
+---
+granule: CREC-2023-12-14-pt1-PgH6965-5
+date: 2023-12-14
+edition: CREC
+section: HOUSE
+page: H6965
+citation: 169 Cong. Rec. H6965
+---
+
+# A CRUCIAL MOMENT
+
+**Speaking:** Manning, Kathy E. (M001135) [D-NC]
+
+```
+                            A CRUCIAL MOMENT
+
+  (Ms. MANNING asked and was given permission to address the House for 
+1 minute and to revise and extend her remarks.)
+  Ms. MANNING. Mr. Speaker, at this crucial moment, the United States 
+must support our democratic ally Ukraine. Stopping the Russian invasion 
+is critically important, because right now democracy worldwide is under 
+attack.
+  Helping Ukraine defeat Putin will make clear that the United States, 
+our allies, and democracies everywhere will not tolerate the invasion 
+of sovereign nations by bad actors.
+  We must also recognize the common thread between what is happening in 
+Ukraine and what is happening in Israel. Iran is supporting dictators 
+and terrorists who seek the destruction of democracy around the globe.
+  Iran funds and trains Hamas terrorists and sends weapons to Russian
+
+[[Page H6966]]
+
+forces as they inflict horrors upon civilians.
+  Let's be clear: If we allow Russia to win this war, the attacks on 
+democratic nations will not stop there. The United States will 
+undoubtedly be pulled into future global conflicts.
+  Now, more than ever, we must support our democratic allies in their 
+fight against evil. Congress must recognize the urgency of this issue 
+and send aid to our democratic allies immediately.
+
+                          ____________________
+```

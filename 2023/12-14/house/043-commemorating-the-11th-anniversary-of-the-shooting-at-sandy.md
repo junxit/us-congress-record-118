@@ -1,0 +1,45 @@
+---
+granule: CREC-2023-12-14-pt1-PgH6966-4
+date: 2023-12-14
+edition: CREC
+section: HOUSE
+page: H6966
+citation: 169 Cong. Rec. H6966
+---
+
+# COMMEMORATING THE 11TH ANNIVERSARY OF THE SHOOTING AT SANDY HOOK ELEMENTARY SCHOOL
+
+**Speaking:** Hayes, Jahana (H001081) [D-CT]
+
+```
+   COMMEMORATING THE 11TH ANNIVERSARY OF THE SHOOTING AT SANDY HOOK 
+                           ELEMENTARY SCHOOL
+
+  (Mrs. HAYES asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Mrs. HAYES. Mr. Speaker, today, as we solemnly mark the 11th 
+anniversary of the shooting at Sandy Hook Elementary School and 
+remember the 26 beautiful lives murdered in a senseless act of 
+preventable violence, I ask my colleagues in this body to remember your 
+commitment to the people we serve.
+  I ask that we work together to make our schools and our communities 
+safe to ensure tragedies like Sandy Hook Elementary School are a thing 
+of the past.
+  I am committed to honoring the memory of my constituents with action. 
+Today, I remain committed to working toward an assault weapons ban. I 
+remain committed to working toward universal background checks. I 
+remain committed to working toward legislation like Ethan's Law, which 
+will provide for safe storage of firearms.
+  I remain committed to implementing the provisions of the Bipartisan 
+Safer Communities Act. I ask my colleagues to join with me so that no 
+child, no family, and no community ever has to endure this again.
+
+[[Page H6967]]
+
+  I also ask that you pray for my community on this 11th anniversary of 
+the shooting at Sandy Hook, for the families, for the people who live 
+there, for the town of Newtown, who will forever be bound by their 
+grief.
+
+                          ____________________
+```

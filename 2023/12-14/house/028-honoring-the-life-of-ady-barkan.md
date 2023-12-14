@@ -1,0 +1,42 @@
+---
+granule: CREC-2023-12-14-pt1-PgH6963-6
+date: 2023-12-14
+edition: CREC
+section: HOUSE
+page: H6963
+citation: 169 Cong. Rec. H6963
+---
+
+# HONORING THE LIFE OF ADY BARKAN
+
+**Speaking:** Lee, Barbara (L000551) [D-CA]
+
+```
+                              {time}  1100
+                    HONORING THE LIFE OF ADY BARKAN
+
+  (Ms. LEE of California asked and was given permission to address the 
+House for 1 minute and to revise and extend her remarks.)
+  Ms. LEE of California. Mr. Speaker, today I rise with a heavy heart 
+to honor the life of my friend, Ady Barkan, who passed away earlier 
+this year due to complications of ALS.
+  Ady is fondly remembered by many as a brilliant strategist, 
+communicator, and activist. He was an activist who brought our Nation 
+closer to making healthcare in America a basic human right.
+  Beyond being one of the most powerful activists in America, Ady 
+Barkan
+
+[[Page H6964]]
+
+was also a loving husband and a dedicated father. My condolences to 
+Rachael, his partner of 18 years, and their two children.
+  My heart goes out to your family, Rachael, during this difficult 
+time. While I can't imagine a world without Ady, I know that through Be 
+A Hero, his work and legacy will live on. That is why I am so proud to 
+partner with Be A Hero and work towards introducing the Ady Barkan 
+Memorial Resolution, and I urge my colleagues to support this 
+resolution when introduced.
+  Thank you, Ady, for advocating for a better tomorrow.
+
+                          ____________________
+```

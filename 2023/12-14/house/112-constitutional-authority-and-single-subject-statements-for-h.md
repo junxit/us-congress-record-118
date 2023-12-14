@@ -1,0 +1,28 @@
+---
+granule: CREC-2023-12-14-pt1-PgH6987-28
+date: 2023-12-14
+edition: CREC
+section: HOUSE
+page: H6987
+citation: 169 Cong. Rec. H6987
+---
+
+# Constitutional Authority and Single Subject Statements for H.R. 6829
+
+**Measures:** H.R. 6829
+
+```
+            By Mr. PALLONE:
+        H.R. 6829.
+
+[[Page H6988]]
+
+        Congress has the power to enact this legislation pursuant 
+     to the following:
+       Pursuant to clause 3(d)(1) of rule XIII of the Rules of the 
+     House of Representatives, the Committee finds the authority 
+     for this legislation in article 1, section 8 of the 
+     Constitution.
+       The single subject of this legislation is:
+       Health
+```
