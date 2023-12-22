@@ -1,0 +1,55 @@
+---
+granule: CREC-2023-12-22-pt1-PgE1259-3
+date: 2023-12-22
+edition: CREC
+section: EXTENSIONS
+page: E1259
+citation: 169 Cong. Rec. E1259
+---
+
+# HONORING SAISHA WHITE
+
+**Speaking:** Wilson, Frederica S. (W000808) [D-FL]
+
+```
+                         HONORING SAISHA WHITE
+
+                                 ______
+                                 
+
+                        HON. FREDERICA S. WILSON
+
+                               of florida
+
+                    in the house of representatives
+
+                       Friday, December 22, 2023
+
+  Ms. WILSON of Florida. Mr. Speaker, I rise to honor the service of 
+Saisha White, my legislative assistant who has dedicated her time to 
+serving the people of Florida's 24th Congressional District.
+  A Cleveland native, Saisha moved to Florida to obtain her law degree 
+at Florida A&M University after obtaining her bachelor's at Miami 
+University. Her time in law school inspired her passion to secure 
+equity and opportunities across marginalized communities.
+  Saisha came to my office ready to make a difference. She worked her 
+way up to becoming my legislative assistant, handling my Transportation 
+& Infrastructure Committee work. In her time as my legislative 
+assistant, she managed my proposed legislation, amendments--many of 
+which were included in critical legislation and advocated for critical 
+issues to better the lives of those across the country.
+  Known for her dedication to giving back and empowering others, one of 
+Saisha's greatest attributes is her selflessness. Her willingness to 
+continually give back is one of her many attributes that will 
+inevitably result in success in this field.
+  Saisha's heart is dedicated to equity for Black and brown 
+communities, and she is moving on from my office to continue that work. 
+Upon transitioning from my office, Saisha will go on to advocate for 
+safer communities, criminal justice reform, and civil rights access for 
+marginalized communities.
+  On behalf of Florida's 24th Congressional District, I ask my 
+colleagues to join me in honoring Saisha White for her drive and 
+dedication to public service.
+
+                          ____________________
+```
