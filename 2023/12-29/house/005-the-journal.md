@@ -1,0 +1,21 @@
+---
+granule: CREC-2023-12-29-pt1-PgH7013-4
+date: 2023-12-29
+edition: CREC
+section: HOUSE
+page: H7013
+citation: 169 Cong. Rec. H7013
+---
+
+# THE JOURNAL
+
+**Measures:** H.Res. 5
+
+```
+                              THE JOURNAL
+
+  The SPEAKER pro tempore. Pursuant to section 3(z) of House Resolution 
+5, the Journal of the last day's proceedings is approved.
+
+                          ____________________
+```
