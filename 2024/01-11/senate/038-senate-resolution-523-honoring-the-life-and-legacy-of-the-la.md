@@ -1,0 +1,133 @@
+---
+granule: CREC-2024-01-11-pt1-PgS96-2
+date: 2024-01-11
+edition: CREC
+section: SENATE
+page: S96
+citation: 170 Cong. Rec. S96
+---
+
+# SENATE RESOLUTION 523--HONORING THE LIFE AND LEGACY OF THE LATE SENATOR HERB KOHL
+
+**Measures:** S.Res. 523
+
+```
+SENATE RESOLUTION 523--HONORING THE LIFE AND LEGACY OF THE LATE SENATOR 
+                               HERB KOHL
+
+  Ms. BALDWIN (for herself, Mr. Johnson, Mr. Schumer, Mr. McConnell, 
+Mr. Barrasso, Mr. Bennet, Mrs. Blackburn, Mr. Blumenthal, Mr. Booker, 
+Mr. Boozman, Mr. Braun, Mrs. Britt, Mr. Brown, Mr. Budd, Ms. Butler, 
+Ms. Cantwell, Mrs. Capito, Mr. Cardin, Mr. Carper, Mr. Casey, Mr. 
+Cassidy, Ms. Collins, Mr. Coons, Mr. Cornyn, Ms. Cortez Masto, Mr. 
+Cotton, Mr. Cramer, Mr. Crapo, Mr. Cruz, Mr. Daines, Ms. Duckworth, Mr. 
+Durbin, Ms. Ernst, Mr. Fetterman, Mrs. Fischer, Mrs. Gillibrand, Mr. 
+Graham, Mr. Grassley, Mr. Hagerty, Ms. Hassan, Mr. Hawley, Mr. 
+Heinrich, Mr. Hickenlooper, Ms. Hirono, Mr. Hoeven, Mrs. Hyde-Smith, 
+Mr. Kaine, Mr. Kelly, Mr. Kennedy, Mr. King, Ms. Klobuchar, Mr. 
+Lankford, Mr. Lee, Mr. Lujan, Ms. Lummis, Mr. Manchin, Mr. Markey, Mr. 
+Marshall, Mr. Menendez, Mr. Merkley, Mr. Moran, Mr. Mullin, Ms. 
+Murkowski, Mr. Murphy, Mrs. Murray, Mr. Ossoff, Mr. Padilla, Mr. Paul, 
+Mr. Peters, Mr. Reed, Mr. Ricketts, Mr. Risch, Mr. Romney, Ms. Rosen, 
+Mr. Rounds, Mr. Rubio, Mr. Sanders, Mr. Schatz, Mr. Schmitt, Mr. Scott 
+of Florida, Mr. Scott of South Carolina, Mrs. Shaheen, Ms. Sinema, Ms. 
+Smith, Ms. Stabenow, Mr. Sullivan, Mr. Tester, Mr. Thune, Mr. Tillis, 
+Mr. Tuberville, Mr. Van Hollen, Mr. Vance, Mr. Warner, Mr. Warnock, Ms. 
+Warren, Mr. Welch, Mr. Whitehouse, Mr. Wicker, Mr. Wyden, and Mr. 
+Young) submitted the following resolution; which was considered and 
+agreed to:
+
+                              S. Res. 523
+
+       Whereas Herb Kohl grew up in the Sherman Park neighborhood 
+     of Milwaukee, Wisconsin;
+       Whereas Herb Kohl earned a bachelor's degree from the 
+     University of Wisconsin, which is now home to the basketball 
+     and hockey center that bears his name, as well as the Herb 
+     Kohl Public Service Research Competition to advance evidence-
+     based policy and governance research by faculty members and 
+     students, which were supported through his gifts to the 
+     University;
+       Whereas, as president of the Kohl's Corporation, Herb Kohl 
+     followed in his father's footsteps and built with his 
+     brothers a chain of over 50 Kohl's grocery stores across the 
+     Midwest;
+       Whereas, when the Milwaukee Bucks were put up for sale and 
+     in danger of being bought and moved to another city, Herb 
+     Kohl stepped forward in 1985 and bought the team with the 
+     promise to Bucks fans that the team would never leave--a 
+     promise he fulfilled when the time came to sell the team in 
+     2014, donating $100,000,000 to help build a new arena for the 
+     community;
+       Whereas, in 1990, Herb Kohl started the Herb Kohl 
+     Educational Foundation, which has provided more than 
+     $34,000,000 in grants and scholarships to Wisconsin students, 
+     teachers, and schools;
+       Whereas Herb Kohl answered a call to public service in 1988 
+     and ran for the United States Senate with a commitment to 
+     being ``nobody's Senator but yours'' and working across party 
+     lines for the people of the State he loved;
+       Whereas Herb Kohl served Wisconsin in the United States 
+     Senate for 24 years, bringing his business experience to his 
+     Senate office and treating his more than 5,000,000 Wisconsin 
+     constituents as his customers;
+       Whereas Herb Kohl championed issues important for the 
+     people of Wisconsin, fighting every day for dairy farmers, 
+     working to protect kids from the threat of gun violence, 
+     helping seniors secure and keep high quality health care, and 
+     supporting education at all levels, from early childhood 
+     through adults attending technical colleges and universities;
+       Whereas Herb Kohl served on the Committee on the Judiciary 
+     and the Committee on Appropriations of the Senate and was 
+     Chairman of the Special Committee on Aging of the Senate;
+       Whereas, throughout his Senate tenure and as Chairman of 
+     the Special Committee on Aging of the Senate, Herb Kohl 
+     championed initiatives to get individuals, families, and 
+     communities the health insurance and care they needed, 
+     focusing on the most vulnerable--children and seniors--and 
+     the most difficult to reach--rural communities;
+       Whereas Herb Kohl used his position as Chairman of the 
+     Subcommittee on Agriculture, Rural Development, Food and Drug 
+     Administration, and Related Agencies of the Committee on 
+     Appropriations of the Senate to advance Wisconsin's dairy 
+     interests and strengthen nutrition programs for children, 
+     including by expanding after-school feeding programs, 
+     launching school breakfast start-up grants, expanding summer 
+     food service for students, and leading the charge to fund the 
+     special supplemental nutrition program for women, infants, 
+     and children (commonly referred to as ``WIC''), which 
+     provides nutrition assistance to pregnant women, infants, and 
+     children;
+       Whereas, as a member of the Committee on the Judiciary of 
+     the Senate, Herb Kohl worked to provide funding for police 
+     departments across Wisconsin, advance legislation for child 
+     safety locks on handguns, strengthen efforts in the State to 
+     fight drug trafficking, and institute ratings for video 
+     games;
+       Whereas Herb Kohl's office assisted Wisconsinites through 
+     individual casework for more than 2 decades, earning a 
+     reputation as having one of the best customer service 
+     operations in the United States Senate; and
+       Whereas, on December 27, 2023, at the age of 88, Herb Kohl 
+     died, leaving behind a legacy of dedication and service to 
+     the people of Wisconsin: Now, therefore, be it
+       Resolved, That--
+
+[[Page S97]]
+
+       (1) the Senate--
+       (A) recognizes with profound sorrow and deep regret the 
+     death of the Honorable Herb Kohl, former Senator for the 
+     State of Wisconsin; and
+       (B) respectfully requests that the Secretary of the 
+     Senate--
+       (i) communicate this resolution to the House of 
+     Representatives; and
+       (ii) transmit an enrolled copy of this resolution to the 
+     family of the Honorable Herb Kohl; and
+       (2) when the Senate adjourns today, it stands adjourned as 
+     a further mark of respect to the memory of the Honorable Herb 
+     Kohl.
+
+                          ____________________
+```
