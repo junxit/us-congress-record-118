@@ -1,0 +1,42 @@
+---
+granule: CREC-2024-01-17-pt1-PgH154-5
+date: 2024-01-17
+edition: CREC
+section: HOUSE
+page: H154
+citation: 170 Cong. Rec. H154
+---
+
+# MAUI COUNTY HOUSING PLAN
+
+**Speaking:** Tokuda, Jill N. (T000487) [D-HI]
+
+```
+                              {time}  1215
+                        MAUI COUNTY HOUSING PLAN
+
+  (Ms. TOKUDA asked and was given permission to address the House for 1 
+minute and to revise and extend her remarks.)
+  Ms. TOKUDA. Mr. Speaker, for so many of our Maui `` 'ohana,'' 
+``family,'' stable housing for their families and the ability to manage 
+mortgages for lost homes keep them up at night.
+  Earlier this month, the State of Hawaii, Maui County, FEMA, and 
+various philanthropic organizations announced a $500 million interim 
+housing plan to move thousands of families still living in hotels into 
+stable, long-term housing by July 1 of this year. $250 million of this 
+critical funding is coming directly from FEMA.
+  Of all the ways that this plan will seek to provide some stability 
+for ``keikis,'' ``children,'' and ``kupuna,'' ``elders,'' who lost 
+everything, the most critical and urgent are the investments that will 
+be made in more permanent developments.
+  We need shovels in the ground now, and I strongly encourage FEMA to 
+lean into their plans to build modular homes that will house up to 500 
+households.
+  In talking with constituents and Maui Mayor Bissen, we must also 
+focus immediately on identifying options to help survivors with their 
+mortgages. Absent options, our people will feel they have no choice but 
+to leave Lahaina. As I have said before, Lahaina is not Lahaina without 
+her people.
+
+                          ____________________
+```
