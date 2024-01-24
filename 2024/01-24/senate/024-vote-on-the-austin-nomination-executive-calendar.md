@@ -1,0 +1,147 @@
+---
+granule: CREC-2024-01-24-pt1-PgS235-3
+date: 2024-01-24
+edition: CREC
+section: SENATE
+page: S235
+citation: 170 Cong. Rec. S235
+---
+
+# Vote on the Austin Nomination (Executive Calendar)
+
+**Speaking:** Durbin, Richard J. (D000563) [D-IL], Thune, John (T000250) [R-SD]
+
+```
+                     Vote on the Austin Nomination
+
+  The PRESIDING OFFICER. Under the previous order, The question is, 
+Will the Senate advise and consent to the Austin nomination?
+  Mr. DURBIN. I ask for the yeas and nays.
+  The PRESIDING OFFICER. Is there a sufficient second?
+  There appears to be a sufficient second.
+  The clerk will call the roll.
+  The legislative clerk called the roll.
+  (Ms. ROSEN assumed the Chair.)
+  Mr. DURBIN. I announce that the Senator from Arizona (Mr. Kelly) and 
+the Senator from Vermont (Mr. Sanders) are necessarily absent.
+  Mr. THUNE. The following Senator is necessarily absent: the Senator 
+from Wyoming (Mr. Barrasso).
+  The PRESIDING OFFICER (Ms. Baldwin). Are there any other Senators in 
+the Chamber desiring to vote?
+  The result was announced--yeas 80, nays 17, as follows:
+
+                       [Rollcall Vote No. 20 Ex.]
+
+                                YEAS--80
+
+     Baldwin
+     Bennet
+     Blumenthal
+     Booker
+     Boozman
+     Brown
+     Budd
+     Butler
+     Cantwell
+     Capito
+     Cardin
+     Carper
+     Casey
+     Cassidy
+     Collins
+     Coons
+     Cornyn
+     Cortez Masto
+     Cotton
+     Cramer
+     Cruz
+     Daines
+     Duckworth
+     Durbin
+     Ernst
+     Fetterman
+     Fischer
+     Gillibrand
+     Graham
+     Grassley
+     Hassan
+     Heinrich
+     Hickenlooper
+     Hirono
+     Hyde-Smith
+     Kaine
+     Kennedy
+     King
+     Klobuchar
+     Lankford
+     Lee
+     Lujan
+     Lummis
+     Manchin
+     Markey
+     McConnell
+     Menendez
+     Merkley
+     Moran
+     Mullin
+     Murkowski
+     Murphy
+     Murray
+     Ossoff
+     Padilla
+     Peters
+     Reed
+     Ricketts
+     Romney
+     Rosen
+     Rounds
+     Rubio
+     Schatz
+     Schumer
+     Scott (SC)
+     Shaheen
+     Sinema
+     Smith
+     Stabenow
+     Tester
+     Tillis
+     Van Hollen
+     Warner
+     Warnock
+     Warren
+     Welch
+     Whitehouse
+     Wicker
+     Wyden
+     Young
+
+                                NAYS--17
+
+     Blackburn
+     Braun
+     Britt
+     Crapo
+     Hagerty
+     Hawley
+     Hoeven
+     Johnson
+     Marshall
+     Paul
+     Risch
+     Schmitt
+     Scott (FL)
+     Sullivan
+     Thune
+     Tuberville
+     Vance
+
+                             NOT VOTING--3
+
+     Barrasso
+     Kelly
+     Sanders
+  The nomination was confirmed.
+  The PRESIDING OFFICER. Under the previous order, the motion to 
+reconsider is considered made and laid upon the table, and the 
+President will be immediately notified of the Senate's actions.
+```
