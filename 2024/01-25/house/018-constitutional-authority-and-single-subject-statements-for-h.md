@@ -1,0 +1,22 @@
+---
+granule: CREC-2024-01-25-pt1-PgH252-3
+date: 2024-01-25
+edition: CREC
+section: HOUSE
+page: H252
+citation: 170 Cong. Rec. H252
+---
+
+# Constitutional Authority and Single Subject Statements for H.R. 7076
+
+**Measures:** H.R. 7076
+
+```
+           By Mr. BEYER:
+       H.R. 7076.
+       Congress has the power to enact this legislation pursuant 
+     to the following:
+       Article 1, Section 8
+       The single subject of this legislation is:
+       Agriculture
+```
