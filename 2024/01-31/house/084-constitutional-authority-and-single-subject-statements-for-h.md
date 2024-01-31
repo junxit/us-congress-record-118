@@ -1,0 +1,25 @@
+---
+granule: CREC-2024-01-31-pt1-PgH365-20
+date: 2024-01-31
+edition: CREC
+section: HOUSE
+page: H365
+citation: 170 Cong. Rec. H365
+---
+
+# Constitutional Authority and Single Subject Statements for H.R. 7175
+
+**Measures:** H.R. 7175
+
+```
+           By Mr. McGOVERN:
+       H.R. 7175.
+       Congress has the power to enact this legislation pursuant 
+     to the following:
+       Clause 18 of Section 8 of Article I of the Constitution.
+       The single subject of this legislation is:
+       To protect individuals who face reprisals for defending 
+     human rights and democracy by enhancing the capacity of the 
+     United States Government to prevent, mitigate, and respond in 
+     such cases, and for other purposes.
+```
