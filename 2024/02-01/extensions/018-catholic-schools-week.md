@@ -1,0 +1,40 @@
+---
+granule: CREC-2024-02-01-pt1-PgE108-3
+date: 2024-02-01
+edition: CREC
+section: EXTENSIONS
+page: E108
+citation: 170 Cong. Rec. E108
+---
+
+# CATHOLIC SCHOOLS WEEK
+
+**Speaking:** Van Drew, Jefferson (V000133) [R-NJ]
+
+```
+                         CATHOLIC SCHOOLS WEEK
+
+                                 ______
+                                 
+
+                        HON. JEFFERSON VAN DREW
+
+                             of new jersey
+
+                    in the house of representatives
+
+                       Thursday, February 1, 2024
+
+  Mr. VAN DREW. Mr. Speaker, as we celebrate Catholic Schools Week 
+across the Nation, we come together to recognize and honor the profound 
+impact of Catholic education. On January 31st, we marked National 
+Appreciation Day for Catholic Schools, a day that acknowledges the 
+enduring commitment of these institutions to educate not only the mind 
+but also the soul. Catholic Schools, like St. Ann's in Wilmington, 
+Delaware where my grandchildren attend, instill faith, academic 
+excellence, and service in their students. Together, we are not just 
+celebrating a week; we are celebrating the noble mission of Catholic 
+education, to educate the whole child and transcend the boundaries of 
+traditional learning. God bless our Catholic Schools and God Bless the 
+United States of America.
+```

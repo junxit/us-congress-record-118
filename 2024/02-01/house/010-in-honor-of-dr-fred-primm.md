@@ -1,0 +1,40 @@
+---
+granule: CREC-2024-02-01-pt1-PgH368
+date: 2024-02-01
+edition: CREC
+section: HOUSE
+page: H368
+citation: 170 Cong. Rec. H368
+---
+
+# IN HONOR OF DR. FRED PRIMM
+
+**Speaking:** Sewell, Terri A. (S001185) [D-AL]
+
+```
+                       IN HONOR OF DR. FRED PRIMM
+
+  (Ms. SEWELL asked and was given permission to address the House for 
+one minute and to revise and extend her remarks.)
+  Ms. SEWELL. Mr. Speaker, I rise today to honor the extraordinary life 
+and legacy of Dr. Fred Primm, who passed away on January 19, 2024, at 
+the age of 57.
+  Dr. Primm was a true Renaissance man. He was an educator, Air Force 
+Naval Reservist, pastor, teacher, coach, adjunct professor, consultant, 
+a Kappa man, and the superintendent for Sumter County Schools and 
+Bessemer City Schools.
+  Dr. Primm was truly a respected and beloved community leader. 
+Educated at Alabama A&M, Auburn, and Nova Southeastern, Dr. Primm was a 
+true servant leader, and he led in every aspect of his life. He made 
+his commitment to serving others his life's top priority, and serve he 
+did. Our community and the lives of his students are all the better 
+because of him.
+  His life is a true testament to the transformational power of 
+education.
+  I ask my colleagues to join me in celebrating the exceptional life 
+and legacy of Dr. Fred Primm.
+  May his family find comfort in knowing that his legacy will live on 
+in the many lives that he touched.
+
+                          ____________________
+```
