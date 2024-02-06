@@ -1,0 +1,63 @@
+---
+granule: CREC-2024-02-06-pt1-PgE117-5
+date: 2024-02-06
+edition: CREC
+section: EXTENSIONS
+page: E117
+citation: 170 Cong. Rec. E117
+---
+
+# SUPPORTING EFFORTS TO SECURE OUR NATION'S SOUTHERN BORDER
+
+**Speaking:** Rogers, Harold (R000395) [R-KY]
+
+**Measures:** H.R. 5585, H.R. 6678, H.R. 6679, H.R. 6976
+
+```
+       SUPPORTING EFFORTS TO SECURE OUR NATION'S SOUTHERN BORDER
+
+                                 ______
+                                 
+
+                           HON. HAROLD ROGERS
+
+                              of kentucky
+
+                    in the house of representatives
+
+                       Tuesday, February 6, 2024
+
+  Mr. ROGERS of Kentucky. Mr. Speaker, I share my colleagues' support 
+for H.R. 5585,
+
+[[Page E118]]
+
+the Agent Raul Gonzalez Officer Safety Act, H.R. 6678, the Consequences 
+for Social Security Fraud Act, H.R. 6679, the No Immigration Benefits 
+for Hamas Terrorists Act, and H.R. 6976, the Protect Our Communities 
+from DUIs Act.
+  Our Nation is amid unprecedented chaos at our southern border. Every 
+day, thousands of illegal aliens are flooding over the border and into 
+our cities, increasing crime at alarming rates. The rise of unabated 
+human trafficking at our southern border should be among our greatest 
+motivations for meaningful action. While some illegal aliens are 
+fleeing oppression and poor economic conditions in their countries, 
+many of them are trafficking large quantities of drugs, weapons, and 
+other contraband. At a time when Americans are dying from fentanyl and 
+other drug overdoses at catastrophic rates, we must do everything in 
+our power to slow the stem of trafficking. Moreover, with surges in 
+violent crime across our country, we need to ensure that our federal 
+immigration authorities have the resources necessary to remove illegal 
+aliens who commit crimes against innocent Americans.
+  Each of these bills aim to empower federal authorities to reject or 
+remove illegal immigrants who commit certain crimes. This includes 
+aliens who intentionally evade border patrol agents or law enforcement 
+assisting those agents; aliens who commit social security fraud; aliens 
+who are convicted of driving under the influence; and aliens who are 
+members of the Hamas terrorist group or involved in the October 7, 2023 
+attack on Israel.
+  We must take action to make the United States safer, and I am proud 
+to support these efforts to do exactly that.
+
+                          ____________________
+```
