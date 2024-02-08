@@ -1,0 +1,32 @@
+---
+granule: CREC-2024-02-08-pt1-PgS541-5
+date: 2024-02-08
+edition: CREC
+section: SENATE
+page: S541
+citation: 170 Cong. Rec. S541
+---
+
+# Text of Senate Amendment 1441
+
+**Speaking:** Lee, Mike (L000577) [R-UT]
+
+```
+  SA 1441. Mr. LEE submitted an amendment intended to be proposed to 
+amendment SA 1388 submitted by Mrs. Murray (for herself and Mr. 
+Schumer) and intended to be proposed to the bill H.R. 815, to amend 
+title 38, United States Code, to make certain improvements relating to 
+the eligibility of veterans to receive reimbursement for emergency 
+treatment furnished through the Veterans Community Care program, and 
+for other purposes; which was ordered to lie on the table; as follows:
+
+        At the appropriate place, insert the following:
+       Sec. __.  Effective January 1, 2026, the following laws are 
+     hereby repealed:
+       (1) The Authorization for Use of Military Force Against 
+     Iraq Resolution of 2002 (Public Law 107-243; 116 Stat. 1498; 
+     50 U.S.C. 1541 note).
+       (2) The Authorization for Use of Military Force (Public Law 
+     107-40; 50 U.S.C. 1541 note).
+                                 ______
+```
