@@ -1,0 +1,731 @@
+---
+granule: CREC-2024-02-09-pt1-PgS792
+date: 2024-02-09
+edition: CREC
+section: SENATE
+page: S792
+citation: 170 Cong. Rec. S792
+---
+
+# Text of Senate Amendment 1574
+
+**Speaking:** Padilla, Alex (P000145) [D-CA]
+
+```
+  SA 1574. Mr. PADILLA submitted an amendment intended to be proposed 
+to amendment SA 1388 proposed by Mrs. Murray (for herself and Mr. 
+Schumer) to the bill H.R. 815, to amend title 38, United States Code, 
+to make certain improvements relating to the eligibility of veterans to 
+receive reimbursement for emergency treatment furnished through the 
+Veterans Community Care program, and for other purposes; which was 
+ordered to lie on the table; as follows:
+
+        At the appropriate place, insert the following:
+
+     SUBTITLE ___--IMMIGRATION AGE-OUT PROTECTIONS
+
+     SEC. ___. AGE-OUT PROTECTIONS AND PRIORITY DATE RETENTION.
+
+       (a) Age-out Protections.--
+       (1) In general.--The Immigration and Nationality Act (8 
+     U.S.C. 1101 et seq.) is amended--
+       (A) in section 101(b) (8 U.S.C. 1101(b)), by adding at the 
+     end the following:
+       ``(6) Determination of Child Status.--A determination as to 
+     whether an alien is a child shall be made as follows:
+       ``(A) In general.--For purposes of a petition under section 
+     204 and any subsequent application for an immigrant visa or 
+     adjustment of status, such determination shall be made using 
+     the age of the alien on the earlier of--
+       ``(i) the date on which the petition is filed with the 
+     Secretary of Homeland Security; or
+       ``(ii) the date on which an application for a labor 
+     certification under section 212(a)(5)(A)(i) is filed with the 
+     Secretary of Labor.
+       ``(B) Certain dependents of nonimmigrants.--With respect to 
+     an alien who, for an aggregate period of 8 years before 
+     attaining the age of 21, was in the status of a dependent 
+     child of a nonimmigrant pursuant to a lawful admission as an 
+     alien eligible to be employed in the United States (other 
+     than a nonimmigrant described in subparagraph (A), (G), (N), 
+     or (S) of section 101(a)(15)), notwithstanding clause (i), 
+     the determination of the alien's age shall be based on the 
+     date on which such initial nonimmigrant employment-based 
+     petition or application was filed by the alien's nonimmigrant 
+     parent.
+       ``(C) Failure to acquire status as alien lawfully admitted 
+     for permanent residence.--With respect to an alien who has 
+     not sought to acquire status as an alien lawfully admitted 
+     for permanent residence during the 2 years beginning on the 
+     date on which an immigrant visa becomes available to such 
+     alien, the alien's age shall be determined based on the 
+     alien's biological age, unless the failure to seek to acquire 
+     such status was due to extraordinary circumstances.''; and
+       (B) in section 201(f) (8 U.S.C. 1151)--
+       (i) by striking the subsection heading and all that follows 
+     through ``Termination Date.--'' in paragraph (3) and 
+     inserting ``Rule for Determining Whether Certain Aliens Are 
+     Immediate Relatives.--''; and
+       (ii) by striking paragraph (4).
+       (2) Effective date.--
+       (A) In general.--The amendments made by this subsection 
+     shall be effective as if included in the Child Status 
+     Protection Act (Public Law 107-208; 116 Stat. 927).
+       (B) Motion to reopen or reconsider.--
+       (i) In general.--A motion to reopen or reconsider the 
+     denial of a petition or application described in the 
+     amendment made by paragraph (1)(A) may be granted if--
+
+       (I) such petition or application would have been approved 
+     if the amendment described in such paragraph had been in 
+     effect at the time of adjudication of the petition or 
+     application;
+       (II) the individual seeking relief pursuant to such motion 
+     was in the United States at the time the underlying petition 
+     or application was filed; and
+       (III) such motion is filed with the Secretary of Homeland 
+     Security or the Attorney General not later than the date that 
+     is 2 years after the date of the enactment of this Act.
+
+       (ii) In lieu of motion to reopen.--If an alien who 
+     qualifies under section 101(b)(6)(B) of the Immigration and 
+     Nationality Act (8 U.S.C. 1101(b)(6)(B)) has a parent who has 
+     been lawfully admitted for permanent residence or is a 
+     citizen of the United States, the alien shall not be required 
+     to file a motion to reopen and shall be immediately eligible 
+     to apply for adjustment of status or have a pending 
+     adjustment of status considered based upon any immigrant visa 
+     petition in which the alien is a beneficiary or derivative 
+     beneficiary if such adjustment of status is filed not later 
+     than the date that is 2 years after the date of the enactment 
+     of this Act.
+       (iii) Exemption from numerical limitations.--
+     Notwithstanding any other provision of law, an individual 
+     granted relief under clause (i) or (ii) shall be exempt from 
+     the numerical limitations in sections 201, 202, and 203 of 
+     the Immigration and Nationality Act (8 U.S.C. 1151, 1152, and 
+     1153).
+       (b) Nonimmigrant Dependent Children.--Section 214 of the 
+     Immigration and Nationality Act (8 U.S.C. 1184) is amended by 
+     adding at the end the following:
+       ``(s) Derivative Beneficiaries.--
+       ``(1) In general.--Except as described in paragraph (2), 
+     the determination as to whether an alien who is the 
+     derivative beneficiary of a properly filed pending or 
+     approved immigrant petition under section 204 is eligible to 
+     be a dependent child shall be based on whether the alien is 
+     determined to be a child under section 101(b)(6).
+       ``(2) Long-term dependents.--If otherwise eligible, an 
+     alien who is determined to be a child pursuant to section 
+     101(b)(6)(B) may change status to, or extend status as, a 
+     dependent child of a nonimmigrant with an approved 
+     employment-based petition under this section or an approved 
+     application under section 101(a)(15)(E), notwithstanding such 
+     alien's marital status.
+       ``(3) Employment authorization.--An alien admitted to the 
+     United States as a dependent child of a nonimmigrant who is 
+     described in this section is authorized to engage in 
+     employment in the United States incident to status.''.
+       (c) Priority Date Retention.--Section 203(h) of the 
+     Immigration and Nationality Act (8 U.S.C. 1153(h)) is 
+     amended--
+       (1) by striking the subsection heading and inserting 
+     ``Retention of Priority Dates'';
+       (2) by striking paragraphs (1) through (4);
+       (3) by redesignating paragraph (5) as paragraph (3); and
+       (4) by inserting before paragraph (3) the following:
+       ``(1) In general.--The priority date for an individual 
+     shall be the date on which a petition under section 204 is 
+     filed with the Secretary of Homeland Security or the 
+     Secretary of State, as applicable, unless such petition was 
+     preceded by the filing of a labor certification with the 
+     Secretary of Labor, in which case the date on which the labor 
+     certification is filed shall be the priority date.
+       ``(2) Applicability.--The principal beneficiary and all 
+     derivative beneficiaries shall retain the priority date 
+     associated with the earliest of any approved petition or 
+     labor certification, and such priority date shall be 
+     applicable to any subsequently approved petition.''.
+
+      Subtitle ___--Veteran Deportation Prevention and Reform Act
+
+     SEC. ___. SHORT TITLE.
+
+       This subtitle may be cited as the ``Veteran Deportation 
+     Prevention and Reform Act''.
+
+     SEC. ___. SENSE OF CONGRESS.
+
+       It is the sense of Congress that--
+       (1) military service to the United States is a sacrifice 
+     that demonstrates loyalty to our Nation;
+       (2) a noncitizen who takes an oath of enlistment or an oath 
+     of office to join the United States Armed Forces, by 
+     promising to support and defend the Constitution of the 
+     United States against all enemies, foreign and domestic, 
+     deserves facilitated access to naturalization;
+       (3) each noncitizen described in paragraph (2) and his or 
+     her immediate family members deserve consideration for the 
+     exercise of prosecutorial discretion in immigration removal 
+     proceedings; and
+       (4) a noncitizen veteran who is deported after 
+     consideration under this subtitle should be provided the same 
+     veterans' benefits to which a similarly situated United 
+     States citizen veteran would be entitled.
+
+     SEC. ___. DEFINITIONS.
+
+       In this subtitle:
+       (1) Advisory committee.--The term ``Advisory Committee'' 
+     means the Military Family Immigration Advisory Committee 
+     established under this subtitle.
+       (2) Appropriate congressional committees.--The term 
+     ``appropriate congressional committees'' means--
+       (A) the Committee on Armed Services of the Senate;
+       (B) the Committee on Homeland Security and Governmental 
+     Affairs of the Senate;
+       (C) the Committee on the Judiciary of the Senate;
+       (D) the Committee on Veterans' Affairs of the Senate;
+       (E) the Committee on Armed Services of the House of 
+     Representatives;
+       (F) the Committee on Homeland Security of the House of 
+     Representatives;
+       (G) the Committee on the Judiciary of the House of 
+     Representatives; and
+       (H) the Committee on Veterans' Affairs of the House of 
+     Representatives.
+       (3) Armed forces.--The term ``Armed Forces'' has the 
+     meaning given the term ``armed forces'' in section 101(a)(4) 
+     of title 10, United States Code, and includes the reserve 
+     components of the Armed Forces.
+       (4) Advisory committee.--The term ``Advisory Committee'' 
+     means the Military Family Immigration Advisory Committee 
+     established under this subtitle.
+
+[[Page S793]]
+
+       (5) Covered family member.--The term ``covered family 
+     member'' means the noncitizen spouse, noncitizen parent, or 
+     noncitizen minor child of--
+       (A) a member of the Armed Forces serving on active duty or 
+     in a reserve component; or
+       (B) a veteran.
+       (6) Crime of violence.--The term ``crime of violence'' 
+     means an offense defined in section 16(a) of title 18, United 
+     States Code--
+       (A) that is not a purely political offense; and
+       (B) for which a noncitizen has served a term of 
+     imprisonment of at least 5 years.
+       (7) Eligible veteran.--
+       (A) In general.--The term ``eligible veteran'' means a 
+     veteran who--
+       (i) is a noncitizen; and
+       (ii) meets the criteria described in section [___](e) of 
+     this subtitle.
+       (B) Inclusion.--The term ``eligible veteran'' includes a 
+     veteran who--
+       (i) was removed from the United States; or
+       (ii) is abroad and is inadmissible under section 212(a) of 
+     the Immigration and Nationality Act (8 U.S.C. 1182(a)).
+       (8) Immigration laws.--The term ``immigration laws'' has 
+     the meaning given such term in section 101 of the Immigration 
+     and Nationality Act (8 U.S.C. 1101).
+       (9) Noncitizen.--The term ``noncitizen'' means an 
+     individual who is not a citizen or national of the United 
+     States (as defined in section 101(a) of the Immigration and 
+     Nationality Act (8 U.S.C. 1101(a))).
+       (10) Veteran.--The term ``veteran'' means a person who 
+     served as a member of the Armed Forces on active duty or in a 
+     reserve component and who was discharged or released from 
+     such service under conditions other than dishonorable.
+
+     SEC. ___. IDENTIFICATION OF MEMBERS OF THE ARMED FORCES, 
+                   VETERANS, AND COVERED FAMILY MEMBERS IN REMOVAL 
+                   PROCEEDINGS.
+
+       (a) In General.--No Federal agency may initiate removal 
+     proceedings or reinstatement of a removal order without first 
+     asking the individual, and recording the answer in a 
+     searchable electronic database, whether such individual is--
+       (1) a member of the Armed Forces serving on active duty or 
+     in a reserve component;
+       (2) a veteran; or
+       (3) a covered family member.
+       (b) Transfer of Case Files.--The Director of U.S. 
+     Immigration and Customs Enforcement, the Director of U.S. 
+     Citizenship and Immigration Services, and the Commissioner of 
+     U.S. Customs and Border Patrol, as applicable, shall transfer 
+     a copy of the complete case file of any individual identified 
+     under subsection (a), immediately after such identification, 
+     to the Advisory Committee.
+       (c) Limitation on Removal.--Notwithstanding any other 
+     provision of law, an individual described in subsection (a) 
+     may not be ordered removed or removed until the Military 
+     Family Immigration Advisory Committee has provided 
+     recommendations with respect to such individual to the 
+     Secretary of Homeland Security and to the Attorney General in 
+     accordance with section [___].
+       (d) Prohibition of Detention During Advisory Committee 
+     Review.--Notwithstanding any other provision of law, no 
+     individual described in paragraph (1), (2), or (3) of 
+     subsection (a) may be detained by the Department of Homeland 
+     Security while the Advisory Committee is reviewing his or her 
+     case unless such individual poses a danger to public safety 
+     or national security.
+
+     SEC. ___. STUDY AND REPORT ON NONCITIZEN VETERANS REMOVED 
+                   FROM THE UNITED STATES.
+
+       (a) Study Required.--Not later than 1 year after the date 
+     of the enactment of this Act, the Secretary of Defense, the 
+     Secretary of Homeland Security, and the Secretary of Veterans 
+     Affairs shall jointly carry out a study of noncitizen 
+     veterans of the Armed Forces who were removed from the United 
+     States during the period beginning on January 1, 1990, and 
+     ending on the date of the enactment of this Act, which shall 
+     include--
+       (1) the number of noncitizens removed by U.S. Immigration 
+     and Customs Enforcement or the Immigration and Naturalization 
+     Service during the period covered by the report who served on 
+     active duty in the Armed Forces or in a reserve component of 
+     the Armed Forces;
+       (2) for each noncitizen described in paragraph (1)--
+       (A) the country of origin of the noncitizen;
+       (B) the length of time the noncitizen served as a member of 
+     the Armed Forces;
+       (C) the number of covered family members of the noncitizen, 
+     as applicable;
+       (D) the grounds for removal under section 212(a) or 237(a) 
+     of the Immigration and Nationality Act (8 U.S.C. 1182(a) and 
+     1227(a)), as applicable;
+       (E) whether the noncitizen appealed the removal order;
+       (F) whether the noncitizen was detained; and
+       (G) whether the noncitizen was represented by a lawyer;
+       (3) the number of noncitizens described in paragraph (1) 
+     who--
+       (A) were discharged or released from service under 
+     honorable conditions;
+       (B) were deployed overseas;
+       (C) served on active duty in the Armed Forces in an 
+     overseas contingency operation;
+       (D) were awarded military decorations, campaign medals, or 
+     service medals;
+       (E) applied for benefits under laws administered by the 
+     Secretary of Veterans Affairs; or
+       (F) are receiving benefits described in subparagraph (E);
+       (4) a description of the reasons preventing any of the 
+     noncitizens who applied for benefits described in paragraph 
+     (3)(E) from receiving such benefits;
+       (5) the number of noncitizens who--
+       (A) currently serve or previously served as a member of the 
+     Armed Forces; and
+       (B) are currently in removal proceedings; and
+       (6) for each noncitizen described in paragraph (5), the 
+     grounds for inadmissibility or deportability under section 
+     212(a) or 237(a) of the Immigration and Nationality Act (8 
+     U.S.C. 1182(a) and 1227(a)), as applicable.
+       (b) Report.--Not later than 90 days after the date of the 
+     completion of the study required under subsection (a), the 
+     Secretary of Defense, the Secretary of Homeland Security, and 
+     the Secretary of Veterans Affairs shall jointly submit a 
+     report containing the results of such study to the 
+     appropriate congressional committees.
+
+     SEC. ___. INFORMATION REGARDING VETERANS SUBJECT TO REMOVAL 
+                   PROCEEDINGS.
+
+       (a) In General.--Not later than 1 year after the date of 
+     the enactment of this Act, the Secretary of Homeland Security 
+     shall create a system to maintain information, that is shared 
+     across the Department of Homeland Security (including 
+     Enforcement and Removal Operations, the Office of the 
+     Principal Legal Advisor, and Homeland Security 
+     Investigations), regarding potentially removable noncitizen 
+     veterans (including the names and last known addresses of 
+     such individuals) and removal proceedings with respect to any 
+     such individual, for the purpose of ensuring that service in 
+     the Armed Forces of any such individual is taken into 
+     consideration during any adjudication under the immigration 
+     laws with respect to such individual, including--
+       (1) information collected pursuant to the protocol 
+     established under section [___(a)];
+       (2) information regarding the covered family members of the 
+     noncitizens described in section [___(a)(1)]; and
+       (3) information provided by the Secretary of Defense 
+     pursuant subsection (b).
+       (b) Provision of Information by Department of Defense.--Not 
+     later than 30 days after a noncitizen veteran is honorably 
+     discharged from the Armed Forces, the Secretary of Defense 
+     shall provide to the Secretary of Homeland Security a copy of 
+     the Certificate of Release or Discharge from Active Duty 
+     form, or other discharge documents from a Reserve Component, 
+     for inclusion in the system established pursuant to 
+     subsection (a).
+       (c) Confidentiality.--Information collected under this 
+     section or under section [___] may not be disclosed for 
+     purposes of immigration enforcement.
+
+     SEC. ___. PROTOCOL FOR IDENTIFYING NONCITIZEN VETERANS.
+
+       (a) In General.--Not later than the last day of the first 
+     fiscal year beginning after the date of the enactment of this 
+     Act, the Secretary of Homeland Security shall establish--
+       (1) a protocol, which shall be known as the ``Immigrant 
+     Veterans Eligibility Tracking System'' or ``I-VETS'', for--
+       (A) identifying noncitizens who are or may be veterans and 
+     the covered family members of such veterans; and
+       (B) collecting and maintaining data, for use by U.S. 
+     Immigration and Customs Enforcement, with respect to such 
+     veterans and covered family members who are--
+       (i) are in removal proceedings; or
+       (ii) have been removed;
+       (2) best practices with respect to addressing issues 
+     related to the removal of any noncitizen or covered family 
+     member described in paragraph (1); and
+       (3) an annual training program with respect to the protocol 
+     and best practices established under paragraphs (1) and (2).
+       (b) Training.--Beginning in the first fiscal year that 
+     begins after the Secretary of Homeland Security completes the 
+     requirements under subsection (a), personnel of U.S. 
+     Immigration and Customs Enforcement and U.S. Citizenship and 
+     Immigration Services shall annually participate in the 
+     training program on the protocol and best practices developed 
+     pursuant to subsection (a).
+
+     SEC. ___. MILITARY FAMILY IMMIGRATION ADVISORY COMMITTEE.
+
+       (a) Establishment.--The Secretary of Homeland Security, in 
+     consultation with the Secretary of Defense and in cooperation 
+     with the Secretary of the Army, the Secretary of the Navy, 
+     the Secretary of the Air Force, and the Commandant of the 
+     Coast Guard, shall establish the Military Family Immigration 
+     Advisory Committee to provide recommendations to the 
+     Secretary of Homeland Security and the Attorney General 
+     regarding the exercise of prosecutorial discretion in cases 
+     involving removal proceedings of individuals described in 
+     section [___](a).
+       (b) Membership.--The Advisory Committee shall be composed 
+     of the following officers of the Armed Forces:
+       (1) The Deputy Commanding General of Army Human Resources 
+     Command, or designee.
+       (2) The Judge Advocate of the Army, or designee.
+       (3) The Deputy Commander of Navy Personnel Command, or 
+     designee.
+       (4) The Judge Advocate of the Navy, or designee.
+       (5) The Vice Chief of Staff of the Air Force.
+       (6) The Judge Advocate of the Air Force, or designee.
+
+[[Page S794]]
+
+       (7) The Deputy Commandant for Mission Support of the Coast 
+     Guard.
+       (8) The Judge Advocate of the Coast Guard, or designee.
+       (9) The Deputy Commandant of Manpower and Reserve Affairs 
+     of the Marine Corps, or designee.
+       (10) The Chief of Space Operations.
+       (c) Case Reviews.--
+       (1) In general.--Not later than 30 days after the Director 
+     of U.S. Immigration and Customs Enforcement notifies the 
+     Advisory Committee of an individual described in section 
+     [___](a), the Advisory Committee shall meet to review the 
+     case and to provide a written recommendation to the Secretary 
+     of Homeland Security and to such individual regarding whether 
+     the individual--
+       (A) notwithstanding the grounds for removal asserted by 
+     U.S. Immigration and Customs Enforcement, should be granted--
+       (i) a dismissal or termination of removal procedures;
+       (ii) a stay of removal or cancellation of removal and 
+     allowed to apply for asylum;
+       (iii) an adjustment of status to that of an alien lawfully 
+     admitted for permanent residence;
+       (iv) deferred action;
+       (v) parole; or
+       (vi) other applicable immigration relief; or
+       (B) should be removed from the United States.
+       (2) Submission of information.--An individual who is the 
+     subject of a case review under paragraph (1) may submit 
+     information to the Advisory Committee, which shall be 
+     considered by the Advisory Committee before making a 
+     recommendation pursuant to paragraph (1).
+       (3) Procedures.--In conducting each case review under 
+     paragraph (1), the Advisory Committee shall consider, as 
+     factors weighing in favor of a recommendation under paragraph 
+     (1)(A)--
+       (A) with respect to a member of the Armed Forces serving on 
+     active duty or in a reserve component, whether the 
+     individual--
+       (i) took an oath of enlistment or an oath of office;
+       (ii) received military decorations, campaign medals, or 
+     service medals, was deployed, or was otherwise evaluated for 
+     merit in service during his or her service in the Armed 
+     Forces;
+       (iii) is a national of a country that prohibits 
+     repatriation of an individual after any service in the Armed 
+     Forces;
+       (iv) contributed to his or her local community during his 
+     or her service in the Armed Forces; and
+       (v) is a national of a country that--
+
+       (I) persecutes members or veterans of the United States 
+     military;
+       (II) is home to criminal organizations that target and 
+     recruit veterans of the United States military; or
+       (III) has hostile relations with the United States; or
+
+       (B) with respect to a veteran, whether the individual--
+       (i) took an oath of enlistment or an oath of office;
+       (ii) completed a term of service in the Armed Forces and 
+     was discharged under conditions other than dishonorable;
+       (iii) received military decorations, campaign medals, or 
+     service medals, was deployed, or was otherwise evaluated for 
+     merit in service during his or her service in the Armed 
+     Forces;
+       (iv) is a national of a country that prohibits repatriation 
+     of an individual after any service in the Armed Forces;
+       (v) contributed to his or her local community during or 
+     after his or her service in the Armed Forces; or
+       (vi) is a national of a country that--
+
+       (I) persecutes members or veterans of the United States 
+     military;
+       (II) is home to criminal organizations that target and 
+     recruit veterans of the Unites States military; or
+       (III) has hostile relations with the United States; and
+
+       (C) with respect to a covered family member, whether the 
+     individual--
+       (i) supported a member of the Armed Forces serving on 
+     active duty or a veteran, including through financial 
+     support, emotional support, or caregiving; or
+       (ii) contributed to his or her local community during or 
+     after the military service of the member or of the veteran.
+       (4) Presumption in favor of following advisory committee 
+     recommendation.--The Secretary of Homeland Security shall 
+     follow the recommendations received from the Advisory 
+     Committee pursuant to paragraph (1) with respect to 
+     individuals in removal proceedings unless the Secretary, on a 
+     case-by-case basis--
+       (A) issues a written determination that a recommendation 
+     regarding an individual described in section 4(a) is 
+     unjustified; and
+       (B) provides such written determination to such individual.
+       (d) Consultation With Principal Legal Advisor of U.S. 
+     Immigration and Customs Enforcement.--The Principal Legal 
+     Advisor of U.S. Immigration and Customs Enforcement, or 
+     designee, shall consult with the Advisory Committee at the 
+     request of members of the Advisory Committee.
+       (e) Briefings on Unsuitability of Noncitizen Members of the 
+     Armed Forces.--The Under Secretary of Defense for Personnel 
+     and Readiness shall provide detailed briefings to the 
+     Advisory Committee regarding the reasons for determining the 
+     unsuitability of noncitizen members of the Armed Forces whose 
+     cases are being considered by the Advisory Committee.
+       (f) Briefings on Actions in Response to Recommendations.--
+     Not less frequently than quarterly, the Secretary of Homeland 
+     Security shall provide detailed briefings to the Advisory 
+     Committee regarding actions taken in response to the 
+     recommendations of the Advisory Committee, including detailed 
+     explanations for any cases in which a recommendation of the 
+     Advisory Committee was not followed.
+       (g) Authorization of Appropriations.--There is authorized 
+     to be appropriated such sums as may be necessary to carry out 
+     this section.
+
+     SEC. ___. LIST OF COUNTRIES UNWILLING TO REPATRIATE UNITED 
+                   STATES VETERANS.
+
+       The Secretary of Homeland Security, in consultation with 
+     the Secretary of State, shall compile, and annually update, a 
+     list of countries that refuse to repatriate nationals of such 
+     country who have enlisted or been appointed in the United 
+     States Armed Forces.
+
+     SEC. ___. PROGRAM OF CITIZENSHIP THROUGH MILITARY SERVICE.
+
+       (a) In General.--The Secretary of Homeland Security, acting 
+     through the Director of U.S. Citizenship and Immigration 
+     Services, and the Secretary of Defense shall jointly carry 
+     out a program under which any individual noncitizen who 
+     serves in the Armed Forces, and the covered family members of 
+     such noncitizen, shall be naturalized as a United States 
+     citizen if such individual, and such covered family members, 
+     submit an application for naturalization and are not 
+     otherwise ineligible for citizenship under the immigration 
+     laws.
+       (b) JAG Training.--The Secretary of Defense shall ensure 
+     that appropriate members of the Judge Advocate General Corps 
+     of the Armed Forces shall receive training to function as 
+     liaisons with U.S. Citizenship and Immigration Services with 
+     respect to applications for citizenship of noncitizen members 
+     of the Armed Forces assigned to units in such areas.
+       (c) Training for Recruiters.--The Secretary of Defense 
+     shall ensure that all recruiters in the Armed Forces receive 
+     training regarding--
+       (1) the steps required for a noncitizen member of the Armed 
+     Forces to become a naturalized United States citizen;
+       (2) limitations on the path to citizenship for family 
+     members of such noncitizens; and
+       (3) points of contact at the Department of Homeland 
+     Security to resolve emergency immigration-related situations 
+     with respect to such noncitizens and family members.
+       (d) Application for Naturalization.--
+       (1) Biometrics.--
+       (A) Submission of biometric information.--The Secretary of 
+     Defense shall ensure that, at the time of accession into the 
+     Armed Forces, biometric information of an individual who has 
+     applied, or who plans to apply, for naturalization is 
+     submitted to U.S. Citizenship and Immigration Services for 
+     the purposes of such application.
+       (B) Acceptance of biometric information.--The Director of 
+     U.S. Citizenship and Immigration Services shall accept any 
+     biometric information submitted pursuant to subparagraph (A).
+       (2) Filing of application.--The Secretary of Homeland 
+     Security, in coordination with the Secretary of Defense, 
+     shall ensure that each noncitizen individual who accesses 
+     into the Armed Forces is permitted to file an application for 
+     naturalization as part of the accessions process.
+       (3) Adjudication of application.--The Secretary of Homeland 
+     Security, in coordination with the Secretary of Defense, 
+     shall ensure that the application for naturalization of any 
+     individual who applies for naturalization during the 
+     accessions process into the Armed Forces is adjudicated not 
+     later than the last day of active service of such individual 
+     in the Armed Forces.
+       (e) Annual Reports.--The Secretary of each military 
+     department shall submit an annual report to the appropriate 
+     congressional committees regarding--
+       (1) the number of all noncitizens who enlisted or were 
+     appointed in their department;
+       (2) the number of members of the Armed Forces in their 
+     department who have become naturalized United States 
+     citizens; and
+       (3) the number of members of the Armed Forces in their 
+     department who were discharged or released without United 
+     States citizenship under the jurisdiction of such Secretary 
+     during the preceding year.
+
+     SEC. ___. INFORMATION FOR MILITARY RECRUITS REGARDING 
+                   NATURALIZATION THROUGH SERVICE IN THE ARMED 
+                   FORCES.
+
+       The Secretary of Defense, in coordination with the 
+     Secretary of Homeland Security, shall ensure that at each 
+     Military Entrance Processing Station there is stationed or 
+     employed--
+       (1) an employee of U.S. Citizenship and Immigration 
+     Services; or
+       (2) in the case that the Secretary determines that it is 
+     impracticable station or employ a person described in 
+     paragraph (1) at a Military Entrance Processing Station, a 
+     member of the Armed Forces or employee of the Department of 
+     Defense--
+       (A) whom the Secretary determines is trained in the 
+     immigration laws; and
+       (B) who shall inform each military recruit who is not a 
+     citizen of the United States processed at such Military 
+     Entrance Processing Station regarding naturalization through 
+     service in the Armed Forces under sections 328 and 329 of the 
+     Immigration and Nationality Act (8 U.S.C. 1439 and 1440).
+
+[[Page S795]]
+
+  
+
+
+     SEC. ___. RETURN OF ELIGIBLE VETERANS REMOVED FROM THE UNITED 
+                   STATES; ADJUSTMENT OF STATUS.
+
+       (a) Program for Admission and Adjustment of Status.--Not 
+     later than 180 days after the date of the enactment of this 
+     Act, the Secretary of Homeland Security shall establish a 
+     program and an application procedure that allows--
+       (1) eligible veterans residing outside of the United States 
+     and their covered family members to be admitted to the United 
+     States as noncitizens lawfully admitted for permanent 
+     residence (as defined in section 101(a)(20) of the 
+     Immigration and Nationality Act (8 U.S.C. 1101(a)(20))); and
+       (2) eligible veterans in the United States and their 
+     covered family members to adjust their status to that of 
+     noncitizens lawfully admitted for permanent residence.
+       (b) Veterans Ordered Removed.--
+       (1) In general.--Not later than 180 days after the date of 
+     the enactment of this Act, in the case of noncitizen veterans 
+     and their covered family members who are the subjects of 
+     final orders of removal, including noncitizen veterans and 
+     covered family members who are outside the United States, the 
+     Attorney General shall--
+       (A) reopen the removal proceedings of each such noncitizen 
+     veteran and covered family member; and
+       (B) make a determination with respect to whether each such 
+     noncitizen veteran is an eligible veteran.
+       (2) Rescission of removal order.--In the case of a 
+     determination under paragraph (1)(B) that a noncitizen 
+     veteran is an eligible veteran, the Attorney General shall--
+       (A) rescind the order of removal with respect to such 
+     noncitizen and his or her covered family members;
+       (B) adjust the status of the eligible veteran and his or 
+     her covered family members to that of noncitizens lawfully 
+     admitted for permanent residence; and
+       (C) terminate removal proceedings with respect to such 
+     noncitizen and covered family members.
+       (c) Veterans in Removal Proceedings.--
+       (1) In general.--Not later than 180 days after the date of 
+     the enactment of this Act, in the case of noncitizen 
+     veterans, the removal proceedings of whom are pending as of 
+     the date of the enactment of this Act, the Attorney General 
+     shall make a determination with respect to whether each such 
+     noncitizen veteran is an eligible veteran.
+       (2) Termination of proceedings.--In the case of a 
+     determination under paragraph (1) that a noncitizen veteran 
+     is an eligible veteran, the Attorney General shall--
+       (A) adjust the status of such eligible veteran and his or 
+     her covered family members to reinstate that of noncitizens 
+     lawfully admitted for permanent residence; and
+       (B) terminate removal proceedings with respect to such 
+     eligible veteran and covered family members.
+       (d) No Numerical Limitations.--Nothing in this section or 
+     in any other law may be construed to apply a numerical 
+     limitation on the number of veterans who may be eligible to 
+     receive a benefit under this section.
+       (e) Eligibility.--
+       (1) In general.--Notwithstanding sections 212 and 237 of 
+     the Immigration and Nationality Act (8 U.S.C. 1182 and 1227) 
+     or any other provision of law, a noncitizen veteran and his 
+     or her covered family members shall be eligible to 
+     participate in the program established under subsection (a) 
+     or for adjustment of status under subsections (b) or (c), as 
+     applicable, if the Secretary or the Attorney General, as 
+     applicable, determines that the noncitizen veteran or covered 
+     family members--
+       (A) were not removed or ordered removed from the United 
+     States based on a conviction for--
+       (i) a crime of violence; or
+       (ii) a crime that endangers the national security of the 
+     United States for which the noncitizen veteran has served a 
+     term of imprisonment of at least 5 years; and
+       (B) are not inadmissible to, or deportable from, the United 
+     States based on a conviction for a crime described in 
+     subparagraph (A).
+       (2) Waiver.--The Secretary may waive the application of 
+     paragraph (1)--
+       (A) for humanitarian purposes;
+       (B) to ensure family unity;
+       (C) based on exceptional service in the Armed Forces; or
+       (D) if a waiver otherwise is in the public interest.
+
+     SEC. ___. ESTABLISHING GOOD MORAL CHARACTER OF APPLICANTS FOR 
+                   CITIZENSHIP WHO SERVED HONORABLY IN THE ARMED 
+                   FORCES OF THE UNITED STATES.
+
+       Section 328(e) of the Immigration and Nationality Act (8 
+     U.S.C. 1439(e)) is amended by adding at the end the 
+     following: ``Notwithstanding section 101(f), a finding that 
+     an applicant under this section or under section 329 is 
+     described in any of paragraphs (1) through (8) of section 
+     101(f) (except in the case of an applicant who is described 
+     in any such paragraph because of having been convicted of an 
+     aggravated felony described in subparagraph (A), (I), (K), or 
+     (L) of section 101(a)(43)) shall not preclude a finding that 
+     the applicant is of good moral character.''.
+                                 ______
+```
