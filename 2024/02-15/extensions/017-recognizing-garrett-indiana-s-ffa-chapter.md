@@ -1,0 +1,50 @@
+---
+granule: CREC-2024-02-15-pt1-PgE154-2
+date: 2024-02-15
+edition: CREC
+section: EXTENSIONS
+page: E154
+citation: 170 Cong. Rec. E154
+---
+
+# RECOGNIZING GARRETT, INDIANA'S FFA CHAPTER
+
+**Speaking:** Banks, Jim (B001299) [R-IN]
+
+```
+               RECOGNIZING GARRETT, INDIANA'S FFA CHAPTER
+
+                                 ______
+                                 
+
+                             HON. JIM BANKS
+
+                               of indiana
+
+                    in the house of representatives
+
+                      Thursday, February 15, 2024
+
+  Mr. BANKS. Mr. Speaker, I rise today to recognize Garrett, Indiana's 
+FFA Chapter as they celebrate 90 years of community service, 
+leadership, and agricultural education.
+  Agriculture is at the very heart of Indiana. Indiana has some of the 
+best farmers in the nation, and America has the best farmers in the 
+world. Perhaps no organization has had more to do with this than the 
+FFA, which teaches the longstanding values of American farming to each 
+subsequent generation. Farmers don't just cultivate the land and grow 
+America's food; they serve in other ways too.
+  The Garrett Chapter of the FFA is an excellent example of this 
+service on display. The students spend many of their days in Northeast 
+Indiana giving back, showing up to community events, and advocating for 
+farmers at every level of government.
+  The Garrett FFA Chapter has experienced nine decades of often 
+tumultuous history. Since its founding in the 1930s, its members have 
+persevered and fed America through droughts, wars, and other perilous 
+conditions. As such, the students who currently constitute this chapter 
+are the recipients of an impressive heritage of Northeast Indiana 
+farmers. They and their children can be proud to carry on this legacy 
+for the next 90 years or more.
+
+                          ____________________
+```
