@@ -1,0 +1,55 @@
+---
+granule: CREC-2024-02-26-pt1-PgE179-2
+date: 2024-02-26
+edition: CREC
+section: EXTENSIONS
+page: E179
+citation: 170 Cong. Rec. E179
+---
+
+# COMMEMORATING THE LIFE OF NANCY FAYE CARLOW
+
+**Speaking:** Fallon, Pat (F000246) [R-TX]
+
+```
+              COMMEMORATING THE LIFE OF NANCY FAYE CARLOW
+
+                                 ______
+                                 
+
+                            HON. PAT FALLON
+
+                                of texas
+
+                    in the house of representatives
+
+                       Monday, February 26, 2024
+
+  Mr. FALLON. Mr. Speaker, I rise today to commemorate the life of Mrs. 
+Nancy Faye Carlow of Nash, Texas, who peacefully passed away on January 
+13, 2024. Mrs. Carlow was a loving wife, mother, and grandmother.
+  Mrs. Carlow was born on April 27, 1944, in Maud, Texas, to H.J. 
+``Scooter'' and Hazel Smith. From a young age, she was known for being 
+an academically gifted student. In 1962, Mrs. Carlow graduated from 
+Maud High School as the valedictorian. She later received a bachelor's 
+degree from Stephen F. Austin State University and a master's degree 
+from East Texas State University. After graduation, Mrs. Carlow briefly 
+taught home economics and worked as an elementary school teacher before 
+becoming a bookkeeper for Dairyland Farms and Texarkana Tractor.
+  Mrs. Carlow was a devoted woman of faith and was a lifetime member of 
+the Maud United Methodist Church. While there, she taught Sunday school 
+and led the Methodist Youth Fellowship church group for ten years. Mrs. 
+Carlow was always a thoughtful woman who sought to put a smile on your 
+face. Along with her husband James, she hosted daily happy hours for 
+friends and loved ones so they could spend quality time together during 
+the pandemic. She also started a weekly tradition of sending flowers to 
+others so that they wouldn't feel alone. You could always count on her 
+to help guide you throughout life and encourage you to do the right 
+thing. Mrs. Carlow's tragic passing leaves behind a legacy of hard 
+work, entrepreneurship, and family values that can never be replaced.
+  I have requested the United States flag to be flown over our Nation's 
+Capitol in recognition of Mrs. Carlow's beautiful and uplifting life. 
+She will be dearly missed by her friends, family, and all who knew her.
+
+                          ____________________
+```

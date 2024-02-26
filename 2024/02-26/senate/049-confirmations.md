@@ -1,0 +1,29 @@
+---
+granule: CREC-2024-02-26-pt1-PgS989-4
+date: 2024-02-26
+edition: CREC
+section: SENATE
+page: S989
+citation: 170 Cong. Rec. S989
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate February 26, 2024:
+
+
+                  COMMODITY FUTURES TRADING COMMISSION
+
+       SUMMER K. MERSINGER, OF SOUTH DAKOTA, TO BE A COMMISSIONER 
+     OF THE COMMODITY FUTURES TRADING COMMISSION FOR A TERM 
+     EXPIRING APRIL 13, 2028.
+
+
+                       DEPARTMENT OF AGRICULTURE
+
+       BASIL IVANHOE GOODEN, OF VIRGINIA, TO BE UNDER SECRETARY OF 
+     AGRICULTURE FOR RURAL DEVELOPMENT.
+```
