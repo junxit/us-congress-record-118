@@ -1,0 +1,58 @@
+---
+granule: CREC-2024-02-28-pt1-PgE188-2
+date: 2024-02-28
+edition: CREC
+section: EXTENSIONS
+page: E188
+citation: 170 Cong. Rec. E188
+---
+
+# RECOGNIZING NEW HAMPSHIRE'S POLL WORKERS AND VOLUNTEERS
+
+**Speaking:** Kuster, Ann M. (K000382) [D-NH]
+
+```
+        RECOGNIZING NEW HAMPSHIRE'S POLL WORKERS AND VOLUNTEERS
+
+                                 ______
+                                 
+
+                           HON. ANN M. KUSTER
+
+                            of new hampshire
+
+                    in the house of representatives
+
+                      Wednesday, February 28, 2024
+
+  Ms. KUSTER. Mr. Speaker, I rise today to recognize the important work 
+of New Hampshire's poll workers and volunteers, who oversaw a safe, 
+secure election in the first-in-the-nation primary that took place on 
+Tuesday, January 23, 2024.
+  For more than 100 years, New Hampshire has been proud to host our 
+country's first presidential primary, an honor our state takes very 
+seriously. This primary would not be possible without New Hampshire's 
+dedicated poll workers and volunteers. This year, like every time 
+before, our poll workers demonstrated the power of our democracy and 
+the importance of civic responsibility by dutifully and earnestly 
+conducting this year's election.
+  I want to thank these citizens for stepping up for our democracy. New 
+Hampshire's poll workers continue to set an example for the nation in 
+their tireless efforts to count every vote and ensure that the voices 
+of all Granite Staters are heard at the ballot box. These poll workers 
+prove that despite ongoing efforts to polarize or politicize our 
+elections, our American democracy is strong. Granite Stater poll 
+workers help inspire increased voter confidence and turnout and ensure 
+a smoother process for our state's elections. It is critical that all 
+communities throughout our state are able to have their voices heard in 
+our democracy.
+  Poll workers, local town officials, and volunteers are instrumental 
+to our electoral process, preserving the right to vote for all 
+Americans by remaining impartial and fair throughout the process, from 
+overseeing voter registration to processing ballots. All Americans 
+deserve to have their voices represented.
+  Mr. Speaker, I say thank you again to all of the poll workers and 
+volunteers who stepped up to serve their communities and our democracy.
+
+                          ____________________
+```

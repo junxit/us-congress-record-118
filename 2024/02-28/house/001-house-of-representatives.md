@@ -1,0 +1,21 @@
+---
+granule: CREC-2024-02-28-pt1-PgH699
+date: 2024-02-28
+edition: CREC
+section: HOUSE
+page: H699
+citation: 170 Cong. Rec. H699
+---
+
+# House of Representatives
+
+```
+[[Page H699]]
+
+House of Representatives
+
+  The House met at noon and was called to order by the Speaker pro 
+tempore (Mrs. Miller-Meeks).
+
+                          ____________________
+```
