@@ -1,0 +1,29 @@
+---
+granule: CREC-2024-02-29-pt1-PgS1091
+date: 2024-02-29
+edition: CREC
+section: SENATE
+page: S1091
+citation: 170 Cong. Rec. S1091
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate February 29, 2024:
+
+
+                       DEPARTMENT OF THE TREASURY
+
+       MARJORIE A. ROLLINSON, OF VIRGINIA, TO BE CHIEF COUNSEL FOR 
+     THE INTERNAL REVENUE SERVICE AND AN ASSISTANT GENERAL COUNSEL 
+     IN THE DEPARTMENT OF THE TREASURY.
+
+
+                         DEPARTMENT OF DEFENSE
+
+       DOUGLAS CRAIG SCHMIDT, OF TENNESSEE, TO BE DIRECTOR OF 
+     OPERATIONAL TEST AND EVALUATION, DEPARTMENT OF DEFENSE.
+```
