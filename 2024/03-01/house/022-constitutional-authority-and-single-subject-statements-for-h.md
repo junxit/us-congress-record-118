@@ -1,0 +1,25 @@
+---
+granule: CREC-2024-03-01-pt1-PgH781-8
+date: 2024-03-01
+edition: CREC
+section: HOUSE
+page: H781
+citation: 170 Cong. Rec. H781
+---
+
+# Constitutional Authority and Single Subject Statements for H.R. 7516
+
+**Measures:** H.R. 7516
+
+```
+            By Mr. JOHNSON of South Dakota:
+        H.R. 7516.
+        Congress has the power to enact this legislation pursuant 
+     to the following:
+       Article I, Section 8 of the U.S. Constitution
+       The single subject of this legislation is:
+       To amend the Indian Health Care Improvement Act to address 
+     liability for payment of charges or costs associated with 
+     provision of purchased/referred care services, and for other 
+     purposes.
+```
