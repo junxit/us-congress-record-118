@@ -1,0 +1,42 @@
+---
+granule: CREC-2024-03-08-pt1-PgE229
+date: 2024-03-08
+edition: CREC
+section: EXTENSIONS
+page: E229
+citation: 170 Cong. Rec. E229
+---
+
+# RECOGNIZING THE UNION COUNTY WRESTLING TEAM
+
+**Speaking:** Comer, James (C001108) [R-KY]
+
+```
+              RECOGNIZING THE UNION COUNTY WRESTLING TEAM
+
+                                 ______
+                                 
+
+                            HON. JAMES COMER
+
+                              of kentucky
+
+                    in the house of representatives
+
+                         Friday, March 8, 2024
+
+  Mr. COMER. Mr. Speaker, I rise today to recognize the Union County 
+High School wrestling team for achieving their 15th state championship 
+and 3 individual state champion titles.
+  The Union County wrestling team has been the gold standard for 
+Kentucky wrestling for nearly two decades and has created a dynasty of 
+success. In the past 11 seasons, they have achieved 9 state titles.
+  Their first state championship title was in 1976 and they have 
+continued their winning traditions since. I am honored to stand with 
+the community of Union County to celebrate another state wrestling 
+championship.
+  I am proud to recognize this tremendous achievement by the Union 
+County wrestling team as they add another trophy to their case.
+
+                          ____________________
+```
