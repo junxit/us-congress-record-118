@@ -1,0 +1,48 @@
+---
+granule: CREC-2024-03-11-pt1-PgE238-2
+date: 2024-03-11
+edition: CREC
+section: EXTENSIONS
+page: E238
+citation: 170 Cong. Rec. E238
+---
+
+# HONORING THE ARC NASSAU'S 50TH ANNIVERSARY
+
+**Speaking:** Bean, Aaron (B001314) [R-FL]
+
+```
+               HONORING THE ARC NASSAU'S 50TH ANNIVERSARY
+
+                                 ______
+                                 
+
+                            HON. AARON BEAN
+
+                               of florida
+
+                    in the house of representatives
+
+                         Monday, March 11, 2024
+
+  Mr. BEAN of Florida. Mr. Speaker, I rise today to celebrate the 50th 
+Anniversary of The Arc Nassau's founding. On this remarkable milestone, 
+we commemorate five decades of service and their commitment to 
+enhancing the lives of adults with intellectual and developmental 
+differences in Northeast Florida.
+  The Arc Nassau's vision of education and motivation is realized 
+through life skills training, vocational opportunities, and long-term 
+employment. These programs provide the individuals with a sense of 
+belonging in their community.
+  As we celebrate The Arc Nassau's impressive tenure, let us look 
+towards the future with a renewed commitment to their mission. In this 
+spirit, I am pleased to announce that The Arc Nassau and Northeast 
+Florida Advocates for Autism and Related Disabilities have merged to 
+strengthen their long-standing services to the community,
+  Northeast Florida, let us follow The Arc Nassau's example, and see 
+the able, not the label.
+  I ask my colleagues to join me today in recognizing The Arc Nassau. 
+Here's to another fifty years of impact, progress, and transformation.
+
+                          ____________________
+```
