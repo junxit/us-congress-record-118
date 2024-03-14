@@ -1,0 +1,24 @@
+---
+granule: CREC-2024-03-14-pt1-PgS2420
+date: 2024-03-14
+edition: CREC
+section: SENATE
+page: S2420
+citation: 170 Cong. Rec. S2420
+---
+
+# CONFIRMATION
+
+```
+                              CONFIRMATION
+
+  Executive nomination confirmed by the Senate March 14, 2024:
+
+
+                          DEPARTMENT OF STATE
+
+       DENNIS B. HANKINS, OF MINNESOTA, A CAREER MEMBER OF THE 
+     SENIOR FOREIGN SERVICE, CLASS OF MINISTER-COUNSELOR, TO BE 
+     AMBASSADOR EXTRAORDINARY AND PLENIPOTENTIARY OF THE UNITED 
+     STATES OF AMERICA TO THE REPUBLIC OF HAITI.
+```
