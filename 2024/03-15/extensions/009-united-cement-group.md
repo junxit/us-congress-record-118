@@ -1,0 +1,55 @@
+---
+granule: CREC-2024-03-15-pt1-PgE255
+date: 2024-03-15
+edition: CREC
+section: EXTENSIONS
+page: E255
+citation: 170 Cong. Rec. E255
+---
+
+# UNITED CEMENT GROUP
+
+**Speaking:** Hunt, Wesley (H001095) [R-TX]
+
+```
+                          UNITED CEMENT GROUP
+
+                                 ______
+                                 
+
+                            HON. WESLEY HUNT
+
+                                of texas
+
+                    in the house of representatives
+
+                         Friday, March 15, 2024
+
+  Mr. HUNT. Mr. Speaker, I rise today to inquire about a possible and 
+deliberate violation of U.S. imposed sanctions due to Russian 
+aggression.
+  As the war in Ukraine carries on and as Russian sanctions are 
+imposed, I worry that our focus on Russian assets and agents in Europe 
+has overlooked assets and agents in former Soviet republics such as 
+Uzbekistan, Kazakhstan, and Kyrgyzstan.
+  I would like to draw specific attention to various companies 
+registered in Cyprus which operate in these former Soviet republics. 
+One such example is a Cyprus-registered company which operates in 
+Uzbekistan and Russia called United Cement Group (UCG).
+  UCG acquired the Uzbekistan government's stake in one of the 
+country's largest cement factories in early 2022 in what has been 
+described as an ``opaque'' transaction with no formal tender and a 
+significant discount on the sale price. This acquisition by UCG has 
+positioned the company to now control about 50 percent of Uzbekistan's 
+cement capacity.
+  We are seeing monopolization under the guise of privatization, to the 
+benefit of Russia.
+  This is just one example of a bad actor in these relatively 
+overlooked countries that are taking advantage of the international 
+focus on Ukraine. I will be sending a letter to Treasury Secretary 
+Yellen imploring her to further investigate these apparently corrupt 
+improprieties and potential sanctions violations that continue to 
+transpire in this region of the world.
+
+                          ____________________
+```
