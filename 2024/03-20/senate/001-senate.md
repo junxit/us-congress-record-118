@@ -1,0 +1,21 @@
+---
+granule: CREC-2024-03-20-pt1-PgS2449
+date: 2024-03-20
+edition: CREC
+section: SENATE
+page: S2449
+citation: 170 Cong. Rec. S2449
+---
+
+# Senate
+
+```
+[[Page S2449]]
+
+Senate
+
+  The Senate met at 10 a.m. and was called to order by the Honorable 
+Peter Welch, a Senator from the State of Vermont.
+
+                          ____________________
+```
