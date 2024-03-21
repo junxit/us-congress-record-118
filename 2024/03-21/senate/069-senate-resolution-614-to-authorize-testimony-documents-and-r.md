@@ -1,0 +1,68 @@
+---
+granule: CREC-2024-03-21-pt1-PgS2520-3
+date: 2024-03-21
+edition: CREC
+section: SENATE
+page: S2520
+citation: 170 Cong. Rec. S2520
+---
+
+# SENATE RESOLUTION 614--TO AUTHORIZE TESTIMONY, DOCUMENTS, AND REPRESENTATION IN UNITED STATES V. MILLER
+
+**Measures:** S.Res. 614
+
+```
+     SENATE RESOLUTION 614--TO AUTHORIZE TESTIMONY, DOCUMENTS, AND 
+               REPRESENTATION IN UNITED STATES V. MILLER
+
+  Mr. SCHUMER (for himself and Mr. McConnell) submitted the following 
+resolution; which was considered and agreed to:
+
+                              S. Res. 614
+
+       Whereas, in the case of United States v. Miller, No. 2:23-
+     cr-00221, pending in the United States District Court for the 
+     District of Nevada, the prosecution has requested the 
+     production of documents from the offices of Senators Jacky 
+     Rosen and Catherine Cortez Masto and also has requested 
+     testimony from employees in those offices;
+       Whereas, pursuant to sections 703(a) and 704(a)(2) of the 
+     Ethics in Government Act of 1978, 2 U.S.C. Sec. Sec. 288b(a) 
+     and 288c(a)(2), the Senate may direct its counsel to 
+     represent current and former employees of the Senate with 
+     respect to any subpoena, order, or request for testimony or 
+     documents relating to their official responsibilities;
+       Whereas, by the privileges of the Senate of the United 
+     States and Rule XI of the Standing Rules of the Senate, no 
+     evidence under the control or in the possession of the Senate 
+     may, by the judicial or administrative process, be taken from 
+     such control or possession but by permission of the Senate; 
+     and
+       Whereas, when it appears that evidence under the control or 
+     in the possession of the Senate may promote the 
+     administration of justice, the Senate will take such action 
+     as will promote the ends of justice consistent with the 
+     privileges of the Senate: Now, therefore, be it
+       Resolved, That the office of Senator Jacky Rosen is 
+     authorized to produce documents and that Dara Cohen, John 
+     Fossum, and Carlos Lara, employees in that office, are 
+     authorized to testify in the case of United States v. Miller, 
+     except concerning matters for which a privilege should be 
+     asserted.
+       Sec. 2.  That the office of Senator Catherine Cortez Masto 
+     is authorized to produce documents and that employees of that 
+     office
+
+[[Page S2521]]
+
+     from whom relevant evidence may be needed are authorized to 
+     testify in the case of United States v. Miller, except 
+     concerning matters for which a privilege should be asserted.
+       Sec. 3.  The Senate Legal Counsel is authorized to 
+     represent the employees of Senator Rosen's and Senator Cortez 
+     Masto's offices in connection with the production of evidence 
+     and testimony authorized in sections one and two of this 
+     resolution.
+
+                          ____________________
+```

@@ -1,0 +1,51 @@
+---
+granule: CREC-2024-03-21-pt1-PgE276
+date: 2024-03-21
+edition: CREC
+section: EXTENSIONS
+page: E276
+citation: 170 Cong. Rec. E276
+---
+
+# HONORING THE WOODSIDE HIGH SCHOOL BASKETBALL TEAM ON THEIR STATE CHAMPIONSHIP
+
+**Speaking:** Scott, Robert C. "Bobby" (S000185) [D-VA]
+
+```
+   HONORING THE WOODSIDE HIGH SCHOOL BASKETBALL TEAM ON THEIR STATE 
+                              CHAMPIONSHIP
+
+                                 ______
+                                 
+
+                     HON. ROBERT C. ``BOBBY'' SCOTT
+
+                              of virginia
+
+                    in the house of representatives
+
+                        Thursday, March 21, 2024
+
+  Mr. SCOTT of Virginia. Mr. Speaker, I rise today to congratulate the 
+Woodside High School Men's Basketball Team from Newport News, Virginia 
+on becoming the Virginia High School League's Class 5 State Champions.
+  On Saturday, March 9, 2024, the Woodside Wolverines won the Class 5 
+State Championship Game against the Lloyd C. Bird Skyhawks with a score 
+of 53-33. This is the second year in a row that Woodside High School 
+has claimed a state championship title. Led by Coach Stefan Welsh, the 
+Wolverines closed their season with a record of 27 wins and 1 loss.
+  The Wolverines and Skyhawks battled throughout the first and second 
+quarters for an advantage. At the end of the second quarter, though, 
+the Wolverines went on a 9-0 run positioning themselves into a 23-15 
+lead by halftime. The Wolverines then expanded their lead in the second 
+half creating as much as a 23-point lead on their opponents. The 
+Wolverines were able to defend this lead throughout the rest of the 
+game and ultimately win the championship.
+  Mr. Speaker, I want to again congratulate the Woodside High School 
+Basketball Team and thank Coach Welsh, the parents, and the entire 
+Woodside High School community for supporting these students throughout 
+the season. I wish them the best in their future endeavors, and I wish 
+the program continued success.
+
+                          ____________________
+```
