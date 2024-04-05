@@ -1,0 +1,23 @@
+---
+granule: CREC-2024-04-05-pt1-PgH2137-6
+date: 2024-04-05
+edition: CREC
+section: HOUSE
+page: H2137
+citation: 170 Cong. Rec. H2137
+---
+
+# MOMENT OF SILENCE IN REMEMBRANCE OF UNITED STATES CAPITOL POLICE OFFICER WILLIAM F. EVANS
+
+```
+   MOMENT OF SILENCE IN REMEMBRANCE OF UNITED STATES CAPITOL POLICE 
+                        OFFICER WILLIAM F. EVANS
+
+  The SPEAKER pro tempore. The Chair asks all those present in the 
+Chamber, as well as Members and staff throughout the Capitol, to please 
+rise for a moment of silence in remembrance of Officer William F. 
+Evans, United States Capitol Police Officer, who was killed in the line 
+of duty defending our Capitol on April 2, 2021.
+
+                          ____________________
+```
