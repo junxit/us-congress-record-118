@@ -1,0 +1,48 @@
+---
+granule: CREC-2024-04-11-pt1-PgE336-3
+date: 2024-04-11
+edition: CREC
+section: EXTENSIONS
+page: E336
+citation: 170 Cong. Rec. E336
+---
+
+# RECOGNIZING KIM HUSTON
+
+**Speaking:** Guthrie, Brett (G000558) [R-KY]
+
+```
+                         RECOGNIZING KIM HUSTON
+
+                                 ______
+                                 
+
+                           HON. BRETT GUTHRIE
+
+                              of kentucky
+
+                    in the house of representatives
+
+                        Thursday, April 11, 2024
+
+  Mr. GUTHRIE. Mr. Speaker, I rise today to honor Kim Huston on her 
+retirement from nearly 30 years of working in local economic 
+development in Nelson County.
+  As President of the Nelson County Economic Development Agency and 
+Bardstown Industrial Development Corporation, Kim has been a tireless 
+advocate for Nelson County and ensuring their economic success. During 
+her time in economic development she has overseen more than 
+$1,500,000,000 in investments in her area and made sure Nelson County 
+had a seat at the table in a global economy by building relationships 
+with business leaders worldwide.
+  Kim has been a champion for making Nelson County a global tourist 
+destination. Alongside keeping Bardstown the Bourbon Capital of the 
+World, she oversaw the city being named the most Beautiful Small Town 
+in America by USA Today and Rand McNally in 2012. Her passion for 
+Nelson County is felt by everyone who has met her and she captured that 
+passion by proudly authoring three books about her hometown.
+  I want to thank Kim for her work in Nelson County and wish her a 
+happy retirement as she spends more time with her family.
+
+                          ____________________
+```

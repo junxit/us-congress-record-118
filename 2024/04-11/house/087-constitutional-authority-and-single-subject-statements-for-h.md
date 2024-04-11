@@ -1,0 +1,24 @@
+---
+granule: CREC-2024-04-11-pt1-PgH2318-18
+date: 2024-04-11
+edition: CREC
+section: HOUSE
+page: H2318
+citation: 170 Cong. Rec. H2318
+---
+
+# Constitutional Authority and Single Subject Statements for H.R. 7969
+
+**Measures:** H.R. 7969
+
+```
+           By Ms. TENNEY:
+       H.R. 7969.
+        Congress has the power to enact this legislation pursuant 
+     to the following:
+       Article I, Section 8
+       The single subject of this legislation is:
+       This bill changes the lobbying ban for Congress from 
+     beginning when the elected or appointed term ends, rather 
+     than when they leave Congress.
+```
