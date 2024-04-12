@@ -1,0 +1,51 @@
+---
+granule: CREC-2024-04-12-pt1-PgE345
+date: 2024-04-12
+edition: CREC
+section: EXTENSIONS
+page: E345
+citation: 170 Cong. Rec. E345
+---
+
+# HONORING THE CAREER OF DR. JAMES M. SUNSER
+
+**Speaking:** Tenney, Claudia (T000478) [R-NY]
+
+```
+               HONORING THE CAREER OF DR. JAMES M. SUNSER
+
+                                 ______
+                                 
+
+                          HON. CLAUDIA TENNEY
+
+                              of new york
+
+                    in the house of representatives
+
+                         Friday, April 12, 2024
+
+  Ms. TENNEY. Mr. Speaker, I rise today to recognize the career of an 
+outstanding New Yorker and educator, President of Genesee Community 
+College, Dr. James M. Sunser.
+  Dr. Sunser has spent over a decade as President of Genesee Community 
+College and has been an invaluable leader and partner in education, 
+fostering collaboration and strengthening the ties between Genesee 
+Community College and the citizens of Genesee County, New York. Under 
+Dr. Sunser's leadership, the college saw the development of the Richard 
+C. Call Arena and the Student Success Center, capital projects that 
+represented the largest fundraising efforts ever undertaken by the 
+College.
+  Dr. Sunser has demonstrated an unwavering commitment to the success 
+and well-being of students, faculty, and staff at Genesee Community 
+College, making significant strides in advancing educational 
+opportunities for all. The 24th Congressional District of New York 
+extends its heartfelt appreciation for Dr. Sunser's role in enhancing 
+the educational experience and contributing to the overall prosperity 
+of the region.
+  I am pleased to extend my best wishes to Dr. Sunser for a fulfilling 
+and well-deserved retirement, filled with joy, accomplishments, and 
+continued success in all his future endeavors.
+
+                          ____________________
+```
