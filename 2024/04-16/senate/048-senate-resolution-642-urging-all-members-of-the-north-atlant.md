@@ -1,0 +1,77 @@
+---
+granule: CREC-2024-04-16-pt1-PgS2792-3
+date: 2024-04-16
+edition: CREC
+section: SENATE
+page: S2792
+citation: 170 Cong. Rec. S2792
+---
+
+# SENATE RESOLUTION 642--URGING ALL MEMBERS OF THE NORTH ATLANTIC TREATY ORGANIZATION TO OPPOSE CONFIRMATION OF A NEW SECRETARY GENERAL, IF THE CANDIDATE WAS A FORMER LEADER OF A MEMBER COUNTRY WHICH...
+
+**Measures:** S.Res. 642
+
+```
+                         SUBMITTED RESOLUTIONS
+
+                                 ______
+                                 
+
+SENATE RESOLUTION 642--URGING ALL MEMBERS OF THE NORTH ATLANTIC TREATY 
+ORGANIZATION TO OPPOSE CONFIRMATION OF A NEW SECRETARY GENERAL, IF THE 
+CANDIDATE WAS A FORMER LEADER OF A MEMBER COUNTRY WHICH DID NOT SPEND 2 
+           PERCENT OF GROSS DOMESTIC PRODUCT (GDP) ON DEFENSE
+
+  Mr. KENNEDY (for himself, Mr. Cassidy, Mr. Braun, and Mr. Mullin) 
+submitted the following resolution; which was referred to the Committee 
+on Foreign Relations:
+
+                              S. Res. 642
+
+       Whereas, in 2006, member countries of the North Atlantic 
+     Treaty Organization (NATO) first agreed to spend 2 percent of 
+     gross domestic product on defense;
+       Whereas, in 2014, at the NATO Summit in Wales, all member 
+     countries once again committed to maintain or move toward 
+     meeting the 2-percent defense spending minimum within 10 
+     years;
+       Whereas, by 2022, only 11 member countries met the 2-
+     percent minimum, including the United States and the United 
+     Kingdom, which were the only 2 major economies;
+       Whereas, throughout 2023, several countries significantly 
+     increased their defense spending, and in 2024, NATO expects 
+     18 member countries to achieve the spending commitment 
+     despite historically not being able to fulfill the 
+     commitment;
+       Whereas this commitment is important to not only the 
+     defense of all NATO member nations, but also a commitment to 
+     the alliance itself; and
+       Whereas, through the Secretary General's role as the senior 
+     officer of the alliance, they must advocate for the 
+     fulfillment of the commitment and the continued strength of 
+     the alliance: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) declares that the next Secretary General of the North 
+     Atlantic Treaty Organization should not be a former leader of 
+     a member country that did not spend 2 percent of its gross 
+     domestic product on defense spending;
+       (2) emphasizes that the demonstrated ability of countries 
+     with economies of all sizes within the North Atlantic Treaty 
+     Organization to meet the 2-percent defense spending minimum 
+     proves that the failure of a member country to meet the 
+     commitment is a choice of will and not of circumstance;
+       (3) acknowledges that it would be hypocritical for the 
+     North Atlantic Treaty Organization to be led by a Secretary 
+     General who formerly led an alliance member country that 
+     failed to fulfill the 2-percent gross defense spending 
+     minimum;
+       (4) declares that the North Atlantic Treaty Organization 
+     will never reach its full potential as long as the Secretary 
+     General is a member of a country's leadership that did not 
+     fulfill its commitment to the Organization; and
+       (5) urges all member countries to prioritize defense 
+     spending and to meet their obligations to the North Atlantic 
+     Treaty Organization.
+
+                          ____________________
+```
