@@ -1,0 +1,52 @@
+---
+granule: CREC-2024-04-17-pt1-PgE365-2
+date: 2024-04-17
+edition: CREC
+section: EXTENSIONS
+page: E365
+citation: 170 Cong. Rec. E365
+---
+
+# RECOGNIZING THE NATIONAL "EDUCATION AND SHARING DAY"
+
+**Speaking:** Molinaro, Marcus J. (M001221) [R-NY]
+
+```
+         RECOGNIZING THE NATIONAL ``EDUCATION AND SHARING DAY''
+
+                                  _____
+                                 
+
+                        HON. MARCUS J. MOLINARO
+
+                              of new york
+
+                    in the house of representatives
+
+                       Wednesday, April 17, 2024
+
+  Mr. MOLINARO. Mr. Speaker, I recognize the significance and 
+importance of Education and Sharing Day, a commemoration in honor of 
+The Lubavitcher Rebbe, Rabbi Menachem M. Schneerson, and the values of 
+education and moral cultivation for which he stood.
+  The Rebbe emphasized the significance of moral and ethical education 
+as the foundation of humanity and an essential characteristic of a 
+thriving society. Throughout his lifetime, his work cultivated hope for 
+a brighter future through the establishment of more than 6,000 
+educational and social institutions across all 50 states and in 100 
+countries spanning six continents.
+  Over the last four decades, the U.S. Congress has set aside 
+``Education and Sharing Day,'' and the recognition is proclaimed 
+annually by presiding U.S. presidents on the anniversary of the Rebbe's 
+birth, in honor of his commitment to teaching the next generation of 
+Americans the values that make our country strong. Remembering the 
+Rebbe's message of education and contribution to society, Education and 
+Sharing Day provides the opportunity to recognize our responsibility in 
+ensuring that our Nation's youth have the tools to live a life of 
+purpose and fulfillment.
+  Mr. Speaker, I ask that my colleagues in the House join me in 
+celebrating April 19, 2024 as Education and Sharing Day, to honor the 
+birthday of Rabbi Schneerson.
+
+                          ____________________
+```
