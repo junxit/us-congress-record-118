@@ -1,0 +1,35 @@
+---
+granule: CREC-2024-04-23-pt1-PgS3004-3
+date: 2024-04-23
+edition: CREC
+section: SENATE
+page: S3004
+citation: 170 Cong. Rec. S3004
+---
+
+# Text of Senate Amendment 1857
+
+**Speaking:** Lee, Mike (L000577) [R-UT]
+
+```
+  SA 1857. Mr. LEE submitted an amendment intended to be proposed by 
+him to the bill H.R. 815, to amend title 38, United States Code, to 
+make certain improvements relating to the eligibility of veterans to 
+receive reimbursement for emergency treatment furnished through the 
+Veterans Community Care program, and for other purposes; which was 
+ordered to lie on the table; as follows:
+
+       Strike page 59, line 6 and all that follows through page 
+     69, line 7, and insert the following:
+       (c) Limitation on Arrangement Terms.--
+       (1) In general.--The arrangement required under subsection 
+     (a) may not provide for the cancellation of any or all 
+     amounts of indebtedness.
+       (2) Use of payments.--All payments received by the 
+     Government of the United States from the Government of 
+     Ukraine resulting from any loan authorized by this Act shall 
+     be exclusively and indefinitely reserved for deposit in the 
+     United States Treasury for purposes of repayment of the 
+     national debt.
+                                 ______
+```
