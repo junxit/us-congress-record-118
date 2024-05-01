@@ -1,0 +1,35 @@
+---
+granule: CREC-2024-05-01-pt1-PgS3294-5
+date: 2024-05-01
+edition: CREC
+section: SENATE
+page: S3294
+citation: 170 Cong. Rec. S3294
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate May 01, 2024:
+
+
+                         DEPARTMENT OF JUSTICE
+
+       CLINTON J. FUCHS, OF MARYLAND, TO BE UNITED STATES MARSHAL 
+     FOR THE DISTRICT OF MARYLAND FOR THE TERM OF FOUR YEARS.
+
+
+                             THE JUDICIARY
+
+       GEORGIA N. ALEXAKIS, OF ILLINOIS, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE NORTHERN DISTRICT OF ILLINOIS.
+
+
+                         DEPARTMENT OF JUSTICE
+
+       GARY D. GRIMES, SR., OF ARKANSAS, TO BE UNITED STATES 
+     MARSHAL FOR THE WESTERN DISTRICT OF ARKANSAS FOR THE TERM OF 
+     FOUR YEARS.
+```
