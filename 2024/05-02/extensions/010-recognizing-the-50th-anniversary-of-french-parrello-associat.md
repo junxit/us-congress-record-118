@@ -1,0 +1,58 @@
+---
+granule: CREC-2024-05-02-pt1-PgE440-4
+date: 2024-05-02
+edition: CREC
+section: EXTENSIONS
+page: E440
+citation: 170 Cong. Rec. E440
+---
+
+# RECOGNIZING THE 50TH ANNIVERSARY OF FRENCH & PARRELLO ASSOCIATES
+
+**Speaking:** Pallone, Frank (P000034) [D-NJ]
+
+```
+    RECOGNIZING THE 50TH ANNIVERSARY OF FRENCH & PARRELLO ASSOCIATES
+
+                                 ______
+                                 
+
+                        HON. FRANK PALLONE, JR.
+
+                             of new jersey
+
+                    in the house of representatives
+
+                         Thursday, May 2, 2024
+
+  Mr. PALLONE. Mr. Speaker, it is my honor to congratulate French & 
+Parrello Associates on its 50th anniversary this year. A multi-
+discipline engineering firm, French & Parrello Associates has provided 
+valuable contributions to the infrastructure of New Jersey since 1974.
+  Founded by Laurence E. French, Argo T. Parrello, James B. Heller, and 
+Joseph M. Edwards, French & Parrello Associates has transformed from a 
+branch office of Raamot Associates PC into the independent full-service 
+engineering and consulting firm it is today. In its 50th year, French & 
+Parrello Associates (FPA) is headquartered in Wall, New Jersey and has 
+three additional offices in New Jersey as well as offices in 
+Pennsylvania, Atlanta, and New York. It is led by President and CEO 
+Steven Tardy, PE and employs a staff of over 200.
+  FPA has contributed to both private and public projects, offering a 
+multitude of services encompassing construction, structural, 
+geotechnical, telecommunications, and environmental engineering, bridge 
+and highway design, surveying, and landscape architecture, among 
+others. They have provided services for several projects across the 
+Sixth Congressional District of New Jersey, including the South Amboy 
+Ferry Terminal, the Senator Joseph M. Kyrillos Bridge, and the 
+Beachfront North Condominiums in Long Branch.
+  Mr. Speaker, please join me in celebrating the 50th anniversary of 
+French & Parrello Associates. The company continues to deliver 
+outstanding service to its clients and its innovation and commitment to 
+excellence are truly deserving of this body's recognition.
+
+[[Page E441]]
+
+  
+
+                          ____________________
+```
