@@ -1,0 +1,24 @@
+---
+granule: CREC-2024-05-07-pt1-PgS3566
+date: 2024-05-07
+edition: CREC
+section: SENATE
+page: S3566
+citation: 170 Cong. Rec. S3566
+---
+
+# CONFIRMATION
+
+```
+                              CONFIRMATION
+
+  Executive nomination confirmed by the Senate May 7, 2024:
+
+
+                          DEPARTMENT OF STATE
+
+       DONNA ANN WELTON, OF NEW YORK, A CAREER MEMBER OF THE 
+     SENIOR FOREIGN SERVICE, CLASS OF MINISTER-COUNSELOR, TO BE 
+     AMBASSADOR EXTRAORDINARY AND PLENIPOTENTIARY OF THE UNITED 
+     STATES OF AMERICA TO THE DEMOCRATIC REPUBLIC OF TIMOR-LESTE.
+```

@@ -1,0 +1,212 @@
+---
+granule: CREC-2024-05-07-pt1-PgS3505
+date: 2024-05-07
+edition: CREC
+section: SENATE
+page: S3505
+citation: 170 Cong. Rec. S3505
+---
+
+# STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS
+
+**Speaking:** Durbin, Richard J. (D000563) [D-IL]
+
+**Measures:** S.J.Res. 77, S. 4275
+
+```
+          STATEMENTS ON INTRODUCED BILLS AND JOINT RESOLUTIONS
+
+      By Mr. DURBIN (for himself, Mr. Reed, Mr. Whitehouse, Mr. 
+        Blumenthal, Mr. Sanders, Ms. Hirono, Ms. Duckworth, Mr. Van 
+        Hollen, and Ms. Baldwin):
+  S. 4275. A bill to amend the Internal Revenue Code of 1986 to modify 
+the rules relating to inverted corporations; to the Committee on 
+Finance.
+  Mr. DURBIN. Madam President, I ask unanimous consent that the text of 
+the bill be printed in the Record.
+  There being no objection, the text of the bill was ordered to be 
+printed in the Record, as follows:
+
+                                S. 4275
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Stop Corporate Inversions 
+     Act of 2024''.
+
+     SEC. 2. MODIFICATIONS TO RULES RELATING TO INVERTED 
+                   CORPORATIONS.
+
+       (a) In General.--Subsection (b) of section 7874 of the 
+     Internal Revenue Code of 1986 is amended to read as follows:
+       ``(b) Inverted Corporations Treated as Domestic 
+     Corporations.--
+       ``(1) In general.--Notwithstanding section 7701(a)(4), a 
+     foreign corporation shall be treated for purposes of this 
+     title as a domestic corporation if--
+       ``(A) such corporation would be a surrogate foreign 
+     corporation if subsection (a)(2) were applied by substituting 
+     `80 percent' for `60 percent', or
+       ``(B) such corporation is an inverted domestic corporation.
+       ``(2) Inverted domestic corporation.--For purposes of this 
+     subsection, a foreign corporation shall be treated as an 
+     inverted domestic corporation if, pursuant to a plan (or a 
+     series of related transactions)--
+       ``(A) the entity completes after May 8, 2014, the direct or 
+     indirect acquisition of--
+       ``(i) substantially all of the properties held directly or 
+     indirectly by a domestic corporation, or
+       ``(ii) substantially all of the assets of, or substantially 
+     all of the properties constituting a trade or business of, a 
+     domestic partnership, and
+       ``(B) after the acquisition, either--
+       ``(i) more than 50 percent of the stock (by vote or value) 
+     of the entity is held--
+
+       ``(I) in the case of an acquisition with respect to a 
+     domestic corporation, by former shareholders of the domestic 
+     corporation by reason of holding stock in the domestic 
+     corporation, or
+       ``(II) in the case of an acquisition with respect to a 
+     domestic partnership, by former partners of the domestic 
+     partnership by reason of holding a capital or profits 
+     interest in the domestic partnership, or
+
+       ``(ii) the management and control of the expanded 
+     affiliated group which includes the entity occurs, directly 
+     or indirectly, primarily within the United States, and such 
+     expanded affiliated group has significant domestic business 
+     activities.
+       ``(3) Exception for corporations with substantial business 
+     activities in foreign country of organization.--A foreign 
+     corporation described in paragraph (2) shall not be treated 
+     as an inverted domestic corporation if after the acquisition 
+     the expanded affiliated group which includes the entity has 
+     substantial business activities in the foreign country in 
+     which or under the law of which the entity is created or 
+     organized when compared to the total business activities of 
+     such expanded affiliated group. For purposes of subsection 
+     (a)(2)(B)(iii) and the preceding sentence, the term 
+     `substantial business activities' shall have the meaning 
+     given such term under regulations in effect on January 18, 
+     2017, except that the Secretary may issue regulations 
+     increasing the threshold percent in any of the tests under 
+     such regulations for determining if business activities 
+     constitute substantial business activities for purposes of 
+     this paragraph.
+       ``(4) Management and control.--For purposes of paragraph 
+     (2)(B)(ii)--
+       ``(A) In general.--The Secretary shall prescribe 
+     regulations for purposes of determining cases in which the 
+     management and control of an expanded affiliated group is to 
+     be treated as occurring, directly or indirectly, primarily 
+     within the United States. The regulations prescribed under 
+     the preceding sentence shall apply to periods after May 8, 
+     2014.
+       ``(B) Executive officers and senior management.--Such 
+     regulations shall provide that the management and control of 
+     an expanded affiliated group shall be treated as occurring, 
+     directly or indirectly, primarily within the United States if 
+     substantially all of the executive officers and senior 
+     management of the expanded affiliated group who exercise day-
+     to-day responsibility for making decisions involving 
+     strategic, financial, and operational policies of the 
+     expanded affiliated group are based or primarily located 
+     within the United States. Individuals who in fact exercise 
+     such day-to-day responsibilities shall be treated as 
+     executive officers and senior management regardless of their 
+     title.
+       ``(5) Significant domestic business activities.--For 
+     purposes of paragraph (2)(B)(ii), an expanded affiliated 
+     group has significant domestic business activities if at 
+     least 25 percent of--
+       ``(A) the employees of the group are based in the United 
+     States,
+       ``(B) the employee compensation incurred by the group is 
+     incurred with respect to employees based in the United 
+     States,
+       ``(C) the assets of the group are located in the United 
+     States, or
+       ``(D) the income of the group is derived in the United 
+     States, determined in the same manner as such determinations 
+     are made for purposes of determining substantial business 
+     activities under regulations referred to in paragraph (3) as 
+     in effect on January 18, 2017, but applied by treating all 
+     references in such regulations to `foreign country' and 
+     `relevant foreign country' as references to `the United 
+     States'. The Secretary may issue regulations decreasing the 
+     threshold percent in any of the tests under such regulations 
+     for determining if business activities constitute significant 
+     domestic business activities for purposes of this 
+     paragraph.''.
+       (b) Conforming Amendments.--
+       (1) Clause (i) of section 7874(a)(2)(B) of such Code is 
+     amended by striking ``after March 4, 2003,'' and inserting 
+     ``after March 4, 2003, and before May 8, 2014,''.
+       (2) Subsection (c) of section 7874 of such Code is 
+     amended--
+       (A) in paragraph (2)--
+       (i) by striking ``subsection (a)(2)(B)(ii)'' and inserting 
+     ``subsections (a)(2)(B)(ii) and (b)(2)(B)(i)''; and
+       (ii) by inserting ``or (b)(2)(A)'' after ``(a)(2)(B)(i)'' 
+     in subparagraph (B);
+       (B) in paragraph (3), by inserting ``or (b)(2)(B)(i), as 
+     the case may be,'' after ``(a)(2)(B)(ii)'';
+       (C) in paragraph (5), by striking ``subsection 
+     (a)(2)(B)(ii)'' and inserting ``subsections (a)(2)(B)(ii) and 
+     (b)(2)(B)(i)''; and
+       (D) in paragraph (6), by inserting ``or inverted domestic 
+     corporation, as the case may be,'' after ``surrogate foreign 
+     corporation''.
+       (c) Effective Date.--The amendments made by this section 
+     shall apply to taxable years ending after May 8, 2014.
+                                 ______
+                                 
+      By Mr. DURBIN (for himself, Ms. Warren, Mr. Sanders, Mr. Merkley, 
+        Ms. Hirono, Mr. Van Hollen, Mr. Wyden, and Mr. Blumenthal):
+  S.J. Res. 77. A joint resolution proposing an amendment to the 
+Constitution of the United States relative to the fundamental right to 
+vote; to the Committee on the Judiciary.
+  Mr. DURBIN. Madam President, I ask unanimous consent that the text of 
+the bill be printed in the Record.
+  There being no objection, the text of the bill was ordered to be 
+printed in the Record, as follows:
+
+                              S.J. Res. 77
+
+       Resolved by the Senate and House of Representatives of the 
+     United States of America in Congress assembled   (two-thirds 
+     of each House concurring therein), That the following article
+
+[[Page S3506]]
+
+     is proposed as an amendment to the Constitution of the United 
+     States, which shall be valid to all intents and purposes as 
+     part of the Constitution when ratified by the legislatures of 
+     three-fourths of the several States:
+
+                              ``Article --
+
+       ``Section 1. Every citizen of the United States, who is of 
+     legal voting age, shall have the fundamental right to vote in 
+     any public election held in the jurisdiction in which the 
+     citizen resides.
+       ``Section 2. The fundamental right of citizens of the 
+     United States to vote shall not be denied or abridged by the 
+     United States or by any State or political subdivision within 
+     a State unless such denial or abridgment is in furtherance of 
+     a compelling governmental interest and is the least 
+     restrictive means of furthering that compelling governmental 
+     interest.
+       ``Section 3. The portion of section 2 of the fourteenth 
+     article of amendment to the Constitution of the United States 
+     that consists of the phrase `or other crime,' is repealed.
+       ``Section 4. The Congress shall have the power to enforce 
+     this article and protect against any denial or abridgement of 
+     the fundamental right to vote by legislation.''.
+
+                          ____________________
+```

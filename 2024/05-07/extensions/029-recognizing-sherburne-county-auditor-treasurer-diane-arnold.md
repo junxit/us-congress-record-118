@@ -1,0 +1,49 @@
+---
+granule: CREC-2024-05-07-pt1-PgE460-4
+date: 2024-05-07
+edition: CREC
+section: EXTENSIONS
+page: E460
+citation: 170 Cong. Rec. E460
+---
+
+# RECOGNIZING SHERBURNE COUNTY AUDITOR-TREASURER DIANE ARNOLD
+
+**Speaking:** Emmer, Tom (E000294) [R-MN]
+
+```
+      RECOGNIZING SHERBURNE COUNTY AUDITOR-TREASURER DIANE ARNOLD
+
+                                 ______
+                                 
+
+                             HON. TOM EMMER
+
+                              of minnesota
+
+                    in the house of representatives
+
+                          Tuesday, May 7, 2024
+
+  Mr. EMMER. Mr. Speaker, I rise today to honor a dedicated public 
+servant, Sherburne County Auditor-Treasurer Diane Arnold. After 34 
+years of service to the county, the last 17 of which as Auditor-
+Teasurer, Diane is retiring this July.
+  Throughout her tenure as Auditor-Treasurer, Diane has overseen 
+financial operations in Sherburne County, ensuring the responsible and 
+efficient management of taxpayer funds. Diane's dedication to 
+transparency and accountability has earned her the respect and trust of 
+her coworkers and constituents.
+  In her role as County Auditor/Treasurer, Diane managed the county's 
+investments and checking account, administered elections, issued 
+driver's licenses and collected and computed taxes for individuals 
+throughout Sherburne County.
+  Her achievements extend beyond her official role as Sherburne County 
+Auditor-Treasurer. Diane is a World Champion and Reserve World Champion 
+with her horses and is an active member of the Sherburne County 
+community.
+  We would like to thank Diane for the profound impact she has had on 
+Sherburne County and hope she enjoys her well-deserved retirement.
+
+                          ____________________
+```

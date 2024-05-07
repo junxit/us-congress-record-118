@@ -1,0 +1,41 @@
+---
+granule: CREC-2024-05-07-pt1-PgE458
+date: 2024-05-07
+edition: CREC
+section: EXTENSIONS
+page: E458
+citation: 170 Cong. Rec. E458
+---
+
+# RECOGNIZING KAYRA RODAS
+
+**Speaking:** Pettersen, Brittany (P000620) [D-CO]
+
+```
+                        RECOGNIZING KAYRA RODAS
+
+                                 ______
+                                 
+
+                        HON. BRITTANY PETTERSEN
+
+                              of colorado
+
+                    in the house of representatives
+
+                          Tuesday, May 7, 2024
+
+  Ms. PETTERSEN. Mr. Speaker, I rise today to recognize Kayra Rodas for 
+earning the Arvada Wheat Ridge Service Ambassadors for Youth Award.
+  Kayra has overcome many challenges along her journey to success, 
+demonstrating perseverance at every step. Students who strive to make 
+the most of their education, like Kayra, develop crucial skills and a 
+work ethic that will guide them for the rest of their lives. This award 
+is a testament to Kayra's hard work, determination, and perseverance at 
+Jefferson Jr./Sr. High School and is clearly just the beginning of a 
+bright and promising future.
+  It is my honor to congratulate Kayra Rodas on achieving the Arvada 
+Wheat Ridge Service Ambassadors for Youth Award.
+
+                          ____________________
+```
