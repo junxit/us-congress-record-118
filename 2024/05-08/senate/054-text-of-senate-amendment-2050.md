@@ -1,0 +1,34 @@
+---
+granule: CREC-2024-05-08-pt1-PgS3606-15
+date: 2024-05-08
+edition: CREC
+section: SENATE
+page: S3606
+citation: 170 Cong. Rec. S3606
+---
+
+# Text of Senate Amendment 2050
+
+**Speaking:** Schumer, Charles E. (S000148) [D-NY]
+
+**Measures:** H.R. 3935
+
+```
+  SA 2050. Mr. SCHUMER submitted an amendment intended to be proposed 
+by
+
+[[Page S3607]]
+
+him to the bill H.R. 3935, to amend title 49, United States Code, to 
+reauthorize and improve the Federal Aviation Administration and other 
+civil aviation programs, and for other purposes; which was ordered to 
+lie on the table; as follows:
+
+       At the end add the following:
+
+     SEC. EFFECTIVE DATE.
+
+       This Act shall take effect on the date that is 17 days 
+     after the date of enactment of this Act.
+                                 ______
+```
