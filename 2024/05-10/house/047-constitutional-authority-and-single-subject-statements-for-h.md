@@ -1,0 +1,23 @@
+---
+granule: CREC-2024-05-10-pt1-PgH3006-23
+date: 2024-05-10
+edition: CREC
+section: HOUSE
+page: H3006
+citation: 170 Cong. Rec. H3006
+---
+
+# Constitutional Authority and Single Subject Statements for H.R. 8362
+
+**Measures:** H.R. 8362
+
+```
+            By Mr. MEEKS:
+        H.R. 8362.
+        Congress has the power to enact this legislation pursuant 
+     to the following:
+       Section 8 of the Constitution
+        The single subject of this legislation is:
+        To direct the Secretary of State to host regular U.S.-
+     Africa Leaders Summits, and for other purposes.
+```
