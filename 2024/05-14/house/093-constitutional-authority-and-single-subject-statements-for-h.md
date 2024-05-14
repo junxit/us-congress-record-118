@@ -1,0 +1,22 @@
+---
+granule: CREC-2024-05-14-pt1-PgH3205-3
+date: 2024-05-14
+edition: CREC
+section: HOUSE
+page: H3205
+citation: 170 Cong. Rec. H3205
+---
+
+# Constitutional Authority and Single Subject Statements for H.R. 8398
+
+**Measures:** H.R. 8398
+
+```
+           By Mr. SMITH of Nebraska:
+       H.R. 8398.
+       Congress has the power to enact this legislation pursuant 
+     to the following:
+       Article 1, Section 8, Clauses 1 and 3
+       The single subject of this legislation is:
+       Trade
+```
