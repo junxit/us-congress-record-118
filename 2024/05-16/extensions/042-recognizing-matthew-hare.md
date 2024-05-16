@@ -1,0 +1,48 @@
+---
+granule: CREC-2024-05-16-pt1-PgE518-2
+date: 2024-05-16
+edition: CREC
+section: EXTENSIONS
+page: E518
+citation: 170 Cong. Rec. E518
+---
+
+# RECOGNIZING MATTHEW HARE
+
+**Speaking:** Bilirakis, Gus M. (B001257) [R-FL]
+
+```
+                        RECOGNIZING MATTHEW HARE
+
+                                 ______
+                                 
+
+                         HON. GUS M. BILIRAKIS
+
+                               of florida
+
+                    in the house of representatives
+
+                         Thursday, May 16, 2024
+
+  Mr. BILIRAKIS. Mr. Speaker, I rise today to recognize and honor the 
+service of one of my constituents, Lt. Matthew Hare, of the Inverness 
+Fire Department. For the past three years, the Inverness Fire 
+Department has been going through a rebuilding phase. Lt. Hare has been 
+a vital part of this process and has been the go-to guy for any project 
+that needs to be completed. He is constantly working to improve his 
+skills and further his education. His excellent work ethic has allowed 
+him to become one of the department leaders and he is a role model to 
+his peers. Lt. Hare operates in a manner that brings great credit to 
+himself, his family, the City, and the citizens he serves.
+  These are just a few examples of the hard work, dedication, eagerness 
+to help, and servant leadership that Lt. Hare exhibits every day when 
+he goes to work. He is a shining example of what it means to be an 
+Inverness First Responder. His work ethic should be a benchmark for 
+which other first responders should strive to attain. It is evident 
+that Lt. Hare has made a profoundly positive impact on our community 
+and is qualified to be recognized as a First Responder of the Year for 
+Florida's 12th Congressional District.
+
+                          ____________________
+```
