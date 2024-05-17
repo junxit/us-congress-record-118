@@ -1,0 +1,43 @@
+---
+granule: CREC-2024-05-17-pt1-PgE524-4
+date: 2024-05-17
+edition: CREC
+section: EXTENSIONS
+page: E524
+citation: 170 Cong. Rec. E524
+---
+
+# RECOGNIZING GUEST CHAPLAIN PASTOR DAVID MASON
+
+**Speaking:** Westerman, Bruce (W000821) [R-AR]
+
+```
+             RECOGNIZING GUEST CHAPLAIN PASTOR DAVID MASON
+
+                                 ______
+                                 
+
+                          HON. BRUCE WESTERMAN
+
+                              of arkansas
+
+                    in the house of representatives
+
+                          Friday, May 17, 2024
+
+  Mr. WESTERMAN. Mr. Speaker, I rise today to thank our guest chaplain, 
+Pastor David Mason, for his opening prayer on May 10th. I've had the 
+pleasure of knowing David for quite some time, as he serves as Pastor 
+at my home church, Walnut Valley Baptist in Hot Springs, Arkansas.
+  David and his wife, Aamie, who serves as a family counselor, are dear 
+friends of mine who have a heart for sharing the gospel and ministering 
+not only inside the church building but in the community with 
+individuals wherever there is a need.
+  David and Aamie have been faithful servants and leaders for many 
+years. It was a pleasure to host them in D.C. this week.
+  I, along with others in Arkansas' Fourth Congressional District, are 
+grateful to Pastor Mason and his wife Aamie for their servant hearts 
+and their obedience in serving God.
+
+                          ____________________
+```
