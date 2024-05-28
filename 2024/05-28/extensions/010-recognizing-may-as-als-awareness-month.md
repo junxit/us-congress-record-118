@@ -1,0 +1,58 @@
+---
+granule: CREC-2024-05-28-pt1-PgE568-3
+date: 2024-05-28
+edition: CREC
+section: EXTENSIONS
+page: E568
+citation: 170 Cong. Rec. E568
+---
+
+# RECOGNIZING MAY AS ALS AWARENESS MONTH
+
+**Speaking:** Molinaro, Marcus J. (M001221) [R-NY]
+
+```
+                 RECOGNIZING MAY AS ALS AWARENESS MONTH
+
+                                 ______
+                                 
+
+                        HON. MARCUS J. MOLINARO
+
+                              of new york
+
+                    in the house of representatives
+
+                         Tuesday, May 28, 2024
+
+  Mr. MOLINARO. Mr. Speaker, today I stand before you to recognize May 
+2024 as National Amyotrophic Lateral Sclerosis (ALS) Awareness Month. 
+We honor individuals who have been affected by ALS and pledge 
+unwavering support to patients and their families.
+  Amyotrophic lateral sclerosis (ALS), known by many as Lou Gehrig's 
+disease, is a progressive fatal neurodegenerative disease in which the 
+nerve cells in the brain and spinal cord stop working and die. Over 
+time, a person's mind loses connection with the muscles, slowly taking 
+away the ability to walk, talk, eat, and eventually breathe. After 
+symptoms develop, most patients only live for another 2-5 years, and 
+despite its destructive nature, currently no one knows what causes most 
+cases of ALS and there are no cures. Today, an estimated 31,000 people 
+in the United States are living with ALS.
+  In order to combat this devastating illness, we must increase 
+education and support research. ALS Awareness Month deepens the 
+public's awareness of people with ALS' dire circumstances, and 
+acknowledges the terrible impact this disease has, not only on the 
+person, but on his or her family and the community. It further 
+recognizes the research being done to eradicate this disease and is why 
+I sign an annual appropriations letter each year requesting increased 
+funding for ALS research. Our commitment to accelerating the pace of 
+discovery must remain unwavering, fueled by the hope that one day, ALS 
+will be a livable disease for everyone, everywhere, until we can cure 
+it.
+  Mr. Speaker, I ask that my colleagues in the House join me in 
+celebrating the month of May to advocate for patients fighting ALS and 
+for the tireless work of the families, caretakers, and researchers 
+supporting those affected by this relentless disease.
+
+                          ____________________
+```

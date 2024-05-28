@@ -1,0 +1,47 @@
+---
+granule: CREC-2024-05-28-pt1-PgE569
+date: 2024-05-28
+edition: CREC
+section: EXTENSIONS
+page: E569
+citation: 170 Cong. Rec. E569
+---
+
+# RECOGNIZING JOY GETNICK
+
+**Speaking:** Morelle, Joseph D. (M001206) [D-NY]
+
+```
+                        RECOGNIZING JOY GETNICK
+
+                                 ______
+                                 
+
+                         HON. JOSEPH D. MORELLE
+
+                              of new york
+
+                    in the house of representatives
+
+                         Tuesday, May 28, 2024
+
+  Mr. MORELLE. Mr. Speaker, I rise today in honor of Jewish American 
+Heritage Month and to recognize an exemplary individual from Rochester, 
+NY, who is making a profound impact on our Jewish community: Joy 
+Getnick.
+  Joy Getnick serves as the Executive Director of the University of 
+Rochester Hillel. She has quietly but powerfully done vital work over 
+these last several months guiding our young students, particularly with 
+the rise of antisemitism on campus and throughout society. She is an 
+educator and leader not just on campus, but across all of Rochester. 
+Joy is also the founding director of Camp Seneca Lake in Israel, a 
+summer Israel program for teens. Her commitment to uplifting and 
+mentoring students is helping to shape the next generation of leaders, 
+and her legacy will live on through each of the lives she has touched.
+  Jewish American History Month is the perfect opportunity to recognize 
+and honor our local Jewish neighbors who are working diligently to make 
+our community a better place. I can think of no better example than Joy 
+Getnick, and I commend her for her many accomplishments.
+
+                          ____________________
+```
