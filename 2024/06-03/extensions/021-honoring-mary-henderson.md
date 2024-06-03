@@ -1,0 +1,63 @@
+---
+granule: CREC-2024-06-03-pt1-PgE582-2
+date: 2024-06-03
+edition: CREC
+section: EXTENSIONS
+page: E582
+citation: 170 Cong. Rec. E582
+---
+
+# HONORING MARY HENDERSON
+
+**Speaking:** Pingree, Chellie (P000597) [D-ME]
+
+```
+                        HONORING MARY HENDERSON
+
+                                 ______
+                                 
+
+                          HON. CHELLIE PINGREE
+
+                                of maine
+
+                    in the house of representatives
+
+                          Monday, June 3, 2024
+
+  Ms. PINGREE. Mr. Speaker, I would like to recognize a visionary 
+advocate and leader in my state who, for decades, has worked to improve 
+the lives of her fellow citizens. Over her influential career, Mary 
+Henderson has worked as an attorney and co-founded a legal aid and 
+economic justice nonprofit--among many other roles--to consistently 
+address root causes of poverty.
+  Mary's advocacy for Maine people began at Pine Tree Legal Assistance, 
+a nonprofit organization which provides free civil legal assistance. As 
+a staff attorney, Mary tirelessly provided representation on a variety 
+of cases. Under Mary's guidance, countless people were able to access 
+government supports for which they were eligible but had previously 
+been improperly denied.
+  In 1996, Mary co-founded Maine Equal Justice, a nonprofit civil legal 
+aid and economic justice organization. In her role as Executive 
+Director, Mary assisted in the acquisition of a location and the 
+securing of funds to create a sustainable and reliable resource for 
+Maine's most vulnerable populations. Through her defense of government 
+programs for public healthcare, education access, and housing and food 
+security, Mary's work has improved the lives of thousands of Maine 
+people.
+  Since leaving Maine Equal Justice, Mary has brought her expertise and 
+unwavering dedication to the Office of Substance Abuse, Maine 
+Department of Labor, Office of Maine Care Services, National Academy 
+for State Health Policy, Maine Children's Alliance, and Preble Street 
+Resource Center. In each of her roles, Mary has intentionally centered 
+the voices and experiences of the people of Maine who are served by 
+these critical government and anti-poverty programs.
+  I had the great pleasure of working with Mary during my years in the 
+State House and was able to see firsthand how the State of Maine 
+benefitted from her knowledge, skills, and advocacy. I am very proud to 
+represent her and the State of Maine in Congress. I wish Mary continued 
+success, and I wholeheartedly thank her for her many years of 
+influential work.
+
+                          ____________________
+```
