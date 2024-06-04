@@ -1,0 +1,50 @@
+---
+granule: CREC-2024-06-04-pt1-PgE592
+date: 2024-06-04
+edition: CREC
+section: EXTENSIONS
+page: E592
+citation: 170 Cong. Rec. E592
+---
+
+# HONORING JAR'KEVIOUS R. EDWARDS
+
+**Speaking:** Thompson, Bennie G. (T000193) [D-MS]
+
+```
+                    HONORING JAR'KEVIOUS R. EDWARDS
+
+                                 ______
+                                 
+
+                        HON. BENNIE G. THOMPSON
+
+                             of mississippi
+
+                    in the house of representatives
+
+                         Tuesday, June 4, 2024
+
+  Mr. THOMPSON of Mississippi. Mr. Speaker, I rise today to honor a 
+remarkable servant, Jar'Kevious R. Edwards.
+  Jar'Kevious R. Edwards is a native of Charleston, Mississippi. He is 
+a 2020 graduate of Charleston High School and a 2024 graduate of 
+Mississippi Valley State University.
+  With aspirations of becoming a news and television personality, he 
+obtained a bachelor's degree in Speech Communication and completed a 
+summer internship at WLBT in Jackson, Mississippi.
+  Jar'Kevious' bright personality, elegance, oratory skills, and charm 
+have gained him the victory in winning the title of Mr. Mississippi 
+Valley State University in 2023. As a bright and prosperous future 
+awaits, Jar'Kevious plans to branch out into the field of broadcast 
+journalism as a news reporter and/or anchor.
+  Jar'Kevious' long-term goals include anchoring on Good Morning 
+America, CNN, hosting Entertainment Tonight, and one day his own 
+television talk show.
+  Jar'Kevious' life motto is, ``There is no passion to be found playing 
+small--in settling for a life that is less than the one you are capable 
+of living.''--Nelson Mandela,
+  Mr. Speaker, I ask my colleagues to join me in recognizing Mr. 
+Jar'Kevious Edwards for his dedication and tenacity to serving his 
+community and desire to be an example for all.
+```

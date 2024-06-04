@@ -1,0 +1,30 @@
+---
+granule: CREC-2024-06-04-pt1-PgS3962-5
+date: 2024-06-04
+edition: CREC
+section: SENATE
+page: S3962
+citation: 170 Cong. Rec. S3962
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate June 4, 2024:
+
+
+                             THE JUDICIARY
+
+       TANYA MONIQUE JONES BOSIER, OF THE DISTRICT OF COLUMBIA, TO 
+     BE AN ASSOCIATE JUDGE OF THE SUPERIOR COURT OF THE DISTRICT 
+     OF COLUMBIA FOR THE TERM OF FIFTEEN YEARS.
+
+
+                     NUCLEAR REGULATORY COMMISSION
+
+       CHRISTOPHER T. HANSON, OF MICHIGAN, TO BE A MEMBER OF THE 
+     NUCLEAR REGULATORY COMMISSION FOR THE TERM OF FIVE YEARS 
+     EXPIRING JUNE 30, 2029.
+```
