@@ -1,0 +1,39 @@
+---
+granule: CREC-2024-06-07-pt1-PgE600-2
+date: 2024-06-07
+edition: CREC
+section: EXTENSIONS
+page: E600
+citation: 170 Cong. Rec. E600
+---
+
+# PERSONAL EXPLANATION
+
+**Speaking:** Pascrell, Bill (P000096) [D-NJ]
+
+```
+                          PERSONAL EXPLANATION
+
+                                 ______
+                                 
+
+                        HON. BILL PASCRELL, JR.
+
+                             of new jersey
+
+                    in the house of representatives
+
+                          Friday, June 7, 2024
+
+  Mr. PASCRELL. Mr. Speaker, on June 5, 2024, I missed 5 Roll Call 
+votes. Had I been present, I would have voted as follows: Roll Call No. 
+243, Schweikert of Arizona Part B Amendment No. 43--YES; Roll Call No. 
+244, Schweikert of Arizona Part B Amendment No. 44--YES; Roll Call No. 
+245, Steube of Florida Part B Amendment No. 45--NO; Roll Call No. 246, 
+Motion to Recommit to Military Construction, Veterans Affairs, and 
+Related Agencies Appropriations Act, 2025--YES; and Roll Call No. 247, 
+Final Passage of Military Construction, Veterans Affairs, and Related 
+Agencies Appropriations Act, 2025--NO.
+
+                          ____________________
+```
