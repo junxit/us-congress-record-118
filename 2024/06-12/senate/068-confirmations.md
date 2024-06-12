@@ -1,0 +1,26 @@
+---
+granule: CREC-2024-06-12-pt1-PgS4060-2
+date: 2024-06-12
+edition: CREC
+section: SENATE
+page: S4060
+citation: 170 Cong. Rec. S4060
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate June 12, 2024:
+
+
+                  FEDERAL ENERGY REGULATORY COMMISSION
+
+       DAVID ROSNER, OF MASSACHUSETTS, TO BE A MEMBER OF THE 
+     FEDERAL ENERGY REGULATORY COMMISSION FOR A TERM EXPIRING JUNE 
+     30, 2027.
+       LINDSAY S. SEE, OF WEST VIRGINIA, TO BE A MEMBER OF THE 
+     FEDERAL ENERGY REGULATORY COMMISSION FOR A TERM EXPIRING JUNE 
+     30, 2028.
+```
