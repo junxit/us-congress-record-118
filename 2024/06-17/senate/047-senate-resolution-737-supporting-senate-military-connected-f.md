@@ -1,0 +1,125 @@
+---
+granule: CREC-2024-06-17-pt1-PgS4117
+date: 2024-06-17
+edition: CREC
+section: SENATE
+page: S4117
+citation: 170 Cong. Rec. S4117
+---
+
+# SENATE RESOLUTION 737--SUPPORTING SENATE MILITARY-CONNECTED FELLOWSHIP OPPORTUNITIES, AND FOR OTHER PURPOSES
+
+**Measures:** S.Res. 442, S.Res. 443, S.Res. 737
+
+```
+                         SUBMITTED RESOLUTIONS
+
+                                 ______
+                                 
+
+SENATE RESOLUTION 737--SUPPORTING SENATE MILITARY-CONNECTED FELLOWSHIP 
+                 OPPORTUNITIES, AND FOR OTHER PURPOSES
+
+  Mrs. FISCHER (for herself and Ms. Klobuchar) submitted the following 
+resolution; which was considered and agreed to:
+
+                              S. Res. 737
+
+       Resolved,
+
+     SECTION 1. STARS OF VALOR FELLOWSHIPS PROGRAM.
+
+       (a) Definitions.--In this section--
+       (1) the term ``eligible individual'' means an individual 
+     who meets the eligibility criteria established under 
+     subsection (d)(1)(A);
+       (2) the term ``Program'' means the Stars of Valor 
+     Fellowships Program established under subsection (b); and
+       (3) the term ``Sergeant at Arms'' means the Sergeant at 
+     Arms and Doorkeeper of the Senate.
+       (b) Establishment.--
+       (1) In general.--Not later than December 31, 2024, and 
+     subject to the availability of appropriations, the Sergeant 
+     at Arms shall establish a central program, to be known as the 
+     ``Stars of Valor Fellowships Program'', to enable eligible 
+     individuals to serve in the military-connected fellowship 
+     programs of the Senate.
+       (2) Components.--The Program shall oversee and provide 
+     fellowships through--
+       (A) the SFC Sean Cooley and SPC Christopher Horton 
+     Congressional Gold Star Family Fellowship Program established 
+     under section 1 of Senate Resolution 442 (117th Congress), 
+     agreed to November 4, 2021;
+       (B) the McCain-Mansfield Fellowship Program established 
+     under section 1 of Senate Resolution 443 (117th Congress), 
+     agreed to November 4, 2021;
+       (C) the Active-Duty Military Spouses Fellowship Program 
+     established under section 2; and
+       (D) any additional military-connected fellowship program 
+     for eligible individuals established in regulations 
+     promulgated by the Committee on Rules and Administration of 
+     the Senate.
+       (c) Fellowships.--Under a fellowship in the Program, an 
+     eligible individual may serve a 24-month fellowship in the 
+     office of a Senator.
+       (d) Administration.--
+       (1) In general.--The Committee on Rules and Administration 
+     of the Senate shall promulgate regulations for the 
+     administration of the Program, including establishing the 
+     criteria for--
+       (A) eligibility to participate in the fellowship programs 
+     described in subsection (b)(2); and
+       (B) a method of prioritizing the assignment of fellowships 
+     to the offices of Senators under the Program, if the amount 
+     made available to carry out the Program for a fiscal year is 
+     not enough to provide fellowships in all offices requesting 
+     to participate in the Program for such fiscal year.
+       (2) Placement.--An eligible individual may serve in a 
+     fellowship under the Program at the office of a Senator in 
+     the District of Columbia or at a State office of the Senator.
+       (e) Exclusion of Appointees for Purposes of Compensation 
+     Limits.--The compensation paid to any eligible individual 
+     serving in a fellowship under the Program in the office of a 
+     Senator shall not be included in the determination of the 
+     aggregate gross compensation for employees employed by the 
+     Senator under section 105(d)(1) of the Legislative Branch 
+     Appropriation Act, 1968 (2 U.S.C. 4575(d)(1)).
+       (f) Applicability.--The requirements of this section shall 
+     apply to all fellowship programs described in subsection 
+     (b)(2).
+       (g) Technical and Conforming Amendments.--
+       (1) SFC sean cooley and spc christopher horton 
+     congressional gold star family fellowship program.--Section 
+     1(d) of Senate Resolution 442 (117th Congress), agreed to 
+     November 4, 2021, is amended by striking paragraph (3).
+       (2) McCain-mansfield fellowship program.--Section 1(d) of 
+     Senate Resolution 443 (117th Congress), agreed to November 4, 
+     2021, is amended by striking paragraph (3).
+
+     SEC. 2. ACTIVE-DUTY MILITARY SPOUSES FELLOWSHIP PROGRAM.
+
+       (a) Definitions.--In this section--
+       (1) the term ``eligible individual'' means an individual 
+     who--
+       (A) is, as of the date of application for the Program, a 
+     spouse of a member of the Armed Forces serving on active 
+     duty; and
+       (B) meets any other eligibility criteria established for 
+     the Program by the Committee on Rules and Administration of 
+     the Senate under section 1(d)(1)(A);
+       (2) the term ``Program'' means the Active-Duty Military 
+     Spouses Fellowship Program established under subsection (b); 
+     and
+       (3) the term ``Sergeant at Arms'' means the Sergeant at 
+     Arms and Doorkeeper of the Senate.
+       (b) Establishment.--Not later than December 31, 2024, and 
+     subject to the availability of appropriations, the Sergeant 
+     at Arms shall establish a fellowship program, to be known as 
+     the ``Active-Duty Military Spouses Fellowship Program'', for 
+     eligible individuals.
+       (c) Administration.--The Sergeant at Arms shall carry out 
+     the Program through the Stars of Valor Fellowships Program 
+     under section 1.
+
+                          ____________________
+```
