@@ -1,0 +1,58 @@
+---
+granule: CREC-2024-06-18-pt1-PgE647-2
+date: 2024-06-18
+edition: CREC
+section: EXTENSIONS
+page: E647
+citation: 170 Cong. Rec. E647
+---
+
+# HONORING THE SERVICE OF ERIC VOLTA
+
+**Speaking:** DeSaulnier, Mark (D000623) [D-CA]
+
+```
+                   HONORING THE SERVICE OF ERIC VOLTA
+
+                                 ______
+                                 
+
+                          HON. MARK DeSAULNIER
+
+                             of california
+
+                    in the house of representatives
+
+                         Tuesday, June 18, 2024
+
+  Mr. DeSAULNIER. Mr. Speaker, I rise today to recognize Eric Volta as 
+he retires from his role as Superintendent of the Liberty Union High 
+School District.
+  Eric grew up in the Santa Clara Valley and graduated from Santa Clara 
+High School. He went on to attend Stanford University, playing on 
+Stanford's football team all four years of university and graduating 
+with his BA in history. Throughout his career, Eric has worked 
+tirelessly to support students and expand educational opportunities 
+throughout the Bay Area. He worked in the Santa Clara Unified School 
+District (SCUSD) teaching 9th through 12th graders and went on to serve 
+as Vice Principal of Santa Clara High School.
+  Eric and his family moved to Brentwood, California in 2000 and Eric 
+joined the Liberty Union High School District (LUHSD). During his time 
+with LUHSD, Eric served as assistant principal, high school principal, 
+and Assistant Superintendent of Human Resources. He was promoted to 
+Superintendent in 2011 where he has worked to support students and 
+families. Eric has received a number of accolades for his work as an 
+educator, receiving the ACSA's Superintendent of the Year for Region VI 
+Award, the California Interscholastic Federation Distinguished Services 
+Award, and the California Department of Education's Principal Award. 
+Additionally, he served on the California School Boards Association 
+Superintendents Advisory Council and is a current board member of the 
+California High School Coalition.
+  Eric is retiring from his position as superintendent after 13 years 
+of dedicated service. Please join me in thanking Eric for his many 
+contributions to the Liberty Union High School District and wishing him 
+well as he begins his new role as superintendent of the Mountain View 
+Los Altos Union High School District.
+
+                          ____________________
+```
