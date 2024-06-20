@@ -1,0 +1,25 @@
+---
+granule: CREC-2024-06-20-pt1-PgS4204
+date: 2024-06-20
+edition: CREC
+section: SENATE
+page: S4204
+citation: 170 Cong. Rec. S4204
+---
+
+# CONFIRMATION
+
+```
+                              CONFIRMATION
+
+  Executive nomination confirmed by the Senate June 20, 2024:
+
+
+                          DEPARTMENT OF STATE
+
+       STEPHANIE SANDERS SULLIVAN, OF MARYLAND, A CAREER MEMBER OF 
+     THE SENIOR FOREIGN SERVICE, CLASS OF CAREER MINISTER, TO BE 
+     REPRESENTATIVE OF THE UNITED STATES OF AMERICA TO THE AFRICAN 
+     UNION, WITH THE RANK AND STATUS OF AMBASSADOR EXTRAORDINARY 
+     AND PLENIPOTENTIARY.
+```

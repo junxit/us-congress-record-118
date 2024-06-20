@@ -1,0 +1,317 @@
+---
+granule: CREC-2024-06-20-pt1-PgS4182-2
+date: 2024-06-20
+edition: CREC
+section: SENATE
+page: S4182
+citation: 170 Cong. Rec. S4182
+---
+
+# SENATE RESOLUTION 743--REAFFIRMING THE IMPORTANCE OF THE UNITED STATES PROMOTING THE SAFETY, HEALTH, AND WELL-BEING OF REFUGEES AND DISPLACED PERSONS IN THE UNITED STATES AND AROUND THE WORLD
+
+**Speaking:** Cardin, Benjamin L. (C000141) [D-MD]
+
+**Measures:** S.Res. 743
+
+```
+SENATE RESOLUTION 743--REAFFIRMING THE IMPORTANCE OF THE UNITED STATES 
+PROMOTING THE SAFETY, HEALTH, AND WELL-BEING OF REFUGEES AND DISPLACED 
+           PERSONS IN THE UNITED STATES AND AROUND THE WORLD
+
+  Mr. CARDIN (for himself, Mr. Bennet, Mr. Blumenthal, Mr. Booker, Mr. 
+Coons, Ms. Duckworth, Mr. Durbin, Mr. Fetterman, Mr. Hickenlooper, Mr. 
+Kaine, Ms. Klobuchar, Mr. Markey, Mr. Menendez, Mr. Merkley, Mr. 
+Murphy, Mrs. Murray, Mr. Padilla, Mr. Schatz, Mrs. Shaheen, Mr. Van 
+Hollen, Mr. Welch, Mr. Wyden, and Mr. Whitehouse) submitted the 
+following resolution; which was referred to the Committee on Foreign 
+Relations:
+
+                              S. Res. 743
+
+       Whereas June 20, 2024 is an international day designated by 
+     the United Nations as ``World Refugee Day,'' to recognize 
+     refugees around the globe and celebrate the strength and 
+     courage of people who have been forced to flee their homes to 
+     escape conflict or persecution due to their race, religion, 
+     nationality, political opinion, or membership in a particular 
+     social group;
+       Whereas July 28, 2024 is the 73rd anniversary of the 
+     adoption of the Convention relating to the Status of 
+     Refugees, held at Geneva on July 28, 1951, which defines the 
+     term ``refugee'' and outlines the rights of refugees and the 
+     legal obligations of nation states to protect such rights;
+       Whereas in 2024, the United Nations High Commissioner for 
+     Refugees (referred to in this resolution as ``UNHCR'') 
+     reported that--
+       (1) at the end of 2023, there were more than 117,000,000 
+     displaced people who had been forced from their homes 
+     worldwide, which is more displaced people than at any other 
+     time in recorded history, including more than 31,600,000 
+     refugees, 6,900,000 asylum seekers, and 68,300,000 internally 
+     displaced persons;
+       (2) 75 percent of all refugees worldwide are hosted in low- 
+     and middle-income countries and fewer than 1 percent of 
+     refugees are ever resettled;
+       (3) 73 percent of the world's refugees originate from 5 
+     countries, namely Afghanistan, Syria, Venezuela, Ukraine, and 
+     Sudan;
+       (4) more than 50 percent of the population of Syria 
+     (approximately 13,800,000 people) have been displaced since 
+     the beginning of the Syrian civil war in 2011, either exiting 
+     Syria across an international border or going to other areas 
+     within Syria;
+
+[[Page S4183]]
+
+       (5) as of June 2024, 9,700,000 Ukrainians are displaced as 
+     a result of Russia's ongoing invasion of Ukraine, which is an 
+     estimated \1/6\ of Ukraine's pre-war population, including 
+     more than 6,400,000 Ukrainian refugees;
+       (6) there are an estimated 6,400,000 Afghan refugees around 
+     the world, of whom 90 percent are hosted in either Iran or 
+     Pakistan;
+       (7) Latin America and the Caribbean currently host 84 
+     percent of the more than 7,000,000 Venezuelan refugees and 
+     migrants globally, and the Americas currently host 
+     approximately 20,000,000 refugees, asylum-seekers, and 
+     stateless people from around the world;
+       (8) as of June 2024, more than 9,000,000 people are 
+     displaced due to the ongoing conflict in Sudan, including 
+     nearly 2,000,000 refugees who have fled to neighboring 
+     countries, many of whom are women or children;
+       (9) as of May 2024, more than 360,000 people were 
+     internally displaced in Haiti due to widespread violence in 
+     the prior year;
+       (10) between October 2023 and June 2024, approximately 75 
+     percent of the population of Gaza (approximately 1,700,000 
+     people) have been internally displaced;
+       (11) as of April 2024, there were approximately 6,800,000 
+     internally displaced people in the Democratic Republic of the 
+     Congo as a result of violence between armed groups;
+       (12) as of May 2024, nearly 1,000,000 Rohingya refugees 
+     resided in Bangladesh, with thousands more refugees 
+     throughout the region, and an estimated 45,000 newly 
+     displaced Rohingya people fled to the border of Burma and 
+     Bangladesh in 2024 amidst renewed violence in Rakhine State, 
+     with the potential for increased refugee flows in the coming 
+     months as violence continues; and
+       (13) as of May 2024, in the Sahel region, which encompasses 
+     Burkina Faso, Mali, and Niger, nearly 4,800,000 people have 
+     been forced to flee their homes;
+       Whereas welcoming people from around the world who have 
+     been oppressed and persecuted is a tenet of our Nation, and 
+     the United States is home to a diverse population of refugees 
+     and immigrants who contribute to the economic strengths and 
+     cultural richness of our communities;
+       Whereas since seeking asylum is a protected right under 
+     United States domestic and international law, the United 
+     States is legally obligated to contribute to the maintenance 
+     of a humane and functioning international asylum system;
+       Whereas the principle of non-refoulement is also a central 
+     tenet of the United States refugee and asylum systems, and 
+     thousands of people living in the United States who 
+     immigrated from countries around the world would be subject 
+     to harm if they were deported to their countries of origin 
+     due to widespread conflict or persecution in such countries;
+       Whereas the United States Refugee Admissions Program, which 
+     was established in 1980--
+       (1) is a lifesaving pillar of global humanitarian efforts;
+       (2) advances United States national security and foreign 
+     policy goals; and
+       (3) supports regional host countries;
+       Whereas resettlement is an essential part of a 
+     comprehensive strategy to respond to refugee crises, promote 
+     regional stability, and strengthen United States national 
+     security;
+       Whereas resettlement to the United States is available for 
+     the most vulnerable refugees who undergo rigorous security 
+     vetting and medical screening processes;
+       Whereas the United States supports the efforts of the UNHCR 
+     to increase protection for, and the global resettlement of, 
+     LGBTQI+ refugees overseas;
+       Whereas women and girls have an increased risk of sexual 
+     violence, exploitation, and trafficking while they are 
+     traveling to seek safe living conditions;
+       Whereas through the United States Refugee Admissions 
+     Program--
+       (1) the number of refugees who have arrived in the United 
+     States increased from only 11,411 during fiscal year 2021 to 
+     60,014 during fiscal year 2023;
+       (2) as of May 31, 2024, more than 60,000 refugees had 
+     arrived in the United States during fiscal year 2024; and
+       (3) the Biden Administration continues to actively pursue 
+     its stated goal of 125,000 refugee admissions during fiscal 
+     year 2024;
+       Whereas refugee resettlement organizations, businesses, and 
+     other community and faith-based groups offer support for 
+     refugees who resettle in the United States, and groups of 
+     private citizens are now supporting newly arrived refugees 
+     through Welcome Corps, the refugee sponsorship initiative 
+     under the United States Refugee Admissions Program;
+       Whereas, between 2005 and 2019, refugees and asylees in the 
+     United States contributed an estimated $581,000,000,000 in 
+     total revenue across all levels of government;
+       Whereas robust funding for international and domestic 
+     protection and assistance for refugees and other displaced 
+     populations bolsters United States national security, foreign 
+     policy, economic, and humanitarian interests; and
+       Whereas most refugees integrate and quickly become self-
+     sufficient members of their respective communities by joining 
+     the workforce, paying taxes, supporting local commerce, 
+     helping to address labor demand in critical industries, and 
+     creating new jobs: Now, therefore, be it
+       Resolved, That the Senate--
+       (1) recognizes the urgency to establish and follow 
+     comprehensive, fair, and humane policies to address forced 
+     migration and refugee challenges;
+       (2) reaffirms the bipartisan commitment of the United 
+     States to promote the safety, health, and well-being of 
+     millions of refugees and asylum seekers, including the 
+     education of refugee children and displaced persons fleeing 
+     war, persecution, or torture in search of protection, peace, 
+     hope, and freedom;
+       (3) recognizes the many individuals who have risked their 
+     lives working, either individually or on behalf of 
+     nongovernmental organizations or international agencies, such 
+     as UNHCR, to provide lifesaving assistance and protection for 
+     people around the world who have been displaced from their 
+     homes;
+       (4) reaffirms the imperative to fully restore United States 
+     asylum protections enshrined in the Refugee Act of 1980 
+     (Public Law 96-212) by rejecting harmful bans and 
+     restrictions that limit refugees' access to protections and 
+     due process at the United States border;
+       (5) reaffirms the importance of the United States Refugee 
+     Admissions Program as a critical tool of the United States 
+     Government--
+       (A) to strengthen national and regional security; and
+       (B) to encourage international solidarity with host 
+     countries; and
+       (6) calls upon the Secretary of State, the Secretary of 
+     Homeland Security, the Secretary of Health and Human 
+     Services, and the United States Ambassador to the United 
+     Nations--
+       (A) to uphold the United States' international leadership 
+     role in responding to displacement crises with humanitarian 
+     assistance, and strengthening its leadership role in the 
+     protection of vulnerable refugee populations that endure 
+     gender-based violence, torture, human trafficking, 
+     persecution, and violence against religious minorities, 
+     forced conscription, genocide, and exploitation;
+       (B) to work in partnership with the international community 
+     to find solutions to existing conflicts, prevent new 
+     conflicts from emerging, and tackle the root causes of 
+     involuntary migration;
+       (C) to continue supporting the efforts of the UNHCR and 
+     advance the work of nongovernmental organizations to protect 
+     refugees and asylum seekers regardless of their country of 
+     origin, race, ethnicity, or religious beliefs;
+       (D) to continue to alleviate pressures, through 
+     humanitarian and development assistance, on frontline refugee 
+     host countries that absorb the majority of the world's 
+     refugees, while effectively advocating for refugee well-
+     being, including access to education and livelihoods;
+       (E) to meaningfully include refugees and displaced 
+     populations in creating and achieving the policy solutions 
+     affecting them;
+       (F) to respond to the global refugee crisis by meeting 
+     robust refugee admissions goals;
+       (G) to implement the United States' pledges made at the 
+     Global Refugee Forum held in Geneva in December 2023 to 
+     expand refugee protection;
+       (H) to address barriers faced by refugees with disabilities 
+     by ensuring accessible infrastructure and the availability of 
+     disability-related services and social protection schemes; 
+     and
+       (I) to reaffirm the goals of ``World Refugee Day'' and 
+     reiterate the United States' strong commitment to protect 
+     refugees and asylum seekers who live without adequate 
+     material, social, or legal protections.
+
+  Mr. CARDIN. Madam President, today on World Refugee Day, I am here to 
+honor the tens of millions of people worldwide who have been forced to 
+flee their homes. World Refugee Day was first held in June of 2001 to 
+commemorate the 50th anniversary of the 1951 Refugee Convention and to 
+shine a light on the needs and rights of refugees while giving voice to 
+their aspirations.
+  At that time, in 2001, the number of forcibly displaced persons 
+globally was close to 20 million. Today that number stands at 120 
+million people, according to the U.N. Refugee Agency. This staggering 
+figure, the highest in recorded history, means that 1.5 percent of the 
+entire world's population has been forced to flee their homes as a 
+result of persecution, conflict, violence, or natural disasters like 
+drought, crop failures, or famine.
+  In the past 10 years, the number of forcibly displaced persons has 
+more than doubled as new conflicts have arisen and longstanding crises 
+have gone unresolved, made worse by the impacts of climate change, food 
+insecurity, and poverty.
+  Of this 120 million, there are more than 31 million refugees who have 
+crossed international borders to seek safety in another country--31 
+million people who are not safe from prosecution in their own country 
+of origin. There are more than 68 million internally displaced persons, 
+the majority of whom are women and children, forced from their homes 
+but still within the country's borders.
+  In every region of the world, we see people pushed from their homes: 
+in the Sudan, where the brutal and altogether avoidable conflict 
+between the Rapid
+
+[[Page S4184]]
+
+Support Forces and Sudan Armed Forces has forced more than 9 million 
+people to flee their homes, and without a ceasefire and sustainable 
+peace agreement, these numbers will only continue to grow; in Ukraine, 
+where Putin's illegal full-scale invasion has pushed nearly 10 million 
+Ukrainians from their homes, including more than 6 million refugees; in 
+Gaza, where approximately 75 percent of the population--1.7 million 
+people--has been displaced and displaced multiple times since last 
+October; and in Haiti, where widespread violence has uprooted more than 
+360,000 people in the past year.
+  Even as crises fades from the headlines, the impact to people's lives 
+do not: for nearly 14 million displaced Syrians representing over half 
+the country's population to the estimated 6.5 million Afghan refugees 
+around the world, to the more than 6 million Venezuelan refugees, the 
+long tail of conflict and crisis has left millions displaced year after 
+year.
+  Behind every number is a story of a life uprooted, but there is also 
+a story of courage, of resilience and hope for a brighter future, the 
+hope of a refugee mother for her child to receive an education, the 
+hope of a refugee woman to someday become a doctor, the hope of a 
+family caught in the crosshairs of war to return to their homes and 
+live in peace.
+  Achieving this brighter future requires urgent and sustained support 
+from the United States and the international community. Massive cuts 
+proposed by House colleagues to the Migration and Refugee Assistance 
+accounts for fiscal year 2025 would turn our back and imperil the lives 
+of those most at risk.
+  That is why this day I will be introducing, along with 21 of my 
+Senate colleagues, a resolution reaffirming the importance of promoting 
+the safety, health, and well-being of refugees and displaced persons in 
+the United States and around the world.
+  This means upholding the long history of the United States welcoming 
+people from around the world who have been oppressed and persecuted. 
+Our U.S. Refugee Admission Program, established in 1980, remains a 
+lifesaving pillar for resettling the most vulnerable refugees.
+  It means further tapping into the deep generosity of Americans, as 
+demonstrated by the U.S. Government's welcome tour through which 
+private citizens are supporting newly arrived refugees themselves.
+  It means supporting host communities, particularly in low- and 
+middle-income countries, where 75 percent of all refugees are hosted 
+while advocating for refugee inclusion. It means continuing U.S. 
+leadership by the State Department, USAID, and NGO partners in 
+responding to displacement crises with humanitarian assistance and 
+protection for forcibly displaced persons that are at risk of gender-
+based violence, human trafficking, and other human rights abuses.
+  It means working in partnership with the international community to 
+resolve conflicts, to address climate change that is destroying lands 
+and livelihoods, and to hold human rights abusers accountable so that 
+people can return to their homes.
+  In taking these steps, we will not only uplift the lives of 
+vulnerable people around the world, we will also promote regional 
+stability and strengthen U.S. national security.
+  So on World Refugee Day, let us all join together to mitigate the 
+causes that have forced refugees to leave their homes and help these 
+individuals who are displaced to have an opportunity for a peaceful 
+future.
+
+                          ____________________
+```
