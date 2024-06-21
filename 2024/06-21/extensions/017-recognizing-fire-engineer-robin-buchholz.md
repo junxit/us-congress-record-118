@@ -1,0 +1,47 @@
+---
+granule: CREC-2024-06-21-pt1-PgE655
+date: 2024-06-21
+edition: CREC
+section: EXTENSIONS
+page: E655
+citation: 170 Cong. Rec. E655
+---
+
+# RECOGNIZING FIRE ENGINEER ROBIN BUCHHOLZ
+
+**Speaking:** Tlaib, Rashida (T000481) [D-MI]
+
+```
+                RECOGNIZING FIRE ENGINEER ROBIN BUCHHOLZ
+
+                                 ______
+                                 
+
+                           HON. RASHIDA TLAIB
+
+                              of michigan
+
+                    in the house of representatives
+
+                         Friday, June 21, 2024
+
+  Ms. TLAIB. Mr. Speaker, today I want to recognize the 12th 
+Congressional District's Fire Engineer Robin Buchholz for her twenty-
+five years of service with the Dearborn Fire Department.
+  Fire Engineer Buchholz began her career as a firefighter with the 
+Dearborn Fire Department in 1999. Over the past twenty-five years, she 
+has been twice promoted and has remained steadfast in her commitment to 
+service and keeping our communities safe. Fire Engineer Buchholz has 
+been recognized over twenty-five times in her career for her exemplary 
+record, including lifesaving and safe driving. She has also been 
+awarded the esteemed Fire Chief Life Saving Award for life saving 
+service and the Meritorious Company Commendation on multiple occasions. 
+As Fire Engineer for the department, Ms. Buchholz has also obtained 
+certifications in life support and rescue techniques.
+  Please join me and our community in recognizing Fire Engineer Robin 
+Buchholz for her twenty-five years of outstanding service to the people 
+of Dearborn in Michigan's 12th District Strong as we wish her well in 
+her retirement.
+
+                          ____________________
+```
