@@ -1,0 +1,30 @@
+---
+granule: CREC-2024-06-26-pt1-PgH4321-3
+date: 2024-06-26
+edition: CREC
+section: HOUSE
+page: H4321
+citation: 170 Cong. Rec. H4321
+---
+
+# Constitutional Authority and Single Subject Statements for H.R. 8842
+
+**Measures:** H.R. 8842
+
+```
+           By Mr. GOLDMAN of New York:
+       H.R. 8842.
+       Congress has the power to enact this legislation pursuant 
+     to the following:
+       Under Article I, Section 8 of the Constitution, Congress 
+     has the power ``to make all Laws which shall be necessary and 
+     proper for carrying into the Execution for the foregoing 
+     Powers, and all other Powers vested by this Constitution in 
+     the Government of the United States, or any Department or 
+     Officer thereof.''
+       The single subject of this legislation is:
+       A bill to ensure that the background check system used for 
+     firearms purchases denies a firearm to a person prohibited 
+     from possessing a firearm by a lawful court order governing 
+     the pretrial release of the person.
+```

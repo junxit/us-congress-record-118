@@ -1,0 +1,55 @@
+---
+granule: CREC-2024-06-26-pt1-PgE669-2
+date: 2024-06-26
+edition: CREC
+section: EXTENSIONS
+page: E669
+citation: 170 Cong. Rec. E669
+---
+
+# RECOGNIZING REAR ADMIRAL DANA THOMAS
+
+**Speaking:** Pallone, Frank (P000034) [D-NJ]
+
+```
+                  RECOGNIZING REAR ADMIRAL DANA THOMAS
+
+                                 ______
+                                 
+
+                        HON. FRANK PALLONE, JR.
+
+                             of new jersey
+
+                    in the house of representatives
+
+                        Wednesday, June 26, 2024
+
+  Mr. PALLONE. Mr. Speaker, it is my honor to recognize the 
+accomplishments of Rear Admiral Dana Thomas as she retires from the 
+United States Coast Guard this year. I applaud RADM Thomas for her 
+dedication and service and congratulate her on this milestone.
+  Promoted to Rear Admiral (Upper Half) in March 2019, RADM Thomas has 
+had an exemplary military career, previously serving seven years in the 
+U.S. Coast Guard and seven years in the U.S. Army. She received her 
+Doctor of Medicine and Master of Public Health degrees from George 
+Washington University School of Medicine and Public Health, and her 
+Bachelor of Science in Honors Biology from the University of Maryland, 
+College Park. She completed Command and General Staff College in 2005. 
+She served her Internship in General Surgery at Tripler Army Medical 
+Center and her residency at the Naval Aerospace Medicine Institute.
+  From her work with the Centers for Disease Control and service on the 
+Physician's Professional Advisory Committee to the U.S. Surgeon 
+General, to her current role as Director of Health, Safety, and Work-
+life for the U.S. Coast Guard, RADM Thomas has continued her commitment 
+to service and public health. Her experience, knowledge, and steadfast 
+initiative have distinguished RADM Thomas as an outstanding leader who 
+has exemplified honor, integrity, and professionalism throughout her 
+career.
+  Mr. Speaker, please join me in leading this body in acknowledgement 
+of the extraordinary contributions of Rear Admiral Dana Thomas. She has 
+tirelessly devoted her time and expertise to the advancement of public 
+health and I thank her for her honorable service to our great Nation.
+
+                          ____________________
+```
