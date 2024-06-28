@@ -1,0 +1,59 @@
+---
+granule: CREC-2024-06-28-pt1-PgE683-5
+date: 2024-06-28
+edition: CREC
+section: EXTENSIONS
+page: E683
+citation: 170 Cong. Rec. E683
+---
+
+# RECOGNIZING CONGRESSIONAL PATRIOT AWARD RECIPIENT DRU NEWMAN
+
+**Speaking:** Fallon, Pat (F000246) [R-TX]
+
+```
+      RECOGNIZING CONGRESSIONAL PATRIOT AWARD RECIPIENT DRU NEWMAN
+
+                                 ______
+                                 
+
+                            HON. PAT FALLON
+
+                                of texas
+
+                    in the house of representatives
+
+                         Friday, June 28, 2024
+
+  Mr. FALLON. Mr. Speaker, I rise today to recognize Mrs. Drusilla 
+``Dru'' Wade Newman of Frisco, Texas, and present her with the 
+Congressional Patriot Award. Dru has dedicated herself to faithfully 
+serving our community.
+  Dru is a fourth-generation resident of Frisco and graduated from 
+Frisco High School in 1974. She earned her bachelor's degree in 
+secondary education from Baylor University in 1978. For over 45 years, 
+Dru has been a fantastic community leader and passionate advocate for 
+youth education. She worked closely with the Frisco Education 
+Foundation to help provide students with scholarships. Furthermore, Dru 
+mentored young adults at her church while being involved in local 
+parent-teacher associations and booster clubs.
+  In addition to her work on education, Dru has continued to be 
+involved in charitable efforts in Frisco to help families in need. She 
+participated in mission trips around the world to support humanitarian 
+efforts and share her faith. Dru also worked with the Frisco Heritage 
+Association to organize and fundraise for their annual Heritage Days 
+event, which highlights the beauty and rich history of the city. She 
+has a servant's heart, and her generosity and kindness has not gone 
+unnoticed by those around her. In her free time, Dru is an avid sports 
+fan, and she enjoys cheering for the Baylor Bears. Along with her 
+husband Jim, she attends Frisco First Baptist Church. I am proud of the 
+work Dru has accomplished for our community, and I wish her continued 
+success for many years to come.
+
+[[Page E684]]
+
+  It is an honor to bestow Dru with the Patriot Award for her 
+exceptional service to the people of North Texas.
+
+                          ____________________
+```
