@@ -1,0 +1,89 @@
+---
+granule: CREC-2024-07-09-pt1-PgS4277
+date: 2024-07-09
+edition: CREC
+section: SENATE
+page: S4277
+citation: 170 Cong. Rec. S4277
+---
+
+# Text of Senate Amendment 2081
+
+**Speaking:** Kaine, Tim (K000384) [D-VA]
+
+```
+  SA 2081. Mr. KAINE submitted an amendment intended to be proposed by 
+him to the bill S. 4638, to authorize appropriations for fiscal year 
+2025 for military activities of the Department of Defense, for military 
+construction, and for defense activities of the Department of Energy, 
+to prescribe military personnel strengths for such fiscal year, and for 
+other purposes; which was ordered to lie on the table; as follows:
+
+       At the appropriate place, insert the following:
+
+     SEC. __. LIMITATIONS ON EXCEPTING POSITIONS FROM COMPETITIVE 
+                   SERVICE AND TRANSFERRING POSITIONS.
+
+       (a) Definitions.--In this section--
+       (1) the term ``agency'' means any department, agency, or 
+     instrumentality of the Federal Government;
+       (2) the term ``competitive service'' has the meaning given 
+     the term in section 2102 of title 5, United States Code;
+       (3) the term ``Director'' means the Director of the Office 
+     of Personnel Management; and
+       (4) the term ``excepted service'' has the meaning given the 
+     term in section 2103 of title 5, United States Code.
+       (b) Limitations.--A position in the competitive service may 
+     not be excepted from the competitive service unless that 
+     position is placed--
+       (1) in any of schedules A through E, as described in 
+     section 6.2 of title 5, Code of Federal Regulations, as in 
+     effect on September 30, 2020; and
+       (2) under the terms and conditions under part 6 of title 5, 
+     Code of Federal Regulations, as in effect on September 30, 
+     2020.
+       (c) Transfers.--
+       (1) Within excepted service.--A position in the excepted 
+     service may not be transferred to any schedule other than a 
+     schedule described in subsection (b)(1).
+       (2) OPM consent required.--An agency may not transfer any 
+     occupied position from the competitive service or the 
+     excepted service into schedule C of subpart C of part 213 of 
+     title 5, Code of Federal Regulations, or any successor 
+     regulations, without the prior consent of the Director.
+       (3) Limit during presidential term.--During any 4-year 
+     presidential term, an agency may not transfer from a position 
+     in the competitive service to a position in the excepted 
+     service the greater of the following:
+       (A) A total number of employees that is more than 1 percent 
+     of the total number of employees employed by that agency, as 
+     of the first day of that presidential term.
+       (B) 5 employees.
+       (4) Employee consent required.--Notwithstanding any other 
+     provision of this section--
+       (A) an employee who occupies a position in the excepted 
+     service may not be transferred to an excepted service 
+     schedule other than the schedule in which that position is 
+     located without the prior written consent of the employee; 
+     and
+       (B) an employee who occupies a position in the competitive 
+     service may not be transferred to the excepted service 
+     without the prior written consent of the employee.
+       (d) Other Matters.--
+       (1) Application.--Notwithstanding section 7425(b) of title 
+     38, United States Code, this section shall apply to a 
+     position under chapter 73 or 74 of that title.
+       (2) Report.--Not later than March 15 of each calendar year, 
+     the Director shall submit to Congress a report on the 
+     immediately preceding calendar year that lists--
+       (A) each position that, during the year covered by the 
+     report, was transferred from the competitive service to the 
+     excepted service and a justification as to why each such 
+     position was so transferred; and
+       (B) any violation of this section that occurred during the 
+     year covered by the report.
+       (e) Regulations.--Not later than 90 days after the date of 
+     enactment of this Act, the Director shall issue regulations 
+     to implement this section.
+                                 ______
+```
