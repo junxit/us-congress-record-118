@@ -1,0 +1,629 @@
+---
+granule: CREC-2024-07-10-pt1-PgS4405-4
+date: 2024-07-10
+edition: CREC
+section: SENATE
+page: S4405
+citation: 170 Cong. Rec. S4405
+---
+
+# Text of Senate Amendment 2163
+
+**Speaking:** Sullivan, Dan (S001198) [R-AK]
+
+**Measures:** S. 4638
+
+```
+  SA 2163. Mr. SULLIVAN (for himself and Ms. Duckworth) submitted an 
+amendment intended to be proposed by
+
+[[Page S4406]]
+
+him to the bill S. 4638, to authorize appropriations for fiscal year 
+2025 for military activities of the Department of Defense, for military 
+construction, and for defense activities of the Department of Energy, 
+to prescribe military personnel strengths for such fiscal year, and for 
+other purposes; which was ordered to lie on the table; as follows:
+
+       At the end of division A, add the following:
+
+               TITLE XVII--STAND WITH TAIWAN ACT OF 2024
+
+     SEC. 1701. SHORT TITLE.
+
+       This title may be cited as the ``Sanctions Targeting 
+     Aggressors of Neighboring Democracies with Taiwan Act of 
+     2024'' or the ``STAND with Taiwan Act of 2024''.
+
+     SEC. 1702. FINDINGS.
+
+       Congress makes the following findings:
+       (1) Taiwan is a free and prosperous democracy of nearly 
+     24,000,000 people, an important contributor to peace and 
+     stability around the world, and continues to embody and 
+     promote democratic values, freedom, and human rights in Asia.
+       (2) The policy of the United States toward Taiwan is guided 
+     by the Taiwan Relations Act (22 U.S.C. 3301 et seq.), the 
+     United States-People's Republic of China joint communiques 
+     concluded in 1972, 1978, and 1982, and the Six Assurances 
+     that President Ronald Reagan communicated to Taiwan in 1982.
+       (3) Under section 2 of the Taiwan Relations Act (22 U.S.C. 
+     3301), it is the policy of the United States--
+       (A) ``to preserve and promote extensive, close, and 
+     friendly commercial, cultural, and other relations between 
+     the people of the United States and the people on Taiwan, as 
+     well as the people on the China mainland and all other 
+     peoples of the Western Pacific area'';
+       (B) ``to declare that peace and stability in the area are 
+     in the political, security, and economic interests of the 
+     United States, and are matters of international concern'';
+       (C) ``to make clear that the United States decision to 
+     establish diplomatic relations with the People's Republic of 
+     China rests upon the expectation that the future of Taiwan 
+     will be determined by peaceful means'';
+       (D) ``to consider any effort to determine the future of 
+     Taiwan by other than peaceful means, including by boycotts or 
+     embargoes, a threat to the peace and security of the Western 
+     Pacific area and of grave concern to the United States'';
+       (E) ``to provide Taiwan with arms of a defensive 
+     character''; and
+       (F) ``to maintain the capacity of the United States to 
+     resist any resort to force or other forms of coercion that 
+     would jeopardize the security, or the social or economic 
+     system, of the people on Taiwan''.
+       (4) For decades and increasingly since the election of 
+     President Tsai Ing-wen as President of Taiwan in 2016, the 
+     Chinese Communist Party has employed a variety of coercive 
+     military and nonmilitary tactics short of armed conflict in 
+     its efforts to exert existential pressure on Taiwan, 
+     including through diplomatic isolation, restricting tourism, 
+     cyberattacks, spreading disinformation, and controlling the 
+     ability of Taiwan to purchase COVID-19 vaccines from other 
+     countries.
+       (5) Since 2020, military incursions by the People's 
+     Republic of China into Taiwan's air defense identification 
+     zone have been occurring at a rapidly increasing pace. In 
+     2022, such incursions occurred 1,700 times, nearly double the 
+     total in 2021, which was itself almost triple the 2020 total.
+       (6) Since 2021, there has been a notable increase in 
+     military provocations by the People's Liberation Army against 
+     Taiwan, including incursions over the midline separating the 
+     People's Republic of China from Taiwan, holding military 
+     exercises in the vicinity of Taiwan's controlled waters, and 
+     performing live-fire exercises in the South China Sea.
+       (7) In August 2022, the People's Republic of China held 
+     unprecedented live-fire military exercises and a simulated 
+     blockade involving hundreds of military aircraft, dozens of 
+     warships, and launches of short-range ballistic missiles over 
+     the territory of Taiwan.
+       (8) The People's Republic of China is attempting to erase 
+     the midline separating it from Taiwan, increasing the 
+     prospects for incidental contact between forces of the 
+     People's Republic of China and Taiwan as well as shorting 
+     reaction times related to provocations by the People's 
+     Republic of China.
+       (9) On August 10, 2022, the Taiwan Affairs Office of the 
+     State Council of the People's Republic of China released a 
+     white paper entitled ``The Taiwan Question and China's 
+     Reunification in the New Era'' that reiterated the long-
+     standing position of the Government of the People's Republic 
+     of China not to renounce the use of force to bring about 
+     unification with Taiwan and to ``always be ready to respond 
+     with the use of force . . . to interference by external 
+     forces or radical action by separatist elements''.
+       (10) In March 2021, then Commander of the United States 
+     Indo-Pacific Command Admiral Philip Davidson testified that 
+     the threat of a military invasion of Taiwan by the People's 
+     Liberation Army ``is manifest during this decade, in fact in 
+     the next six years''.
+       (11) In March 2021, then Commander of the United States 
+     Pacific Fleet Admiral John Aquilino testified that the threat 
+     of a military invasion by the People's Liberation Army of 
+     Taiwan is ``much closer to us than most think'' and could 
+     materialize well before 2035.
+       (12) On February 24, 2022, the Armed Forces of the Russian 
+     Federation initiated an unprovoked and unjustified invasion 
+     of Ukraine, resulting in at least 14,000 civilian casualties, 
+     including more than 5,000 deaths.
+       (13) The Russian Federation invasion has destabilized 
+     global markets and supply chains, from energy to food, 
+     contributing to high inflation and recession in the United 
+     States and deep cuts to global gross domestic product.
+       (14) With the assistance of the United States and European 
+     allies, Ukrainian forces have successfully repelled the 
+     Russian Federation invasion and recaptured significant 
+     portions of territory taken by the Russian Federation in the 
+     initial stages of the invasion.
+       (15) In addition to military power, timely messaging around 
+     the use of economic and financial instruments of United 
+     States power and their potential use can have an important 
+     deterrent effect on the actions of other countries.
+
+     SEC. 1703. SENSE OF CONGRESS.
+
+       It is the sense of Congress that--
+       (1) it is in the interests of the United States to maintain 
+     a free and open Indo-Pacific region, with peace and stability 
+     in the Taiwan Strait as a critical component;
+       (2) efforts by the Government of the People's Republic of 
+     China and the Chinese Communist Party to unilaterally 
+     determine the future of Taiwan through non-peaceful means, 
+     including threats and the direct use of force, military 
+     coercion, economic boycotts or embargoes, cyberattacks, and 
+     efforts to internationally isolate or annex Taiwan--
+       (A) directly undermine the spirit, intent, and purpose of 
+     the Taiwan Relations Act (22 U.S.C. 3301 et seq.);
+       (B) undermine peace and stability in the Taiwan Strait;
+       (C) limit a free and open Indo-Pacific region; and
+       (D) are of grave concern to the Government of the United 
+     States;
+       (3) the initiation of a military invasion of Taiwan by the 
+     People's Liberation Army would--
+       (A) constitute a threat to the peace and security of the 
+     Western Pacific Area and threaten the peace stability of the 
+     entire globe; and
+       (B) undermine the core political, security, and economic 
+     interests of the United States at home and abroad; and
+       (4) as an important deterrent measure against a military 
+     invasion of Taiwan, the Government of the People's Republic 
+     of China and the Chinese Communist Party must understand that 
+     initiating such an invasion will result in catastrophic 
+     economic and financial consequences for the People's Republic 
+     of China.
+
+     SEC. 1704. STATEMENT OF POLICY.
+
+       The policy of the Government of the United States on Taiwan 
+     is guided by the Taiwan Relations Act (22 U.S.C. 3301 et 
+     seq.), the United States-People's Republic of China joint 
+     communiques concluded in 1972, 1978, and 1982, and the Six 
+     Assurances that President Ronald Reagan communicated to 
+     Taiwan in 1982, but in the event of the initiation of a 
+     military invasion of Taiwan by the People's Liberation Army, 
+     it is the policy of the United States--
+       (1) to use and deploy all economic, commercial, and 
+     financial instruments and levers of power, including--
+       (A) the imposition of sanctions with respect to leadership 
+     of the Chinese Communist Party, key officials of the 
+     Government of the People's Republic of China, and financial 
+     institutions and other entities affiliated with the Chinese 
+     Communist Party or the Government of the People's Republic of 
+     China;
+       (B) prohibiting the listing or trading of the securities of 
+     Chinese entities on United States securities exchanges;
+       (C) prohibiting investments by United States financial 
+     institutions in economic sectors of the People's Republic of 
+     China; and
+       (D) prohibiting the importation of certain goods mined, 
+     produced, or manufactured in the People's Republic of China 
+     into the United States; and
+       (2) to work in close coordination with allies and partners 
+     of the United States to encourage those allies and partners 
+     to undertake similar economic, commercial, and financial 
+     actions against the Government of the People's Republic of 
+     China and the Chinese Communist Party.
+
+     SEC. 1705. DEFINITIONS.
+
+       In this title:
+       (1) Account; correspondent account; payable-through 
+     account.--The terms ``account'', ``correspondent account'', 
+     and ``payable-through account'' have the meanings given those 
+     terms in section 5318A of title 31, United States Code.
+       (2) Admission; admitted; alien.--The terms ``admission'', 
+     ``admitted'', and ``alien'' have the meanings given those 
+     terms in section 101 of the Immigration and Nationality Act 
+     (8 U.S.C. 1101).
+       (3) Appropriate congressional committees.--The term 
+     ``appropriate congressional committees'' means--
+       (A) the Committee on Foreign Relations, the Committee on 
+     Armed Services, and the Committee on Banking, Housing, and 
+     Urban Affairs of the Senate; and
+       (B) the Committee on Foreign Affairs, the Committee on 
+     Armed Services, and the Committee on Financial Services of 
+     the House of Representatives.
+
+[[Page S4407]]
+
+       (4) Covered determination.--The term ``covered 
+     determination'' means a determination by the President, not 
+     later than 24 hours after a military invasion of Taiwan by 
+     the People's Liberation Army or any of its proxies, that such 
+     an invasion has occurred.
+       (5) Financial institution.--The term ``financial 
+     institution'' means a financial institution specified in 
+     subparagraph (A), (B), (C), (D), (E), (F), (G), (H), (I), 
+     (J), (M), or (Y) of section 5312(a)(2) of title 31, United 
+     States Code.
+       (6) Foreign person.--The term ``foreign person'' means an 
+     individual or entity that is not a United States person.
+       (7) Knowingly.--The term ``knowingly'' with respect to 
+     conduct, a circumstance, or a result, means that a person had 
+     actual knowledge, or should have known, of the conduct, the 
+     circumstance, or the result.
+       (8) Military invasion.--The term ``military invasion'' 
+     includes--
+       (A) an amphibious landing or assault;
+       (B) an airborne operation or air assault;
+       (C) an aerial bombardment or blockade;
+       (D) missile attacks, including rockets, ballistic missiles, 
+     cruise missiles, and hypersonic missiles;
+       (E) a naval bombardment or armed blockade; and
+       (F) attack on any territory controlled or administered by 
+     the Government of Taiwan, including offshore islands 
+     controlled or administered by that Government.
+       (9) United states person.--The term ``United States 
+     person'' means--
+       (A) a United States citizen or an alien lawfully admitted 
+     for permanent residence to the United States; or
+       (B) an entity organized under the laws of the United States 
+     or any jurisdiction within the United States, including a 
+     foreign branch of such an entity.
+
+     SEC. 1706. IMPOSITION OF SANCTIONS WITH RESPECT TO OFFICIALS 
+                   OF THE GOVERNMENT OF THE PEOPLE'S REPUBLIC OF 
+                   CHINA AND MEMBERS OF THE CHINESE COMMUNIST 
+                   PARTY.
+
+       (a) In General.--Not later than 3 days after making a 
+     covered determination, the President shall impose the 
+     sanctions described in subsection (d) with respect to 
+     officials of the Government of the People's Republic of China 
+     and members of the Chinese Communist Party specified in 
+     subsection (b), to the extent such officials and members can 
+     be identified.
+       (b) Officials Specified.--The officials specified in this 
+     subsection shall include--
+       (1) senior civilian and military officials of the People's 
+     Republic of China and military officials who have command or 
+     clear and direct decision-making power over military 
+     campaigns, military operations, and military planning against 
+     Taiwan conducted by the People's Liberation Army;
+       (2) senior civilian and military officials of the People's 
+     Republic of China who have command or clear and direct 
+     decision-making power in the Chinese Coast Guard and the 
+     Chinese People's Armed Police and are engaged in planning or 
+     implementing activities that involve the use of force against 
+     Taiwan;
+       (3) senior or special advisors to the General Secretary of 
+     the Chinese Communist Party, the Chairman of the Central 
+     Military Commission, or the President of the People's 
+     Republic of China;
+       (4) officials of the Government of the People's Republic of 
+     China who are members of the top decision-making bodies of 
+     that Government;
+       (5) the highest-ranking Chinese Communist Party members of 
+     the decision-making bodies referred to in paragraph (4); and
+       (6) officials of the Government of the People's Republic of 
+     China in the intelligence agencies or security services who--
+       (A) have clear and direct decision-making power; and
+       (B) have engaged in or implemented activities that--
+       (i) materially undermine the military readiness of Taiwan;
+       (ii) overthrow or decapitate the Taiwan's government;
+       (iii) debilitate Taiwan's electric grid, critical 
+     infrastructure, or cybersecurity systems through offensive 
+     electronic or cyber attacks;
+       (iv) undermine Taiwan's democratic processes through 
+     campaigns to spread disinformation; or
+       (v) involve committing serious human rights abuses against 
+     citizens of Taiwan, including forceful transfers, enforced 
+     disappearances, unjust detainment, or torture.
+       (c) Additional Officials.--
+       (1) List required.--Not later than 30 days after making a 
+     covered determination, and every 90 days thereafter, the 
+     President shall submit a list to the appropriate 
+     congressional committees that identifies any additional 
+     foreign persons who--
+       (A) the President determines are officials specified in 
+     subsection (b); and
+       (B) who were not included on any previous list of such 
+     officials.
+       (2) Imposition of sanctions.--Upon the submission of the 
+     list required under paragraph (1), the President shall impose 
+     the sanctions described in subsection (d) with respect to 
+     each official included on the list.
+       (d) Sanctions Described.--The sanctions described in this 
+     subsection to be imposed with respect to an official 
+     specified in subsection (b) or (c) are the following:
+       (1) Blocking of property.--
+       (A) In general.--The President shall exercise all of the 
+     powers granted by the International Emergency Economic Powers 
+     Act (50 U.S.C. 1701 et seq.) to block and prohibit all 
+     transactions in all property and interests in property of the 
+     official if such property and interests in property are in 
+     the United States, come within the United States, or are or 
+     come within the possession or control of a United States 
+     person.
+       (B) Inapplicability of national emergency requirement.--The 
+     requirements of section 202 of the International Emergency 
+     Economic Powers Act (50 U.S.C. 1701) shall not apply for 
+     purposes of this section.
+       (2) Ineligibility for visas, admission, or parole.--
+       (A) Visas, admission, or parole.--The official shall be--
+       (i) inadmissible to the United States;
+       (ii) ineligible to receive a visa or other documentation to 
+     enter the United States; and
+       (iii) otherwise ineligible to be admitted or paroled into 
+     the United States or to receive any other benefit under the 
+     Immigration and Nationality Act (8 U.S.C. 1101 et seq.).
+       (B) Current visas revoked.--
+       (i) In general.--The visa or other entry documentation of 
+     the official shall be revoked, regardless of when such visa 
+     or other entry documentation is or was issued.
+       (ii) Immediate effect.--A revocation under subparagraph (A) 
+     shall--
+
+       (I) take effect immediately; and
+       (II) automatically cancel any other valid visa or entry 
+     documentation that is in the official's possession.
+
+       (e) Exception for Compliance With International Obligations 
+     and Law Enforcement Activities.--Sanctions under this section 
+     shall not apply with respect to an official if--
+       (1) admitting or paroling the official into the United 
+     States is necessary--
+       (A) to permit the United States to comply with the 
+     Agreement regarding the Headquarters of the United Nations, 
+     signed at Lake Success on June 26, 1947, and entered into 
+     force November 21, 1947, between the United Nations and the 
+     United States, or other applicable international obligations 
+     of the United States; or
+       (B) to carry out or assist law enforcement activity in the 
+     United States; or
+       (2) the alien holds a valid, unexpired A-1, A-2, C-2, G-1, 
+     or G-2 visa.
+       (f) Top Decision-making Bodies Defined.--In this section, 
+     the term ``top decision-making bodies'' may include--
+       (1) the Political Bureau of the Central Committee of the 
+     Chinese Communist Party;
+       (2) the Standing Committee of the Political Bureau of the 
+     Central Committee of the Chinese Communist Party;
+       (3) the Central Military Commission of the Chinese 
+     Communist Party;
+       (4) the Central Military Commission of the People's 
+     Republic of China;
+       (5) the National People's Congress of the People's Republic 
+     of China;
+       (6) the Central Committee of the Chinese Communist Party; 
+     and
+       (7) the State Council of the People's Republic of China.
+
+     SEC. 1707. IMPOSITION OF SANCTIONS WITH RESPECT TO FINANCIAL 
+                   INSTITUTIONS AFFILIATED WITH THE GOVERNMENT OF 
+                   THE PEOPLE'S REPUBLIC OF CHINA.
+
+       (a) In General.--Not later than 3 days after a covered 
+     determination is made, the Secretary of the Treasury--
+       (1) shall impose the sanctions described in subsection (b) 
+     with respect to--
+       (A) the People's Bank of China; and
+       (B) state-owned banks; and
+       (2) may impose those sanctions with respect to any 
+     subsidiary of, or successor entity to, a state-owned bank.
+       (b) Sanctions Described.--The sanctions described in this 
+     subsection are the following:
+       (1) Blocking of property.--
+       (A) In general.--The President shall exercise all of the 
+     powers granted to the President under the International 
+     Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) to the 
+     extent necessary to block and prohibit all transactions in 
+     property and interests in property of a financial institution 
+     subject to subsection (a) if such property and interests in 
+     property are in the United States, come within the United 
+     States, or are or come within the possession or control of a 
+     United States person.
+       (B) Inapplicability of national emergency requirement.--The 
+     requirements of section 202 of the International Emergency 
+     Economic Powers Act (50 U.S.C. 1701) shall not apply for 
+     purposes of this section.
+       (2) Restrictions on correspondent and payable-through 
+     accounts.--The President shall prohibit the opening, and 
+     prohibit or impose strict conditions on the maintaining, in 
+     the United States of a correspondent account or payable-
+     through account by a financial institution subject to 
+     subsection (a).
+       (c) State-owned Bank Defined.--In this section, the term 
+     ``state-owned bank''--
+       (1) means a bank that--
+       (A) is incorporated in the People's Republic of China; and
+       (B) is owned in whole or part by the Government of the 
+     People's Republic of China; and
+       (2) includes--
+       (A) the Export-Import Bank of China;
+       (B) the China Development Bank;
+       (C) the Agricultural Development Bank of China;
+       (D) the Industrial and Commercial Bank of China;
+
+[[Page S4408]]
+
+       (E) the China Construction Bank;
+       (F) the Bank of Communications;
+       (G) the Agricultural Bank of China; and
+       (H) the Bank of China.
+
+     SEC. 1708. IMPOSITION OF SANCTIONS WITH RESPECT TO ENTITIES 
+                   OWNED BY OR AFFILIATED WITH THE GOVERNMENT OF 
+                   THE PEOPLE'S REPUBLIC OF CHINA OR THE CHINESE 
+                   COMMUNIST PARTY.
+
+       (a) In General.--Not later than 3 days after a covered 
+     determination is made, the Secretary of the Treasury shall 
+     impose the sanctions described in subsection (b) with respect 
+     to any entity that--
+       (1) the Government of the People's Republic of China or the 
+     Chinese Communist Party has an ownership interest in; or
+       (2) is otherwise affiliated with the Government of the 
+     People's Republic of China or the Chinese Communist Party.
+       (b) Blocking of Property.--
+       (1) In general.--The President shall exercise all of the 
+     powers granted to the President under the International 
+     Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) to the 
+     extent necessary to block and prohibit all transactions in 
+     property and interests in property of an entity subject to 
+     subsection (a) if such property and interests in property are 
+     in the United States, come within the United States, or are 
+     or come within the possession or control of a United States 
+     person.
+       (2) Inapplicability of national emergency requirement.--The 
+     requirements of section 202 of the International Emergency 
+     Economic Powers Act (50 U.S.C. 1701) shall not apply for 
+     purposes of this section.
+
+     SEC. 1709. PROHIBITION ON TRANSFERS OF FUNDS INVOLVING THE 
+                   PEOPLE'S REPUBLIC OF CHINA.
+
+       (a) In General.--Except as provided by subsection (b), not 
+     later than 3 days after a covered determination is made, a 
+     depository institution (as defined in section 19(b)(1)(A) of 
+     the Federal Reserve Act (12 U.S.C. 461(b)(1)(A))) or a broker 
+     or dealer in securities registered with the Securities and 
+     Exchange Commission under the Securities Exchange Act of 1934 
+     (15 U.S.C. 78a et seq.) may not process transfers of funds--
+       (1) to or from the People's Republic of China; or
+       (2) for the direct or indirect benefit of officials of the 
+     Government of the People's Republic of China or members of 
+     the Chinese Communist Party.
+       (b) Exception.--A depository institution, broker, or dealer 
+     described in subsection (a) may process a transfer described 
+     in that subsection if the transfer--
+       (1) arises from, and is ordinarily incident and necessary 
+     to give effect to, an underlying transaction that is 
+     authorized by a specific or general license; and
+       (2) does not involve debiting or crediting an Chinese 
+     account.
+
+     SEC. 1710. PROHIBITION ON LISTING OR TRADING OF CHINESE 
+                   ENTITIES ON UNITED STATES SECURITIES EXCHANGES.
+
+       (a) In General.--The Securities and Exchange Commission 
+     shall prohibit the securities of an issuer described in 
+     subsection (b) from being traded on a national securities 
+     exchange on and after the date that is 3 days after a covered 
+     determination is made.
+       (b) Issuers.--An issuer described in this subsection is an 
+     issuer that is--
+       (1) an official of or individual affiliated with the 
+     Government of the People's Republic of China or the Chinese 
+     Communist Party; or
+       (2) an entity that--
+       (A) the Government of the People's Republic of China or the 
+     Chinese Communist Party has an ownership interest in; or
+       (B) is otherwise affiliated with the Government of the 
+     People's Republic of China or the Chinese Communist Party.
+       (c) Definitions.--In this section:
+       (1) Issuer; security.--The terms ``issuer'' and 
+     ``security'' have the meanings given those terms in section 
+     3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c).
+       (2) National securities exchange.--The term ``national 
+     securities exchange'' means an exchange registered as a 
+     national securities exchange in accordance with section 6 of 
+     the Securities Exchange Act of 1934 (15 U.S.C. 78f).
+
+     SEC. 1711. PROHIBITION ON INVESTMENTS BY UNITED STATES 
+                   FINANCIAL INSTITUTIONS THAT BENEFIT THE 
+                   GOVERNMENT OF THE PEOPLE'S REPUBLIC OF CHINA OR 
+                   THE CHINESE COMMUNIST PARTY.
+
+       (a) In General.--Not later than 3 days after a covered 
+     determination is made, the Secretary of the Treasury shall 
+     prohibit any United States financial institution from making 
+     any investments described in subsection (b).
+       (b) Investments Described.--An investment described in this 
+     subsection is a monetary investment--
+       (1) to--
+       (A) an entity owned or controlled by the Government of the 
+     People's Republic of China or the Chinese Communist Party; or
+       (B) the People's Liberation Army; or
+       (2) for the benefit of any priority industrial sector 
+     identified in the ``Made in China 2025'' plan or the ``14th 
+     Five Year Smart Manufacturing Development Plan'', including--
+       (A) agriculture machinery;
+       (B) information technology;
+       (C) artificial intelligence, machine learning, and 
+     robotics;
+       (D) green energy and green vehicles;
+       (E) aerospace equipment;
+       (F) ocean engineering and high tech ships;
+       (G) railway equipment;
+       (H) power equipment;
+       (I) new materials;
+       (J) medicine and medical devices;
+       (K) fifth generation and future generation 
+     telecommunications and other advanced wireless networking 
+     technologies;
+       (L) semiconductor manufacturing;
+       (M) biotechnology;
+       (N) quantum computing;
+       (O) surveillance technologies, including facial recognition 
+     technologies and censorship software;
+       (P) fiber optic cables; and
+       (Q) mining and resource development.
+       (c) United States Financial Institution Defined.--In this 
+     section, the term ``United States financial institution''--
+       (1) means any financial institution that is a United States 
+     person; and
+       (2) includes an investment company, private equity company, 
+     venture capital company, or hedge fund that is a United 
+     States person.
+
+     SEC. 1712. PROHIBITION ON ENERGY EXPORTS TO, AND INVESTMENTS 
+                   IN ENERGY SECTOR OF, THE PEOPLE'S REPUBLIC OF 
+                   CHINA.
+
+       (a) Prohibition on Exports.--
+       (1) In general.--On and after the date that is 3 days after 
+     a covered determination is made, the Secretary of Commerce 
+     shall prohibit, under the Export Control Reform Act of 2018 
+     (50 U.S.C. 4801 et seq.), the export, reexport, or in-country 
+     transfer to or in the People's Republic of China any energy 
+     or energy product produced in the United States.
+       (2) Definitions.--In this subsection, the terms ``export'', 
+     ``in-country transfer'', ``reexport'', and ``United States 
+     person'' have the meanings given those terms in section 1742 
+     of the Export Control Reform Act of 2018 (50 U.S.C. 4801).
+       (b) Prohibition on Investments.--On and after the date that 
+     is 3 days after a covered determination is made, a United 
+     States person may not make an investment in the energy sector 
+     of the People's Republic of China.
+
+     SEC. 1713. SUSPENSION OF NORMAL TRADE RELATIONS WITH THE 
+                   PEOPLE'S REPUBLIC OF CHINA.
+
+       Notwithstanding the provisions of title I of Public Law 
+     106-286 (114 Stat. 880) or any other provision of law, 
+     beginning on the date that is 3 days after a covered 
+     determination is made, normal trade relations treatment shall 
+     not apply pursuant to section 101(a) of that Act to the 
+     products of the People's Republic of China.
+
+     SEC. 1714. EXCEPTIONS; WAIVER.
+
+       (a) Exception for Intelligence Activities.--This title 
+     shall not apply with respect to activities subject to the 
+     reporting requirements under title V of the National Security 
+     Act of 1947 (50 U.S.C. 3091 et seq.) or any authorized 
+     intelligence activities of the United States.
+       (b) National Security Waiver.--The President may waive the 
+     imposition of sanctions under this title with respect to a 
+     person if the President--
+       (1) determines that such a waiver is in the national 
+     security interests of the United States; and
+       (2) submits to the appropriate congressional committees a 
+     notification of the waiver and the reasons for the waiver.
+
+     SEC. 1715. IMPLEMENTATION; PENALTIES.
+
+       (a) Implementation.--The President may exercise all 
+     authorities provided under sections 203 and 205 of the 
+     International Emergency Economic Powers Act (50 U.S.C. 1702 
+     and 1704) to carry out this title.
+       (b) Penalties.--A person that violates, attempts to 
+     violate, conspires to violate, or causes a violation of this 
+     title or any regulation, license, or order issued to carry 
+     out this title shall be subject to the penalties set forth in 
+     subsections (b) and (c) of section 206 of the International 
+     Emergency Economic Powers Act (50 U.S.C. 1705) to the same 
+     extent as a person that commits an unlawful act described in 
+     subsection (a) of that section.
+                                 ______
+```

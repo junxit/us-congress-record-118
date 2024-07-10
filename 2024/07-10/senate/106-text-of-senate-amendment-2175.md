@@ -1,0 +1,206 @@
+---
+granule: CREC-2024-07-10-pt1-PgS4415
+date: 2024-07-10
+edition: CREC
+section: SENATE
+page: S4415
+citation: 170 Cong. Rec. S4415
+---
+
+# Text of Senate Amendment 2175
+
+**Speaking:** Cortez Masto, Catherine (C001113) [D-NV]
+
+```
+  SA 2175. Ms. CORTEZ MASTO (for herself and Mr. Grassley) submitted an 
+amendment intended to be proposed by her to the bill S. 4638, to 
+authorize appropriations for fiscal year 2025 for military activities 
+of the Department of Defense, for military construction, and for 
+defense activities of the Department of Energy, to prescribe military 
+personnel strengths for such fiscal year, and for other purposes; which 
+was ordered to lie on the table; as follows:
+
+       At the appropriate place, insert the following:
+
+                 TITLE ___--COMBATING ILLICIT XYLAZINE
+
+     SEC. ___01. SHORT TITLE.
+
+       This title may be cited as the ``Combating Illicit Xylazine 
+     Act''.
+
+     SEC. ___02. FINDINGS.
+
+       Congress finds the following:
+       (1) Illicit xylazine presents an urgent threat to public 
+     health and safety.
+       (2) The proliferation of xylazine as an additive to illicit 
+     drugs such as fentanyl and other narcotics threatens to 
+     exacerbate the opioid public health emergency.
+       (3) There is currently no drug approved by the Food and 
+     Drug Administration to reverse the effects of xylazine in 
+     humans.
+       (4) The adverse effects resulting from the use of xylazine 
+     in humans, including depressed breathing and heart rate and 
+     unconsciousness, necrosis, sometimes leading to amputation, 
+     and other permanent physical health consequences have been 
+     observed in humans using xylazine.
+       (5) The spread of illicit xylazine use has followed 
+     geographic patterns seen in the spread of illicit fentanyl 
+     use, with proliferation encountered initially in the 
+     Northeastern United States and later spreading south and 
+     west.
+       (6) Prompt action to control illicit xylazine will help 
+     limit further proliferation of illicit xylazine, saving 
+     countless lives.
+
+     SEC. ___03. DEFINITIONS.
+
+       (a) In General.--In this title, the term ``xylazine'' has 
+     the meaning given the term in paragraph (60) of section 102 
+     of the Controlled Substances Act, as added by subsection (b) 
+     of this section.
+       (b) Controlled Substances Act.--Section 102 of the 
+     Controlled Substances Act (21 U.S.C. 802) is amended--
+       (1) by redesignating the second paragraph (57) (relating to 
+     serious drug felony) and paragraph (58) as paragraphs (58) 
+     and (59), respectively; and
+       (2) by adding at the end the following:
+       ``(60) The term `xylazine' means the substance xylazine, 
+     including its salts, isomers, and salts of isomers whenever 
+     the existence of such salts, isomers, and salts of isomers is 
+     possible.''.
+
+[[Page S4416]]
+
+  
+
+
+     SEC. ___04. ADDING XYLAZINE TO SCHEDULE III.
+
+       Schedule III of section 202(c) of the Controlled Substances 
+     Act (21 U.S.C. 812) is amended by adding at the end the 
+     following:
+       ``(f) Unless specifically excepted or unless listed in 
+     another schedule, any material, compound, mixture, or 
+     preparation which contains any quantity of xylazine.''.
+
+     SEC. ___05. AMENDMENTS.
+
+       (a) Amendment.--Section 102 of the Controlled Substances 
+     Act (21 U.S.C. 802) is amended by striking paragraph (27) and 
+     inserting the following:
+       ``(27)(A) Except as provided in subparagraph (B), the term 
+     `ultimate user' means a person who has lawfully obtained, and 
+     who possesses, a controlled substance for the use by the 
+     person or for the use of a member of the household of the 
+     person or for an animal owned by the person or by a member of 
+     the household of the person.
+       ``(B)(i) In the case of xylazine, other than for a drug 
+     product approved under subsection (b) or (j) of section 505 
+     of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355), 
+     the term `ultimate user' means a person--
+       ``(I) to whom xylazine was dispensed by--
+       ``(aa) a veterinarian registered under this Act; or
+       ``(bb) a pharmacy registered under this Act pursuant to a 
+     prescription of a veterinarian registered under this Act; and
+       ``(II) who possesses xylazine for--
+       ``(aa) an animal owned by the person or by a member of the 
+     household of the person;
+       ``(bb) an animal under the care of the person;
+       ``(cc) use in government animal-control programs authorized 
+     under applicable Federal, State, Tribal, or local law; or
+       ``(dd) use in wildlife programs authorized under applicable 
+     Federal, State, Tribal, or local law.
+       ``(ii) In this subparagraph, the term `person' includes--
+       ``(I) a government agency or business where animals are 
+     located; and
+       ``(II) an employee or agent of an agency or business acting 
+     within the scope of their employment or agency.''.
+       (b) Facilities.--An entity that manufactures xylazine, as 
+     of the date of enactment of this Act, shall not be required 
+     to make capital expenditures necessary to install the 
+     security standard required of schedule III of the Controlled 
+     Substances Act (21 U.S.C. 801 et seq.) for the purposes of 
+     manufacturing xylazine.
+       (c) Labeling.--The requirements related to labeling, 
+     packaging, and distribution logistics of a controlled 
+     substance in schedule III of section 202(c) of the Controlled 
+     Substances Act (21 U.S.C. 812(c)) shall not take effect for 
+     xylazine until the date that is 1 year after the date of 
+     enactment of this Act.
+       (d) Practitioner Registration.--The requirements related to 
+     practitioner registration, inventory, and recordkeeping of a 
+     controlled substance in schedule III of section 202(c) of the 
+     Controlled Substances Act (21 U.S.C. 812(c)) shall not take 
+     effect for xylazine until the date that is 60 days after the 
+     date of enactment of this Act. A practitioner that has 
+     applied for registration during the 60-day period beginning 
+     on the date of enactment of this Act may continue their 
+     lawful activities until such application is approved or 
+     denied.
+       (e) Manufacturer Transition.--The Food and Drug 
+     Administration and the Drug Enforcement Administration shall 
+     facilitate and expedite the relevant manufacturer submissions 
+     or applications required by the placement of xylazine on 
+     schedule III of section 202(c) of the Controlled Substances 
+     Act (21 U.S.C. 812(c)).
+       (f) Clarification.--Nothing in this title, or the 
+     amendments made by this title, shall be construed to require 
+     the registration of an ultimate user of xylazine under the 
+     Controlled Substances Act (21 U.S.C. 801 et seq.) in order to 
+     possess xylazine in accordance with subparagraph (B) of 
+     section 102(27) of that Act (21 U.S.C. 802(27)), as added by 
+     subsection (a) of this section.
+
+     SEC. ___06. ARCOS TRACKING.
+
+       Section 307(i) of the Controlled Substances Act (21 U.S.C. 
+     827(i)) is amended--
+       (1) in the matter preceding paragraph (1)--
+       (A) by inserting ``or xylazine'' after ``gamma 
+     hydroxybutyric acid'';
+       (B) by inserting ``or 512'' after ``section 505''; and
+       (C) by inserting ``respectively,'' after ``the Federal 
+     Food, Drug, and Cosmetic Act,''; and
+       (2) in paragraph (6), by inserting ``or xylazine'' after 
+     ``gamma hydroxybutyric acid''.
+
+     SEC. ___07. SENTENCING COMMISSION.
+
+       Pursuant to its authority under section 994(p) of title 28, 
+     United States Code, the United States Sentencing Commission 
+     shall review and, if appropriate, amend its sentencing 
+     guidelines, policy statements, and official commentary 
+     applicable to persons convicted of an offense under section 
+     401 of the Controlled Substances Act (21 U.S.C. 841) or 
+     section 1010 of the Controlled Substances Import and Export 
+     Act (21 U.S.C. 960) to provide appropriate penalties for 
+     offenses involving xylazine that are consistent with the 
+     amendments made by this title. In carrying out this section, 
+     the Commission should consider the common forms of xylazine 
+     as well as its use alongside other scheduled substances.
+
+     SEC. ___08. REPORT TO CONGRESS ON XYLAZINE.
+
+       (a) Initial Report.--Not later than 18 months after the 
+     date of the enactment of this Act, the Attorney General, 
+     acting through the Administrator of the Drug Enforcement 
+     Administration and in coordination with the Commissioner of 
+     Food and Drugs, shall submit to Congress a report on the 
+     prevalence of illicit use of xylazine in the United States 
+     and the impacts of such use, including--
+       (1) where the drug is being diverted;
+       (2) where the drug is originating; and
+       (3) whether any analogues to xylazine, or related or 
+     derivative substances, exist and present a substantial risk 
+     of abuse.
+       (b) Additional Report.--Not later than 4 years after the 
+     date of the enactment of this Act, the Attorney General, 
+     acting through the Administrator of the Drug Enforcement 
+     Administration and in coordination with the Commissioner of 
+     Food and Drugs, shall submit to Congress a report updating 
+     Congress on the prevalence and proliferation of xylazine 
+     trafficking and misuse in the United States.
+                                 ______
+```
