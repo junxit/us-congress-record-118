@@ -1,0 +1,112 @@
+---
+granule: CREC-2024-07-11-pt1-PgS4662-5
+date: 2024-07-11
+edition: CREC
+section: SENATE
+page: S4662
+citation: 170 Cong. Rec. S4662
+---
+
+# Text of Senate Amendment 2325
+
+**Speaking:** King, Angus S., Jr. (K000383) [I-ME]
+
+```
+  SA 2325. Mr. KING (for himself and Ms. Murkowski) submitted an 
+amendment intended to be proposed by him to the bill S. 4638, to 
+authorize appropriations for fiscal year 2025 for military activities 
+of the Department of Defense, for military construction, and for 
+defense activities of the Department of Energy, to prescribe military 
+personnel strengths for such fiscal year, and for other purposes; which 
+was ordered to lie on the table; as follows:
+
+
+[[Page S4663]]
+
+
+  
+
+       At the end of subtitle H of title X, add the following:
+
+     SEC. 1095. NORDIC TRADER AND INVESTOR PARITY.
+
+       (a) Findings.--Congress makes the following findings:
+       (1) The United States and Iceland have a long and steady 
+     bilateral relationship.
+       (2) Diplomatic relations between Iceland and the United 
+     States may be traced back to July 7, 1941, on which date 
+     members of the United States Armed Forces arrived in Iceland 
+     as part of--
+       (A) a bilateral defense agreement; and
+       (B) Presidential Proclamation 2487, dated May 27, 1941 
+     (relating to an unlimited national emergency in the United 
+     States).
+       (3) On June 17, 1944, the United States was the first 
+     country to recognize the independent Republic of Iceland.
+       (4) In 1949, Iceland became a founding member of the North 
+     Atlantic Treaty Organization.
+       (5) On May 5, 1951, the United States and Iceland entered 
+     into the bilateral Defense agreement pursuant to the North 
+     Atlantic Treaty signed at Reykjavik May 5, 1951 (2 UST 1195; 
+     TIAS 2266), which provides for the defense of Iceland.
+       (6) The United States is the largest trading partner of 
+     Iceland, accounting for approximately 20 percent of Iceland's 
+     total trade in goods and services.
+       (7) Iceland serves the commercial and trading interests of 
+     the United States economy, and Icelandic companies bring 
+     investments and jobs to the United States.
+       (8) With \1/3\ of all visitors to Iceland arriving from the 
+     United States, Iceland is a growing tourist destination for 
+     the people of the United States. A visa is not required for 
+     United States citizens seeking to visit Iceland.
+       (9) Treaty trader visas (commonly referred to as ``E-1 
+     visas'') and treaty investor visas (commonly referred to as 
+     ``E-2 visas'')--
+       (A) were established to facilitate and enhance economic 
+     interactions between the United States and other countries; 
+     and
+       (B) are temporary nonimmigrant visas that may be issued to 
+     nationals of a country with which the United States maintains 
+     a treaty of friendship, commerce, and navigation.
+       (10) An E-1 visa may be issued to an individual seeking to 
+     enter the United States for the purpose of engaging in 
+     substantial trade. An E-2 visa may be issued to an individual 
+     seeking to enter the United States for the purpose of 
+     developing and directing the operations of an enterprise in 
+     which the individual has invested.
+       (11) Eligibility for E-1 and E-2 nonimmigrant visas for 
+     citizens and nationals of Iceland is critical to facilitating 
+     Icelandic business and investment in the United States, and 
+     such eligibility will benefit the economies of both the 
+     United States and Iceland.
+       (12) Nationals of more than 80 countries are eligible for 
+     E-1 or E-2 visas.
+       (13) Iceland is the only Nordic partner whose nationals are 
+     not eligible for such visas.
+       (14) Iceland is 1 of only 3 North Atlantic Treaty 
+     Organization member countries whose nationals are not 
+     eligible for such visas.
+       (15) Iceland is one of very few United States allies whose 
+     nationals do not benefit from treaty trader and investor 
+     visas. Providing eligibility for such visas to nationals of 
+     Iceland would ensure parity between Iceland and other 
+     countries with which the United States maintains treaties of 
+     friendship, commerce, and navigation.
+       (16) Iceland does not place barriers on United States 
+     investors or traders wishing to enter the Icelandic market.
+       (17) Adding Iceland to the list of countries whose 
+     nationals are eligible for E-1 and E-2 nonimmigrant visas 
+     would--
+       (A) improve the strong relationship between the United 
+     States and Iceland; and
+       (B) promote and increase investment in the United States by 
+     nationals of Iceland.
+       (b) Eligibility of Icelandic Traders and Investors for E-1 
+     and E-2 Nonimmigrant Visas.--For purposes of clauses (i) and 
+     (ii) of section 101(a)(15)(E) of the Immigration and 
+     Nationality Act (8 U.S.C. 1101(a)(15)(E)), Iceland shall be 
+     considered to be a foreign state under such section if the 
+     Government of Iceland provides similar nonimmigrant status to 
+     nationals of the United States.
+                                 ______
+```

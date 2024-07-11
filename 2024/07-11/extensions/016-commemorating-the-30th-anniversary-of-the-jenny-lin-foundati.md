@@ -1,0 +1,58 @@
+---
+granule: CREC-2024-07-11-pt1-PgE724
+date: 2024-07-11
+edition: CREC
+section: EXTENSIONS
+page: E724
+citation: 170 Cong. Rec. E724
+---
+
+# COMMEMORATING THE 30TH ANNIVERSARY OF THE JENNY LIN FOUNDATION
+
+**Speaking:** Swalwell, Eric (S001193) [D-CA]
+
+```
+     COMMEMORATING THE 30TH ANNIVERSARY OF THE JENNY LIN FOUNDATION
+
+                                 ______
+                                 
+
+                           HON. ERIC SWALWELL
+
+                             of california
+
+                    in the house of representatives
+
+                        Thursday, July 11, 2024
+
+  Mr. SWALWELL. Mr. Speaker, I rise to recognize the Jenny Lin 
+Foundation, which provides music education and public safety programs, 
+on the occasion of its 30th anniversary, which our community will 
+commemorate this month.
+  The Jenny Lin Foundation was created in 1994 in response to the 
+tragic murder of its namesake, a 14-year-old Castro Valley resident, in 
+her own home after returning from school. Jenny was a straight-A 
+student passionate about music and friendship.
+  To keep Jenny's memory alive, her parents, Mei-Lian and John Lin, 
+established the nonprofit in Castro Valley to their daughter's name. 
+The Foundation provides student music scholarships, public safety 
+community events, and an annual summer music program.
+  The hallmark summer music program is free of charge to students in 
+the Bay Area and offers programs for orchestra, band, and choir. After 
+the five-week program, participants perform in large concerts for the 
+community to enjoy.
+  In 2023, over 200 students from 29 schools across 12 Bay Area cities 
+participated in the program cosponsored by Chabot Community College.
+  The Jenny Lin Foundation also hosts safety fairs and workshops to 
+inform our communities about child safety precautions for parents and 
+children. One specific advocacy effort was the Foundation's work to 
+increase the number of books covering safety themes available at East 
+Bay public libraries. In 2023, the Jenny Lin Foundation received the 
+Jefferson Award for Public Service. This is the most prestigious public 
+service award in the United States and was well-deserved.
+  I join the community in continuing to mourn the tragic loss of Jenny 
+30 years ago and admire Mei-Tian and John's resilience demonstrated 
+through their community engagement and advocacy after such a tragic 
+loss. May their efforts continue to uplift and support the community 
+and keep the memory of Jenny alive in our hearts.
+```

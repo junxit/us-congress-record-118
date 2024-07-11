@@ -1,0 +1,196 @@
+---
+granule: CREC-2024-07-11-pt1-PgS4714
+date: 2024-07-11
+edition: CREC
+section: SENATE
+page: S4714
+citation: 170 Cong. Rec. S4714
+---
+
+# Text of Senate Amendment 2380
+
+**Speaking:** Baldwin, Tammy (B001230) [D-WI]
+
+```
+  SA 2380. Ms. BALDWIN submitted an amendment intended to be proposed 
+by her to the bill S. 4638, to authorize appropriations for fiscal year 
+2025 for military activities of the Department of Defense, for military 
+construction, and for defense activities of the Department of Energy, 
+to prescribe military personnel strengths for such fiscal year, and for 
+other purposes; which was ordered to lie on the table; as follows:
+
+       At the end of subtitle H of title X, add the following:
+
+     SEC. 1095. AUTHORITY FOR SECRETARY OF VETERANS AFFAIRS TO 
+                   AWARD GRANTS TO STATES AND INDIAN TRIBES TO 
+                   IMPROVE OUTREACH TO VETERANS.
+
+       (a) In General.--Subchapter II of chapter 63 of title 38, 
+     United States Code, is amended by adding at the end the 
+     following new section:
+
+     ``Sec. 6321. Grants to States and Indian Tribes to improve 
+       outreach to veterans
+
+       ``(a) Purpose.--It is the purpose of this section to 
+     provide for assistance by the Secretary to States and Indian 
+     Tribes to carry out programs that improve covered outreach 
+     and assistance to veterans and the spouses, children, and 
+     parents of veterans--
+       ``(1) to ensure that such individuals are fully informed 
+     about, and assisted in applying for, any veterans and 
+     veterans-related benefits and programs (including veterans 
+     programs of a State or Indian Tribe) for which they may be 
+     eligible; and
+       ``(2) to facilitate opportunities for such individuals to 
+     receive competent, qualified services in the preparation, 
+     presentation, and prosecution of claims for such benefits.
+       ``(b) Authority.--The Secretary may award grants to States 
+     and Indian Tribes--
+       ``(1) to carry out, coordinate, improve, or otherwise 
+     enhance--
+       ``(A) covered outreach activities; or
+       ``(B) activities to assist in the development and submittal 
+     of claims for veterans and veterans-related benefits; or
+       ``(2) to increase the number of county or Tribal veterans 
+     service officers serving in a State by hiring new, additional 
+     such officers.
+       ``(c) Application.--(1) To be eligible for a grant under 
+     this section, a State or Indian Tribe shall submit to the 
+     Secretary an application therefor at such time, in such 
+     manner, and containing such information as the Secretary may 
+     require.
+       ``(2) Each application submitted under paragraph (1) shall 
+     include the following:
+       ``(A) A detailed plan for the use of the grant.
+       ``(B) A description of the programs through which the State 
+     or Indian Tribe will meet the outcome measures developed by 
+     the Secretary under subsection (j).
+       ``(C) A description of how the State or Indian Tribe will 
+     distribute grant amounts equitably among counties or Tribal 
+     lands with varying levels of urbanization.
+       ``(D) A plan for how the grant will be used to meet the 
+     unique needs of American Indian veterans, Alaska Native 
+     veterans, or Native Hawaiian veterans, elderly veterans, and 
+     veterans from other underserved communities.
+       ``(d) Distribution.--The Secretary shall seek to ensure 
+     that grants awarded under this section are equitably 
+     distributed among States and Indian Tribes with varying 
+     levels of urbanization.
+       ``(e) Set-aside.--Of the amounts authorized to be 
+     appropriated or otherwise made available for grants under 
+     this section for any fiscal year, the Secretary shall use not 
+     less than five percent to make grants to Indian Tribes.
+       ``(f) Priority.--The Secretary shall prioritize awarding 
+     grants under this section that will serve the following 
+     areas:
+       ``(1) Areas with a critical shortage of county or Tribal 
+     veterans service officers.
+       ``(2) Areas with high rates of--
+       ``(A) suicide among veterans; or
+       ``(B) referrals to the Veterans Crisis Line.
+       ``(g) Use of County or Tribal Veterans Service Officers.--A 
+     State or Indian Tribe that receives a grant under this 
+     section to carry out an activity described in subsection 
+     (b)(1) shall carry out the activity through--
+       ``(1) a county or Tribal veterans service officer of the 
+     State or Indian Tribe; or
+
+[[Page S4715]]
+
+       ``(2) if the State or Indian Tribe does not have a county 
+     or Tribal veterans service officer, or if the county or 
+     Tribal veterans service officers of the State or Indian Tribe 
+     cover only a portion of that State or Indian Tribe, an 
+     appropriate entity of a State, local, or Tribal government, 
+     as determined by the Secretary.
+       ``(h) Required Activities.--Any grant awarded under this 
+     section shall be used--
+       ``(1) to expand existing programs, activities, and 
+     services;
+       ``(2) to hire new, additional county or Tribal veterans 
+     service officers; or
+       ``(3) for travel and transportation to facilitate carrying 
+     out paragraph (1) or (2).
+       ``(i) Authorized Activities.--A grant under this section 
+     may be used to provide education and training, including on-
+     the-job training, for State, county, local, and Tribal 
+     government employees who provide (or when trained will 
+     provide) covered outreach services in order for those 
+     employees to obtain accreditation in accordance with 
+     procedures approved by the Secretary.
+       ``(j) Outcome Measures.--(1) The Secretary shall develop 
+     and provide to each State or Indian Tribe that receives a 
+     grant under this section written guidance on the following:
+       ``(A) Outcome measures.
+       ``(B) Policies of the Department.
+       ``(2) In developing outcome measures under paragraph (1), 
+     the Secretary shall consider the following goals:
+       ``(A) Increasing the use of veterans and veterans-related 
+     benefits, particularly among vulnerable populations.
+       ``(B) Increasing the number of county and Tribal veterans 
+     service officers recognized by the Secretary for the 
+     representation of veterans under chapter 59 of this title.
+       ``(k) Tracking Requirements.--(1) With respect to each 
+     grant awarded under this section, the Secretary shall track 
+     the use of veterans and veterans-related benefits among the 
+     population served by the grant, including the average period 
+     of time between the date on which a veteran applies for such 
+     a benefit and the date on which the veteran receives the 
+     benefit, disaggregated by type of benefit.
+       ``(2) Not less frequently than annually during the duration 
+     of the grant program under this section, the Secretary shall 
+     submit to Congress a report on--
+       ``(A) information tracked under paragraph (1);
+       ``(B) how the grants awarded under this section serve the 
+     unique needs of American Indian veterans, Alaska Native 
+     veterans, or Native Hawaiian veterans, elderly veterans, and 
+     veterans from other underserved communities; and
+       ``(C) other information provided by States and Indian 
+     Tribes pursuant to grant reporting requirements.
+       ``(l) Performance Review.--(1) The Secretary shall--
+       ``(A) review the performance of each State and Indian Tribe 
+     that receives a grant under this section; and
+       ``(B) make information regarding such performance publicly 
+     available.
+       ``(m) Remediation Plan.--(1) In the case of a State or 
+     Indian Tribe that receives a grant under this section and 
+     does not meet the outcome measures developed by the Secretary 
+     under subsection (j), the Secretary shall require the State 
+     or Indian Tribe to submit a remediation plan under which the 
+     State or Indian Tribe shall describe how and when it plans to 
+     meet such outcome measures.
+       ``(2) The Secretary may not award a subsequent grant under 
+     this section to a State or Indian Tribe described in 
+     paragraph (1) unless the Secretary approves the remediation 
+     plan submitted by the State or Indian Tribe.
+       ``(n) Definitions.--In this section:
+       ``(1) The term `county or Tribal veterans service officer' 
+     includes a local equivalent veterans service officer.
+       ``(2) The term `covered outreach' means outreach with 
+     respect to--
+       ``(A) benefits administered by the Under Secretary for 
+     Benefits; or
+       ``(B) similar benefits administered by a State or Indian 
+     Tribe.
+       ``(3) The term `Indian Tribe' has the meaning given that 
+     term in section 4 of the Indian Self-Determination and 
+     Education Assistance Act (25 U.S.C. 5304).
+       ``(4) The term `State' includes the District of Columbia, 
+     the Commonwealth of Puerto Rico, the Commonwealth of the 
+     Northern Mariana Islands, and any territory or possession of 
+     the United States.
+       ``(5) The term `Veterans Crisis Line' means the toll-free 
+     hotline for veterans established under section 1720F(h) of 
+     this title.
+       ``(o) Authorization of Appropriations.--There is authorized 
+     to be appropriated to the Secretary to carry out this section 
+     $10,000,000 for each of fiscal years 2025 and 2026.''.
+       (b) Clerical Amendment.--The table of sections at the 
+     beginning of chapter 63 of such title is amended by adding at 
+     the end the following new item:
+
+``6321. Grants to States and Indian Tribes to improve outreach to 
+              veterans.''.
+                                 ______
+```

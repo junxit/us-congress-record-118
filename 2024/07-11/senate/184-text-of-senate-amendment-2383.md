@@ -1,0 +1,228 @@
+---
+granule: CREC-2024-07-11-pt1-PgS4729
+date: 2024-07-11
+edition: CREC
+section: SENATE
+page: S4729
+citation: 170 Cong. Rec. S4729
+---
+
+# Text of Senate Amendment 2383
+
+**Speaking:** Casey, Robert P., Jr. (C001070) [D-PA]
+
+```
+  SA 2383. Mr. CASEY (for himself, Ms. Collins, Mr. Crapo, Ms. Rosen, 
+Mr. Scott of Florida, and Mr. Fetterman) submitted an amendment 
+intended to be proposed by him to the bill S. 4638, to authorize 
+appropriations for fiscal year 2025 for military activities of the 
+Department of Defense, for military construction, and for defense 
+activities of the Department of Energy, to prescribe military personnel 
+strengths for such fiscal year, and for other purposes; which was 
+ordered to lie on the table; as follows:
+
+       At the end of title X, insert the following:
+
+Subtitle I--Commission to Study the Potential Transfer of the Weitzman 
+     National Museum of American Jewish History to the Smithsonian 
+                            Institution Act
+
+     SEC. 1096. SHORT TITLE.
+
+       This subtitle may be cited as the ``Commission to Study the 
+     Potential Transfer of the Weitzman National Museum of 
+     American Jewish History to the Smithsonian Institution Act''.
+
+     SEC. 1096A. ESTABLISHMENT OF COMMISSION.
+
+       (a) In General.--There is established the Commission to 
+     Study the Potential Transfer of the Weitzman National Museum 
+     of American Jewish History to the Smithsonian Institution 
+     (hereafter in this subtitle referred to as the 
+     ``Commission'').
+       (b) Membership.--The Commission shall be composed of 8 
+     members, of whom--
+       (1) 2 members shall be appointed by the majority leader of 
+     the Senate;
+       (2) 2 members shall be appointed by the Speaker of the 
+     House of Representatives;
+       (3) 2 members shall be appointed by the minority leader of 
+     the Senate; and
+       (4) 2 members shall be appointed by the minority leader of 
+     the House of Representatives.
+       (c) Qualification.--Members of the Commission shall be 
+     appointed to the Commission from among individuals, or 
+     representatives of institutions or entities, who possess--
+       (1)(A) a demonstrated commitment to the research, study, or 
+     promotion of Jewish American history, art, political or 
+     economic status, or culture; and
+       (B)(i) expertise in museum administration;
+       (ii) expertise in fund-raising for nonprofit or cultural 
+     institutions;
+       (iii) experience in the study and teaching of Jewish 
+     American history;
+       (iv) experience in the study and teaching of combating and 
+     countering antisemitism;
+       (v) experience in studying the issue of the representation 
+     of Jewish Americans in art, life, history, and culture at the 
+     Smithsonian Institution; or
+       (vi) extensive experience in public or elected service;
+       (2) experience in the administration of, or the strategic 
+     planning for, museums; or
+       (3) experience in the planning or design of museum 
+     facilities.
+       (d) Deadline for Initial Appointment.--The initial members 
+     of the Commission shall be appointed not later than the date 
+     that is 90 days after the date of enactment of this subtitle.
+       (e) Vacancies.--A vacancy in the Commission--
+       (1) shall not affect the powers of the Commission; and
+       (2) shall be filled in the same manner as the original 
+     appointment was made.
+       (f) Chairperson.--The Commission shall, by majority vote of 
+     all of the members, select 1 member of the Commission to 
+     serve as the Chairperson of the Commission.
+       (g) Prohibition.--No employee of the Federal Government may 
+     serve as a member of the Commission.
+
+     SEC. 1096B. DUTIES OF COMMISSION.
+
+       (a) Reports and Other Deliverables.--Not later than 2 years 
+     after the date of the first meeting of the Commission, the 
+     Commission shall submit to the President and to Congress the 
+     report, plan, and recommendations described in paragraphs (1) 
+     through (3).
+       (1) Report on issues.--A report that addresses the 
+     following issues relating to the Weitzman National Museum of 
+     American Jewish History in Philadelphia, PA, and its environs 
+     (hereafter in this subtitle referred to as the ``Museum''):
+       (A) The collections held by the Museum at the time of the 
+     report, the extent to which such collections are already 
+     represented in the Smithsonian Institution and Federal 
+     memorials at the time of the report, and the availability and 
+     cost of future collections to be acquired and housed in the 
+     Museum.
+       (B) The impact of the Museum on educational and 
+     governmental efforts to study and counter antisemitism.
+       (C) The financial assets and liabilities held by the 
+     Museum, and the cost of operating and maintaining the Museum.
+       (D) The governance and organizational structure from which 
+     the Museum should operate if transferred to the Smithsonian 
+     Institution.
+       (E) The financial and legal considerations associated with 
+     the potential transfer of the Museum to the Smithsonian 
+     Institution, including--
+       (i) any donor or legal restrictions on the Museum's 
+     collections, endowments, and real estate;
+       (ii) costs associated with actions that will be necessary 
+     to resolve the status of employees of the Museum, if the 
+     Museum is transferred to the Smithsonian Institution;
+       (iii) all additional costs for the Smithsonian Institution 
+     that would be associated with operating and maintaining a new 
+     museum outside of the Washington, D.C. metropolitan area; and
+       (iv) policy and legal restrictions that would become 
+     applicable to the Museum if transferred to the Smithsonian 
+     Institution.
+       (F) The feasibility of the Museum becoming part of the 
+     Smithsonian Institution, taking into account the Museum's 
+     potential impact on the Smithsonian's existing facilities 
+     maintenance backlog, collections storage needs, and 
+     identified construction or renovation costs for new or 
+     existing museums.
+       (2) Fund-raising plan.--A fund-raising plan that addresses 
+     the following topics:
+       (A) The ability to support the transfer, operation, and 
+     maintenance of the Museum through contributions from the 
+     public, including potential charges for admission.
+       (B) Any potential issues with funding the operations and 
+     maintenance of the Museum in perpetuity without reliance on 
+     appropriations of Federal funds.
+       (3) Legislative recommendations.--A report containing 
+     recommendations regarding a legislative plan for transferring 
+     the Museum to the Smithsonian Institution, which shall 
+     include each of the following:
+       (A) Proposals regarding the time frame, one-time 
+     appropriations level, and continuing appropriations levels 
+     that might be included in such legislation.
+       (B) Recommendations for the future name of the Museum if it 
+     is transferred to the Smithsonian Institution.
+       (b) National Conference.--Not later than 2 years after the 
+     date on which the initial members of the Commission are 
+     appointed under section 1096A, the Commission may, in 
+     carrying out the duties of the Commission under this section, 
+     convene a national conference relating to the Museum, to be 
+     comprised of individuals committed to the advancement of the 
+     life, art, history, and culture of Jewish Americans.
+
+     SEC. 1096C. ADMINISTRATIVE PROVISIONS.
+
+       (a) Compensation.--
+       (1) In general.--A member of the Commission--
+       (A) shall not be considered to be a Federal employee for 
+     any purpose by reason of service on the Commission; and
+       (B) shall serve without pay.
+       (2) Travel expenses.--A member of the Commission shall be 
+     allowed a per diem allowance for travel expenses, at rates 
+     consistent with those authorized under subchapter I of 
+     chapter 57 of title 5, United States Code.
+       (3) Gifts, bequests, and devises.--The Commission may 
+     solicit, accept, use, and dispose of gifts, bequests, or 
+     devises of money, services, or real or personal property for 
+     the purpose of aiding or facilitating the work of the 
+     Commission. Such gifts, bequests, or devises may be from the 
+     Museum.
+       (4) Federal advisory committee act.--Chapter 10 of title 5, 
+     United States Code, shall not apply to the Commission.
+       (b) Termination.--The Commission shall terminate on the 
+     date that is 30 days after the date on which the final 
+     versions of the report, plan, and recommendations required 
+     under section 1096B are submitted.
+       (c) Funding.--The Commission shall be solely responsible 
+     for acceptance of contributions for, and payment of the 
+     expenses of, the Commission.
+       (d) Director and Staff of Commission.--
+       (1) Director and staff.--
+       (A) In general.--The Commission may employ and compensate 
+     an executive director and any other additional personnel that 
+     are necessary to enable the Commission to perform the duties 
+     of the Commission.
+
+[[Page S4730]]
+
+       (B) Rates of pay.--Rates of pay for persons employed under 
+     subparagraph (A) shall be consistent with the rates of pay 
+     allowed for employees of a temporary organization under 
+     section 3161 of title 5, United States Code.
+       (2) Not federal employment.--Any individual employed under 
+     this subsection shall not be considered a Federal employee 
+     for the purpose of any law governing Federal employment.
+       (3) Technical assistance.--
+       (A) In general.--Subject to subparagraph (B), on request of 
+     the Commission, the head of a Federal agency shall provide 
+     technical assistance to the Commission.
+       (B) Prohibition.--No Federal employees may be detailed to 
+     the Commission.
+       (4) Volunteer services.--Notwithstanding section 1342 of 
+     title 31, United States Code, the Commission may accept and 
+     use voluntary and uncompensated services as the Commission 
+     determines necessary.
+       (e) Administrative Support Services.--Upon request of the 
+     Commission, the Administrator of the General Services 
+     Administration shall provide to the Commission, on a 
+     reimbursable basis, the administrative support services 
+     necessary for the Commission to carry out its 
+     responsibilities under this subtitle. The involvement of the 
+     General Services Administration shall be limited to providing 
+     administrative support to the Commission, and such 
+     involvement shall terminate upon termination of the 
+     Commission.
+       (f) Meeting Location.--The Commission may meet virtually or 
+     in-person.
+       (g) Appointment Delays.--The Commission may begin to meet 
+     and carry out activities under this subtitle before all 
+     members of the Commission have been appointed if--
+       (1) 90 days have passed since the date of enactment of this 
+     subtitle; and
+       (2) a majority of the members of the Commission have been 
+     appointed.
+                                 ______
+```

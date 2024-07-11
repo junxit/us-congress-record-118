@@ -1,0 +1,61 @@
+---
+granule: CREC-2024-07-11-pt1-PgE723-3
+date: 2024-07-11
+edition: CREC
+section: EXTENSIONS
+page: E723
+citation: 170 Cong. Rec. E723
+---
+
+# RECOGNIZING MR. RONALD RAPER
+
+**Speaking:** Valadao, David G. (V000129) [R-CA]
+
+```
+                      RECOGNIZING MR. RONALD RAPER
+
+                                 ______
+                                 
+
+                         HON. DAVID G. VALADAO
+
+                             of california
+
+                    in the house of representatives
+
+                        Thursday, July 11, 2024
+
+  Mr. VALADAO. Mr. Speaker, I rise today to recognize Mr. Ronald Raper 
+on Atomic Veterans Day and thank him for his service to our Nation. Mr. 
+Raper was born on May 31, 1938, in Boulder, Colorado. At the age of 18, 
+Mr. Raper enlisted in the United States Navy. In 1958, Mr. Raper was a 
+part of Operation Hardtack I, where he was a member of the flight crew 
+that flew into radioactive fallout to conduct air sampling of nuclear 
+tests at the Pacific Proving Grounds in the Marshall Islands. During 
+this operation, Mr. Raper also contributed to Operation Newsreel, a 
+high-altitude naval study conducted near Johnston Atoll. Following the 
+Vietnam War in 1973, he was deployed with USS Coral Sea and played a 
+crucial role in Operation End Sweep. Stationed in the Gulf of Tonkin, 
+North Vietnam, he contributed significantly to the Mine Logistics 
+Carrier Stations, where he helped in the removal of naval mines in the 
+waterways of North Vietnam. To recognize his dedication and leadership 
+during this operation, Mr. Raper's Navy Commander awarded him with a 
+citation for outstanding performance of duty. During his military 
+career, Mr. Raper was stationed throughout the United States and around 
+the world, having served in California, Tennessee, Oklahoma, and Japan. 
+This past year, Mr. Raper was awarded the Atomic Veteran Certificate 
+and Atomic Veteran Service Commemorative Medal from the United States 
+Department of Defense, to honor his service in Operation Hardtack I. 
+This recognition is a testament to Mr. Raper's lifelong career of 
+service and sacrifice in advancing our Nation's atomic and nuclear 
+weapons program. In addition to this honor, Mr. Raper has received 
+other distinguished awards throughout his career, including the Navy 
+Good Conduct Medal, which he was awarded four times, and the National 
+Defense Service Medal. In 1975, Mr. Raper retired from the Navy after 
+serving 20 honorable years. Mr. Speaker, I ask all my colleagues in the 
+House of Representatives to join me in honoring the incredible life of 
+Mr. Ronald Raper on Atomic Veterans Day and thank him for his dedicated 
+service to our Nation.
+
+                          ____________________
+```

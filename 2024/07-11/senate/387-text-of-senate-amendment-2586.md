@@ -1,0 +1,216 @@
+---
+granule: CREC-2024-07-11-pt1-PgS4927
+date: 2024-07-11
+edition: CREC
+section: SENATE
+page: S4927
+citation: 170 Cong. Rec. S4927
+---
+
+# Text of Senate Amendment 2586
+
+**Speaking:** Young, Todd (Y000064) [R-IN]
+
+```
+  SA 2586. Mr. YOUNG (for himself and Mr. Padilla) submitted an 
+amendment intended to be proposed by him to the bill S. 4638, to 
+authorize appropriations for fiscal year 2025 for military activities 
+of the Department of Defense, for military construction, and for 
+defense activities of the Department of Energy, to prescribe military 
+personnel strengths for such fiscal year, and for other purposes; which 
+was ordered to lie on the table; as follows:
+
+       At the end of subtitle H of title X, add the following:
+
+     SEC. 1095. BIOTECHNOLOGY OVERSIGHT COORDINATION COMMITTEE.
+
+       (a) Findings; Purpose.--
+       (1) Findings.--Congress finds that--
+       (A) biotechnology harnesses the power of biology to create 
+     new products and provides opportunities to grow the United 
+     States economy, provide jobs for a skilled workforce, improve 
+     resilience of supply chains, and improve the quality of human 
+     lives and the environment; and
+       (B) a science-based, risk-proportionate, predictable, 
+     efficient, and transparent system to support the safe use of 
+     products of biotechnology will enable the United States to 
+     continue to be a world leader in biotechnology research and 
+     development.
+       (2) Purpose.--The purpose of this section is to coordinate 
+     and enhance the efforts of the Federal Government under the 
+     Coordinated Framework for the Regulation of Biotechnology to 
+     protect health and the environment while enabling the 
+     development, commercialization, and safe use of products 
+     derived from plants, animals, and microorganisms developed 
+     with biotechnology.
+       (b) Establishment of Committee.--
+       (1) In general.--The President, acting through the Director 
+     of the Office of Science and Technology Policy and the 
+     Director of the Office of Management and Budget, shall 
+     establish an interagency committee to coordinate activities 
+     of the Federal Government relating to biotechnology-specific 
+     regulation and oversight (referred to in this section as the 
+     ``Committee'').
+       (2) Charter.--
+       (A) In general.--Not later than 90 days after the date of 
+     enactment of this Act, the Committee shall--
+       (i) ratify a charter for the operation of the Committee; 
+     and
+       (ii) make publicly available on the Unified Website for 
+     Biotechnology Regulation developed pursuant to Executive 
+     Order 13874 (7 U.S.C. 3121 note; relating to modernizing the 
+     regulatory framework for agricultural biotechnology products) 
+     (referred to in this section as the ``Unified Website'') that 
+     ratified charter.
+       (B) Expansion or modification.--The Committee may expand 
+     upon or modify the initial ratified charter under 
+     subparagraph (A)(i) as needed.
+       (c) Membership.--The Committee shall be composed of the 
+     heads, or their designees, of agencies responsible for 
+     biotechnology oversight, including--
+       (1) the Animal and Plant Health Inspection Service, the 
+     Agricultural Marketing Service, and the Food Safety and 
+     Inspection Service of the Department of Agriculture;
+       (2) the Food and Drug Administration and the National 
+     Institutes of Health of the Department of Health and Human 
+     Services;
+       (3) the Environmental Protection Agency;
+       (4) the Office of Management and Budget;
+       (5) the Office of Science and Technology Policy; and
+       (6) other Federal agencies or entities as determined 
+     appropriate by the Chair of the Committee.
+       (d) Chair.--The Director of the Office of Science and 
+     Technology Policy shall serve as the Chair of the Committee.
+       (e) Regulatory Streamlining.--The Committee shall expand or 
+     build upon efforts to coordinate biotechnology oversight, 
+     including through measurable steps--
+       (1) to align or clarify regulatory timelines, approaches, 
+     and data requirements;
+       (2) to facilitate information-sharing between regulatory 
+     agencies, notwithstanding any other provision of law;
+       (3) to identify an initial point of contact for each type 
+     of biotechnology product, including emerging products, and 
+     clear hand-offs from one process or agency to another;
+       (4) to identify and minimize any areas of delay relative to 
+     established timeframes, including by reducing duplicative 
+     review and building upon prior reviews to the maximum extent 
+     practicable; and
+       (5) to conduct periodic horizon-scanning for emerging 
+     biotechnology processes and products to ensure appropriate 
+     oversight.
+       (f) Report to Congress.--Not later than 1 year after the 
+     date of enactment of this Act, and annually thereafter, the 
+     Committee shall submit to Congress and make publicly 
+     available on the Unified Website a description of the 
+     following:
+       (1) Actions taken and next steps under subsection (e), with 
+     a description of successes, specific staffing and resource 
+     needs, and recommendations for removing any identified 
+     barriers, including changes to statutes, regulations, or 
+     guidance.
+       (2) A summary of the duration of oversight with respect to 
+     biotechnology products, from the initial contact with a 
+     developer to a decision with respect to the biotechnology 
+     product, during a period of not less than 5 fiscal years 
+     preceding the date of the report, including--
+       (A) the type of product;
+       (B) the 1 or more types of review;
+       (C) the 1 or more agencies that reviewed that product; and
+       (D) an explanation of timelines where needed.
+       (g) Unified Process.--Not later than 180 days after the 
+     date of enactment of this Act, and annually thereafter, the 
+     Committee shall submit to Congress and make publicly 
+     available on the Unified Website the following:
+       (1) A singular, unified process to identify whether a 
+     plant, animal, or microorganism produced with biotechnology 
+     could reasonably have occurred naturally or been developed by 
+     conventional means (meaning the genetic sequences of the 
+     biotechnology product are present in the gene pool of the 
+     plant, animal, or microorganism or could have arisen through 
+     natural mutation mechanisms), taking into account existing 
+     agency assessments where appropriate.
+       (2) Measurable actions the Committee and any member of the 
+     Committee will take to implement or consider the unified 
+     process described in paragraph (1) in their oversight of 
+     biotechnology products, taking into account that organisms 
+     identified via the process described in paragraph (1) would 
+     continue to be regulated with product-specific oversight.
+       (3) Actions taken and progress made with respect to 
+     paragraph (2).
+       (h) Molecular Farming and Precision Fermentation.--Not 
+     later than 180 days after the date of enactment of this Act, 
+     and annually thereafter, the Committee shall submit to 
+     Congress and make publicly available on the Unified Website a 
+     description of the following:
+       (1) Characteristics of organisms that may increase risk 
+     pathways or otherwise hinder the production of substances 
+     intended for extraction.
+       (2) Characteristics of organisms that may reduce risk 
+     pathways associated with the production of substances 
+     intended for extraction.
+       (3) Conditions that are useful for containing or 
+     segregating organisms produced with biotechnology that may 
+     reduce risk pathways associated with the production of 
+     substances intended for extraction.
+       (4) Examples of organisms that--
+       (A) fit some or all of the characteristics described in 
+     paragraph (2); and
+       (B) are amenable to some or all of the conditions described 
+     in paragraph (3).
+       (5) Measurable actions the Committee and any member of the 
+     Committee will take to implement or consider the 
+     characteristics described in paragraph (2) and the conditions 
+     described in paragraph (3) into their oversight of 
+     biotechnology products.
+       (6) Actions taken under paragraph (5) and progress made 
+     with respect to those actions.
+       (i) Coordination and Consultation.--
+       (1) Coordination.--The Committee shall coordinate, as 
+     appropriate, with--
+       (A) other working groups and committees of the Federal 
+     Government; and
+       (B) other relevant agencies.
+       (2) Consultation.--The Committee shall regularly consult in 
+     a coordinated fashion regarding biotechnology oversight, 
+     including with respect to the reports under subsection (f), 
+     with States, Indian Tribes, territories, local governments, 
+     biotechnology developers and relevant industries, academic 
+     institutions, nongovernmental organizations, and other 
+     stakeholders.
+       (j) Executive Secretaries.--
+       (1) Department of agriculture.--The Secretary of 
+     Agriculture shall appoint an Executive Secretary to serve the 
+     Committee, who shall be and remain a permanent employee of 
+     the Department of Agriculture.
+       (2) Department of health and human services; environmental 
+     protection agency.--The Secretary of Health and Human 
+     Services and the Administrator of the Environmental 
+     Protection Agency may each appoint an Executive Secretary to 
+     serve the Committee, who shall be and remain a permanent 
+     employee of the Department of Health and Human Services and 
+     the Environmental Protection Agency, respectively.
+       (k) Comptroller General Review.--The Comptroller General of 
+     the United States shall--
+       (1) not later than 1 year after the date of enactment of 
+     this Act, begin a review to assess the efficacy of 
+     interagency coordination and other activities conducted by 
+     the Committee;
+       (2) not later than 18 months after the date of enactment of 
+     this Act, provide to Congress a briefing of the initial 
+     findings of the Comptroller General with respect to the 
+     activities of the Committee; and
+       (3) not later than 2 years after the date of enactment of 
+     this Act, provide to Congress a report describing the current 
+     statutory authorities and oversight processes applicable
+
+[[Page S4928]]
+
+     to biotechnology-specific regulation of products derived from 
+     plants, animals, and microorganisms developed with 
+     biotechnology, including a description of opportunities to 
+     reduce gaps, duplication, overlap, and fragmentation.
+       (l) Exclusions.--This section shall not apply to human 
+     medical research and products that are regulated solely by 
+     the Food and Drug Administration.
+                                 ______
+```

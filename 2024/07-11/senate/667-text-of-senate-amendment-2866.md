@@ -1,0 +1,118 @@
+---
+granule: CREC-2024-07-11-pt1-PgS5080-2
+date: 2024-07-11
+edition: CREC
+section: SENATE
+page: S5080
+citation: 170 Cong. Rec. S5080
+---
+
+# Text of Senate Amendment 2866
+
+**Speaking:** Booker, Cory A. (B001288) [D-NJ]
+
+```
+  SA 2866. Mr. BOOKER (for himself, Mr. Paul, and Mr. Boozman) 
+submitted an amendment intended to be proposed by him to the bill S. 
+4638, to authorize appropriations for fiscal year 2025 for military 
+activities of the Department of Defense, for military construction, and 
+for defense activities of the Department of Energy, to prescribe 
+military personnel strengths for such fiscal year, and for other 
+purposes; which was ordered to lie on the table; as follows:
+
+       At the end of subtitle H of title X, add the following:
+
+     SEC. 1095. CURRENTLY ACCEPTED MEDICAL USE WITH SEVERE 
+                   RESTRICTIONS.
+
+       (a) Definitions.--Section 102 of the Controlled Substances 
+     Act (21 U.S.C. 802) is amended by inserting after paragraph 
+     (7) the following:
+       ``(7)(A) Subject to subparagraph (B), the term `currently 
+     accepted medical use with severe restrictions', with respect 
+     to a drug or other substance, includes a drug or other 
+     substance that is an active metabolite, moiety, or ingredient 
+     (whether in natural or synthetic form) of an investigational 
+     new drug for which a waiver is in effect under section 505(i) 
+     of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 
+     355(i)) or section 351(a)(3) of the Public Health Service Act 
+     (42 U.S.C. 262(a)(3)) and that the Secretary--
+       ``(i) designates as a breakthrough therapy under section 
+     506(a) of the Food Drug and Cosmetic Act (21 U.S.C. 356(a)); 
+     or
+       ``(ii) authorizes for expanded access under subsection (b) 
+     or (c) of section 561 of the Federal Food, Drug, and Cosmetic 
+     Act (21 U.S.C. 360bbb), either alone or as part of a 
+     therapeutic protocol, to treat patients with serious or life-
+     threatening diseases for which no comparable or satisfactory 
+     therapies are available.
+       ``(B) A drug or other substance shall not meet the criteria 
+     under subparagraph (A) for having a currently accepted 
+     medical use with severe restrictions if--
+       ``(i) in the case of a drug or other substance described in 
+     subparagraph (A)(ii)--
+       ``(I) the Secretary places the expanded access or protocol 
+     for such drug on clinical hold as described in section 312.42 
+     of title 21, Code of Federal Regulations (or any successor 
+     regulations);
+       ``(II) there is no other investigational new drug 
+     containing the drug or other substance for which expanded 
+     access has been authorized under section 561(a) of the 
+     Federal Food,
+
+[[Page S5081]]
+
+     Drug, and Cosmetic Act (21 U.S.C. 360bbb(a)); and
+       ``(III) the drug or other substance does not meet the 
+     requirements of subparagraph (A)(i); or
+       ``(ii) the drug or other substance is approved under 
+     section 505 of the Federal Food, Drug, and Cosmetic Act (21 
+     U.S.C. 355) or section 351 of the Public Health Service Act 
+     (42 U.S.C. 262).''.
+       (b) Authority and Criteria for Classification of 
+     Substances.--Section 201(j) of the Controlled Substances Act 
+     (21 U.S.C. 811(j)) is amended--
+       (1) in paragraph (1), by inserting ``a drug designated as a 
+     breakthrough therapy under section 506(a) of the Food Drug 
+     and Cosmetic Act (21 U.S.C. 356(a)), or a drug authorized for 
+     expanded access under subsection (b) or (c) of section 561 of 
+     the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360bbb)'' 
+     after ``subsection (f),'';
+       (2) in paragraph (2)--
+       (A) in subparagraph (A), by striking ``; or'' and inserting 
+     a semicolon;
+       (B) in subparagraph (B), by striking the period at the end 
+     and inserting a semicolon; and
+       (C) by adding at the end the following:
+       ``(C) the date on which the Attorney General receives 
+     notification from the Secretary of Health and Human Services 
+     that the Secretary has designated a drug as a breakthrough 
+     therapy under section 506(a) of the Food Drug and Cosmetic 
+     Act (21 U.S.C. 356(a)) or authorized a drug for expanded 
+     access under subsection (b) or (c) of section 561 of the 
+     Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360bbb); or
+       ``(D) the date on which the Attorney General receives any 
+     written notification demonstrating that the Secretary, before 
+     the date of enactment of this subparagraph, designated a drug 
+     as a breakthrough therapy under section 506(a) of the Food 
+     Drug and Cosmetic Act (21 U.S.C. 356(a)) or authorized a drug 
+     for expanded access under subsection (b) or (c) of section 
+     561 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 
+     360bbb).'';
+       (3) in paragraph (3), by inserting ``or paragraph (4)'' 
+     after ``paragraph (1)''; and
+       (4) by adding at the end the following:
+       ``(4) With respect to a drug moved from schedule I to 
+     schedule II pursuant to paragraph (1) and the expedited 
+     procedures described under this subsection, if the drug no 
+     longer has a currently accepted medical use with severe 
+     restrictions and the Secretary of Health and Human Services 
+     recommends that the Attorney General control the drug in 
+     schedule I pursuant to subsections (a) and (b), the Attorney 
+     General shall, not later than 90 days after receiving written 
+     notification from the Secretary, issue an interim final rule 
+     controlling the drug in accordance with such subsections and 
+     section 202(b) using the procedures described in paragraph 
+     (3) of this subsection.''.
+                                 ______
+```

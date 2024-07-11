@@ -1,0 +1,59 @@
+---
+granule: CREC-2024-07-11-pt1-PgS4667-3
+date: 2024-07-11
+edition: CREC
+section: SENATE
+page: S4667
+citation: 170 Cong. Rec. S4667
+---
+
+# Text of Senate Amendment 2332
+
+**Speaking:** Kennedy, John (K000393) [R-LA]
+
+```
+  SA 2332. Mr. KENNEDY submitted an amendment intended to be proposed 
+by him to the bill S. 4638, to authorize appropriations for fiscal year 
+2025 for military activities of the Department of Defense, for military 
+construction, and for defense activities of the Department of Energy, 
+to prescribe military personnel strengths for such fiscal year, and for 
+other purposes; which was ordered to lie on the table; as follows:
+
+       At the end of subtitle H of title X, add the following:
+
+     SEC. 1095. IMPROVING COORDINATION BETWEEN FEDERAL AND STATE 
+                   AGENCIES AND THE DO NOT PAY WORKING SYSTEM.
+
+       (a) In General.--Section 801(a) of title VIII of division 
+     FF of the Consolidated Appropriations Act, 2021 (Public Law 
+     116-260) is amended by striking paragraph (7) and inserting 
+     the following:
+       ``(7) by adding at the end the following paragraph:
+       `` `(11) Upon the completion of the 3-year period that 
+     begins on December 27, 2023, the Commissioner of Social 
+     Security shall, to the extent feasible, provide information 
+     furnished to the Commissioner under paragraph (1) to the 
+     agency operating the Do Not Pay working system described in 
+     section 3354(c) of title 31, United States Code, or an agent 
+     thereof, to prevent improper payments to deceased individuals 
+     through a cooperative arrangement with such agency, provided 
+     that the requirements of subparagraphs (A) and (B) of 
+     paragraph (3) are met with respect to such arrangement with 
+     such agency. Under such arrangement, the agency operating the 
+     Do Not Pay working system, or an agent thereof, may compare 
+     the information so provided by the Commissioner with 
+     personally identifiable information derived from a Federal 
+     system of records or similar records maintained by a Federal 
+     contractor, a Federal grantee, or an entity administering a 
+     Federal program or activity, and may redisclose such 
+     comparison of information, as appropriate, to any Federal or 
+     State agency authorized to use the working system.'.''.
+       (b) Conforming Amendment.--Section 801(b)(2) of title VIII 
+     of division FF of the Consolidated Appropriations Act, 2021 
+     (Public Law 116-260) is amended by striking ``on the date 
+     that is 3 years after the date of enactment of this Act'' and 
+     inserting ``December 28, 2026''.
+       (c) Effective Date.--The amendments made by this section 
+     shall take effect on December 28, 2026.
+                                 ______
+```

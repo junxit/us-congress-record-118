@@ -1,0 +1,597 @@
+---
+granule: CREC-2024-07-11-pt1-PgS5143
+date: 2024-07-11
+edition: CREC
+section: SENATE
+page: S5143
+citation: 170 Cong. Rec. S5143
+---
+
+# Text of Senate Amendment 2917
+
+**Speaking:** Heinrich, Martin (H001046) [D-NM]
+
+```
+  SA 2917. Mr. HEINRICH submitted an amendment intended to be proposed 
+by him to the bill S. 4638, to authorize appropriations for fiscal year 
+2025 for military activities of the Department of Defense, for military 
+construction, and for defense activities of the Department of Energy, 
+to prescribe military personnel strengths for such fiscal year, and for 
+other purposes; which was ordered to lie on the table; as follows:
+
+       At the end of title X, add the following:
+
+                     Subtitle I--HALT FENTANYL Act
+
+     SEC. 1096. SHORT TITLE.
+
+       This subtitle may be cited as the ``Halt All Lethal 
+     Trafficking of Fentanyl Act'' or the ``HALT Fentanyl Act''.
+
+     SEC. 1097. CLASS SCHEDULING OF FENTANYL-RELATED SUBSTANCES.
+
+       Section 202(c) of the Controlled Substances Act (21 U.S.C. 
+     812(c)) is amended by adding at the end of schedule I the 
+     following:
+       ``(e)(1) Unless specifically exempted or unless listed in 
+     another schedule, any material, compound, mixture, or 
+     preparation which contains any quantity of a fentanyl-related 
+     substance, or which contains the salts, isomers, and salts of 
+     isomers of a fentanyl-related substance whenever the 
+     existence of such salts, isomers, and salts of isomers is 
+     possible within the specific chemical designation.
+       ``(2) For purposes of paragraph (1), except as provided in 
+     paragraph (3), the term `fentanyl-related substance' means 
+     any substance that is structurally related to fentanyl by 1 
+     or more of the following modifications:
+       ``(A) By replacement of the phenyl portion of the phenethyl 
+     group by any monocycle, whether or not further substituted in 
+     or on the monocycle.
+       ``(B) By substitution in or on the phenethyl group with 
+     alkyl, alkenyl, alkoxyl, hydroxyl, halo, haloalkyl, amino, or 
+     nitro groups.
+       ``(C) By substitution in or on the piperidine ring with 
+     alkyl, alkenyl, alkoxyl, ester, ether, hydroxyl, halo, 
+     haloalkyl, amino, or nitro groups.
+       ``(D) By replacement of the aniline ring with any aromatic 
+     monocycle whether or not further substituted in or on the 
+     aromatic monocycle.
+       ``(E) By replacement of the N-propionyl group with another 
+     acyl group.
+       ``(3) A substance that satisfies the definition of the term 
+     `fentanyl-related substance' in paragraph (2) shall 
+     nonetheless not be treated as a fentanyl-related substance 
+     subject to this schedule if the substance--
+       ``(A) is controlled by action of the Attorney General under 
+     section 201; or
+       ``(B) is otherwise expressly listed in a schedule other 
+     than this schedule.
+       ``(4)(A) The Attorney General may by order publish in the 
+     Federal Register a list of substances that satisfy the 
+     definition of the term `fentanyl-related substance' in 
+     paragraph (2).
+       ``(B) The absence of a substance from a list published 
+     under subparagraph (A) does not negate the control status of 
+     the substance under this schedule if the substance satisfies 
+     the definition of the term `fentanyl-related substance' in 
+     paragraph (2).''.
+
+     SEC. 1098. REGISTRATION REQUIREMENTS RELATED TO RESEARCH.
+
+       (a) Alternative Registration Process for Schedule I 
+     Research.--Section 303 of the Controlled Substances Act (21 
+     U.S.C. 823) is amended--
+       (1) by redesignating the second subsection (l) (relating to 
+     required training for prescribers) as subsection (m); and
+       (2) by adding at the end the following:
+       ``(n) Special Provisions for Practitioners Conducting 
+     Certain Research With Schedule I Controlled Substances.--
+       ``(1) In general.--Notwithstanding subsection (f), a 
+     practitioner may conduct research described in paragraph (2) 
+     of this subsection with 1 or more schedule I substances in 
+     accordance with subparagraph (A) or (B) of paragraph (3) of 
+     this subsection.
+       ``(2) Research subject to expedited procedures.--Research 
+     described in this paragraph is research that--
+       ``(A) is with respect to a drug that is the subject of an 
+     investigational use exemption
+
+[[Page S5144]]
+
+     under section 505(i) of the Federal Food, Drug, and Cosmetic 
+     Act (21 U.S.C. 355(i)); or
+       ``(B) is--
+       ``(i) conducted by the Department of Health and Human 
+     Services, the Department of Veterans Affairs, or the 
+     Department of Justice; or
+       ``(ii) funded partly or entirely by a grant, contract, 
+     cooperative agreement, or other transaction from the 
+     Department of Health and Human Services, the Department of 
+     Veterans Affairs, or the Department of Justice.
+       ``(3) Expedited procedures.--
+       ``(A) Researcher with a current schedule i or ii research 
+     registration.--
+       ``(i) In general.--If a practitioner is registered to 
+     conduct research with a controlled substance in schedule I or 
+     II, the practitioner may conduct research under this 
+     subsection on and after the date that is 30 days after the 
+     date on which the practitioner sends a notice to the Attorney 
+     General containing the following information, with respect to 
+     each substance with which the practitioner will conduct the 
+     research:
+
+       ``(I) The chemical name of the substance.
+       ``(II) The quantity of the substance to be used in the 
+     research.
+       ``(III) Demonstration that the research is in the category 
+     described in paragraph (2), which demonstration may be 
+     satisfied--
+
+       ``(aa) in the case of a grant, contract, cooperative 
+     agreement, or other transaction, or intramural research 
+     project, by identifying the sponsoring agency and supplying 
+     the number of the grant, contract, cooperative agreement, 
+     other transaction, or project; or
+       ``(bb) in the case of an application under section 505(i) 
+     of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 
+     355(i)), by supplying the application number and the sponsor 
+     of record on the application.
+
+       ``(IV) Demonstration that the researcher is authorized to 
+     conduct research with respect to the substance under the laws 
+     of the State in which the research will take place.
+
+       ``(ii) Verification of information by hhs or va.--Upon 
+     request from the Attorney General, the Secretary of Health 
+     and Human Services or the Secretary of Veterans Affairs, as 
+     appropriate, shall verify information submitted by an 
+     applicant under clause (i)(III).
+       ``(B) Researcher without a current schedule i or ii 
+     research registration.--
+       ``(i) In general.--If a practitioner is not registered to 
+     conduct research with a controlled substance in schedule I or 
+     II, the practitioner may send a notice to the Attorney 
+     General containing the information listed in subparagraph 
+     (A)(i), with respect to each substance with which the 
+     practitioner will conduct the research.
+       ``(ii) Attorney general action.--The Attorney General 
+     shall--
+
+       ``(I) treat notice received under clause (i) as a 
+     sufficient application for a research registration; and
+       ``(II) not later than 45 days of receiving such a notice 
+     that contains all information required under subparagraph 
+     (A)(i)--
+
+       ``(aa) register the applicant; or
+       ``(bb) serve an order to show cause upon the applicant in 
+     accordance with section 304(c).
+       ``(4) Electronic submissions.--The Attorney General shall 
+     provide a means to permit a practitioner to submit a 
+     notification under paragraph (3) electronically.
+       ``(5) Limitation on amounts.--A practitioner conducting 
+     research with a schedule I substance under this subsection 
+     may only possess the amounts of schedule I substance 
+     identified in--
+       ``(A) the notification to the Attorney General under 
+     paragraph (3); or
+       ``(B) a supplemental notification that the practitioner may 
+     send if the practitioner needs additional amounts for the 
+     research, which supplemental notification shall include--
+       ``(i) the name of the practitioner;
+       ``(ii) the additional quantity needed of the substance; and
+       ``(iii) an attestation that the research to be conducted 
+     with the substance is consistent with the scope of the 
+     research that was the subject of the notification under 
+     paragraph (3).
+       ``(6) Importation and exportation requirements not 
+     affected.--Nothing in this subsection alters the requirements 
+     of part A of title III, regarding the importation and 
+     exportation of controlled substances.''.
+       (b) Separate Registrations Not Required for Additional 
+     Researcher in Same Institution.--Section 302(c) of the 
+     Controlled Substances Act (21 U.S.C. 822(c)) is amended by 
+     adding at the end the following:
+       ``(4) An agent or employee of a research institution that 
+     is conducting research with a controlled substance if--
+       ``(A) the agent or employee is acting within the scope of 
+     the professional practice of the agent or employee;
+       ``(B) another agent or employee of the institution is 
+     registered to conduct research with a controlled substance in 
+     the same schedule;
+       ``(C) the researcher who is so registered--
+       ``(i) informs the Attorney General of the name, position 
+     title, and employing institution of the agent or employee who 
+     is not separately registered;
+       ``(ii) authorizes that agent or employee to perform 
+     research under the registration of the registered researcher; 
+     and
+       ``(iii) affirms that any act taken by that agent or 
+     employee involving a controlled substance shall be 
+     attributable to the registered researcher, as if the 
+     researcher had directly committed the act, for purposes of 
+     any proceeding under section 304(a) to suspend or revoke the 
+     registration of the registered researcher; and
+       ``(D) the Attorney General does not, within 30 days of 
+     receiving the information, authorization, and affirmation 
+     described in subparagraph (C), refuse, for a reason listed in 
+     section 304(a), to allow the agent or employee to possess the 
+     substance without a separate registration.''.
+       (c) Single Registration for Related Research Sites.--
+     Section 302(e) of the Controlled Substances Act (21 U.S.C. 
+     822(e)) is amended by adding at the end the following:
+       ``(3)(A) Notwithstanding paragraph (1), a person registered 
+     to conduct research with a controlled substance under section 
+     303(f) may conduct the research under a single registration 
+     if--
+       ``(i) the research occurs exclusively on sites all of which 
+     are--
+       ``(I) within the same city or county; and
+       ``(II) under the control of the same institution, 
+     organization, or agency; and
+       ``(ii) before commencing the research, the researcher 
+     notifies the Attorney General of each site where--
+       ``(I) the research will be conducted; or
+       ``(II) the controlled substance will be stored or 
+     administered.
+       ``(B) A site described in subparagraph (A) shall be 
+     included in a registration described in that subparagraph 
+     only if the researcher has notified the Attorney General of 
+     the site--
+       ``(i) in the application for the registration; or
+       ``(ii) before the research is conducted, or before the 
+     controlled substance is stored or administered, at the site.
+       ``(C) The Attorney General may, in consultation with the 
+     Secretary, issue regulations addressing, with respect to 
+     research sites described in subparagraph (A)--
+       ``(i) the manner in which controlled substances may be 
+     delivered to the research sites;
+       ``(ii) the storage and security of controlled substances at 
+     the research sites;
+       ``(iii) the maintenance of records for the research sites; 
+     and
+       ``(iv) any other matters necessary to ensure effective 
+     controls against diversion at the research sites.''.
+       (d) New Inspection Not Required in Certain Situations.--
+     Section 302(f) of the Controlled Substances Act (21 U.S.C. 
+     822(f)) is amended--
+       (1) by striking ``(f) The'' and inserting ``(f)(1) The''; 
+     and
+       (2) by adding at the end the following:
+       ``(2)(A) If a person is registered to conduct research with 
+     a controlled substance and applies for a registration, or for 
+     a modification of a registration, to conduct research with a 
+     second controlled substance that is in the same schedule as 
+     the first controlled substance, or is in a schedule with a 
+     higher numerical designation than the schedule of the first 
+     controlled substance, a new inspection by the Attorney 
+     General of the registered location is not required.
+       ``(B) Nothing in subparagraph (A) shall prohibit the 
+     Attorney General from conducting an inspection that the 
+     Attorney General determines necessary to ensure that a 
+     registrant maintains effective controls against diversion.''.
+       (e) Continuation of Research on Substances Newly Added to 
+     Schedule I.--Section 302 of the Controlled Substances Act (21 
+     U.S.C. 822) is amended by adding at the end the following:
+       ``(h) Continuation of Research on Substances Newly Added to 
+     Schedule I.--If a person is conducting research on a 
+     substance when the substance is added to schedule I, and the 
+     person is already registered to conduct research with a 
+     controlled substance in schedule I--
+       ``(1) not later than 90 days after the scheduling of the 
+     newly scheduled substance, the person shall submit a 
+     completed application for registration or modification of 
+     existing registration, to conduct research on the substance, 
+     in accordance with regulations issued by the Attorney General 
+     for purposes of this paragraph;
+       ``(2) the person may, notwithstanding subsections (a) and 
+     (b), continue to conduct the research on the substance 
+     until--
+       ``(A) the person withdraws the application described in 
+     paragraph (1) of this subsection; or
+       ``(B) the Attorney General serves on the person an order to 
+     show cause proposing the denial of the application under 
+     section 304(c);
+       ``(3) if the Attorney General serves an order to show cause 
+     as described in paragraph (2)(B) and the person requests a 
+     hearing, the hearing shall be held on an expedited basis and 
+     not later than 45 days after the request is made, except that 
+     the hearing may be held at a later time if so requested by 
+     the person; and
+       ``(4) if the person sends a copy of the application 
+     described in paragraph (1) to a manufacturer or distributor 
+     of the substance, receipt of the copy by the manufacturer or 
+     distributor shall constitute sufficient evidence that the 
+     person is authorized to receive the substance.''.
+       (f) Treatment of Certain Manufacturing Activities as 
+     Coincident to Research.--Section 302 of the Controlled 
+     Substances Act (21 U.S.C. 822), as amended by subsection (e), 
+     is amended by adding at the end the following:
+       ``(i) Treatment of Certain Manufacturing Activities as 
+     Coincident to Research.--
+       ``(1) In general.--Except as provided in paragraph (3), a 
+     person who is registered to
+
+[[Page S5145]]
+
+     perform research on a controlled substance may perform 
+     manufacturing activities with small quantities of that 
+     substance, including activities described in paragraph (2), 
+     without being required to obtain a manufacturing 
+     registration, if--
+       ``(A) the activities are performed for the purpose of the 
+     research; and
+       ``(B) the activities and the quantities of the substance 
+     involved in the activities are stated in--
+       ``(i) a notification submitted to the Attorney General 
+     under section 303(n);
+       ``(ii) a research protocol filed with an application for 
+     registration approval under section 303(f); or
+       ``(iii) a notification to the Attorney General that 
+     includes--
+
+       ``(I) the name of the registrant; and
+       ``(II) an attestation that the research to be conducted 
+     with the small quantities of manufactured substance is 
+     consistent with the scope of the research that is the basis 
+     for the registration.
+
+       ``(2) Activities included.--Activities permitted under 
+     paragraph (1) include--
+       ``(A) processing the substance to create extracts, 
+     tinctures, oils, solutions, derivatives, or other forms of 
+     the substance consistent with--
+       ``(i) the information provided as part of a notification 
+     submitted to the Attorney General under section 303(n); or
+       ``(ii) a research protocol filed with an application for 
+     registration approval under section 303(f); and
+       ``(B) dosage form development studies performed for the 
+     purpose of requesting an investigational new drug exemption 
+     under section 505(i) of the Federal Food, Drug, and Cosmetic 
+     Act (21 U.S.C. 355(i)).
+       ``(3) Exception regarding marijuana.--The authority under 
+     paragraph (1) to manufacture substances does not include the 
+     authority to grow marijuana.''.
+       (g) Transparency Regarding Special Procedures.--Section 303 
+     of the Controlled Substances Act (21 U.S.C. 823), as amended 
+     by subsection (a), is amended by adding at the end the 
+     following:
+       ``(o) Transparency Regarding Special Procedures.--
+       ``(1) In general.--If the Attorney General determines, with 
+     respect to a controlled substance, that an application by a 
+     practitioner to conduct research with the substance should be 
+     considered under a process, or subject to criteria, different 
+     from the process or criteria applicable to applications to 
+     conduct research with other controlled substances in the same 
+     schedule, the Attorney General shall make public, including 
+     by posting on the website of the Drug Enforcement 
+     Administration--
+       ``(A) the identities of all substances for which such 
+     determinations have been made;
+       ``(B) the process and criteria that shall be applied to 
+     applications to conduct research with those substances; and
+       ``(C) how the process and criteria described in 
+     subparagraph (B) differ from the process and criteria 
+     applicable to applications to conduct research with other 
+     controlled substances in the same schedule.
+       ``(2) Timing of posting.--The Attorney General shall make 
+     information described in paragraph (1) public upon making a 
+     determination described in that paragraph, regardless of 
+     whether a practitioner has submitted such an application at 
+     that time.''.
+
+     SEC. 1099. REMOVAL FROM SCHEDULE I OF FENTANYL-RELATED 
+                   SUBSTANCES.
+
+       Section 201 of the Controlled Substances Act (21 U.S.C. 
+     811) is amended by adding at the end the following:
+       ``(k) Removal From Schedule I of Fentanyl-related 
+     Substances.--
+       ``(1) Determination resulting in removal from all 
+     schedules.--If the Secretary determines, taking into 
+     consideration the factors set forth in paragraph (3), that a 
+     fentanyl-related substance has a potential for abuse that is 
+     less than the drugs or other substances in schedule V--
+       ``(A) the Secretary shall submit to the Attorney General a 
+     scientific and medical evaluation of that fentanyl-related 
+     substance supporting that determination;
+       ``(B) the Secretary shall submit any such evaluation and 
+     determination in writing and include the bases therefor;
+       ``(C) consistent with subsection (b), the scientific and 
+     medical matters contained the evaluation of the Secretary 
+     shall be binding on the Attorney General; and
+       ``(D) except as provided in paragraph (4), not later than 
+     90 days after receiving such evaluation and determination, 
+     the Attorney General shall issue an order removing such 
+     fentanyl-related substance from the schedules under section 
+     202.
+       ``(2) Determination resulting in rescheduling.--If the 
+     Secretary determines, taking into consideration the factors 
+     set forth in paragraph (3), that a fentanyl-related substance 
+     has a potential for abuse that is less than the drugs or 
+     other substances in schedules I and II and has a currently 
+     accepted medical use--
+       ``(A) the Secretary shall submit to the Attorney General a 
+     scientific and medical evaluation of that fentanyl-related 
+     substance supporting that determination;
+       ``(B) the Secretary shall submit any such evaluation and 
+     determination in writing and include the bases therefor;
+       ``(C) consistent with subsection (b), the scientific and 
+     medical matters contained in the evaluation of the Secretary 
+     shall be binding on the Attorney General; and
+       ``(D) except as provided in paragraph (4), not later than 
+     90 days after receiving such evaluation and determination, 
+     the Attorney General shall issue an order removing such 
+     fentanyl-related substance from schedule I and controlling 
+     such substance under schedule III.
+       ``(3) Evaluation factors.--
+       ``(A) In general.--In making a determination under 
+     paragraph (1) or (2), the Secretary--
+       ``(i) shall consider the factor listed in paragraph (2) of 
+     subsection (c), as established by the assessment described in 
+     subparagraph (B) of this paragraph;
+       ``(ii) shall consider the factors listed in paragraphs (1), 
+     (3), and (6) of subsection (c); and
+       ``(iii) may consider the factors listed in paragraphs (4), 
+     (5), and (7) of subsection (c) if the Secretary finds that 
+     evidence exists with respect to those factors.
+       ``(B) Consideration of scientific evidence of 
+     pharmacological effect.--
+       ``(i) In general.--For the purposes of subparagraph (A)(i), 
+     consideration by the Secretary of the results of an 
+     assessment consisting of the studies described in clause (ii) 
+     of this subparagraph shall only suffice to constitute 
+     consideration of the factor listed in paragraph (2) of 
+     subsection (c) if--
+
+       ``(I) each such study is performed according to scientific 
+     methods and protocols commonly accepted in the scientific 
+     community; and
+       ``(II) the Secretary determines that such assessment is 
+     adequate for such purposes.
+
+       ``(ii) Described studies.--The studies described in this 
+     clause include the following:
+
+       ``(I) One or more receptor binding studies that can--
+
+       ``(aa) demonstrate whether the substance has affinity for 
+     the human mu opioid receptor and assess the duration and 
+     intensity of the binding; and
+       ``(bb) establish displacement by antagonists such as 
+     naloxone.
+
+       ``(II) One or more in vitro functional assays that can 
+     demonstrate whether the substance has agonist activity at the 
+     human mu opioid receptor.
+       ``(III) One or more in vivo animal behavioral studies that 
+     can demonstrate whether the substance has abuse-related drug 
+     effects consistent with mu opioid agonist activity, such as 
+     demonstrating similarity to the effects of morphine.
+
+       ``(iii) Guidance.--Not later than 90 days after the date of 
+     enactment of the Halt All Lethal Trafficking of Fentanyl Act, 
+     the Secretary publish guidance describing the parameters for 
+     studies that meet the criteria established under clause (ii).
+       ``(4) Attorney general review.--
+       ``(A) In general.--Notwithstanding a determination by the 
+     Secretary resulting in removal or rescheduling under 
+     paragraph (1) or (2), the Attorney General may not issue an 
+     order of removal or rescheduling if, not later than 90 days 
+     after receiving the applicable evaluation and determination 
+     from the Secretary, the Attorney General finds under the 
+     processes described in subsection (h) that maintaining the 
+     scheduling of the substance is necessary to avoid an imminent 
+     hazard to the public safety.
+       ``(B) Temporary scheduling.--Upon a finding under 
+     subparagraph (A), the substance shall be deemed temporarily 
+     scheduled for the time period described in subsection (h)(2), 
+     which may be extended as provided in that subsection.
+       ``(C) Expiration of temporary scheduling.--Not later than 
+     30 days after the expiration of the time period described in 
+     subparagraph (B) and any extension thereof as described in 
+     that subparagraph, the Attorney General shall issue an order 
+     to remove or reschedule the substance pursuant to the 
+     Secretary's determination unless the substance has otherwise 
+     been scheduled under the processes described in this section.
+       ``(5) Notice from secretary to attorney general.--
+       ``(A) Notice of initiation of proceedings.--Not later than 
+     30 days after the date on which the Secretary initiates 
+     proceedings to evaluate a substance under paragraph (1) or 
+     (2), the Secretary shall notify the Attorney General of the 
+     initiation of the proceedings.
+       ``(B) Advance notice regarding evaluation and conclusion.--
+     Not later than 30 days before the date on which the Secretary 
+     sends the Attorney General an evaluation and determination 
+     under paragraph (1) or (2), the Secretary shall notify the 
+     Attorney General with respect to the evaluation and 
+     determination.
+       ``(6) Exception for treaty obligations.--If a fentanyl-
+     related substance is a substance that the United States is 
+     obligated to control under international treaties, 
+     conventions, or protocols in effect on the date of enactment 
+     of the Halt All Lethal Trafficking of Fentanyl Act, this 
+     subsection shall not require the Attorney General--
+       ``(A) to remove such substance from control; or
+       ``(B) to place such substance in a schedule less 
+     restrictive than that which the Attorney General determines 
+     is necessary to carry out such obligations.
+       ``(7) Identification of fentanyl-related substances.--If 
+     the Attorney General determines that a substance is a 
+     fentanyl-related substance, the Attorney General shall--
+       ``(A) not later than 30 days after the date of such 
+     determination, notify the Secretary; and
+       ``(B) include in such notification the identity of the 
+     substance, its structure, and the basis for the 
+     determination.
+
+[[Page S5146]]
+
+       ``(8) Petitions for transferring a fentanyl-related 
+     substance under the drug schedules.--
+       ``(A) In general.--If a person petitions the Attorney 
+     General to remove a fentanyl-related substance from schedule 
+     I, to reschedule a fentanyl-related substance to another 
+     schedule, or to place a fentanyl-related substance under 
+     schedule I, the Attorney General shall consider such a 
+     petition in accordance with the procedures and standards set 
+     forth in--
+       ``(i) subsections (a) and (b) of this section; and
+       ``(ii) section 1308.43 of title 21, Code of Federal 
+     Regulations (or any successor regulation).
+       ``(B) Attorney general to inform secretary.--Not later than 
+     30 days after the date of accepting a petition described in 
+     subparagraph (A), the Attorney General shall forward a copy 
+     of the petition to the Secretary.
+       ``(C) Determination procedure not precluded by filing of 
+     petition.--The filing of a petition described in this 
+     paragraph shall not preclude the Secretary from making a 
+     determination and sending an evaluation under paragraph (1) 
+     or (2).
+       ``(9) Rules of construction.--Nothing in this subsection 
+     shall be construed to preclude the Attorney General from--
+       ``(A) transferring a substance listed in schedule I to 
+     another schedule, or removing such substance entirely from 
+     the schedules, pursuant to other provisions of this section 
+     and section 202; or
+       ``(B) transferring a fentanyl-related substance from a 
+     schedule other than schedule I to schedule I if information 
+     supports such a transfer.
+       ``(10) Subsequent controlling of removed substance.--A 
+     substance removed from schedule I or II pursuant to this 
+     subsection may, at any time, be controlled pursuant to the 
+     other provisions of this section and section 202 without 
+     regard to the removal pursuant to this subsection.
+       ``(11) Evaluations or studies.--The Secretary may enter 
+     into contracts or other agreements to conduct or support 
+     evaluations or studies of fentanyl-related substances.
+       ``(12) Annual review by secretary.--Not less frequently 
+     than annually, the Secretary shall review fentanyl-related 
+     substances identified under paragraph (8) and evaluate those 
+     substances for potential removal or rescheduling under 
+     paragraphs (1) and (2).''.
+
+     SEC. 1099A. RULEMAKING.
+
+       (a) Interim Final Rules.--The Attorney General--
+       (1) shall, not later than 1 year of the date of enactment 
+     of this Act, issue rules to implement this subtitle and the 
+     amendments made by this subtitle; and
+       (2) may issue the rules under paragraph (1) as interim 
+     final rules.
+       (b) Procedure for Final Rule.--
+       (1) Effectiveness of interim final rules.--A rule issued by 
+     the Attorney General as an interim final rule under 
+     subsection (a) shall become immediately effective as an 
+     interim final rule without requiring the Attorney General to 
+     demonstrate good cause therefor, notwithstanding subparagraph 
+     (B) of section 553(b) of title 5, United States Code.
+       (2) Opportunity for comment and hearing.--An interim final 
+     rule issued under subsection (a) shall give interested 
+     persons the opportunity to comment and to request a hearing.
+       (3) Final rule.--After the conclusion of such proceedings, 
+     the Attorney General shall issue a final rule to implement 
+     this subtitle and the amendments made by this subtitle in 
+     accordance with section 553 of title 5, United States Code.
+                                 ______
+```

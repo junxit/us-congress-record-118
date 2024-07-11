@@ -1,0 +1,20 @@
+---
+granule: CREC-2024-07-11-pt1-PgH4591
+date: 2024-07-11
+edition: CREC
+section: HOUSE
+page: H4591
+citation: 170 Cong. Rec. H4591
+---
+
+# House of Representatives
+
+```
+[[Page H4591]]
+
+House of Representatives
+
+  The House met at 9 a.m. and was called to order by the Speaker.
+
+                          ____________________
+```
