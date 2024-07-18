@@ -1,0 +1,60 @@
+---
+granule: CREC-2024-07-18-pt1-PgE739-2
+date: 2024-07-18
+edition: CREC
+section: EXTENSIONS
+page: E739
+citation: 170 Cong. Rec. E739
+---
+
+# HONORING KATIE WHEELER MATHEWS
+
+**Speaking:** Lofgren, Zoe (L000397) [D-CA]
+
+```
+                     HONORING KATIE WHEELER MATHEWS
+
+                                 ______
+                                 
+
+                            HON. ZOE LOFGREN
+
+                             of california
+
+                    in the house of representatives
+
+                        Thursday, July 18, 2024
+
+  Ms. LOFGREN. Mr. Speaker, I rise today on behalf of the California 
+Democratic Congressional Delegation to honor the public service of 
+Katie Wheeler Mathews, as she retires from her role as Senior Advisor 
+for Federal Affairs for the State of California. Katie's career in 
+state government spans over 36 years and is characterized by dedicated 
+service, a bipartisan spirit, and a profound commitment to her home 
+state of California.
+  Katie has worked across five gubernatorial administrations under both 
+Democratic and Republican governors, demonstrating a unique ability to 
+bridge political divides. Her tenure in Washington, D.C., has been 
+marked by tireless advocacy for California's policy priorities and 
+effective collaboration with our congressional offices and other 
+federal partners. Prior to that, she spent eight years in the 
+California Governor's office in Sacramento, fostering partnerships and 
+crafting solutions across geographical divides.
+  Katie has been a formidable advocate for California's interests 
+before Congress, across multiple federal administrations, and before 
+organizations such as the National Governors' Association and the 
+Western Governors' Association. Her understanding of complex policy 
+issues and ability to navigate the intricacies of federal-state 
+relations have made her a valuable member of the Governor's office, 
+including her work in recent years to support California's leadership 
+on climate, immigration, and combatting the fentanyl crisis. Katie's 
+extensive government experience and relationships with leaders on both 
+sides of the aisle have solidified her reputation as a trusted advisor 
+to many.
+  Mr. Speaker, please join me in extending a heartfelt appreciation to 
+Katie Wheeler Mathews for her outstanding service to the State of 
+California and in wishing her the best in her next chapter. California 
+is better for her service, and we thank her for it.
+
+                          ____________________
+```

@@ -1,0 +1,58 @@
+---
+granule: CREC-2024-07-18-pt1-PgE741-3
+date: 2024-07-18
+edition: CREC
+section: EXTENSIONS
+page: E741
+citation: 170 Cong. Rec. E741
+---
+
+# HONORING NURSE HONOR GUARD OF SAINT LOUIS
+
+**Speaking:** Bush, Cori (B001224) [D-MO]
+
+```
+               HONORING NURSE HONOR GUARD OF SAINT LOUIS
+
+                                 ______
+                                 
+
+                             HON. CORI BUSH
+
+                              of missouri
+
+                    in the house of representatives
+
+                        Thursday, July 18, 2024
+
+  Ms. BUSH. Mr Speaker, I rise along with the people of St. Louis today 
+to solemnly pay homage to the Nurse Honor Guard of Saint Louis and its 
+visionary founder and president, Aine Howard-Boerner, MSN.
+  Since its establishment in 2023, the Nurse Honor Guard of Saint Louis 
+has emerged as a beacon of compassion dedicated to honoring nurses 
+nearing or entering eternal rest, offering solace to grieving families 
+across Missouri and Illinois.
+  Inspired by the tradition of military honor guards that honor fallen 
+servicemen and women, police officers, and firefighters, the Nurse 
+Honor Guard wears traditional white nursing uniforms, complete with a 
+red and blue cape and traditional nursing caps. They attend the 
+funerals of their fellow nurses, paying homage and extending comfort to 
+families in their time of mourning.
+  The organization has conducted 124 memorial tributes, four living 
+tributes, and one memorial table for departed colleagues. Comprised of 
+30 retired and active nurses, these tributes honor the departed and 
+serve as a source of renewal for the members of the Nurse Honor Guard 
+amidst the formidable challenges and demands of their profession, 
+particularly underscored by the devastating COVID-19 pandemic. Nurses 
+and their communities are reminded of their steadfast courage and 
+unwavering commitment through these services.
+  As we reflect on the profound impact of the Nurse Honor Guard of 
+Saint Louis, we follow our pledge to honor the memory of our fallen 
+nurses, support grieving families, and uphold the pride and dignity of 
+the nursing profession with enduring gratitude. As a nurse and 
+Congresswoman, I am honored to join our St. Louis community to commend 
+the Nurse Honor Guard of Saint Louis and its members for their 
+exemplary service.
+
+                          ____________________
+```
