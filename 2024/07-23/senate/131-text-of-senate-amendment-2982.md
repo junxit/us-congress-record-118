@@ -1,0 +1,59 @@
+---
+granule: CREC-2024-07-23-pt1-PgS5252-2
+date: 2024-07-23
+edition: CREC
+section: SENATE
+page: S5252
+citation: 170 Cong. Rec. S5252
+---
+
+# Text of Senate Amendment 2982
+
+**Speaking:** Cruz, Ted (C001098) [R-TX]
+
+```
+  SA 2982. Mr. CRUZ submitted an amendment intended to be proposed by 
+him to the bill S. 4638, to authorize appropriations for fiscal year 
+2025 for military activities of the Department of Defense, for military 
+construction, and for defense activities of the Department of Energy, 
+to prescribe military personnel strengths for such fiscal year, and for 
+other purposes; which was ordered to lie on the table; as follows:
+
+       At the appropriate place, insert the following:
+
+     SEC. ___. UNAUTHORIZED ACCESS TO DEPARTMENT OF DEFENSE 
+                   FACILITIES.
+
+       (a) In General.--Chapter 67 of title 18, United States 
+     Code, is amended by adding at the end the following:
+
+     ``Sec. 1390. Unauthorized access to Department of Defense 
+       facilities
+
+       ``(a) In General.--It shall be unlawful, within the 
+     jurisdiction of the United States, without authorization to 
+     knowingly go upon any property that--
+       ``(1) is under the jurisdiction of the Department of 
+     Defense; and
+       ``(2) is closed or restricted.
+       ``(b) Penalties.--Any person who violates subsection (a) 
+     shall--
+       ``(1) in the case of the first offense, be fined under this 
+     title, imprisoned not more than 180 days, or both;
+       ``(2) in the case of the second offense, be fined under 
+     this title, imprisoned not more than 3 years, or both; and
+       ``(3) in the case of the third or subsequent offense, be 
+     fined under this title, imprisoned not more than 6 years, or 
+     both.
+       ``(c) Determination of Status.--For purposes of this 
+     section, a person shall be considered convicted of a second 
+     or subsequent offense if, prior to the commission of the 
+     offense, 1 or more prior convictions of the person under 
+     subsection (a) became final.''.
+       (b) Table of Sections Amendment.--The table of sections for 
+     chapter 67 of title 18, United States Code, is amended by 
+     adding at the end the following:
+
+``1390. Unauthorized access to Department of Defense facilities.''.
+                                 ______
+```

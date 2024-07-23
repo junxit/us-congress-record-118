@@ -1,0 +1,71 @@
+---
+granule: CREC-2024-07-23-pt1-PgS5309-2
+date: 2024-07-23
+edition: CREC
+section: SENATE
+page: S5309
+citation: 170 Cong. Rec. S5309
+---
+
+# Text of Senate Amendment 3036
+
+**Speaking:** Markey, Edward J. (M000133) [D-MA]
+
+```
+  SA 3036. Mr. MARKEY submitted an amendment intended to be proposed by 
+him to the bill S. 4638, to authorize appropriations for fiscal year 
+2025 for military activities of the Department of Defense, for military 
+construction, and for defense activities of the Department of Energy, 
+to prescribe military personnel strengths for such fiscal year, and for 
+other purposes; which was ordered to lie on the table; as follows:
+
+       At the end of subtitle B of title XV, add the following:
+
+     SEC. 1526. REPORT ON DANGERS POSED BY NUCLEAR REACTORS IN 
+                   AREAS THAT MIGHT EXPERIENCE ARMED CONFLICT.
+
+       (a) In General.--Not later than 120 days after the date of 
+     the enactment of this Act, the Secretary of Defense and the 
+     Administrator for Nuclear Security shall jointly submit to 
+     the appropriate committees of Congress a report assessing the 
+     following:
+       (1) The dangers posed to the national security of the 
+     United States, to the interests of allies and partners of the 
+     United States, and to the safety and security of civilian 
+     populations, by nuclear reactors and nuclear power plants in 
+     existence as of such date of enactment or scheduled to be 
+     completed during the 10-year period beginning on such date of 
+     enactment and located in the following areas:
+       (A) Regions that have experienced armed conflict in the 25 
+     years preceding such date of enactment.
+       (B) Areas that are contested or likely to experience armed 
+     conflict during the life span of those reactors and plants.
+       (C) Areas that would be involved in any of the following 
+     hypothetical conflicts:
+       (i) An attack by the Russian Federation on the eastern 
+     European countries of Estonia, Latvia, Belarus, Lithuania, or 
+     Poland.
+       (ii) A conflict between India and Pakistan.
+       (iii) A conflict over Taiwan.
+       (iv) An attack by North Korea on South Korea.
+       (2) Steps the United States or allies and partners of the 
+     United States can take to prevent, prepare for, and mitigate 
+     the risks to the national security of the United States, to 
+     the interests of allies and partners of the United States, 
+     and to the safety and security of civilian populations, posed 
+     by nuclear reactors and power plants in places that may 
+     experience armed conflict.
+       (b) Form of Report.--The report required by subsection (a) 
+     shall be submitted in unclassified form but may include a 
+     classified annex.
+       (c) Appropriate Committees of Congress Defined.--In this 
+     section, the term ``appropriate committees of Congress'' 
+     means--
+       (1) the Committee on Armed Services, the Committee on 
+     Foreign Relations, and the Committee on Environment and 
+     Public Works of the Senate; and
+       (2) the Committee on Armed Services, the Committee on 
+     Foreign Affairs, and the Committee on Energy and Commerce of 
+     the House of Representatives.
+                                 ______
+```

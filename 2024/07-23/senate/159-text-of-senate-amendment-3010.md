@@ -1,0 +1,185 @@
+---
+granule: CREC-2024-07-23-pt1-PgS5265-2
+date: 2024-07-23
+edition: CREC
+section: SENATE
+page: S5265
+citation: 170 Cong. Rec. S5265
+---
+
+# Text of Senate Amendment 3010
+
+**Speaking:** Hickenlooper, John W. (H000273) [D-CO]
+
+```
+  SA 3010. Mr. HICKENLOOPER (for himself, Mr. Romney, Mr. Lujan, Mr. 
+Bennet, and Mr. Heinrich) submitted an amendment intended to be 
+proposed by him to the bill S. 4638, to authorize appropriations for 
+fiscal year 2025 for military activities of the Department of Defense, 
+for military construction, and for defense activities of the Department 
+of Energy, to prescribe military personnel strengths for such fiscal 
+year, and for other purposes; which was ordered to lie on the table; as 
+follows:
+
+       At the end of subtitle H of title X, add the following:
+
+     SEC. 10___. REAUTHORIZATION OF UPPER COLORADO AND SAN JUAN 
+                   RIVER BASINS ENDANGERED FISH AND THREATENED 
+                   FISH RECOVERY IMPLEMENTATION PROGRAMS.
+
+       (a) Purpose.--Section 1 of Public Law 106-392 (114 Stat. 
+     1602) is amended by inserting ``and threatened'' after 
+     ``endangered''.
+       (b) Definitions.--Section 2 of Public Law 106-392 (114 
+     Stat. 1602; 116 Stat. 3113) is amended--
+       (1) in paragraph (1), by striking ``to implement the 
+     Recovery Implementation Program for the Endangered Fish 
+     Species in the Upper Colorado River dated September 29, 1987, 
+     and extended by the Extension of the Cooperative Agreement 
+     dated December 6, 2001, and the 1992 Cooperative Agreement to 
+     implement the San Juan River Recovery Implementation Program 
+     dated October 21, 1992, and as they may be amended'' and 
+     inserting ``for the Recovery Implementation Program for 
+     Endangered Species in the Upper Colorado River Basin dated 
+     September 29, 1987, and the 1992 Cooperative Agreement for 
+     the San Juan River Basin Recovery Implementation Program 
+     dated October 21, 1992, as the agreements may be amended and 
+     extended'';
+       (2) in paragraph (6)--
+       (A) by inserting ``or threatened'' after ``endangered''; 
+     and
+       (B) by striking ``removal or translocation'' and inserting 
+     ``control'';
+       (3) in paragraph (7), by striking ``long-term'' each place 
+     it appears;
+       (4) in paragraph (8), in the second sentence, by striking 
+     ``1988 Cooperative Agreement and the 1992 Cooperative 
+     Agreement'' and inserting ``Recovery Implementation 
+     Programs'';
+       (5) in paragraph (9)--
+       (A) by striking ``leases and agreements'' and inserting 
+     ``acquisitions'';
+
+[[Page S5266]]
+
+       (B) by inserting ``or threatened'' after ``endangered''; 
+     and
+       (C) by inserting ``, as approved under the Recovery 
+     Implementation Programs'' after ``nonnative fishes''; and
+       (6) in paragraph (10), by inserting ``pursuant to the 
+     Recovery Implementation Program for Endangered Species in the 
+     Upper Colorado River Basin'' after ``Service''.
+       (c) Authorization to Fund Recovery Programs.--Section 3 of 
+     Public Law 106-392 (114 Stat. 1603; 116 Stat. 3113; 120 Stat. 
+     290; 123 Stat 1310; 126 Stat. 2444; 133 Stat. 809; 136 Stat. 
+     5572) is amended--
+       (1) in subsection (a)--
+       (A) in paragraph (1), by striking ``(1) There is hereby 
+     authorized to be appropriated to the Secretary, $88,000,000 
+     to undertake capital projects to carry out the purposes of 
+     this Act. Such funds'' and inserting the following:
+       ``(1) Authorization.--
+       ``(A) In general.--Subject to subparagraph (B), there is 
+     authorized to be appropriated to the Secretary for use by the 
+     Bureau of Reclamation to undertake capital projects to carry 
+     out the purposes of this Act $50,000,000 for the period of 
+     fiscal years 2024 through 2031.
+       ``(B) Annual adjustment.--For each of fiscal years 2025 
+     through 2031, the amount authorized to be appropriated under 
+     subparagraph (A) shall be annually adjusted to reflect widely 
+     available engineering cost indices applicable to relevant 
+     construction activities.
+       ``(C) Nonreimbursable funds.--Amounts made available 
+     pursuant to subparagraph (A)'';
+       (B) in paragraph (2), by striking ``Program for Endangered 
+     Fish Species in the Upper Colorado River Basin shall expire 
+     in fiscal year 2024'' and inserting ``Programs shall expire 
+     in fiscal year 2031''; and
+       (C) by striking paragraph (3);
+       (2) by striking subsections (b) and (c) and inserting the 
+     following:
+       ``(b) Non-Federal Contributions to Capital Projects.--The 
+     Secretary, acting through the Bureau of Reclamation, may 
+     accept contributed funds, interests in land and water, or 
+     other contributions from the Upper Division States, political 
+     subdivisions of the Upper Division States, or individuals, 
+     entities, or organizations within the Upper Division States, 
+     pursuant to agreements that provide for the contributions to 
+     be used for capital projects costs.'';
+       (3) by redesignating subsections (d) through (j) as 
+     subsections (c) through (i), respectively;
+       (4) in subsection (c) (as so redesignated)--
+       (A) in paragraph (1)(A), by striking ``$10,000,000 for each 
+     of fiscal years 2020 through 2024'' and inserting 
+     ``$92,040,000 for the period of fiscal years 2024 through 
+     2031'';
+       (B) in paragraph (2)--
+       (i) in the first sentence, by striking ``$4,000,000 per 
+     year'' and inserting ``$61,100,000 for the period of fiscal 
+     years 2024 through 2031'';
+       (ii) in the second sentence--
+
+       (I) by inserting ``Basin'' after ``San Juan River''; and
+       (II) by striking ``$2,000,000 per year'' and inserting 
+     ``$30,940,000 for the period of fiscal years 2024 through 
+     2031''; and
+
+       (iii) in the third sentence, by striking ``in fiscal years 
+     commencing after the enactment of this Act'' and inserting 
+     ``for fiscal year 2024 and each fiscal year thereafter''; and
+       (C) by striking paragraph (3) and inserting the following:
+       ``(3) Federal contributions to annual base funding.--
+       ``(A) In general.--For each of fiscal years 2024 through 
+     2031, the Secretary, acting through the Bureau of 
+     Reclamation, may accept funds from other Federal agencies, 
+     including power revenues collected pursuant to the Act of 
+     April 11, 1956 (commonly known as the ``Colorado River 
+     Storage Project Act'') (43 U.S.C. 620 et seq.).
+       ``(B) Availability of funds.--Funds made available under 
+     subparagraph (A) shall be available for expenditure by the 
+     Secretary, as determined by the contributing agency in 
+     consultation with the Secretary.
+       ``(C) Treatment of funds.--Funds made available under 
+     subparagraph (A) shall be treated as nonreimbursable Federal 
+     expenditures.
+       ``(D) Treatment of power revenues.--Not more than $499,000 
+     in power revenues over the period of fiscal years 2024 
+     through 2031 shall be accepted under subparagraph (A) and 
+     treated as having been repaid and returned to the general 
+     fund of the Treasury.
+       ``(4) Non-federal contributions to annual base funding.--
+     The Secretary, acting through the Bureau of Reclamation, may 
+     accept contributed funds from the Upper Division States, 
+     political subdivisions of the Upper Division States, or 
+     individuals, entities, or organizations within the Upper 
+     Division States, pursuant to agreements that provide for the 
+     contributions to be used for annual base funding.
+       ``(5) Replacement power.--Contributions of funds made 
+     pursuant to this subsection shall not include the cost of 
+     replacement power purchased to offset modifications to the 
+     operation of the Colorado River Storage Project to benefit 
+     threatened or endangered fish species under the Recovery 
+     Implementation Programs.'';
+       (5) in subsection (f) (as so redesignated), in the first 
+     sentence, by inserting ``or threatened'' after 
+     ``endangered'';
+       (6) in subsection (g) (as so redesignated), by striking 
+     ``unless the time period for the respective Cooperative 
+     Agreement is extended to conform with this Act'' and 
+     inserting ``, as amended or extended'';
+       (7) in subsection (h) (as so redesignated), in the first 
+     sentence, by striking ``Upper Colorado River Endangered Fish 
+     Recovery Program or the San Juan River Basin Recovery 
+     Implementation Program'' and inserting ``Recovery 
+     Implementation Programs''; and
+       (8) in subsection (i)(1) (as so redesignated)--
+       (A) by striking ``2022'' each place it appears and 
+     inserting ``2030'';
+       (B) by striking ``2024'' each place it appears and 
+     inserting ``2031''; and
+       (C) in subparagraph (C)(ii)(III), by striking 
+     ``contributions by the States, power customers, Tribes, water 
+     users, and environmental organizations'' and inserting ``non-
+     Federal contributions''.
+                                 ______
+```

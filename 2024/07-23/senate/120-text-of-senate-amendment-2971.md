@@ -1,0 +1,167 @@
+---
+granule: CREC-2024-07-23-pt1-PgS5242-2
+date: 2024-07-23
+edition: CREC
+section: SENATE
+page: S5242
+citation: 170 Cong. Rec. S5242
+---
+
+# Text of Senate Amendment 2971
+
+**Speaking:** Durbin, Richard J. (D000563) [D-IL]
+
+```
+  SA 2971. Mr. DURBIN (for himself, Mr. Rounds, and Mr. King) submitted 
+an amendment intended to be proposed by him to the bill S. 4638, to 
+authorize appropriations for fiscal year 2025 for military activities 
+of the Department of Defense, for military construction, and for 
+defense activities of the Department of Energy, to prescribe military 
+personnel strengths for such fiscal year, and for other purposes; which 
+was ordered to lie on the table; as follows:
+
+       At the end of title X, add the following:
+
+                    Subtitle I--Keep STEM Talent Act
+
+     SEC. 1096. SHORT TITLE.
+
+       This subtitle may be cited as the ``Keep STEM Talent Act of 
+     2024''.
+
+     SEC. 1097. VISA REQUIREMENTS.
+
+       (a) Graduate Degree Visa Requirements.--To be approved for 
+     or maintain nonimmigrant status under section 101(a)(15)(F) 
+     of the Immigration and Nationality Act (8 U.S.C. 
+     1101(a)(15)(F)), a student seeking to pursue an advanced 
+     degree in a STEM field (as defined in section 
+     201(b)(1)(F)(ii) of the Immigration and Nationality Act (8 
+     U.S.C. 1151(b)(1)(F)(ii))) (as amended by section 1098(a) of 
+     this Act) for a degree at the master's level or higher at a 
+     United States institution of higher education (as defined in 
+     section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 
+     1001(a)) must apply for a nonimmigrant visa and admission, or 
+     must apply to change or extend nonimmigrant status and have 
+     such application approved, prior to beginning such advanced 
+     degree program.
+       (b) Strengthened Vetting Process.--The Secretary of 
+     Homeland Security and the Secretary of State shall establish 
+     procedures to ensure that aliens described in subsection (a) 
+     are admissible pursuant to section 212(a)(3)(A) of the 
+     Immigration and Nationality Act (8 U.S.C. 1182(a)(3)(A)). 
+     Such procedures shall ensure that such aliens seeking change 
+     or extension of nonimmigrant status from within the United 
+     States undergo verification of academic credentials, 
+     comprehensive background checks, and interviews in a manner 
+     equivalent to that of an alien seeking a nonimmigrant visa 
+     and admission from outside the United States. To the greatest 
+     extent practicable, the Secretary of Homeland Security and 
+     the Secretary of State shall also take steps to ensure that 
+     such applications for a nonimmigrant visa and admission, or 
+     change or extension of nonimmigrant status, are processed in 
+     a timely manner to allow the pursuit of graduate education. 
+     No court shall have jurisdiction to review the denial of an 
+     application for change or extension of nonimmigrant status 
+     filed by an alien described in subsection (a).
+       (c) Reporting Requirement.--The Secretary of Homeland 
+     Security and the Secretary of State shall submit an annual 
+     report to the Committee on the Judiciary of the Senate and 
+     the Committee on the Judiciary of the House of 
+     Representatives detailing the implementation and 
+     effectiveness of the requirement for foreign graduate 
+     students pursuing advanced degrees in STEM fields to seek a 
+     nonimmigrant visa and admission, or change or extension of 
+     nonimmigrant status, prior to pursuing a graduate degree 
+     program. The report shall include data on visa application 
+     volumes, processing times, security outcomes, and economic 
+     impacts.
+
+     SEC. 1098. LAWFUL PERMANENT RESIDENT STATUS FOR CERTAIN 
+                   ADVANCED STEM DEGREE HOLDERS.
+
+       (a) Aliens Not Subject to Direct Numerical Limitations.--
+     Section 201(b)(1) of the Immigration and Nationality Act (8 
+     U.S.C. 1151(b)(1)) is amended by adding at the end the 
+     following:
+       ``(F)(i) Aliens who--
+       ``(I) have earned a degree in a STEM field at the master's 
+     level or higher, while physically present in the United 
+     States from a United States institution of higher education 
+     (as defined in section 101(a) of the Higher Education Act of 
+     1965 (20 U.S.C. 1001(a))) accredited by an accrediting entity 
+     recognized by the Department of Education;
+       ``(II) have an offer of employment from, or are employed 
+     by, a United States employer to perform work that is directly 
+     related to such degree at a rate of pay that is higher than 
+     the median wage level for the occupational classification in 
+     the area of employment, as determined by the Secretary of 
+     Labor;
+       ``(III) have an approved labor certification under section 
+     212(a)(5)(A)(i); or
+       ``(IV) are the spouses and children of aliens described in 
+     subclauses (I) through (III) who are accompanying or 
+     following to join such aliens.
+       ``(ii) In this subparagraph, the term `STEM field' means a 
+     field of science, technology, engineering, or mathematics 
+     described in the most recent version of the Classification of 
+     Instructional Programs of the Department of Education 
+     taxonomy under the summary group of--
+       ``(I) computer and information sciences and support 
+     services;
+       ``(II) engineering;
+       ``(III) mathematics and statistics;
+       ``(IV) biological and biomedical sciences;
+       ``(V) physical sciences;
+       ``(VI) agriculture sciences; or
+       ``(VII) natural resources and conservation sciences.
+       ``(iii) The Secretary of Homeland Security has the sole and 
+     unreviewable discretion to determine whether an alien's 
+     degree or degree program is in a STEM field.''.
+       (b) Procedure for Granting Immigration Status.--Section 
+     204(a)(1)(F) of the Immigration and Nationality Act (8 U.S.C. 
+     1154(a)(1)(F)) is amended--
+       (1) by striking ``203(b)(2)'' and all that follows through 
+     ``Attorney General''; and
+       (2) by inserting ``203(b)(2), 203(b)(3), or 201(b)(1)(F) 
+     may file a petition with the Secretary of Homeland 
+     Security''.
+       (c) Labor Certification.--Section 212(a)(5)(D) of the 
+     Immigration and Nationality Act (8 U.S.C. 1182(a)(5)(D)) is 
+     amended by inserting ``section 201(b)(1)(F) or under'' after 
+     ``adjustment of status under''.
+       (d) Dual Intent for Nonimmigrants Seeking Advanced Stem 
+     Degrees at United States Institutions of Higher Education.--
+     Notwithstanding sections 101(a)(15)(F)(i) and 214(b) of the 
+     Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(F)(i) 
+     and 1184(b)), an alien who is a bona fide student admitted to 
+     a program in a STEM field (as defined in subparagraph (F)(ii) 
+     of section 201(b)(1) of the Immigration and Nationality Act 
+     (8 U.S.C. 1151(b)(1))) for a degree at the master's level or 
+     higher at a United States institution of higher education (as 
+     defined in section 101(a) of the Higher Education Act of 1965 
+     (20 U.S.C. 1001(a))) accredited by an accrediting entity 
+     recognized by the Department of Education may obtain a 
+     student visa, be admitted to the United States as a 
+     nonimmigrant student, or extend or change nonimmigrant status 
+     to pursue such degree even if such alien seeks lawful 
+     permanent resident status in the United States. Nothing in 
+     this subsection may be construed to modify or amend section 
+     101(a)(15)(F)(i) or 214(b) of the Immigration and Nationality 
+     Act (8 U.S.C. 1101(a)(15)(F)(i) or 1184(b)), or any 
+     regulation interpreting these authorities for an alien who is 
+     not described in this subsection.
+
+     SEC. 1099. RULE OF CONSTRUCTION.
+
+       Nothing in this subtitle may be construed to expand the 
+     statutory law enforcement or regulatory authority of the 
+     Department of Homeland Security, the Department of Justice, 
+     or the Department of State.
+
+     SEC. 1100. NO ADDITIONAL FUNDS.
+
+       No additional funds are authorized to be appropriated for 
+     the purpose of carrying out this subtitle.
+                                 ______
+```
