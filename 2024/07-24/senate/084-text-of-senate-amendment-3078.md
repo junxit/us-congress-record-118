@@ -1,0 +1,1142 @@
+---
+granule: CREC-2024-07-24-pt1-PgS5389
+date: 2024-07-24
+edition: CREC
+section: SENATE
+page: S5389
+citation: 170 Cong. Rec. S5389
+---
+
+# Text of Senate Amendment 3078
+
+**Speaking:** Thune, John (T000250) [R-SD]
+
+```
+  SA 3078. Mr. THUNE (for Mr. Lee) submitted an amendment intended to 
+be proposed by Mr. Thune to the bill S. 2073, to amend title 31, United 
+States Code, to require agencies to include a list of outdated or 
+duplicative reporting requirements in annual budget justifications, and 
+for other purposes; which was ordered to lie on the table; as follows:
+
+       Strike title I and insert the following:
+
+                      TITLE I--KIDS ONLINE SAFETY
+
+     SEC. 101. DEFINITIONS.
+
+       In this title:
+       (1) Child.--The term ``child'' means an individual who is 
+     under the age of 13.
+       (2) Compulsive usage.--The term ``compulsive usage'' means 
+     any response stimulated by external factors that causes an 
+     individual to engage in repetitive behavior reasonably likely 
+     to cause psychological distress.
+       (3) Covered platform.--
+       (A) In general.--The term ``covered platform'' means an 
+     online platform, online video game, messaging application, or 
+     video streaming service that connects to the internet and 
+     that is used, or is reasonably likely to be used, by a minor.
+       (B) Exceptions.--The term ``covered platform'' does not 
+     include--
+       (i) an entity acting in its capacity as a provider of--
+
+       (I) a common carrier service subject to the Communications 
+     Act of 1934 (47 U.S.C. 151 et seq.) and all Acts amendatory 
+     thereof and supplementary thereto;
+       (II) a broadband internet access service (as such term is 
+     defined for purposes of section 8.1(b) of title 47, Code of 
+     Federal Regulations, or any successor regulation);
+       (III) an email service;
+       (IV) a teleconferencing or video conferencing service that 
+     allows reception and transmission of audio or video signals 
+     for real-time communication, provided that--
+
+       (aa) the service is not an online platform, including a 
+     social media service or social network; and
+       (bb) the real-time communication is initiated by using a 
+     unique link or identifier to facilitate access; or
+
+       (V) a wireless messaging service, including such a service 
+     provided through short messaging service or multimedia 
+     messaging service protocols, that is not a component of, or 
+     linked to, an online platform and where the predominant or 
+     exclusive function is direct messaging consisting of the 
+     transmission of text, photos or videos that are sent by 
+     electronic means, where messages are transmitted from the 
+     sender to a recipient, and are not posted within an online 
+     platform or publicly;
+
+       (ii) an organization not organized to carry on business for 
+     its own profit or that of its members;
+       (iii) any public or private preschool, elementary, or 
+     secondary school, or any institution of vocational, 
+     professional, or higher education;
+       (iv) a library (as defined in section 213(1) of the Library 
+     Services and Technology Act (20 U.S.C. 9122(1)));
+       (v) a news or sports coverage website or app where--
+
+       (I) the inclusion of video content on the website or app is 
+     related to the website or app's own gathering, reporting, or 
+     publishing of news content or sports coverage; and
+       (II) the website or app is not otherwise an online 
+     platform;
+
+       (vi) a product or service that primarily functions as 
+     business-to-business software, a cloud storage, file sharing, 
+     or file collaboration service, provided that the product or 
+     service is not an online platform; or
+       (vii) a virtual private network or similar service that 
+     exists solely to route internet traffic between locations.
+       (4) Design feature.--The term ``design feature'' means any 
+     feature or component of a covered platform that will 
+     encourage or increase the frequency, time spent, or activity 
+     of minors on the covered platform. Design features include--
+       (A) infinite scrolling or auto play;
+       (B) rewards for time spent on the platform;
+       (C) notifications;
+       (D) personalized recommendation systems;
+       (E) in-game purchases; or
+       (F) appearance altering filters.
+       (5) Geolocation.--The term ``geolocation'' means 
+     information sufficient to identify street name and name of a 
+     city or town.
+       (6) Individual-specific advertising to minors.--
+       (A) In general.--The term ``individual-specific advertising 
+     to minors'' means advertising or any other effort to market a 
+     product or service that is directed to a specific minor or a 
+     device that is linked or reasonably linkable to a minor based 
+     on--
+       (i) the personal data of--
+
+       (I) the minor; or
+       (II) a group of minors who are similar in sex, age, income 
+     level, race, or ethnicity to the specific minor to whom the 
+     product or service is marketed;
+
+       (ii) profiling of a minor or group of minors; or
+       (iii) a unique identifier of the device.
+       (B) Exclusions.--The term ``individual-specific advertising 
+     to minors'' shall not include--
+       (i) advertising or marketing to an individual or the device 
+     of an individual in response to the individual's specific 
+     request for information or feedback, such as a minor's 
+     current search query;
+       (ii) contextual advertising, such as when an advertisement 
+     is displayed based on the content of the covered platform on 
+     which the advertisement appears and does not vary based on 
+     personal data related to the viewer;
+       (iii) processing personal data solely for measuring or 
+     reporting advertising or content performance, reach, or 
+     frequency, including independent measurement;
+
+[[Page S5390]]
+
+       (C) Rule of construction.--Nothing in subparagraph (A) 
+     shall be construed to prohibit a covered platform that knows 
+     an individual is under the age of 17 from delivering 
+     advertising or marketing that is age-appropriate for the 
+     individual involved and intended for a child or teen audience 
+     (as applicable), so long as the covered platform does not use 
+     any personal data other than whether the user is under the 
+     age of 17 to deliver such advertising or marketing.
+       (7) Know or knows.--The term ``know'' or ``knows'' means to 
+     have actual knowledge or knowledge fairly implied on the 
+     basis of objective circumstances.
+       (8) Mental health disorder.--The term ``mental health 
+     disorder'' has the meaning given the term ``mental disorder'' 
+     in the Diagnostic and Statistical Manual of Mental Health 
+     Disorders, 5th Edition (or the most current successor 
+     edition).
+       (9) Microtransaction.--
+       (A) In general.--The term ``microtransaction'' means a 
+     purchase made in an online video game (including a purchase 
+     made using a virtual currency that is purchasable or 
+     redeemable using cash or credit or that is included as part 
+     of a paid subscription service).
+       (B) Inclusions.--Such term includes a purchase involving 
+     surprise mechanics, new characters, or in-game items.
+       (C) Exclusions.--Such term does not include--
+       (i) a purchase made in an online video game using a virtual 
+     currency that is earned through gameplay and is not otherwise 
+     purchasable or redeemable using cash or credit or included as 
+     part of a paid subscription service; or
+       (ii) a purchase of additional levels within the game or an 
+     overall expansion of the game.
+       (10) Minor.--The term ``minor'' means an individual who is 
+     under the age of 17.
+       (11) Online platform.--The term ``online platform'' means 
+     any public-facing website, online service, online 
+     application, or mobile application that predominantly 
+     provides a community forum for user generated content, such 
+     as sharing videos, images, games, audio files, or other 
+     content, including a social media service, social network, or 
+     virtual reality environment.
+       (12) Online video game.--The term ``online video game'' 
+     means a video game, including an educational video game, that 
+     connects to the internet and that--
+       (A) allows a user to--
+       (i) create and upload content other than content that is 
+     incidental to gameplay, such as character or level designs 
+     created by the user, preselected phrases, or short 
+     interactions with other users;
+       (ii) engage in microtransactions within the game; or
+       (iii) communicate with other users; or
+       (B) incorporates individual-specific advertising to minors.
+       (13) Parent.--The term ``parent'' has the meaning given 
+     that term in section 1302 of the Children's Online Privacy 
+     Protection Act (15 U.S.C. 6501).
+       (14) Personal data.--The term ``personal data'' has the 
+     same meaning as the term ``personal information'' as defined 
+     in section 1302 of the Children's Online Privacy Protection 
+     Act (15 U.S.C. 6501).
+       (15) Personalized recommendation system.--The term 
+     ``personalized recommendation system'' means a fully or 
+     partially automated system used to suggest, promote, or rank 
+     content, including other users, hashtags, or posts, based on 
+     the personal data of users. A recommendation system that 
+     suggests, promotes, or ranks content based solely on the 
+     user's language, city or town, or age shall not be considered 
+     a personalized recommendation system.
+       (16) Sexual exploitation and abuse.--The term ``sexual 
+     exploitation and abuse'' means any of the following:
+       (A) Coercion and enticement, as described in section 2422 
+     of title 18, United States Code.
+       (B) Child sexual abuse material, as described in sections 
+     2251, 2252, 2252A, and 2260 of title 18, United States Code.
+       (C) Trafficking for the production of images, as described 
+     in section 2251A of title 18, United States Code.
+       (D) Sex trafficking of children, as described in section 
+     1591 of title 18, United States Code.
+       (17) User.--The term ``user'' means, with respect to a 
+     covered platform, an individual who registers an account or 
+     creates a profile on the covered platform.
+
+     SEC. 102. DUTY OF CARE.
+
+       (a) Prevention of Harm to Minors.--A covered platform shall 
+     exercise reasonable care in the creation and implementation 
+     of any design feature to prevent and mitigate the following 
+     harms to minors:
+       (1) Consistent with evidence-informed medical information, 
+     content that is distributed with the intent to exacerbate the 
+     following mental health disorders: anxiety, depression, 
+     eating disorders, substance use disorders, and suicidal 
+     behaviors.
+       (2) Patterns of use that indicate or encourage addiction-
+     like behaviors by minors.
+       (3) Physical violence, online bullying, and harassment of 
+     the minor.
+       (4) Sexual exploitation and abuse of minors.
+       (5) Promotion and marketing of narcotic drugs (as defined 
+     in section 102 of the Controlled Substances Act (21 U.S.C. 
+     802)), tobacco products, gambling, or alcohol.
+       (6) Promotion and marketing of obscene matter (as that term 
+     is used in section 1470 of title 18, United States Code).
+       (7) Predatory, unfair, or deceptive marketing practices, or 
+     other financial harms.
+       (b) Limitation.--Nothing in subsection (a) shall be 
+     construed to require a covered platform to prevent or 
+     preclude any minor from--
+       (1) deliberately and independently searching for, or 
+     specifically requesting, content; or
+       (2) accessing resources and information regarding the 
+     prevention or mitigation of the harms described in subsection 
+     (a).
+
+     SEC. 103. SAFEGUARDS FOR MINORS.
+
+       (a) Safeguards for Minors.--
+       (1) Safeguards.--A covered platform shall provide a user or 
+     visitor that the covered platform knows is a minor with 
+     readily-accessible and easy-to-use safeguards to, as 
+     applicable--
+       (A) limit the ability of other users or visitors to 
+     communicate with the minor;
+       (B) prevent other users or visitors, whether registered or 
+     not, from viewing the minor's personal data collected by or 
+     shared on the covered platform, in particular restricting 
+     public access to personal data;
+       (C) limit design features that encourage or increase the 
+     frequency, time spent, or activity of minors on the covered 
+     platform, such as infinite scrolling, auto playing, rewards 
+     for time spent on the platform, notifications, and other 
+     design features that result in compulsive usage of the 
+     covered platform by the minor;
+       (D) control personalized recommendation systems, including 
+     the ability for a minor to have at least 1 of the following 
+     options--
+       (i) opt out of such personalized recommendation systems, 
+     while still allowing the display of content based on a 
+     chronological format; or
+       (ii) limit types or categories of recommendations from such 
+     systems; and
+       (E) restrict the sharing of the geolocation of the minor 
+     and provide notice regarding the tracking of the minor's 
+     geolocation.
+       (2) Options.--A covered platform shall provide a user that 
+     the covered platform knows is a minor with readily-accessible 
+     and easy-to-use options to--
+       (A) delete the minor's account and delete any personal data 
+     collected from, or shared by, the minor on the covered 
+     platform; or
+       (B) limit the amount of time spent by the minor on the 
+     covered platform.
+       (3) Default safeguard settings for minors.--A covered 
+     platform shall provide that, in the case of a user or visitor 
+     that the platform knows is a minor, the default setting for 
+     any safeguard described under paragraph (1) shall be the 
+     option available on the platform that provides the most 
+     protective level of control that is offered by the platform 
+     over privacy and safety for that user or visitor.
+       (b) Parental Tools.--
+       (1) Tools.--A covered platform shall provide readily-
+     accessible and easy-to-use settings for parents to support a 
+     user that the platform knows is a minor with respect to the 
+     user's use of the platform.
+       (2) Requirements.--The parental tools provided by a covered 
+     platform shall include--
+       (A) the ability to manage a minor's privacy and account 
+     settings, including the safeguards and options established 
+     under subsection (a), in a manner that allows parents to--
+       (i) view the privacy and account settings; and
+       (ii) in the case of a user that the platform knows is a 
+     child, change and control the privacy and account settings;
+       (B) the ability to restrict purchases and financial 
+     transactions by the minor, where applicable; and
+       (C) the ability to view metrics of total time spent on the 
+     covered platform and restrict time spent on the covered 
+     platform by the minor.
+       (3) Notice to minors.--A covered platform shall provide 
+     clear and conspicuous notice to a user when the tools 
+     described in this subsection are in effect and what settings 
+     or controls have been applied.
+       (4) Default tools.--A covered platform shall provide that, 
+     in the case of a user that the platform knows is a child, the 
+     tools required under paragraph (1) shall be enabled by 
+     default.
+       (5) Application to existing accounts.--If, prior to the 
+     effective date of this subsection, a covered platform 
+     provided a parent of a user that the platform knows is a 
+     child with notice and the ability to enable the parental 
+     tools described under this subsection in a manner that would 
+     otherwise comply with this subsection, and the parent opted 
+     out of enabling such tools, the covered platform is not 
+     required to enable such tools with respect to such user by 
+     default when this subsection takes effect.
+       (c) Reporting Mechanism.--
+       (1) Reports submitted by parents, minors, and schools.--A 
+     covered platform shall provide--
+       (A) a readily-accessible and easy-to-use means to submit 
+     reports to the covered platform of harms to a minor;
+       (B) an electronic point of contact specific to matters 
+     involving harms to a minor; and
+       (C) confirmation of the receipt of such a report and, 
+     within the applicable time period described in paragraph (2), 
+     a substantive response to the individual that submitted the 
+     report.
+       (2) Timing.--A covered platform shall establish an internal 
+     process to receive and substantively respond to such reports 
+     in a reasonable and timely manner, but in no case later 
+     than--
+
+[[Page S5391]]
+
+       (A) 10 days after the receipt of a report, if, for the most 
+     recent calendar year, the platform averaged more than 
+     10,000,000 active users on a monthly basis in the United 
+     States;
+       (B) 21 days after the receipt of a report, if, for the most 
+     recent calendar year, the platform averaged less than 
+     10,000,000 active users on a monthly basis in the United 
+     States; and
+       (C) notwithstanding subparagraphs (A) and (B), if the 
+     report involves an imminent threat to the safety of a minor, 
+     as promptly as needed to address the reported threat to 
+     safety.
+       (d) Advertising of Illegal Products.--A covered platform 
+     shall not facilitate the advertising of narcotic drugs (as 
+     defined in section 102 of the Controlled Substances Act (21 
+     U.S.C. 802)), tobacco products, gambling, or alcohol to an 
+     individual that the covered platform knows is a minor.
+       (e) Rules of Application.--
+       (1) Accessibility.--With respect to safeguards and parental 
+     tools described under subsections (a) and (b), a covered 
+     platform shall provide--
+       (A) information and control options in a clear and 
+     conspicuous manner that takes into consideration the 
+     differing ages, capacities, and developmental needs of the 
+     minors most likely to access the covered platform and does 
+     not encourage minors or parents to weaken or disable 
+     safeguards or parental tools;
+       (B) readily-accessible and easy-to-use controls to enable 
+     or disable safeguards or parental tools, as appropriate; and
+       (C) information and control options in the same language, 
+     form, and manner as the covered platform provides the product 
+     or service used by minors and their parents.
+       (2) Dark patterns prohibition.--It shall be unlawful for 
+     any covered platform to design, modify, or manipulate a user 
+     interface of a covered platform with the purpose or 
+     substantial effect of subverting or impairing user autonomy, 
+     decision-making, or choice with respect to safeguards or 
+     parental tools required under this section.
+       (3) Timing considerations.--
+       (A) No interruption to gameplay.--Subsections (a)(1)(C) and 
+     (b)(3) shall not require an online video game to interrupt 
+     the natural sequence of game play, such as progressing 
+     through game levels or finishing a competition.
+       (B) Application of changes to offline devices or 
+     accounts.--If a user's device or user account does not have 
+     access to the internet at the time of a change to parental 
+     tools, a covered platform shall apply changes the next time 
+     the device or user is connected to the internet.
+       (4) Rules of construction.--Nothing in this section shall 
+     be construed to--
+       (A) prevent a covered platform from taking reasonable 
+     measures to--
+       (i) block, detect, or prevent the distribution of unlawful, 
+     obscene, or other harmful material to minors as described in 
+     section 102(a); or
+       (ii) block or filter spam, prevent criminal activity, or 
+     protect the security of a platform or service;
+       (B) require the disclosure of a minor's browsing behavior, 
+     search history, messages, contact list, or other content or 
+     metadata of their communications;
+       (C) prevent a covered platform from using a personalized 
+     recommendation system to display content to a minor if the 
+     system only uses information on--
+       (i) the language spoken by the minor;
+       (ii) the city the minor is located in; or
+       (iii) the minor's age; or
+       (D) prevent an online video game from disclosing a username 
+     or other user identification for the purpose of competitive 
+     gameplay or to allow for the reporting of users.
+       (f) Device or Console Controls.--
+       (1) In general.--Nothing in this section shall be construed 
+     to prohibit a covered platform from integrating its products 
+     or service with, or duplicate controls or tools provided by, 
+     third-party systems, including operating systems or gaming 
+     consoles, to meet the requirements imposed under subsections 
+     (a) and (b) relating to safeguards for minors and parental 
+     tools, provided that--
+       (A) the controls or tools meet such requirements; and
+       (B) the minor or parent is provided sufficient notice of 
+     the integration and use of the parental tools.
+       (2) Preservation of protections.--In the event of a 
+     conflict between the controls or tools of a third-party 
+     system, including operating systems or gaming consoles, and a 
+     covered platform, the covered platform is not required to 
+     override the controls or tools of a third-party system if it 
+     would undermine the protections for minors from the 
+     safeguards or parental tools imposed under subsections (a) 
+     and (b).
+
+     SEC. 104. DISCLOSURE.
+
+       (a) Notice.--
+       (1) Registration or purchase.--Prior to registration or 
+     purchase of a covered platform by an individual that the 
+     platform knows is a minor, the platform shall provide clear, 
+     conspicuous, and easy-to-understand--
+       (A) notice of the policies and practices of the covered 
+     platform with respect to personal data and safeguards for 
+     minors;
+       (B) information about how to access the safeguards and 
+     parental tools required under section 103; and
+       (C) notice about whether the covered platform uses or makes 
+     available to minors a product, service, or design feature, 
+     including any personalized recommendation system, that poses 
+     any heightened risk of harm to minors.
+       (2) Notification.--
+       (A) Notice and acknowledgment.--In the case of an 
+     individual that a covered platform knows is a child, the 
+     platform shall additionally provide information about the 
+     parental tools and safeguards required under section 103 to a 
+     parent of the child and obtain verifiable parental consent 
+     (as defined in section 1302(9) of the Children's Online 
+     Privacy Protection Act (15 U.S.C. 6501(9))) from the parent 
+     prior to the initial use of the covered platform by the 
+     child.
+       (B) Reasonable effort.--A covered platform shall be deemed 
+     to have satisfied the requirement described in subparagraph 
+     (A) if the covered platform is in compliance with the 
+     requirements of the Children's Online Privacy Protection Act 
+     (15 U.S.C. 6501 et seq.) to use reasonable efforts (taking 
+     into consideration available technology) to provide a parent 
+     with the information described in subparagraph (A) and to 
+     obtain verifiable parental consent as required.
+       (3) Consolidated notices.--For purposes of this title, a 
+     covered platform may consolidate the process for providing 
+     information under this subsection and obtaining verifiable 
+     parental consent or the consent of the minor involved (as 
+     applicable) as required under this subsection with its 
+     obligations to provide relevant notice and obtain verifiable 
+     consent under the Children's Online Privacy Protection Act 
+     (15 U.S.C. 6501 et seq.).
+       (4) Guidance.--The Federal Trade Commission may issue 
+     guidance to assist covered platforms in complying with the 
+     specific notice requirements of this subsection.
+       (b) Personalized Recommendation System.--A covered platform 
+     that operates a personalized recommendation system shall set 
+     out in its terms and conditions, in a clear, conspicuous, and 
+     easy-to-understand manner--
+       (1) an overview of how such personalized recommendation 
+     system is used by the covered platform to provide information 
+     to minors, including how such systems use the personal data 
+     of minors; and
+       (2) information about options for minors or their parents 
+     to opt out of or control the personalized recommendation 
+     system (as applicable).
+       (c) Advertising and Marketing Information and Labels.--
+       (1) Information and labels.--A covered platform that 
+     facilitates advertising aimed at users that the platform 
+     knows are minors shall provide clear, conspicuous, and easy-
+     to-understand labels and information, which can be provided 
+     through a link to another web page or disclosure, to minors 
+     on advertisements regarding--
+       (A) the name of the product, service, or brand and the 
+     subject matter of an advertisement;
+       (B) if the covered platform engages in individual-specific 
+     advertising to minors, why a particular advertisement is 
+     directed to a specific minor, including material information 
+     about how the minor's personal data is used to direct the 
+     advertisement to the minor; and
+       (C) whether particular media displayed to the minor is an 
+     advertisement or marketing material, including disclosure of 
+     endorsements of products, services, or brands made for 
+     commercial consideration by other users of the platform.
+       (2) Guidance.--The Federal Trade Commission may issue 
+     guidance to assist covered platforms in complying with the 
+     requirements of this subsection, including guidance about the 
+     minimum level of information and labels for the disclosures 
+     required under paragraph (1).
+       (d) Resources for Parents and Minors.--A covered platform 
+     shall provide to minors and parents clear, conspicuous, easy-
+     to-understand, and comprehensive information in a prominent 
+     location, which may include a link to a web page, regarding--
+       (1) its policies and practices with respect to personal 
+     data and safeguards for minors; and
+       (2) how to access the safeguards and tools required under 
+     section 103.
+       (e) Resources in Additional Languages.--A covered platform 
+     shall ensure, to the extent practicable, that the disclosures 
+     required by this section are made available in the same 
+     language, form, and manner as the covered platform provides 
+     any product or service used by minors and their parents.
+
+     SEC. 105. TRANSPARENCY.
+
+       (a) In General.--Subject to subsection (b), not less 
+     frequently than once a year, a covered platform shall issue a 
+     public report describing the reasonably foreseeable risks of 
+     harms to minors and assessing the prevention and mitigation 
+     measures taken to address such risk based on an independent, 
+     third-party audit conducted through reasonable inspection of 
+     the covered platform.
+       (b) Scope of Application.--The requirements of this section 
+     shall apply to a covered platform if--
+       (1) for the most recent calendar year, the platform 
+     averaged more than 10,000,000 active users on a monthly basis 
+     in the United States; and
+       (2) the platform predominantly provides a community forum 
+     for user-generated content and discussion, including sharing 
+     videos, images, games, audio files, discussion in a virtual 
+     setting, or other content, such as acting as a social media 
+     platform, virtual reality environment, or a social network 
+     service.
+
+[[Page S5392]]
+
+       (c) Content.--
+       (1) Transparency.--The public reports required of a covered 
+     platform under this section shall include--
+       (A) an assessment of the extent to which the platform is 
+     likely to be accessed by minors;
+       (B) a description of the commercial interests of the 
+     covered platform in use by minors;
+       (C) an accounting, based on the data held by the covered 
+     platform, of--
+       (i) the number of users using the covered platform that the 
+     platform knows to be minors in the United States;
+       (ii) the median and mean amounts of time spent on the 
+     platform by users known to be minors in the United States who 
+     have accessed the platform during the reporting year on a 
+     daily, weekly, and monthly basis; and
+       (iii) the amount of content being accessed by users that 
+     the platform knows to be minors in the United States that is 
+     in English, and the top 5 non-English languages used by users 
+     accessing the platform in the United States;
+       (D) an accounting of total reports received regarding, and 
+     the prevalence (which can be based on scientifically valid 
+     sampling methods using the content available to the covered 
+     platform in the normal course of business) of content related 
+     to, the harms described in section 102(a), disaggregated by 
+     category of harm and language, including English and the top 
+     5 non-English languages used by users accessing the platform 
+     from the United States (as identified under subparagraph 
+     (C)(iii)); and
+       (E) a description of any material breaches of parental 
+     tools or assurances regarding minors, representations 
+     regarding the use of the personal data of minors, and other 
+     matters regarding non-compliance with this title.
+       (2) Reasonably foreseeable risk of harm to minors.--The 
+     public reports required of a covered platform under this 
+     section shall include--
+       (A) an assessment of the reasonably foreseeable risk of 
+     harms to minors posed by the covered platform, specifically 
+     identifying those physical, mental, developmental, or 
+     financial harms described in section 102(a);
+       (B) a description of whether and how the covered platform 
+     uses design features that encourage or increase the 
+     frequency, time spent, or activity of minors on the covered 
+     platform, such as infinite scrolling, auto playing, rewards 
+     for time spent on the platform, notifications, and other 
+     design features that result in compulsive usage of the 
+     covered platform by the minor;
+       (C) a description of whether, how, and for what purpose the 
+     platform collects or processes categories of personal data 
+     that may cause reasonably foreseeable risk of harms to 
+     minors;
+       (D) an evaluation of the efficacy of safeguards for minors 
+     and parental tools under section 103, and any issues in 
+     delivering such safeguards and the associated parental tools;
+       (E) an evaluation of any other relevant matters of public 
+     concern over risk of harms to minors associated with the use 
+     of the covered platform; and
+       (F) an assessment of differences in risk of harm to minors 
+     across different English and non-English languages and 
+     efficacy of safeguards in those languages.
+       (3) Mitigation.--The public reports required of a covered 
+     platform under this section shall include, for English and 
+     the top 5 non-English languages used by users accessing the 
+     platform from the United States (as identified under 
+     paragraph (2)(C)(iii)))--
+       (A) a description of the safeguards and parental tools 
+     available to minors and parents on the covered platform;
+       (B) a description of interventions by the covered platform 
+     when it had or has reason to believe that harms to minors 
+     could occur;
+       (C) a description of the prevention and mitigation measures 
+     intended to be taken in response to the known and emerging 
+     risks identified in its assessment of reasonably foreseeable 
+     risks of harms to minors, including steps taken to--
+       (i) prevent harms to minors, including adapting or removing 
+     design features or addressing through parental tools;
+       (ii) provide the most protective level of control over 
+     privacy and safety by default; and
+       (iii) adapt recommendation systems to mitigate reasonably 
+     foreseeable risk of harms to minors, as described in section 
+     102(a);
+       (D) a description of internal processes for handling 
+     reports and automated detection mechanisms for harms to 
+     minors, including the rate, timeliness, and effectiveness of 
+     responses under the requirement of section 103(c);
+       (E) the status of implementing prevention and mitigation 
+     measures identified in prior assessments; and
+       (F) a description of the additional measures to be taken by 
+     the covered platform to address the circumvention of 
+     safeguards for minors and parental tools.
+       (d) Reasonable Inspection.--In conducting an inspection of 
+     the reasonably foreseeable risk of harm to minors under this 
+     section, an independent, third-party auditor shall--
+       (1) take into consideration the function of personalized 
+     recommendation systems;
+       (2) consult parents and youth experts, including youth and 
+     families with relevant past or current experience, public 
+     health and mental health nonprofit organizations, health and 
+     development organizations, and civil society with respect to 
+     the prevention of harms to minors;
+       (3) conduct research based on experiences of minors that 
+     use the covered platform, including reports under section 
+     103(c) and information provided by law enforcement;
+       (4) take account of research, including research regarding 
+     design features, marketing, or product integrity, industry 
+     best practices, or outside research;
+       (5) consider indicia or inferences of age of users, in 
+     addition to any self-declared information about the age of 
+     users; and
+       (6) take into consideration differences in risk of 
+     reasonably foreseeable harms and effectiveness of safeguards 
+     across English and non-English languages.
+       (e) Cooperation With Independent, Third-party Audit.--To 
+     facilitate the report required by subsection (c), a covered 
+     platform shall--
+       (1) provide or otherwise make available to the independent 
+     third-party conducting the audit all information and material 
+     in its possession, custody, or control that is relevant to 
+     the audit;
+       (2) provide or otherwise make available to the independent 
+     third-party conducting the audit access to all network, 
+     systems, and assets relevant to the audit; and
+       (3) disclose all relevant facts to the independent third-
+     party conducting the audit, and not misrepresent in any 
+     manner, expressly or by implication, any relevant fact.
+       (f) Privacy Safeguards.--
+       (1) In general.--In issuing the public reports required 
+     under this section, a covered platform shall take steps to 
+     safeguard the privacy of its users, including ensuring that 
+     data is presented in a de-identified, aggregated format such 
+     that it is not reasonably linkable to any user.
+       (2) Rule of construction.--This section shall not be 
+     construed to require the disclosure of information that will 
+     lead to material vulnerabilities for the privacy of users or 
+     the security of a covered platform's service or create a 
+     significant risk of the violation of Federal or State law.
+       (3) Definition of de-identified.--As used in this 
+     subsection, the term ``de-identified'' means data that does 
+     not identify and is not linked or reasonably linkable to a 
+     device that is linked or reasonably linkable to an 
+     individual, regardless of whether the information is 
+     aggregated
+       (g) Location.--The public reports required under this 
+     section should be posted by a covered platform on an easy to 
+     find location on a publicly-available website.
+
+     SEC. 106. RESEARCH ON SOCIAL MEDIA AND MINORS.
+
+       (a) Definitions.--In this section:
+       (1) Commission.--The term ``Commission'' means the Federal 
+     Trade Commission.
+       (2) National academy.--The term ``National Academy'' means 
+     the National Academy of Sciences.
+       (3) Secretary.--The term ``Secretary'' means the Secretary 
+     of Health and Human Services.
+       (b) Research on Social Media Harms.--Not later than 12 
+     months after the date of enactment of this Act, the 
+     Commission shall seek to enter into a contract with the 
+     National Academy, under which the National Academy shall 
+     conduct no less than 5 scientific, comprehensive studies and 
+     reports on the risk of harms to minors by use of social media 
+     and other online platforms, including in English and non-
+     English languages.
+       (c) Matters to Be Addressed.--In contracting with the 
+     National Academy, the Commission, in consultation with the 
+     Secretary, shall seek to commission separate studies and 
+     reports, using the Commission's authority under section 6(b) 
+     of the Federal Trade Commission Act (15 U.S.C. 46(b)), on the 
+     relationship between social media and other online platforms 
+     as defined in this title on the following matters:
+       (1) Anxiety, depression, eating disorders, and suicidal 
+     behaviors.
+       (2) Substance use disorders and the use of narcotic drugs, 
+     tobacco products, gambling, or alcohol by minors.
+       (3) Sexual exploitation and abuse.
+       (4) Addiction-like use of social media and design factors 
+     that lead to unhealthy and harmful overuse of social media.
+       (d) Additional Study.--Not earlier than 4 years after 
+     enactment, the Commission shall seek to enter into a contract 
+     with the National Academy under which the National Academy 
+     shall conduct an additional study and report covering the 
+     matters described in subsection (c) for the purposes of 
+     providing additional information, considering new research, 
+     and other matters.
+       (e) Content of Reports.-- The comprehensive studies and 
+     reports conducted pursuant to this section shall seek to 
+     evaluate impacts and advance understanding, knowledge, and 
+     remedies regarding the harms to minors posed by social media 
+     and other online platforms, and may include recommendations 
+     related to public policy.
+       (f) Active Studies.--If the National Academy is engaged in 
+     any active studies on the matters described in subsection (c) 
+     at the time that it enters into a contract with the 
+     Commission to conduct a study under this section, it may base 
+     the study to be conducted under this section on the active 
+     study, so long as it otherwise incorporates the requirements 
+     of this section.
+       (g) Collaboration.--In designing and conducting the studies 
+     under this section, the
+
+[[Page S5393]]
+
+     Commission, the Secretary, and the National Academy shall 
+     consult with the Surgeon General and the Kids Online Safety 
+     Council.
+       (h) Access to Data.--
+       (1) Fact-finding authority.--The Commission may issue 
+     orders under section 6(b) of the Federal Trade Commission Act 
+     (15 U.S.C. 46(b)) to require covered platforms to provide 
+     reports, data, or answers in writing as necessary to conduct 
+     the studies required under this section.
+       (2) Scope.--In exercising its authority under paragraph 
+     (1), the Commission may issue orders to no more than 5 
+     covered platforms per study under this section.
+       (3) Confidential access.--Notwithstanding section 6(f) or 
+     21 of the Federal Trade Commission Act (15 U.S.C. 46, 57b-2), 
+     the Commission shall enter in agreements with the National 
+     Academy to share appropriate information received from a 
+     covered platform pursuant to an order under such subsection 
+     (b) for a comprehensive study under this section in a 
+     confidential and secure manner, and to prohibit the 
+     disclosure or sharing of such information by the National 
+     Academy. Nothing in this paragraph shall be construed to 
+     preclude the disclosure of any such information if authorized 
+     or required by any other law.
+
+     SEC. 107. MARKET RESEARCH.
+
+       (a) Market Research by Covered Platforms.--The Federal 
+     Trade Commission, in consultation with the Secretary of 
+     Commerce, shall issue guidance for covered platforms seeking 
+     to conduct market- and product-focused research on minors. 
+     Such guidance shall include--
+       (1) a standard consent form that provides minors and their 
+     parents a clear, conspicuous, and easy-to-understand 
+     explanation of the scope and purpose of the research to be 
+     conducted that is available in English and the top 5 non-
+     English languages used in the United States;
+       (2) information on how to obtain informed consent from the 
+     parent of a minor prior to conducting such market- and 
+     product-focused research; and
+       (3) recommendations for research practices for studies that 
+     may include minors, disaggregated by the age ranges of 0-5, 
+     6-9, 10-12, and 13-16.
+       (b) Timing.--The Federal Trade Commission shall issue such 
+     guidance not later than 18 months after the date of enactment 
+     of this Act. In doing so, they shall seek input from members 
+     of the public and the representatives of the Kids Online 
+     Safety Council established under section 111.
+
+     SEC. 108. AGE VERIFICATION STUDY AND REPORT.
+
+       (a) Study.--The Secretary of Commerce, in coordination with 
+     the Federal Communications Commission and the Federal Trade 
+     Commission, shall conduct a study evaluating the most 
+     technologically feasible methods and options for developing 
+     systems to verify age at the device or operating system 
+     level.
+       (b) Contents.--Such study shall consider --
+       (1) the benefits of creating a device or operating system 
+     level age verification system;
+       (2) what information may need to be collected to create 
+     this type of age verification system;
+       (3) the accuracy of such systems and their impact or steps 
+     to improve accessibility, including for individuals with 
+     disabilities;
+       (4) how such a system or systems could verify age while 
+     mitigating risks to user privacy and data security and 
+     safeguarding minors' personal data, emphasizing minimizing 
+     the amount of data collected and processed by covered 
+     platforms and age verification providers for such a system;
+       (5) the technical feasibility, including the need for 
+     potential hardware and software changes, including for 
+     devices currently in commerce and owned by consumers; and
+       (6) the impact of different age verification systems on 
+     competition, particularly the risk of different age 
+     verification systems creating barriers to entry for small 
+     companies.
+       (c) Report.--Not later than 1 year after the date of 
+     enactment of this Act, the agencies described in subsection 
+     (a) shall submit a report containing the results of the study 
+     conducted under such subsection to the Committee on Commerce, 
+     Science, and Transportation of the Senate and the Committee 
+     on Energy and Commerce of the House of Representatives.
+
+     SEC. 109. GUIDANCE.
+
+       (a) In General.--Not later than 18 months after the date of 
+     enactment of this Act, the Federal Trade Commission, in 
+     consultation with the Kids Online Safety Council established 
+     under section 111, shall issue guidance to--
+       (1) provide information and examples for covered platforms 
+     and auditors regarding the following, with consideration 
+     given to differences across English and non-English 
+     languages--
+       (A) identifying design features that encourage or increase 
+     the frequency, time spent, or activity of minors on the 
+     covered platform;
+       (B) safeguarding minors against the possible misuse of 
+     parental tools;
+       (C) best practices in providing minors and parents the most 
+     protective level of control over privacy and safety;
+       (D) using indicia or inferences of age of users for 
+     assessing use of the covered platform by minors;
+       (E) methods for evaluating the efficacy of safeguards set 
+     forth in this title; and
+       (F) providing additional parental tool options that allow 
+     parents to address the harms described in section 102(a); and
+       (2) outline conduct that does not have the purpose or 
+     substantial effect of subverting or impairing user autonomy, 
+     decision-making, or choice, or of causing, increasing, or 
+     encouraging compulsive usage for a minor, such as--
+       (A) de minimis user interface changes derived from testing 
+     consumer preferences, including different styles, layouts, or 
+     text, where such changes are not done with the purpose of 
+     weakening or disabling safeguards or parental tools;
+       (B) algorithms or data outputs outside the control of a 
+     covered platform; and
+       (C) establishing default settings that provide enhanced 
+     privacy protection to users or otherwise enhance their 
+     autonomy and decision-making ability.
+       (b) Guidance on Knowledge Standard.--Not later than 18 
+     months after the date of enactment of this Act, the Federal 
+     Trade Commission shall issue guidance to provide information, 
+     including best practices and examples, for covered platforms 
+     to understand how the Commission would determine whether a 
+     covered platform ``had knowledge fairly implied on the basis 
+     of objective circumstances'' for purposes of this title.
+       (c) Limitation on Federal Trade Commission Guidance.--
+       (1) Effect of guidance.--No guidance issued by the Federal 
+     Trade Commission with respect to this title shall--
+       (A) confer any rights on any person, State, or locality; or
+       (B) operate to bind the Federal Trade Commission or any 
+     court, person, State, or locality to the approach recommended 
+     in such guidance.
+       (2) Use in enforcement actions.--In any enforcement action 
+     brought pursuant to this title, the Federal Trade Commission 
+     or a State attorney general, as applicable--
+       (A) shall allege a violation of a provision of this title; 
+     and
+       (B) may not base such enforcement action on, or execute a 
+     consent order based on, practices that are alleged to be 
+     inconsistent with guidance issued by the Federal Trade 
+     Commission with respect to this title, unless the practices 
+     are alleged to violate a provision of this title.
+     For purposes of enforcing this title, State attorneys general 
+     shall take into account any guidance issued by the Commission 
+     under subsection (b).
+
+     SEC. 110. ENFORCEMENT.
+
+       (a) Enforcement by Federal Trade Commission.--
+       (1) Unfair and deceptive acts or practices.--A violation of 
+     this title shall be treated as a violation of a rule defining 
+     an unfair or deceptive act or practice prescribed under 
+     section 18(a)(1)(B) of the Federal Trade Commission Act (15 
+     U.S.C. 57a(a)(1)(B)).
+       (2) Powers of the commission.--
+       (A) In general.--The Federal Trade Commission (referred to 
+     in this section as the ``Commission'') shall enforce this 
+     title in the same manner, by the same means, and with the 
+     same jurisdiction, powers, and duties as though all 
+     applicable terms and provisions of the Federal Trade 
+     Commission Act (15 U.S.C. 41 et seq.) were incorporated into 
+     and made a part of this title.
+       (B) Privileges and immunities.--Any person that violates 
+     this title shall be subject to the penalties, and entitled to 
+     the privileges and immunities, provided in the Federal Trade 
+     Commission Act (15 U.S.C. 41 et seq.).
+       (3) Authority preserved.--Nothing in this title shall be 
+     construed to limit the authority of the Commission under any 
+     other provision of law.
+       (b) Enforcement by State Attorneys General.--
+       (1) In general.--
+       (A) Civil actions.--In any case in which the attorney 
+     general of a State has reason to believe that a covered 
+     platform has violated or is violating section 103, 104, or 
+     105, the State, as parens patriae, may bring a civil action 
+     on behalf of the residents of the State in a district court 
+     of the United States or a State court of appropriate 
+     jurisdiction to--
+       (i) enjoin any practice that violates section 103, 104, or 
+     105;
+       (ii) enforce compliance with section 103, 104, or 105;
+       (iii) on behalf of residents of the State, obtain damages, 
+     restitution, or other compensation, each of which shall be 
+     distributed in accordance with State law; or
+       (iv) obtain such other relief as the court may consider to 
+     be appropriate.
+       (B) Notice.--
+       (i) In general.--Before filing an action under subparagraph 
+     (A), the attorney general of the State involved shall provide 
+     to the Commission--
+
+       (I) written notice of that action; and
+       (II) a copy of the complaint for that action.
+
+       (ii) Exemption.--
+
+       (I) In general.--Clause (i) shall not apply with respect to 
+     the filing of an action by an attorney general of a State 
+     under this paragraph if the attorney general of the State 
+     determines that it is not feasible to provide the notice 
+     described in that clause before the filing of the action.
+       (II) Notification.--In an action described in subclause 
+     (I), the attorney general of a State shall provide notice and 
+     a copy of the complaint to the Commission at the same time as 
+     the attorney general files the action.
+
+       (2) Intervention.--
+       (A) In general.--On receiving notice under paragraph 
+     (1)(B), the Commission shall have
+
+[[Page S5394]]
+
+     the right to intervene in the action that is the subject of 
+     the notice.
+       (B) Effect of intervention.--If the Commission intervenes 
+     in an action under paragraph (1), it shall have the right--
+       (i) to be heard with respect to any matter that arises in 
+     that action; and
+       (ii) to file a petition for appeal.
+       (3) Construction.--For purposes of bringing any civil 
+     action under paragraph (1), nothing in this title shall be 
+     construed to prevent an attorney general of a State from 
+     exercising the powers conferred on the attorney general by 
+     the laws of that State to--
+       (A) conduct investigations;
+       (B) administer oaths or affirmations; or
+       (C) compel the attendance of witnesses or the production of 
+     documentary and other evidence.
+       (4) Actions by the commission.--In any case in which an 
+     action is instituted by or on behalf of the Commission for 
+     violation of this title, no State may, during the pendency of 
+     that action, institute a separate action under paragraph (1) 
+     against any defendant named in the complaint in the action 
+     instituted by or on behalf of the Commission for that 
+     violation.
+       (5) Venue; service of process.--
+       (A) Venue.--Any action brought under paragraph (1) may be 
+     brought in--
+       (i) the district court of the United States that meets 
+     applicable requirements relating to venue under section 1391 
+     of title 28, United States Code; or
+       (ii) a State court of competent jurisdiction.
+       (B) Service of process.--In an action brought under 
+     paragraph (1) in a district court of the United States, 
+     process may be served wherever defendant--
+       (i) is an inhabitant; or
+       (ii) may be found.
+       (6) Limitation.--A violation of section 102 shall not form 
+     the basis of liability in any action brought by the attorney 
+     general of a State under a State law.
+
+     SEC. 111. KIDS ONLINE SAFETY COUNCIL.
+
+       (a) Establishment.--Not later than 180 days after the date 
+     of enactment of this Act, the Secretary of Commerce shall 
+     establish and convene the Kids Online Safety Council for the 
+     purpose of providing advice on matters related to this title.
+       (b) Participation.--The Kids Online Safety Council shall 
+     include diverse participation from--
+       (1) academic experts, health professionals, and members of 
+     civil society with expertise in mental health, substance use 
+     disorders, harm reduction as it relates to early exposures to 
+     pornographic material, and the prevention of harms to minors;
+       (2) representatives in academia and civil society with 
+     specific expertise in privacy, free expression, access to 
+     information, and civil liberties;
+       (3) parents and youth representation;
+       (4) representatives of covered platforms;
+       (5) representatives of the National Telecommunications and 
+     Information Administration, the National Institute of 
+     Standards and Technology, the Federal Trade Commission, the 
+     Department of Justice, and the Department of Health and Human 
+     Services;
+       (6) State attorneys general or their designees acting in 
+     State or local government;
+       (7) educators; and
+       (8) representatives of faith-based organizations.
+       (c) Activities.--The matters to be addressed by the Kids 
+     Online Safety Council shall include--
+       (1) identifying emerging or current risks of harms to 
+     minors associated with online platforms;
+       (2) recommending measures and methods for assessing, 
+     preventing, and mitigating harms to minors online;
+       (3) recommending methods and themes for conducting research 
+     regarding online harms to minors, including in English and 
+     non-English languages; and
+       (4) recommending best practices and clear, consensus-based 
+     technical standards for transparency reports and audits, as 
+     required under this title, including methods, criteria, and 
+     scope to promote overall accountability.
+       (d) Non-applicability of FACA.--The Kids Online Safety 
+     Council shall not be subject to chapter 10 of title 5, United 
+     States Code (commonly referred to as the ``Federal Advisory 
+     Committee Act'').
+
+     SEC. 112. EFFECTIVE DATE.
+
+       Except as otherwise provided in this title, this title 
+     shall take effect on the date that is 18 months after the 
+     date of enactment of this Act.
+
+     SEC. 113. RULES OF CONSTRUCTION AND OTHER MATTERS.
+
+       (a) Relationship to Other Laws.--Nothing in this title 
+     shall be construed to--
+       (1) preempt section 444 of the General Education Provisions 
+     Act (20 U.S.C. 1232g, commonly known as the ``Family 
+     Educational Rights and Privacy Act of 1974'') or other 
+     Federal or State laws governing student privacy;
+       (2) preempt the Children's Online Privacy Protection Act of 
+     1998 (15 U.S.C. 6501 et seq.) or any rule or regulation 
+     promulgated under such Act;
+       (3) authorize any action that would conflict with section 
+     18(h) of the Federal Trade Commission Act (15 U.S.C. 57a(h)); 
+     or
+       (4) expand or limit the scope of section 230 of the 
+     Communications Act of 1934 (commonly known as ``section 230 
+     of the Communications Decency Act of 1996'') (47 U.S.C. 230).
+       (b) Determination of ``Fairly Implied on the Basis of 
+     Objective Circumstances''.--For purposes of enforcing this 
+     title, in making a determination as to whether covered 
+     platform has knowledge fairly implied on the basis of 
+     objective circumstances that a specific user is a minor, the 
+     Federal Trade Commission or a State attorney general shall 
+     rely on competent and reliable evidence, taking into account 
+     the totality of the circumstances, including whether a 
+     reasonable and prudent person under the circumstances would 
+     have known that the user is a minor.
+       (c) Protections for Privacy.--Nothing in this title, 
+     including a determination described in subsection (b), shall 
+     be construed to require--
+       (1) the affirmative collection of any personal data with 
+     respect to the age of users that a covered platform is not 
+     already collecting in the normal course of business; or
+       (2) a covered platform to implement an age gating or age 
+     verification functionality.
+       (d) Compliance.--Nothing in this title shall be construed 
+     to restrict a covered platform's ability to--
+       (1) cooperate with law enforcement agencies regarding 
+     activity that the covered platform reasonably and in good 
+     faith believes may violate Federal, State, or local laws, 
+     rules, or regulations;
+       (2) comply with a lawful civil, criminal, or regulatory 
+     inquiry, subpoena, or summons by Federal, State, local, or 
+     other government authorities; or
+       (3) investigate, establish, exercise, respond to, or defend 
+     against legal claims.
+       (e) Application to Video Streaming Services.--A video 
+     streaming service shall be deemed to be in compliance with 
+     this title if it predominantly consists of news, sports, 
+     entertainment, or other video programming content that is 
+     preselected by the provider and not user-generated, and--
+       (1) any chat, comment, or interactive functionality is 
+     provided incidental to, directly related to, or dependent on 
+     provision of such content;
+       (2) if such video streaming service requires account owner 
+     registration and is not predominantly news or sports, the 
+     service includes the capability--
+       (A) to limit a minor's access to the service, which may 
+     utilize a system of age-rating;
+       (B) to limit the automatic playing of on-demand content 
+     selected by a personalized recommendation system for an 
+     individual that the service knows is a minor;
+       (C) to provide an individual that the service knows is a 
+     minor with readily-accessible and easy-to-use options to 
+     delete an account held by the minor and delete any personal 
+     data collected from the minor on the service, or, in the case 
+     of a service that allows a parent to create a profile for a 
+     minor, to allow a parent to delete the minor's profile, and 
+     to delete any personal data collected from the minor on the 
+     service;
+       (D) for a parent to manage a minor's privacy and account 
+     settings, and restrict purchases and financial transactions 
+     by a minor, where applicable;
+       (E) to provide an electronic point of contact specific to 
+     matters described in this paragraph;
+       (F) to offer a clear, conspicuous, and easy-to-understand 
+     notice of its policies and practices with respect to personal 
+     data and the capabilities described in this paragraph; and
+       (G) when providing on-demand content, to employ measures 
+     that safeguard against serving advertising for narcotic drugs 
+     (as defined in section 102 of the Controlled Substances Act 
+     (21 U.S.C. 802)), tobacco products, gambling, or alcohol 
+     directly to the account or profile of an individual that the 
+     service knows is a minor.
+       (f) Application to Particular Viewpoints.--Nothing in this 
+     title shall be construed to require a covered platform to 
+     alter a design feature in such a manner that would result in 
+     particular viewpoints being throttled, suppressed, or 
+     censored.
+                                 ______
+```

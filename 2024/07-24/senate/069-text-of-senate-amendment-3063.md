@@ -1,0 +1,28 @@
+---
+granule: CREC-2024-07-24-pt1-PgS5363
+date: 2024-07-24
+edition: CREC
+section: SENATE
+page: S5363
+citation: 170 Cong. Rec. S5363
+---
+
+# Text of Senate Amendment 3063
+
+**Speaking:** Schumer, Charles E. (S000148) [D-NY]
+
+```
+  SA 3063. Mr. SCHUMER submitted an amendment intended to be proposed 
+by him to the bill S. 2073, to amend title 31, United States Code, to 
+require agencies to include a list of outdated or duplicative reporting 
+requirements in annual budget justifications, and for other purposes; 
+which was ordered to lie on the table; as follows:
+
+       At the end add the following:
+
+     SEC. EFFECTIVE DATE.
+
+       This Act shall take effect on the date that is 7 days after 
+     the date of enactment of this Act.
+                                 ______
+```

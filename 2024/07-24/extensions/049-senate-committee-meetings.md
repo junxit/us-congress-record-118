@@ -1,0 +1,133 @@
+---
+granule: CREC-2024-07-24-pt1-PgE770-2
+date: 2024-07-24
+edition: CREC
+section: EXTENSIONS
+page: E770
+citation: 170 Cong. Rec. E770
+---
+
+# SENATE COMMITTEE MEETINGS
+
+**Measures:** S.Res. 4, S. 4753, S. 4755
+
+```
+                       SENATE COMMITTEE MEETINGS
+
+  Title IV of Senate Resolution 4, agreed to by the Senate of February 
+4, 1977, calls for establishment of a system for a computerized 
+schedule of all meetings and hearings of Senate committees, 
+subcommittees, joint committees, and committees of conference. This 
+title requires all such committees to notify the Office of the Senate 
+Daily Digest--designated by the Rules Committee--of the time, place and 
+purpose of the meetings, when scheduled and any cancellations or 
+changes in the meetings as they occur.
+  As an additional procedure along with the computerization of this 
+information, the Office of the Senate Daily Digest will prepare this 
+information for printing in the Extensions of Remarks section of the 
+Congressional Record on Monday and Wednesday of each week.
+  Meetings scheduled for Thursday, July 25, 2024 may be found in the 
+Daily Digest of today's Record.
+
+                           MEETINGS SCHEDULED
+
+                                JULY 30
+     9:30 a.m.
+       Committee on Armed Services
+         To hold hearings to examine the findings and 
+           recommendations of the Commission on the National 
+           Defense Strategy.
+                                                            SH-216
+     10 a.m.
+       Committee on Commerce, Science, and Transportation
+       Subcommittee on Tourism, Trade, and Export Promotion
+         To hold hearings to examine rural export opportunities, 
+           focusing on enabling rural businesses to grow at home 
+           while competing abroad.
+                                                            SR-253
+       Committee on Finance
+         To hold hearings to examine tax tools for local economic 
+           development.
+                                                            SD-215
+       Committee on Foreign Relations
+         To hold hearings to examine strategic competition with 
+           the PRC, focusing on assessing U.S. competitiveness 
+           beyond the Indo-Pacific.
+                                                            SD-419
+       Committee on Homeland Security and Governmental Affairs
+       Committee on the Judiciary, Committee on the Judiciary
+         To hold a joint hearing to examine the security failures 
+           leading to the assassination attempt on former 
+           President Trump.
+                                                            SD-G50
+     2:30 p.m.
+       Committee on Banking, Housing, and Urban Affairs
+       Subcommittee on Economic Policy
+         To hold hearings to examine banning noncompete 
+           agreements, focusing on benefits for workers, 
+           businesses, and the economy.
+                                                            SD-538
+       Committee on Foreign Relations
+       Subcommittee on Europe and Regional Security Cooperation
+         To hold hearings to examine the future of Europe.
+                                                            SD-419
+     2:45 p.m.
+       Committee on Rules and Administration
+         To hold hearings to examine Senate procedures to confirm 
+           nominees.
+                                                            SR-301
+
+                                JULY 31
+
+     10 a.m.
+       Committee on Banking, Housing, and Urban Affairs
+         To hold hearings to examine long-term economic benefits 
+           and impacts from Federal infrastructure and public 
+           transportation investment.
+                                                            SD-538
+       Committee on the Budget
+         To hold hearings to examine the future of electric 
+           vehicles.
+                                                            SD-608
+       Committee on Energy and Natural Resources
+         Business meeting to consider S. 4753, to reform leasing, 
+           permitting, and judicial review for certain energy and 
+           minerals projects.
+                                                            SD-366
+       Committee on Health, Education, Labor, and Pensions
+         Business meeting to consider S. 4755, to reauthorize 
+           traumatic brain injury programs, an original bill 
+           entitled, ``Older Americans Act Reauthorization Act'', 
+           an original bill entitled, ``Autism Collaboration, 
+           Accountability, Research, Education, and Support Act'', 
+           and other pending calendar business.
+                                                            SD-562
+       Committee on the Judiciary
+         To hold hearings to examine pending nominations.
+                                                            SD-226
+
+     2 p.m.
+       Committee on the Judiciary
+       Subcommittee on Human Rights and the Law
+         To hold hearings to examine birth behind bars.
+                                                            SD-226
+     2:30 p.m.
+       Committee on Environment and Public Works
+       Subcommittee on Chemical Safety, Waste Management, 
+           Environmental Justice, and Regulatory Oversight
+         To hold hearings to examine understanding the potential 
+           environmental impacts of the chemical 6PPD.
+                                                            SD-406
+       Select Committee on Intelligence
+         To receive a closed briefing on certain intelligence 
+           matters.
+                                                           SVC-217
+
+                              SEPTEMBER 24
+     10 a.m.
+       Committee on Health, Education, Labor, and Pensions
+         To hold hearings to examine Novo Nordisk's high prices 
+           for Ozempic and Wegovy for patients with diabetes and 
+           obesity.
+                                                            SD-562
+```
