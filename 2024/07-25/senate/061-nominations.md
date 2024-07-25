@@ -1,0 +1,40 @@
+---
+granule: CREC-2024-07-25-pt1-PgS5527-2
+date: 2024-07-25
+edition: CREC
+section: SENATE
+page: S5527
+citation: 170 Cong. Rec. S5527
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                      UNITED STATES POSTAL SERVICE
+
+        VAL BUTLER DEMINGS, OF FLORIDA, TO BE A GOVERNOR OF THE 
+     UNITED STATES POSTAL SERVICE FOR A TERM EXPIRING DECEMBER 8, 
+     2030, VICE ANTON GEORGE HAJJAR, TERM EXPIRED.
+        WILLIAM ZOLLARS, OF KANSAS, TO BE A GOVERNOR OF THE UNITED 
+     STATES POSTAL SERVICE FOR A TERM EXPIRING DECEMBER 8, 2029. 
+     (REAPPOINTMENT)
+
+
+                            IN THE AIR FORCE
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES AIR FORCE TO THE GRADE INDICATED WHILE ASSIGNED TO A 
+     POSITION OF IMPORTANCE AND RESPONSIBILITY UNDER TITLE 10, 
+     U.S.C., SECTION 601:
+
+                        To be lieutenant general
+
+MAJ. GEN. JENNIFER M. SHORT
+
+                          ____________________
+```
