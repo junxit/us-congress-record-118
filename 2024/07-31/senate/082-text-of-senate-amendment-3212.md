@@ -1,0 +1,136 @@
+---
+granule: CREC-2024-07-31-pt1-PgS5711-2
+date: 2024-07-31
+edition: CREC
+section: SENATE
+page: S5711
+citation: 170 Cong. Rec. S5711
+---
+
+# Text of Senate Amendment 3212
+
+**Speaking:** Brown, Sherrod (B000944) [D-OH]
+
+```
+  SA 3212. Mr. BROWN submitted an amendment intended to be proposed by 
+him to the bill S. 4638, to authorize appropriations for fiscal year 
+2025 for military activities of the Department of Defense, for military 
+construction, and for defense activities of the Department of Energy, 
+to prescribe military personnel strengths for such fiscal year, and for 
+other purposes; which was ordered to lie on the table; as follows:
+
+       At the end of subtitle H of title X, add the following:
+
+     SEC. 1095. ATTRACTING HIGHLY QUALIFIED EXPERTS TO BUREAU OF 
+                   INDUSTRY AND SECURITY.
+
+       Part III of the Export Control Reform Act of 2018 (50 
+     U.S.C. 4851 et seq.) is amended by adding at the end the 
+     following:
+
+     ``SEC. 1783. ATTRACTING HIGHLY QUALIFIED EXPERTS TO BUREAU OF 
+                   INDUSTRY AND SECURITY.
+
+       ``(a) In General.--The Under Secretary of Commerce for 
+     Industry and Security (in this section referred to as the 
+     `Under Secretary') may carry out a program using the 
+     authority provided in subsection (b) in order to attract to 
+     the Bureau of Industry and Security highly qualified experts 
+     in needed occupations, as determined by the Under Secretary.
+       ``(b) Authority.--Under the program under this section, the 
+     Under Secretary may--
+       ``(1) appoint personnel from outside the civil service (as 
+     defined in section 2101 of title 5, United States Code) to 
+     positions in the Bureau of Industry and Security without 
+     regard to any provision of title 5, United States Code, 
+     governing the appointment of employees to positions in the 
+     Bureau; and
+       ``(2) prescribe the rates of basic pay for positions to 
+     which employees are appointed under paragraph (1) at rates 
+     not in excess of the maximum rate of basic pay authorized for 
+     senior-level positions under section 5376 of title 5, United 
+     States Code, as increased by locality-based comparability 
+     payments under section 5304 of that title, notwithstanding 
+     any provision of that title governing the rates of pay or 
+     classification of employees in the executive branch.
+       ``(c) Limitation on Term of Appointment.--
+       ``(1) In general.--Except as provided in paragraph (2), the 
+     service of an employee under an appointment made pursuant to 
+     this section may not exceed 5 years.
+       ``(2) Extensions.--The Under Secretary may, in the case of 
+     a particular employee, extend the period to which service is 
+     limited under paragraph (1) by up to 1 additional year if the 
+     Under Secretary determines that such action is necessary to 
+     promote the national security, foreign policy, and economic 
+     objectives of the United States.
+       ``(d) Limitation on Total Annual Compensation.--
+     Notwithstanding any other provision of this subsection or of 
+     section 5307 of title 5, United States Code, no additional 
+     payments may be paid to an employee under this section in any 
+     calendar year if, or to the extent that, the employee's total 
+     annual compensation will exceed the maximum amount of total 
+     annual compensation payable at the salary set in accordance 
+     with section 104 of title 3, United States Code.
+       ``(e) Limitation on Number of Highly Qualified Experts.--
+     The number of highly qualified experts appointed and retained 
+     by the Under Secretary under subsection (b)(1) shall not 
+     exceed 25 at any time.
+       ``(f) Report Required.--
+       ``(1) In general.--Not later than 180 days after the date 
+     of the enactment of this section, and annually thereafter, 
+     the Under Secretary of Commerce for Industry and Security 
+     shall submit to the committees specified in paragraph (2) a 
+     report that includes--
+       ``(A) the number of individuals appointed to the Bureau of 
+     Industry and Security under the authority provided by this 
+     section during the period specified in paragraph (3);
+       ``(B) a description of the qualifications of such 
+     individuals and their responsibilities during that period; 
+     and
+       ``(C) a description of the impact of such individuals on 
+     carrying out the mission of the Bureau of Industry and 
+     Security.
+       ``(2) Committees specified.--The committees specified in 
+     this paragraph are--
+
+[[Page S5712]]
+
+       ``(A) the Committee on Banking, Housing, and Urban Affairs 
+     and the Committee on Homeland Security and Governmental 
+     Affairs of the Senate; and
+       ``(B) the Committee on Foreign Affairs and the Committee on 
+     Committee on Oversight and Accountability of the House of 
+     Representatives.
+       ``(3) Period specified.--The period specified in this 
+     paragraph is--
+       ``(A) in the case of the first report required by paragraph 
+     (1), the 180-day period preceding submission of the report; 
+     and
+       ``(B) in the case of any subsequent report required by 
+     paragraph (1), the one-year period preceding submission of 
+     the report.
+       ``(g) Savings Provisions.--In the event that the Under 
+     Secretary terminates the program under this section, in the 
+     case of an employee who, on the day before the termination of 
+     the program, is serving in a position pursuant to an 
+     appointment under this section--
+       ``(1) the termination of the program does not terminate the 
+     employee's employment in that position before the expiration 
+     of the lesser of--
+       ``(A) the period for which the employee was appointed; or
+       ``(B) the period to which the employee's service is limited 
+     under subsection (c), including any extension made under this 
+     section before the termination of the program; and
+       ``(2) the rate of basic pay prescribed for the position 
+     under this section may not be reduced as long as the employee 
+     continues to serve in the position without a break in 
+     service.
+       ``(h) Rule of Construction.--Nothing in this section shall 
+     be construed to waive any requirements regarding background 
+     checks or qualifications of applicants to positions with the 
+     Bureau of Industry and Security.
+       ``(i) Termination.--The authority provided by this section 
+     shall cease to be effective on the date that is 5 years after 
+     the date of the enactment of this section.''.
+                                 ______
+```

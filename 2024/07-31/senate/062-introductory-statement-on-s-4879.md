@@ -1,0 +1,169 @@
+---
+granule: CREC-2024-07-31-pt1-PgS5685
+date: 2024-07-31
+edition: CREC
+section: SENATE
+page: S5685
+citation: 170 Cong. Rec. S5685
+---
+
+# Introductory Statement on S. 4879
+
+**Speaking:** Durbin, Richard J. (D000563) [D-IL]
+
+**Measures:** S. 4879
+
+```
+      By Mr. DURBIN (for himself, Mr. Blumenthal, Mr. Van Hollen, and 
+        Mr. Brown):
+  S. 4879. A bill to prioritize funding for an expanded and sustained 
+national investment in biomedical research; to the Committee on 
+Appropriations.
+  Mr. DURBIN. Madam President, I ask unanimous consent that the text of 
+the bill be printed in the Record.
+  There being no objection, the text of the bill was ordered to be 
+printed in the Record, as follows:
+
+                                S. 4879
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``American Cures Act''.
+
+     SEC. 2. APPROPRIATIONS FOR INNOVATION.
+
+       (a) In General.--There are hereby authorized to be 
+     appropriated, and appropriated, out of any monies in the 
+     Treasury not otherwise appropriated, the following:
+       (1) National institutes of health.--For the National 
+     Institutes of Health at the Department of Health and Human 
+     Services--
+       (A) for fiscal year 2025, $52,468,000,000;
+       (B) for fiscal year 2026, $56,665,000,000;
+       (C) for fiscal year 2027, $61,198,000,000;
+       (D) for fiscal year 2028, $66,094,000,000;
+       (E) for fiscal year 2029, $71,382,000,000;
+       (F) for fiscal year 2030, $77,093,000,000;
+       (G) for fiscal year 2031, $83,260,000,000;
+       (H) for fiscal year 2032, $89,921,000,000;
+       (I) for fiscal year 2033, $97,115,000,000;
+       (J) for fiscal year 2034, $104,884,000,000; and
+       (K) for fiscal year 2035 and each fiscal year thereafter, 
+     the amount appropriated under this paragraph for the previous 
+     fiscal year, increased by the percentage increase (if any), 
+     during the previous fiscal year, in the Consumer Price Index 
+     for all urban consumers published by the Bureau of Labor 
+     Statistics.
+       (2) Centers for disease control and prevention.--For the 
+     Centers for Disease Control and Prevention at the Department 
+     of Health and Human Services--
+       (A) for fiscal year 2025, $9,960,000,000;
+       (B) for fiscal year 2026, $10,757,000,000;
+       (C) for fiscal year 2027, $11,618,000,000;
+       (D) for fiscal year 2028, $12,547,000,000;
+       (E) for fiscal year 2029, $13,551,000,000;
+       (F) for fiscal year 2030, $14,635,000,000;
+       (G) for fiscal year 2031, $15,806,000,000;
+       (H) for fiscal year 2032, $17,070,000,000;
+       (I) for fiscal year 2033, $18,436,000,000;
+       (J) for fiscal year 2034, $19,911,000,000; and
+       (K) for fiscal year 2035 and each fiscal year thereafter, 
+     the amount appropriated under this paragraph for the previous 
+     fiscal year, increased by the percentage increase (if any), 
+     during the previous fiscal year, in the Consumer Price Index 
+     for all urban consumers published by the Bureau of Labor 
+     Statistics.
+       (3) Research, development, test, and evaluation program of 
+     the department of defense health program.--For the research, 
+     development, test, and evaluation program of the Department 
+     of Defense health program--
+       (A) for fiscal year 2025, $3,550,000,000;
+       (B) for fiscal year 2026, $3,834,000,000;
+       (C) for fiscal year 2027, $4,141,000,000;
+       (D) for fiscal year 2028, $4,472,000,000;
+       (E) for fiscal year 2029, $4,830,000,000;
+       (F) for fiscal year 2030, $5,216,000,000;
+       (G) for fiscal year 2031, $5,633,000,000;
+       (H) for fiscal year 2032, $6,084,000,000;
+       (I) for fiscal year 2033, $6,571,000,000;
+       (J) for fiscal year 2034, $7,096,000,000; and
+       (K) for fiscal year 2035 and each fiscal year thereafter, 
+     the amount appropriated under this paragraph for the previous 
+     fiscal year, increased by the percentage increase (if any), 
+     during the previous fiscal year, in the Consumer Price Index 
+     for all urban consumers published by the Bureau of Labor 
+     Statistics.
+       (4) Medical and prosthetics research program of the 
+     department of veterans affairs.--For the medical and 
+     prosthetics research program of the Department of Veterans 
+     Affairs--
+       (A) for fiscal year 2025, $1,018,000,000;
+       (B) for fiscal year 2026, $1,099,000,000;
+       (C) for fiscal year 2027, $1,187,000,000;
+       (D) for fiscal year 2028, $1,282,000,000;
+       (E) for fiscal year 2029, $1,385,000,000;
+       (F) for fiscal year 2030, $1,496,000,000;
+       (G) for fiscal year 2031, $1,616,000,000;
+       (H) for fiscal year 2032, $1,745,000,000;
+       (I) for fiscal year 2033, $1,885,000,000;
+       (J) for fiscal year 2034, $2,035,000,000; and
+       (K) for fiscal year 2035 and each fiscal year thereafter, 
+     the amount appropriated under this paragraph for the previous 
+     fiscal year, increased by the percentage increase (if any), 
+     during the previous fiscal year, in the Consumer Price Index 
+     for all urban consumers published by the Bureau of Labor 
+     Statistics.
+       (b) Availability.--Amounts appropriated under subsection 
+     (a) shall remain available until expended.
+       (c) Definitions.--In this section:
+       (1) Centers for disease control and prevention.--The term 
+     ``Centers for Disease Control and Prevention'' means the 
+     appropriations accounts that support the various institutes, 
+     offices, and centers that make up the Centers for Disease 
+     Control and Prevention.
+       (2) Research, development, test, and evaluation program of 
+     the department of defense health program.--The term 
+     ``research, development, test, and evaluation program of the 
+     Department of Defense health program'' means the 
+     appropriations accounts that support the various institutes, 
+     offices, and centers that make up the research, development, 
+     test, and evaluation program of the Department of Defense 
+     health program.
+       (3) Medical and prosthetics research program of the 
+     department of veterans affairs.--The term ``medical and 
+     prosthetics research program of the Department of Veterans 
+     Affairs'' means the appropriations accounts that support the 
+     various institutes, offices, and centers that make up the 
+     medical and prosthetics research program of the Department of 
+     Veterans Affairs.
+       (4) National institutes of health.--The term ``National 
+     Institutes of Health'' means the appropriations accounts that 
+     support the various institutes, offices, and centers that 
+     make up the National Institutes of Health.
+       (d) Exemption of Certain Appropriations From 
+     Sequestration.--
+       (1) In general.--Section 255(g)(1)(A) of the Balanced 
+     Budget and Emergency Deficit Control Act (2 U.S.C. 
+     905(g)(1)(A)) is amended by inserting after ``Advances to the 
+     Unemployment Trust Fund and Other Funds (16-0327-0-1-600).'' 
+     the following:
+       ``Appropriations under the American Cures Act.''.
+       (2) Applicability.--The amendment made by this section 
+     shall apply to any sequestration order issued under the 
+     Balanced Budget and Emergency Deficit Control Act of 1985 (2 
+     U.S.C. 900 et seq.) on or after the date of enactment of this 
+     Act.
+       (e) Budgetary Effects.--
+       (1) Statutory paygo scorecards.--The budgetary effects of 
+     this section shall not be entered on either PAYGO scorecard 
+     maintained pursuant to section 4(d) of the Statutory Pay-As-
+     You-Go Act of 2010 (2 U.S.C. 933(d)).
+       (2) Senate paygo scorecards.--The budgetary effects of this 
+     section shall not be entered on any PAYGO scorecard 
+     maintained for purposes of section 4106 of H. Con. Res. 71 
+     (115th Congress).
+                                 ______
+```
