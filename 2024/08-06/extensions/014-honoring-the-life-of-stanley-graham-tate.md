@@ -1,0 +1,52 @@
+---
+granule: CREC-2024-08-06-pt1-PgE804
+date: 2024-08-06
+edition: CREC
+section: EXTENSIONS
+page: E804
+citation: 170 Cong. Rec. E804
+---
+
+# HONORING THE LIFE OF STANLEY GRAHAM TATE
+
+**Speaking:** Moskowitz, Jared (M001217) [D-FL]
+
+```
+                HONORING THE LIFE OF STANLEY GRAHAM TATE
+
+                                 ______
+                                 
+
+                          HON. JARED MOSKOWITZ
+
+                               of florida
+
+                    in the house of representatives
+
+                        Tuesday, August 6, 2024
+
+  Mr. MOSKOWITZ. Mr. Speaker, I rise today to reflect and honor Mr. 
+Stanley Graham Tate, a champion of real estate, business, and education 
+in Florida, who sadly passed away at the age of 96 on July 26, 2024.
+  Mr. Tate was not just a real estate mogul, but a visionary whose 
+successful ventures transformed the real estate landscape, particularly 
+in Miami Beach. His entrepreneurial spirit continues to inspire us all. 
+In addition to his real estate career, Mr. Tate's business acumen was 
+instrumental during a crucial period when the government needed his 
+skills. As the Southeast Regional Director of The Resolution Trust 
+Corporation, a federal agency established to address the Savings and 
+Loans financial crisis, Mr. Tate's invaluable contributions helped the 
+United States overcome these financial challenges.
+  One of Mr. Tate's greatest legacies is the creation of the Stanley G. 
+Tate Florida Prepaid College Program. This program, founded in 1987, 
+has been a beacon of hope for countless students in Florida, providing 
+them with the opportunity to pursue higher education. Mr. Tate's 
+foresight and dedication to educational equality have been invaluable 
+to the community, and his legacy lives on in the lives of the students 
+who have benefited from his college savings plan.
+  Mr. Speaker, please join me in commemorating Mr. Stanley Graham 
+Tate's life and legacy. His achievements will undoubtedly be cherished 
+by the numerous lives he has impacted, and he will be dearly missed.
+
+                          ____________________
+```
