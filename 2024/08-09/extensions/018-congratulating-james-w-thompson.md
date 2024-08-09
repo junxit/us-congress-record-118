@@ -1,0 +1,45 @@
+---
+granule: CREC-2024-08-09-pt1-PgE816
+date: 2024-08-09
+edition: CREC
+section: EXTENSIONS
+page: E816
+citation: 170 Cong. Rec. E816
+---
+
+# CONGRATULATING JAMES W. THOMPSON
+
+**Speaking:** Carter, Earl L. "Buddy" (C001103) [R-GA]
+
+```
+                    CONGRATULATING JAMES W. THOMPSON
+
+                                 ______
+                                 
+
+                     HON. EARL L. ``BUDDY'' CARTER
+
+                               of georgia
+
+                    in the house of representatives
+
+                         Friday, August 9, 2024
+
+  Mr. CARTER of Georgia. Mr. Speaker, I rise today to recognize James 
+W. Thompson for his record-breaking catch. A native of St. Simons, 21-
+year-old James set a new state record for an almaco jack caught on July 
+28th.
+  Measuring in at a whopping 27 pounds and 8 ounces, it broke the 
+previous record by 4 pounds. This is no small feat. The almaco jack is 
+known for its strength and stamina, humbling anglers who do not take it 
+seriously. With this catch, James proved that he is a skilled 
+fisherman.
+  This is the third time in the past year alone that the record for 
+almaco jack has been broken. It is a reminder that Georgia's coastal 
+waters provide exceptional fishing for anglers of all ages.
+  It's important that we maintain the health and biodiversity of 
+Georgia's waters, so that our children and grandchildren can enjoy one 
+of our states' favorite pastimes.
+
+                          ____________________
+```
