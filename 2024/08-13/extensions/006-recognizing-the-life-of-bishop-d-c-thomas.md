@@ -1,0 +1,54 @@
+---
+granule: CREC-2024-08-13-pt1-PgE820-2
+date: 2024-08-13
+edition: CREC
+section: EXTENSIONS
+page: E820
+citation: 170 Cong. Rec. E820
+---
+
+# RECOGNIZING THE LIFE OF BISHOP D.C. THOMAS
+
+**Speaking:** Fitzpatrick, Brian K. (F000466) [R-PA]
+
+```
+               RECOGNIZING THE LIFE OF BISHOP D.C. THOMAS
+
+                                 ______
+                                 
+
+                       HON. BRIAN K. FITZPATRICK
+
+                            of pennsylvania
+
+                    in the house of representatives
+
+                        Tuesday, August 13, 2024
+
+  Mr. FITZPATRICK. Mr. Speaker, I rise today to recognize and remember 
+an outstanding constituent from my district who recently passed away; 
+Bishop D.C. Thomas. Bishop Thomas was born and raised in nearby 
+Trenton, New Jersey, and worked tirelessly to positively impact his 
+community for his entire life.
+  In 1985, Bishop Thomas developed an afterschool program to help 
+elementary and middle school students in Trenton. But his efforts to 
+assist Trenton's younger population did not stop there. Bishop Thomas 
+also started a youth summer camp, which not only provided the children 
+of Trenton with summer activities, but it also ensured that every 
+attendee would be properly fed. Later, Bishop Thomas started a food 
+delivery program that helped families in need. This mobile kitchen 
+provided families throughout Trenton with consistent access to hot 
+meals.
+  Perhaps Bishop Thomas's most impressive accomplishment is the 
+Christian Home Better Life Development Center. This center began as an 
+unhabitable home, but through his tireless work, was transformed into a 
+rehabilitation center. Without any subsidies or grants, Bishop Thomas 
+helped over 300 individuals battling drug and alcohol addictions by 
+working to turn their lives around. Today many individuals who once 
+passed through its doors are employed and married with families.
+  We are eternally grateful for the work that Bishop D.C. Thomas has 
+demonstrated throughout his life and our community is a better place 
+because of his extraordinary service. May he rest in peace.
+
+                          ____________________
+```
