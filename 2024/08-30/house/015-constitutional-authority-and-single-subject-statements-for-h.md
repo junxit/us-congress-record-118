@@ -1,0 +1,29 @@
+---
+granule: CREC-2024-08-30-pt1-PgH5021-5
+date: 2024-08-30
+edition: CREC
+section: HOUSE
+page: H5021
+citation: 170 Cong. Rec. H5021
+---
+
+# Constitutional Authority and Single Subject Statements for H.R. 9427
+
+**Measures:** H.R. 9427
+
+```
+           By Mr. BOST:
+       H.R. 9427.
+       Congress has the power to enact this legislation pursuant 
+     to the following:
+       Article I, Section 8 of the United States Constitution, 
+     which states ``[t]he Congress shall have power to lay and 
+     collect taxes, duties, imposts and excises, to pay the debts 
+     and provide for the common defense and general welfare of the 
+     United States; but all duties, imposts and excises shall be 
+     uniform throughout the United States''
+       The single subject of this legislation is:
+       This bill would allow VA to create a pilot program to give 
+     grants to outpatient mental health facilities who provide 
+     services to veterans.
+```
