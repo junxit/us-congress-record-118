@@ -1,0 +1,60 @@
+---
+granule: CREC-2024-09-06-pt1-PgE864-2
+date: 2024-09-06
+edition: CREC
+section: EXTENSIONS
+page: E864
+citation: 170 Cong. Rec. E864
+---
+
+# CELEBRATING THE CENTENNIAL ANNIVERSARY OF THE CITY OF BELLE ISLE IN CENTRAL FLORIDA
+
+**Speaking:** Soto, Darren (S001200) [D-FL]
+
+```
+  CELEBRATING THE CENTENNIAL ANNIVERSARY OF THE CITY OF BELLE ISLE IN 
+                            CENTRAL FLORIDA
+
+                                 ______
+                                 
+
+                            HON. DARREN SOTO
+
+                               of florida
+
+                    in the house of representatives
+
+                       Friday, September 6, 2024
+
+  Mr. SOTO. Mr. Speaker, it is an honor and privilege to recognize and 
+celebrate the centennial anniversary of the City of Belle Isle in 
+Central Florida. Once a Native American oasis, Belle Isle was founded 
+by Central Floridians in 1924 to resist Orange County's attempts to 
+drain Lake Conway and its chain of lakes, which span approximately 
+1,800 acres.
+  Belle Isle's first citizens and interim Mayor C.H. Hoffner 
+unanimously voted on the city's name, which resembles the French phrase 
+for ``beautiful island.'' Today, it reflects the city's peaceful, 
+lakefront living that provides an escape from the nearby metros.
+  In 1928, Belle Isle was annexed back into Orange County, and records 
+of the City of Belle Isle ceased to exist. However, residents once 
+again rallied against another attempt by the County to use the lakes 
+for drainage in 1954, and the local government was reinstated. The 
+State of Florida later recognized the City of Belle Isle's charter in 
+1972.
+  The city's government ran continuously until the early 2000s when a 
+council-manager form of government was adopted to better serve Belle 
+Isle residents. Since that time, the city has flourished. Annexations, 
+the establishment of a Belle Isle Police Department, and an agreement 
+to open Cornerstone Charter Academy mark Belle Isle's largest 
+achievements in recent years.
+  In celebration of Belle Isle's centennial, the city will be hosting a 
+Tree Recognition Ceremony to honor two of its beautiful trees. One tree 
+will be recognized as a centennial tree, symbolizing 100 years of Belle 
+Isle history. A second plaque will acknowledge a newly planted tree 
+that will stand for the next 100 years. We wish good fortune to the 
+City of Belle Isle and its residents and hope for another 100 years of 
+history.
+
+                          ____________________
+```
