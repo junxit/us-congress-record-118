@@ -1,0 +1,50 @@
+---
+granule: CREC-2024-09-11-pt1-PgE886-4
+date: 2024-09-11
+edition: CREC
+section: EXTENSIONS
+page: E886
+citation: 170 Cong. Rec. E886
+---
+
+# HONORING AMY BEGAYE, MISS NAVAJO NATION
+
+**Speaking:** Crane, Elijah (C001132) [R-AZ]
+
+```
+                HONORING AMY BEGAYE, MISS NAVAJO NATION
+
+                                 ______
+                                 
+
+                           HON. ELIJAH CRANE
+
+                               of arizona
+
+                    in the house of representatives
+
+                     Wednesday, September 11, 2024
+
+  Mr. CRANE. Mr. Speaker, last week, contestants competed in the 72nd 
+Annual Miss Navajo Nation Pageant in my district.
+  To become Miss Navajo, contestants participate in a rigorous week-
+long annual competition, which requires contestants to demonstrate 
+proficiency in both the Navajo and English languages, knowledge of 
+Navajo culture and beliefs, business interviews, contemporary talents, 
+and traditional skills such as sheep butchering and preparing 
+traditional foods.
+  I'd like to recognize Amy Naazbah Reeves-Begaye, who has served as 
+Miss Navajo for the past year.
+  I met Amy last year during her first trip to the U.S. Capitol and 
+learned about her experience and background and the process of becoming 
+Miss Navajo.
+  We've had a few chances to connect throughout the years and I've been 
+impressed with her hard work and professionalism.
+  She's been a strong leader and advocate for Navajo history and 
+culture.
+  I thank Amy for her leadership as Miss Navajo over the last year. I 
+wish her the best in her future endeavors and know that she will 
+continue to make the Navajo Nation proud.
+
+                          ____________________
+```
