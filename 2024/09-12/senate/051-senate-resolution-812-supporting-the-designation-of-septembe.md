@@ -1,0 +1,87 @@
+---
+granule: CREC-2024-09-12-pt1-PgS6022
+date: 2024-09-12
+edition: CREC
+section: SENATE
+page: S6022
+citation: 170 Cong. Rec. S6022
+---
+
+# SENATE RESOLUTION 812--SUPPORTING THE DESIGNATION OF SEPTEMBER 20, 2024, AS "NATIONAL CONCUSSION AWARENESS DAY"
+
+**Measures:** S.Res. 812
+
+```
+                         SUBMITTED RESOLUTIONS
+
+                                 ______
+                                 
+
+  SENATE RESOLUTION 812--SUPPORTING THE DESIGNATION OF SEPTEMBER 20, 
+             2024, AS ``NATIONAL CONCUSSION AWARENESS DAY''
+
+  Ms. HASSAN (for herself, Mrs. Capito, Mr. Casey, and Mr. Mullin) 
+submitted the following resolution; which was referred to the Committee 
+on Health, Education, Labor, and Pensions:
+
+                              S. Res. 812
+
+       Whereas mild traumatic brain injury, otherwise known as a 
+     concussion, is an important health concern for children, 
+     teens, and adults;
+       Whereas, according to information from the Centers for 
+     Disease Control and Prevention--
+       (1) there are as many as 1,600,000 to 3,800,000 sports-
+     related concussions annually;
+       (2) as many as 5,300,000 individuals live with the long-
+     term effects of a traumatic brain injury;
+       (3) between 2010 and 2016, an estimated 2,000,000 children 
+     under age 18 visited an emergency department because of a 
+     traumatic brain injury sustained during sports- or 
+     recreation-related activities;
+       (4) each year an estimated 283,000 children seek care in 
+     emergency departments in the United States for a sports- or 
+     recreation-related traumatic brain injury, with traumatic 
+     brain injuries sustained in contact sports accounting for 
+     approximately 45 percent of those visits;
+       (5) research suggests that many children with a traumatic 
+     brain injury do not seek care in emergency departments or do 
+     not seek care at all, resulting in a significant 
+     underestimate of prevalence; and
+       (6) approximately 15 percent of all high school students in 
+     the United States self-reported 1 or more sports- or 
+     recreation-related concussions within the preceding 12 
+     months;
+       Whereas the seriousness of concussions should not be 
+     minimized in athletics, and return-to-play and return-to-
+     learn protocols can help ensure recovery;
+       Whereas concussions can affect physical, mental, and social 
+     health, and a greater awareness and understanding of proper 
+     diagnosis and management of concussions is critical to 
+     improved outcomes; and
+       Whereas the Senate can raise awareness about concussions 
+     among the medical community and the public: Now, therefore, 
+     be it
+       Resolved, That the Senate--
+       (1) supports the designation of September 20, 2024, as 
+     ``National Concussion Awareness Day'';
+       (2) recognizes that mild traumatic brain injury, otherwise 
+     known as a concussion, is an important health concern;
+       (3) commends the organizations and individuals that raise 
+     awareness about mild traumatic brain injury;
+       (4) encourages Federal, State, and local policymakers to 
+     work together--
+       (A) to raise awareness about the effects of concussions; 
+     and
+       (B) to improve the understanding of proper diagnosis and 
+     management of concussions; and
+       (5) encourages further research and prevention efforts to 
+     ensure that fewer individuals experience the most adverse 
+     effects of mild traumatic brain injury.
+
+[[Page S6023]]
+
+  
+
+                          ____________________
+```
