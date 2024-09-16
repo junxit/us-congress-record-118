@@ -1,0 +1,54 @@
+---
+granule: CREC-2024-09-16-pt1-PgE898-3
+date: 2024-09-16
+edition: CREC
+section: EXTENSIONS
+page: E898
+citation: 170 Cong. Rec. E898
+---
+
+# COMMEMORATING THE CAREER OF ROBERT T. SCOTT
+
+**Speaking:** Kennedy, Timothy M. (K000402) [D-NY]
+
+```
+              COMMEMORATING THE CAREER OF ROBERT T. SCOTT
+
+                                 ______
+                                 
+
+                        HON. TIMOTHY M. KENNEDY
+
+                              of new york
+
+                    in the house of representatives
+
+                       Monday, September 16, 2024
+
+  Mr. KENNEDY. Mr. Speaker, I rise today to celebrate Mr. Robert T. 
+Scott as he is bestowed the prestigious title of President Emeritus of 
+St. Joseph's Collegiate Institute.
+  Mr. Scott began his career as a religion teacher at St. Joseph's 
+Collegiate Institute in 1971. Over time, he served as a social studies 
+teacher, vice principal, principal, and then president. In 2001, Mr. 
+Scott earned his Letters of Affiliation, the highest honor bestowed by 
+the Institute of Brothers of Christian Schools, the religious order 
+that founded St. Joseph's Collegiate Institute in 1861. Scott retired 
+in 2017 after a tremendous 48-year career at the all-boys high school
+  Throughout his career, Mr. Scott has exemplified the mission of St. 
+Joseph's Collegiate Institute, to transform the lives of students from 
+diverse backgrounds through academic excellence and care for the whole 
+person in a respectful, Lasallian Catholic community, developing each 
+student's unique talents in preparation for college and life. The 
+students that Mr. Scott impacted throughout his tenure have excelled in 
+their personal and professional lives in large part due to the 
+mentorship and dedication of Mr. Scott.
+  Today, Mr. Scott continues to inspire all who know him, sharing his 
+compassion and dedication to his family, friends, country, and faith. 
+Please join me in congratulating Mr. Robert T. Scott on an inspiring 
+career in education, and the continuation of his commitment to 
+education and the Lasallian tradition as President Emeritus of St. 
+Joseph's Collegiate Institute,
+
+                          ____________________
+```
