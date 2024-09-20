@@ -1,0 +1,24 @@
+---
+granule: CREC-2024-09-20-pt1-PgH5562-7
+date: 2024-09-20
+edition: CREC
+section: HOUSE
+page: H5562
+citation: 170 Cong. Rec. H5562
+---
+
+# Constitutional Authority and Single Subject Statements for H.R. 9719
+
+**Measures:** H.R. 9719
+
+```
+            By Mr. MEEKS:
+        H.R. 9719.
+        Congress has the power to enact this legislation pursuant 
+     to the following:
+       Article I, Section 8 of the Constitution
+       The single subject of this legislation is:
+       To amend the Foreign Assistance Act of 1961 to modify 
+     requirements regarding management of the United States Agency 
+     for International Development, and for other purposes.
+```
