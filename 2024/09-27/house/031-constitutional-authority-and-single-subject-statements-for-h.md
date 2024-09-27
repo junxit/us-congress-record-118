@@ -1,0 +1,23 @@
+---
+granule: CREC-2024-09-27-pt1-PgH5839-15
+date: 2024-09-27
+edition: CREC
+section: HOUSE
+page: H5839
+citation: 170 Cong. Rec. H5839
+---
+
+# Constitutional Authority and Single Subject Statements for H.R. 9873
+
+**Measures:** H.R. 9873
+
+```
+           By Ms. LEE of Pennsylvania:
+       H.R. 9873.
+       Congress has the power to enact this legislation pursuant 
+     to the following:
+       Sixteenth Amendment provides Congress the power to ``lay 
+     and collect taxes on incomes.
+       The single subject of this legislation is.
+       Taxation
+```
