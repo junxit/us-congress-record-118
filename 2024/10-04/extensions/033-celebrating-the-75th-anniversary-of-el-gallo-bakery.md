@@ -1,0 +1,51 @@
+---
+granule: CREC-2024-10-04-pt1-PgE1016-4
+date: 2024-10-04
+edition: CREC
+section: EXTENSIONS
+page: E1016
+citation: 170 Cong. Rec. E1016
+---
+
+# CELEBRATING THE 75TH ANNIVERSARY OF EL GALLO BAKERY
+
+**Speaking:** Gomez, Jimmy (G000585) [D-CA]
+
+```
+          CELEBRATING THE 75TH ANNIVERSARY OF EL GALLO BAKERY
+
+                                 ______
+                                 
+
+                            HON. JIMMY GOMEZ
+
+                             of california
+
+                    in the house of representatives
+
+                        Friday, October 4, 2024
+
+  Mr. GOMEZ. Mr. Speaker, I rise today to recognize and congratulate El 
+Gallo Bakery on their 75th anniversary of doing business in 
+California's 34th Congressional District.
+  El Gallo Bakery is an outstanding small business in East Los Angeles 
+that exemplifies the entrepreneurial spirit of small businesses. 
+Founded by Magdalena Martinez de Huerta on February 2, 1949, 5 years 
+after immigrating to East Los Angeles from Guadalajara, Jalisco, 
+Mexico.
+  El Gallo Bakery was passed down to Mr. Jesus Huerta, the son of 
+Magdalena Martinez de Huerta. Mr. Huerta became the owner at 18 years 
+old in 1984 and has transformed El Gallo Bakery into a staple of the 
+East Los Angeles community.
+  Mr. Huerta has also provided numerous contributions to the East Los 
+Angeles community through his exceptional civic and business leadership 
+and has brought the vibrant flavors of Mexico to East Los Angeles, 
+enriching the cultural tapestry and creating a legacy of delicious 
+memories and culinary excellence.
+  Mr. Speaker, I ask my colleagues to join me in honoring and 
+celebrating El Gallo Bakery on its 75th anniversary. Congratulations 
+again on reaching this impressive milestone. I wish them continued 
+success and here's to the next 75 years.
+
+                          ____________________
+```
