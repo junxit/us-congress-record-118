@@ -1,0 +1,63 @@
+---
+granule: CREC-2024-10-18-pt1-PgE1046-3
+date: 2024-10-18
+edition: CREC
+section: EXTENSIONS
+page: E1046
+citation: 170 Cong. Rec. E1046
+---
+
+# HONORING NEW JERSEY'S SEVENTH CONGRESSIONAL DISTRICT'S HOMETOWN HEROES
+
+**Speaking:** Kean, Thomas H. (K000398) [R-NJ]
+
+```
+ HONORING NEW JERSEY'S SEVENTH CONGRESSIONAL DISTRICT'S HOMETOWN HEROES
+
+                                 ______
+                                 
+
+                        HON. THOMAS H. KEAN, JR.
+
+                             of new jersey
+
+                    in the house of representatives
+
+                        Friday, October 18, 2024
+
+  Mr. KEAN of New Jersey. Mr. Speaker, I rise today to recognize the 
+hometown heroes, first responders and law enforcement, who keep us safe 
+every day. In recognition of National Police Week in May, my office put 
+out a call for nominations for the first NJ-07 Law Enforcement Hometown 
+Heroes initiative. Twenty-two law enforcement professionals from across 
+New Jersey's 7th Congressional District were nominated by their chiefs 
+and supervisors for the outstanding work they do every day. It is my 
+honor to play a small role in recognizing their efforts as a token of 
+appreciation for the difficult and often thankless task of keeping our 
+communities safe. I will always support these men and women in blue.
+  In recognition of their bravery and commitment, I would like to 
+include in the Record the names of these twenty-two Hometown Heroes: 
+Officer Alyse Brown, Sparta Township Police Department, Staff Sergeant 
+Brent Hawkswell, New Jersey State Police, Officer Connor Strohm, 
+Readington Township Police Department, Sergeant Daniel Kern, Hopatcong 
+Police Department, Lieutenant Donald Sretenovic, New Providence Police 
+Department, Lieutenant Douglas Baylor, Phillipsburg Police Department, 
+Detective Elizabeth Savnik, Westfield Police Department, Corporal 
+Gretchen Malone, Hunterdon County Sheriff's Office, Officer Jarren 
+Mann, Hunterdon County Sheriff's Office, Officer Jessica Gutsick, High 
+Bridge Police Department, Officer John M. Simonetti Jr., Mount Olive 
+Police Department, Captain Jonathan Rachel, Springfield Police 
+Department, Captain Michael Jackson, Mountainside Police Department, 
+Captain Miguel Acabou, Clark Police Department, Officer Nicholas J. 
+Villa, Raritan Township Police Department, Patrolman Peter Zabita, 
+Hopatcong Police Department, Corporal Ryan Kamieniencki, Far Hills 
+Police Department, Captain Scott Rayack, Rahway Police Department, 
+Lieutenant Thomas Polito, Bedminster Township Police Department, 
+Sergeant Timothy Richard, Bernardsville Police Department, Sergeant 
+Tracy Baldassare, Bernards Township Police Department, Officer Vincent 
+Conti, Scotch Plains Police Department.
+  We are grateful for the commitment and sacrifice they make every 
+single day.
+
+                          ____________________
+```

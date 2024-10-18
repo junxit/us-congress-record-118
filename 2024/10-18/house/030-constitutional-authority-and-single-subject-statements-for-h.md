@@ -1,0 +1,22 @@
+---
+granule: CREC-2024-10-18-pt1-PgH5878-20
+date: 2024-10-18
+edition: CREC
+section: HOUSE
+page: H5878
+citation: 170 Cong. Rec. H5878
+---
+
+# Constitutional Authority and Single Subject Statements for H.R. 10015
+
+**Measures:** H.R. 10015
+
+```
+           By Ms. PEREZ:
+       H.R. 10015.
+       Congress has the power to enact this legislation pursuant 
+     to the following:
+       Article 1, Section 8
+       The single subject of this legislation is:
+       Child care
+```
