@@ -1,0 +1,78 @@
+---
+granule: CREC-2024-11-01-pt1-PgE1109-5
+date: 2024-11-01
+edition: CREC
+section: EXTENSIONS
+page: E1109
+citation: 170 Cong. Rec. E1109
+---
+
+# RECOGNIZING PA-1's HOMETOWN HERO: MIDDLETOWN TOWNSHIP POLICE DEPARTMENT LIEUTENANT KENNETH MELLUS
+
+**Speaking:** Fitzpatrick, Brian K. (F000466) [R-PA]
+
+```
+RECOGNIZING PA-1's HOMETOWN HERO: MIDDLETOWN TOWNSHIP POLICE DEPARTMENT 
+                       LIEUTENANT KENNETH MELLUS
+
+                                 ______
+                                 
+
+                       HON. BRIAN K. FITZPATRICK
+
+                            of pennsylvania
+
+                    in the house of representatives
+
+                        Friday, November 1, 2024
+
+  Mr. FITZPATRICK. Mr. Speaker, I rise today to recognize an 
+extraordinary individual from Pennsylvania's First Congressional 
+District--someone who has gone above and beyond the call of duty in 
+service to both our community and our country. It is with great respect 
+and admiration that I recognize Lt. Kenneth Mellus, one of our 
+district's distinguished Hometown Heroes.
+  Hometown Heroes are not defined by titles of accolades but by the 
+quiet power of their actions. They are distinguished by their 
+unwavering integrity, the strength of their character, and their 
+steadfast commitment to the people and places they serve. They are the 
+foundation upon which our communities stand--the ones who lift others 
+up, inspire hope, and, in doing so, call us all to higher standards of 
+service and compassion. Lt. Mellus has embodied this spirit in ways 
+that words can scarcely capture.
+  For the past thirty-eight years, Lt. Mellus has tirelessly served and 
+protected our community here in Bucks County. Lt. Mellus began his 
+career with the Middletown Township Police Department in 1985, first as 
+a patrol officer before serving eight years as a K-9 handler alongside 
+his faithful partner, K-9 Snowball. Following his promotion to Sergeant 
+in 1995, he was instrumental in the development and implementation of 
+several outstanding and successful community policing initiatives, 
+including the Citizens Police Academy, Neshaminy School District's 
+Adopt-a-Cop program, child fingerprinting/ID programs, K-9 
+demonstrations, and a series of Crime Prevention seminars. In 2011, he 
+was promoted to Lieutenant and continued to be a driving force of 
+innovation and positive change within the department. His efforts and 
+contributions towards enhancing and improving the department's IT 
+infrastructure resulted in nearly all the technology MTPD utilizes 
+today. From dash cameras and departmental training to a records 
+management and scheduling system, Lt. Mellus's vision and leadership 
+were pivotal in revolutionizing the department's technological 
+landscape and ensuring MTPD had the necessary tools to serve and 
+protect our community.
+  Mr. Speaker, it is through the work of people like Lt. Mellus that 
+our communities thrive, and our Nation grows stronger. His actions 
+remind us that progress is not forged in grand
+
+[[Page E1110]]
+
+gestures, but in the cumulative power of selfless acts. He embodies the 
+timeless American values of resilience, generosity, and compassion, 
+showing us that the future is built by those who care deeply, act 
+decisively, and give without hesitation.
+  On behalf of Pennsylvania's First Congressional District, I extend my 
+deepest gratitude to Lt. Mellus for his extraordinary service. I ask my 
+colleagues to join me in honoring this exceptional individual, whose 
+leadership and spirit of service will inspire generations to come. May 
+his example remind us of the boundless potential within each of us to 
+make our communities, country, and world a better place.
+```
