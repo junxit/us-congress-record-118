@@ -1,0 +1,48 @@
+---
+granule: CREC-2024-11-05-pt1-PgE1111-4
+date: 2024-11-05
+edition: CREC
+section: EXTENSIONS
+page: E1111
+citation: 170 Cong. Rec. E1111
+---
+
+# CELEBRATING 555 EAST'S 40TH ANNIVERSARY
+
+**Speaking:** Garcia, Robert (G000598) [D-CA]
+
+```
+                CELEBRATING 555 EAST'S 40TH ANNIVERSARY
+
+                                 ______
+                                 
+
+                           HON. ROBERT GARCIA
+
+                             of california
+
+                    in the house of representatives
+
+                       Tuesday, November 5, 2024
+
+  Mr. ROBERT GARCIA of California. Mr. Speaker, I rise today to 
+congratulate a Long Beach institution, 555 East, on its 40th 
+anniversary this month.
+  In 1983, when my hometown of Long Beach faced challenges--boarded-up 
+bui]dings and a struggling economy--Sam King saw potential in our city 
+and more specifically our downtown.
+  On the eve of Thanksgiving that year, he signed a lease for 555 E. 
+Ocean Boulevard, a decision that would change our dining landscape 
+forever.
+  Just months later, as the 1984 Olympics approached, 555 East opened 
+its doors, introducing the prime steakhouse concept to Southern 
+California.
+  For four decades, 555 East has been more than just a restaurant; it 
+has been a gathering place for family celebrations, business meetings, 
+and everything in between.
+  It has truly earned its iconic status within our community.
+  I invite my colleagues to join me in recognizing 555 East for its 
+milestone anniversary.
+
+                          ____________________
+```
