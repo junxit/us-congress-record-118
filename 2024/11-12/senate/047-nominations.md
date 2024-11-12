@@ -1,0 +1,2445 @@
+---
+granule: CREC-2024-11-12-pt1-PgS6532-3
+date: 2024-11-12
+edition: CREC
+section: SENATE
+page: S6532
+citation: 170 Cong. Rec. S6532
+---
+
+# NOMINATIONS
+
+```
+                              NOMINATIONS
+
+  Executive nominations received by the Senate:
+
+
+                            in the air force
+
+       The following named Air National Guard of the United States 
+     officer for appointment in the Reserve of the Air Force to 
+     the grade indicated under title 10, U.S.C., sections 12203 
+     AND 12212:
+
+                          To be major general
+
+Brig. Gen. Barbra S. Buls
+       The following named Air National Guard of the United States 
+     officer for appointment in the Reserve of the Air Force to 
+     the grade indicated under title 10, U.S.C., sections 12203 
+     AND 12212:
+
+                        To be brigadier general
+
+Col. Patric D. Coggin
+       The following named Air National Guard of the United States 
+     officer for appointment in the Reserve of the Air Force to 
+     the grade indicated under title 10, U.S.C., sections 12203 
+     AND 12212:
+
+                        To be brigadier general
+
+Col. Jacob L. Hammons
+       The following named Air National Guard of the United States 
+     officer for appointment in the Reserve of the Air Force to 
+     the grade indicated under title 10, U.S.C., sections 12203 
+     AND 12212:
+
+                        To be brigadier general
+
+Col. Daniel S. Zevitz
+       The following named Air National Guard of the United States 
+     officer for appointment in the Reserve of the Air Force to 
+     the grade indicated under title 10, U.S.C., sections 12203 
+     AND 12212:
+
+                          To be major general
+
+Brig. Gen. Daniel D. Boyack
+       The following named officer for appointment in the United 
+     States Air Force to the grade indicated under title 10, 
+     U.S.C., section 624:
+
+                          To be major general
+
+Brig. Gen. Ricky L. Mills
+       The following named Air National Guard of the United States 
+     officer for appointment in the Reserve of the Air Force to 
+     the grade indicated under title 10, U.S.C., sections 12203 
+     AND 12212:
+
+                          To be major general
+
+Brig. Gen. David B. Johnson
+
+
+                              in the army
+
+       The following named officer for appointment in the United 
+     States Army to the grade indicated under title 10, U.S.C., 
+     section 624:
+
+                          To be major general
+
+Brig. Gen. Eugene D. Cox
+       The following named officer for appointment in the United 
+     States Army to the grade indicated while assigned to a 
+     position of importance and responsibility under title 10, 
+     U.S.C., section 601:
+
+                             To be general
+
+Lt. Gen. Christopher T. Donahue
+       The following named officers for appointment in the Reserve 
+     of the Army to the grade indicated under title 10, U.S.C., 
+     section 12203:
+
+                          To be major general
+
+Brig. Gen. Kevin F. Meisler
+Brig. Gen. Dean P. Thompson
+       The following named officer for appointment in the United 
+     States Army to the grade indicated under title 10, U.S.C., 
+     section 624:
+
+                        To be brigadier general
+
+Col. Freddy L. Adams II
+Col. Michael J. Adamski
+Col. Jared D. Bordwell
+Col. Kevin D. Bradley
+Col. Donald K. Brooks
+Col. Stephen E. Capehart
+Col. Adam M. Cobb
+Col. John K. Curry
+Col. Daniel J. Duncan
+Col. Antwan L. Dunmyer
+Col. Anthony R. Gibbs
+Col. Peter L. Gilbert
+Col. Matthew J. Hardman
+Col. Glenn A. Henke
+Col. Jason K. Jefferis
+Col. Eric M. Johnson
+Col. Michael R. Kaloostian
+Col. Sean P. Kelly
+Col. Andrew J. Kiser
+Col. David M. Kobs
+Col. Stephen J. Kolouch
+Col. Travis L. McIntosh
+Col. Jason H. Rosenstrauch
+Col. Matthew S. Ross
+Col. Sean F. Stinchon
+Col. Jack S. Taylor
+Col. Kevin M. Trujillo
+Col. Jonathan M. Velishka
+Col. George H. Walter, Jr.
+Col. Annemarie R. Wiersgalla
+
+
+ =========================== NOTE =========================== 
+
+  
+  On page S6532, November 12, 2024, in the middle column, the 
+following appears: To be brigadier general COL. FREDDY L. ADAMS II 
+COL. MICHAEL J. ADAMSKI COL. JARED D. BORDWELL COL. KEVIN D. 
+BRADLEY COL. DONALD K. BROOKS COL. STEPHEN E. CAPEHART COL. ADAM 
+M. COBB COL. JOHN K. CURRY COL. DANIEL J. DUNCAN COL. ANTWAN L. 
+DUNMEYER COL. ANTHONY R. GIBBS COL. PETER L. GILBERT COL. MATTHEW 
+J. HARDMAN COL. GLENN A. HENKE COL. JASON K. JEFFERIS COL. ERIC M. 
+JOHNSON COL. MICHAEL R. KALOOSTIAN COL. SEAN P. KELLY COL. ANDREW 
+J. KISER COL. DAVID M. KOBS COL. STEPHEN J. KOLOUCH COL. TRAVIS L. 
+MCINTOSH COL. JASON H. ROSENSTRAUCH COL. MATTHEW S. ROSS COL. SEAN 
+F. STINCHON COL. JACK S. TAYLOR COL. KEVIN M. TRUJILLO COL. 
+JONATHAN M. VELISHKA COL. GEORGE H. WALTER, JR. COL. ANNEMARIE R. 
+WIERSGALLA
+  
+  The online Record has been corrected to read: To be brigadier 
+general COL. FREDDY L. ADAMS II COL. MICHAEL J. ADAMSKI COL. JARED 
+D. BORDWELL COL. KEVIN D. BRADLEY COL. DONALD K. BROOKS COL. 
+STEPHEN E. CAPEHART COL. ADAM M. COBB COL. JOHN K. CURRY COL. 
+DANIEL J. DUNCAN COL. ANTWAN L. DUNMYER COL. ANTHONY R. GIBBS COL. 
+PETER L. GILBERT COL. MATTHEW J. HARDMAN COL. GLENN A. HENKE COL. 
+JASON K. JEFFERIS COL. ERIC M. JOHNSON COL. MICHAEL R. KALOOSTIAN 
+COL. SEAN P. KELLY COL. ANDREW J. KISER COL. DAVID M. KOBS COL. 
+STEPHEN J. KOLOUCH COL. TRAVIS L. MCINTOSH COL. JASON H. 
+ROSENSTRAUCH COL. MATTHEW S. ROSS COL. SEAN F. STINCHON COL. JACK 
+S. TAYLOR COL. KEVIN M. TRUJILLO COL. JONATHAN M. VELISHKA COL. 
+GEORGE H. WALTER, JR. COL. ANNEMARIE R. WIERSGALLA
+
+
+ ========================= END NOTE ========================= 
+
+
+                          in the marine corps
+
+       The following named officer for appointment in the United 
+     States Marine Corps to the grade indicated while assigned to 
+     a position of importance and responsibility under title 10, 
+     U.S.C., section 601:
+
+                        To be lieutenant general
+
+Maj. Gen. Robert C. Fulford
+       The following named officer for appointment in the United 
+     States Marine Corps to the grade indicated under title 10, 
+     U.S.C., section 624:
+
+                          To be major general
+
+Brig. Gen. Adam L. Chalkley
+Brig. Gen. Joseph R. Clearfield
+Brig. Gen. Mark H. Clingan
+Brig. Gen. Kyle B. Ellison
+Brig. Gen. Walker M. Field
+Brig. Gen. Anthony M. Henderson
+Brig. Gen. Matthew T. Mowery
+Brig. Gen. Andrew M. Niebel
+Brig. Gen. Farrell J. Sullivan
+Brig. Gen. Jason G. Woodworth
+       The following named officers for appointment in the United 
+     States Marine Corps Reserve to the grade indicated under 
+     title 10, U.S.C., section 12203:
+
+                          To be major general
+
+Brig. Gen. Mark A. Cunningham
+Brig. Gen. Valeria A. Jackson
+       The following named officers for appointment in the United 
+     States Marine Corps Reserve to the grade indicated under 
+     title 10, U.S.C., section 12203:
+
+                        To be brigadier general
+
+Col. Joseph A. Katz
+Col. David K. Winnacker
+
+
+                              in the navy
+
+       The following named officer for appointment in the United 
+     States Navy to the grade indicated under title 10, U.S.C., 
+     section 624:
+
+                    To be rear admiral (lower half)
+
+Capt. Damian D. Flatt
+       The following named officer for appointment in the United 
+     States Navy to the grade indicated under title 10, U.S.C., 
+     section 624:
+
+                    To be rear admiral (lower half)
+
+Capt. Omarr E. Tobias
+       The following named officer for appointment in the United 
+     States Navy to the grade indicated under title 10, U.S.C., 
+     section 624:
+
+                    To be rear admiral (lower half)
+
+Capt. Reginald S. Ewing III
+       The following named officer for appointment in the United 
+     States Navy to the grade indicated under title 10, U.S.C., 
+     section 624:
+
+                    To be rear admiral (lower half)
+
+Capt. Jereal E. Dorsey
+       The following named officer for appointment in the United 
+     States Navy to the grade indicated under title 10, U.S.C., 
+     section 624:
+
+                    To be rear admiral (lower half)
+
+Capt. Raymond P. Owens III
+       The following named officers for appointment in the United 
+     States Navy to the grade indicated under title 10, U.S.C., 
+     section 624:
+
+                    To be rear admiral (lower half)
+
+Capt. Erin E.O. Acosta
+Capt. Benjamin A. Snell
+       The following named officers for appointment in the United 
+     States Navy to the grade indicated under title 10, U.S.C., 
+     section 624:
+
+                    To be rear admiral (lower half)
+
+Capt. Walter H. Allman III
+Capt. Wesley P. Bringham
+Capt. Richard G. Burgess
+Capt. Daryle D. Cardone
+Capt. Cameron R. Chen
+Capt. Matthew J. Duffy
+Capt. John P. Friedman
+Capt. William K. Gantt, Jr.
+Capt. Michael R. Jarrett
+Capt. David Loo
+Capt. Gary G. Montalvio Jr.
+Capt. Davidtavis M. Pollard
+Capt. Matthew T. Pottenburgh
+Capt. William R. Reed
+Capt. Karrey D. Sanders
+Capt. Charles R. Sargeant
+Capt. John W. Stafford
+Capt. Thomas J. Zerr
+       The following named officer for appointment in the United 
+     States Navy to the grade indicated under title 10, U.S.C., 
+     section 624:
+
+                    To be rear admiral (lower half)
+
+Capt. Kertreck V. Brooks
+       The following named officers for appointment in the United 
+     States Navy to the grade indicated under title 10, U.S.C., 
+     section 624:
+
+                    To be rear admiral (lower half)
+
+Capt. Andrew M. Biehn
+Capt. Daniel L. Lannamann
+Capt. Brian A. Metcalf
+
+
+                           in the Coast Guard
+
+       The following named officers for appointment in the United 
+     States Coast Guard to the grade indicated under title 14, 
+     U.S.C., section 2121(E):
+
+                    To be rear admiral (lower half)
+
+Capt. John F. Barresi
+Capt. Matthew T. Brown
+Capt. Kevin M. Caroll
+Capt. Christopher J. Hulser
+Capt. Tina J. Pena
+
+
+                            in the Air Force
+
+       The following named officer for appointment to the grade 
+     indicated in the United States Air Force under title 10, 
+     U.S.C., section 624:
+
+                             To be colonel
+
+Israel David King
+       The following named officer for appointment to the grade 
+     indicated in the United States Air Force under title 10, 
+     U.S.C., section 624:
+
+[[Page S6533]]
+
+  
+
+
+                        To be lieutenant colonel
+
+Kimberly N. Tong
+       The following named officers for appointment to the grade 
+     indicated in the United States Air Force under title 10, 
+     U.S.C., section 624:
+
+                              To be major
+
+Sapna Gopalasubramanian
+Madelyn E. Lawrence
+Esmael Mayar
+Daniel H. Slack
+Marcus J. Theus
+       The following named officer for appointment to the grade 
+     indicated in the United States Air Force under title 10, 
+     U.S.C., section 624:
+
+                              To be major
+
+Eric C. Cheng
+       The following named officer for appointment to the grade 
+     indicated in the United States Air Force under title 10, 
+     U.S.C., section 624:
+
+                              To be major
+
+Joseph S. Dennis
+       The following named officer for appointment to the grade 
+     indicated in the United States Air Force under title 10, 
+     U.S.C., section 624:
+
+                        To be lieutenant colonel
+
+Kim E. Winter
+       The following named officer for appointment to the grade 
+     indicated in the United States Air Force under title 10, 
+     U.S.C., section 624:
+
+                        To be lieutenant colonel
+
+Katie E. Grimley
+       The following named officer for appointment to the grade 
+     indicated in the United States Air Force under title 10, 
+     U.S.C., section 624:
+
+                        To be lieutenant colonel
+
+Keenan E. Dalrymple
+       The following named officer for appointment to the grade 
+     indicated in the United States Air Force under title 10, 
+     U.S.C., section 624:
+
+                        To be lieutenant colonel
+
+Kathryn J. Lynn
+       The following named officer for appointment to the grade 
+     indicated in the United States Air Force under title 10, 
+     U.S.C., section 624:
+
+                        To be lieutenant colonel
+
+Jonathan D. Hare
+       TThe following named officer for appointment to the grade 
+     indicated in the United States Air Force under title 10, 
+     U.S.C., section 624:
+
+                              To be major
+
+Aaron D. Ware
+       The following named officer for appointment as a Permanent 
+     Professor at the United States Air Force Academy and 
+     appointment to the grade indicated in the United States Air 
+     Force under title 10, U.S.C., sections 9433(B) and 9436(A):
+
+                             To be colonel
+
+James L. Gresham
+       The following named officer for appointment as a Permanent 
+     Professor at the United States Air Force Academy in the grade 
+     indicated under title 10, U.S.C., sections 9433(B) AND 
+     9436(A):
+
+                        To be lieutenant colonel
+
+Juan D. Jurado
+       The following named officer for appointment to the grade 
+     indicated in the United States Air Force under title 10, 
+     U.S.C., section 624:
+
+                             To be colonel
+
+Keith A. Schultz
+       The following named officer for appointment to the grade 
+     indicated in the United States Air Force under title 10, 
+     U.S.C., section 624:
+
+                              To be major
+
+Francis X. Parr III
+
+
+                              in the Army
+
+       The following named officer for appointment to the grade 
+     indicated in the United States Air Force under title 10, 
+     U.S.C., section 624:
+
+                        To be lieutenant colonel
+
+Paul K. Wyatt, Jr.
+       The following named officer for appointment to the grade 
+     indicated in the United States Air Force under title 10, 
+     U.S.C., section 624:
+
+                             To be colonel
+
+Sun Ryu
+       THE FOLLOWING NAMED OFFICERS FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES ARMY JUDGE ADVOCATE GENERAL'S 
+     CORPS UNDER TITLE 10, U.S.C., SECTIONS 624 AND 7064:
+
+                             To be colonel
+
+RAYMOND R. ADAMS III
+LESLIE E. AKINS
+NATHANIEL H. BABB
+CHRISTOPHER A. CALLICOTT
+CINNAMON J. CHIELENS
+JOHN K. CHOIKE
+TRAVIS W. ELMS
+CHRISTOFER T. FRANCA
+MADELINE F. GORINI
+LAURA A. GRACE
+JENNIFER M. HEALY
+STEPHEN M. HERNANDEZ
+THOMAS S. HONG
+THOMAS P. HYNES
+RYAN K. KERWIN
+SHAUN B. LISTER
+ALLISON D. MCFEATTERS
+DALE C. MCFEATTERS
+DUSTIN P. MURPHY
+BRIGID OSEI-BOBIE
+MICHAEL A. RIZZOTTI
+MICHAEL E. SCHAUSS
+BRETT C. SHEPARD
+JOSHUA J. SMITH
+WILLIAM J. STEPHENS
+MELVIN L. WILLIAMS
+MARC W. ZELNICK
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES ARMY MEDICAL SERVICE CORPS 
+     UNDER TITLE 10, U.S.C., SECTIONS 624 AND 7064:
+
+                        To be lieutenant colonel
+
+LAURA M. NEWELL
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE GRADE 
+     INDICATED IN THE RESERVE OF THE ARMY UNDER TITLE 10, U.S.C., 
+     SECTION 12203:
+
+                             To be colonel
+
+ANTHONY L. MARK
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE RESERVE OF THE ARMY UNDER TITLE 10, U.S.C., 
+     SECTION 12203:
+
+                             To be colonel
+
+SHAWN A. VELE
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE RESERVE OF THE ARMY UNDER TITLE 10, U.S.C., 
+     SECTION 12203:
+
+                             To be colonel
+
+ADAM C. WEECE
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES ARMY JUDGE ADVOCATE GENERAL'S 
+     CORPS UNDER TITLE 10, U.S.C., SECTIONS 624 AND 7064:
+
+                             To be colonel
+
+MARY E. CARD-MINA
+       THE FOLLOWING NAMED OFFICERS FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE RESERVE OF THE ARMY UNDER TITLE 10, U.S.C., 
+     SECTION 12203:
+
+                             To be colonel
+
+ROSHAN O. BALACHANDRAN
+JENO M. BERTA
+DARRELL L. BRYAN
+CHRISTOPHER J. CURRAN
+BRETT E. DRESSLER
+MICHAEL C. ENGEL
+JACQUELINE M. GALL
+RUSSEL P. KAWAI
+STEPHEN T. MORGAN
+PAUL F. MUETHING III
+CASEY P. NIX
+SUJATA M. RODGERS
+BRETT M. SCHMIDT
+CLAY M. WEST
+CANDACE N. WHITEHALVERSON
+KATHRYN E. WITWER
+       THE FOLLOWING NAMED OFFICERS FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE RESERVE OF THE ARMY UNDER TITLE 10, U.S.C., 
+     SECTION 12203:
+
+                             To be colonel
+
+STEPHEN R. SCHIFFMAN
+JULIE A. WORTHINGTON
+       THE FOLLOWING NAMED OFFICERS FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES ARMY JUDGE ADVOCATE GENERAL'S 
+     CORPS UNDER TITLE 10, U.S.C., SECTIONS 624 AND 7064:
+
+                        To be lieutenant colonel
+
+DANIEL R. BEAUDRY
+AMANDA P. BECKHAM
+ELIZABETH W. BOGGS
+ANDREW J. BROWELL
+MATTHEW T. BRYAN
+THOMAS P. BURNHAM
+CHRISTOPHER M. CHATELAIN
+ROBYN M. CHATWOOD
+CHASE C. CLEVELAND
+KEVIN S. COBLE
+CHRISTINA K. COLCLOUGH
+MICHAEL T. DAVIS
+JOHN R. DEXTER II
+CHRISTOPHER D. ELDER
+MICHAEL A. GOLD
+RONSON P. HONEYCHURCH
+COLBY P. HOROWITZ
+HENRY W. JANOE
+BROOKE J. JOHNSON
+CASEY G. JONES
+KEVIN M. JUNIUS
+NICOLE M. KIM
+SUSAN KIM
+NICHOLAS A. LUCCHETTI
+ROBERT D. LUYTIES
+AARON K. MCCARTNEY
+TIMOTHY M. MCCULLOUGH
+JASON M. MCKENNA
+ALEXANDER MORNINGSTAR
+DUSTIN B. MYRIE
+SARAH E. NEALEN
+DAVID D. OSBORNE
+ELLIOT J. PERNULA
+SHAWN J. PETERSON
+JULIA C. PHILLIPS
+HANNAH E. PURKEY
+JASON A. QUINN
+STEVEN R. QUINZEL
+CARLOS S. RAMIREZVAZQUEZ
+DOUGLAS A. REISINGER
+ALEC P. RICE
+WILLIAM M. ROTHSTEIN
+ANDREW J. ROUCHKA
+ERIC A. RUDIE
+PATRICK R. SANDYS
+MARC B. SAWYER
+PAUL W. SILVER
+ERIK B. SMITH
+JORDAN C. STAPLEY
+ELIZABETH N. STRICKLAND
+JOSHUA J. TOOMAN
+JOHN C. TRAMAZZO
+JUSTIN W. ULRICH
+ANNEMARIE P. VAZQUEZ
+THOMAS G. WARSCHEFSKY
+JONATHAN J. WELLEMEYER
+WILLIAM T. WICKS
+YOLANDA Y. WILLIAMS
+REGINA R. WIND
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES ARMY MEDICAL SERVICE CORPS 
+     UNDER TITLE 10, U.S.C., SECTIONS 624 AND 7064:
+
+                             To be colonel
+
+TRENT J. ELLIOTT
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES ARMY NURSE CORPS UNDER TITLE 
+     10, U.S.C., SECTIONS 624 AND 7064:
+
+                              To be major
+
+MATTHEW J. MORROW
+       THE FOLLOWING NAMED ARMY NATIONAL GUARD OF THE UNITED 
+     STATES OFFICERS FOR APPOINTMENT TO THE GRADE INDICATED IN THE 
+     RESERVE OF THE ARMY UNDER TITLE 10, U.S.C., SECTIONS 12203 
+     AND 12211:
+
+                             To be colonel
+
+EDWARD AHN
+ANTHONY K. BANGLOY
+ERNEST L. BOYLES
+JERRY MITCHELL IV
+JAKIN J. WALDOCK
+DUSTIN R. WALKER
+LASHAWNA D. WALLER
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES ARMY MEDICAL SERVICE CORPS 
+     UNDER TITLE 10, U.S.C., SECTIONS 624 AND 7064:
+
+                             To be colonel
+
+DAVID P. SENSIBA
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES ARMY DENTAL CORPS UNDER TITLE 
+     10, U.S.C., SECTIONS 624 AND 7064:
+
+                        To be lieutenant colonel
+
+SEUNG H. HONG
+       THE FOLLOWING NAMED ARMY NATIONAL GUARD OF THE UNITED 
+     STATES OFFICERS FOR APPOINTMENT TO THE GRADE INDICATED IN THE 
+     RESERVE OF THE ARMY UNDER TITLE 10, U.S.C., SECTIONS 12203 
+     AND 12211:
+
+                             To be colonel
+
+FRANK L. ANALLA
+ERIKA A. BESSER
+BRIAN E. GOLDSTEIN
+JAMES C. MANDEL
+TIMOTHY P. MURPHY
+JOHNMARK F. NELSON
+PAUL H. RILEY II
+ROMEO M. SANCHEZ
+MICHAEL A. SCANLON
+RANDALL T. STANFORD
+       THE FOLLOWING NAMED ARMY NATIONAL GUARD OF THE UNITED 
+     STATES OFFICERS FOR APPOINTMENT TO THE GRADE INDICATED IN THE 
+     RESERVE OF THE ARMY UNDER TITLE 10, U.S.C., SECTIONS 12203 
+     AND 12211:
+
+                             To be colonel
+
+LINDEN L. BOYER III
+MATTHEW J. MOLINSKI
+WADE W. PRESTON
+       THE FOLLOWING NAMED ARMY NATIONAL GUARD OF THE UNITED 
+     STATES OFFICERS FOR APPOINTMENT TO THE GRADE INDICATED IN THE 
+     RESERVE OF THE ARMY UNDER TITLE 10, U.S.C., SECTIONS 12203 
+     AND 12211:
+
+[[Page S6534]]
+
+  
+
+
+                             To be colonel
+
+WILLIAM J. BENSON III
+JOSHUA A. BLALOCK
+BRYAN K. HULIN
+MITCHELL L. LANGO
+SAMUEL P. OLIVER
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES ARMY UNDER TITLE 10, U.S.C., 
+     SECTION 624:
+
+                              To be major
+
+IAN C. MULL
+       THE FOLLOWING NAMED OFFICERS FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE RESERVE OF THE ARMY UNDER TITLE 10, U.S.C., 
+     SECTION 12203:
+
+                             To be colonel
+
+TEAH E. KARAMATH
+CHAD K. KAWAKAMI
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES ARMY UNDER TITLE 10, U.S.C., 
+     SECTION 624:
+
+                        To be lieutenant colonel
+
+JOSEPH J. DANYEUR
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES ARMY UNDER TITLE 10, U.S.C., 
+     SECTION 624:
+
+                             To be colonel
+
+TERRY W. FRY
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES ARMY UNDER TITLE 10, U.S.C., 
+     SECTION 624:
+
+                             To be colonel
+
+MICHAEL A. GRYGAR
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES ARMY UNDER TITLE 10, U.S.C., 
+     SECTION 624:
+
+                             To be colonel
+
+JASON A. QUASH
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES ARMY UNDER TITLE 10, U.S.C., 
+     SECTION 624:
+
+                        To be lieutenant colonel
+
+ETHAN M. ORWIN
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES ARMY UNDER TITLE 10, U.S.C., 
+     SECTION 624:
+
+                              To be major
+
+BRYAN M. WIERSON
+
+
+                          IN THE MARINE CORPS
+
+       THE FOLLOWING NAMED OFFICERS FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES MARINE CORPS UNDER TITLE 10, 
+     U.S.C., SECTION 624:
+
+                              To be major
+
+JON R. ABEL
+OLIVER S. ABRAIRA
+OLUWATOSIN T. ADESUYI
+JOEL S. ADRIAN
+MICHAEL T. AHLGRIM
+JOHN R. ALBERTINI
+YAHIA H. ALDHAHRAA
+ANTHONY C. ALEXANDER
+STEPHEN V. ALEXANDER II
+JOSEPH D. ALLDREDGE
+DAVID P. ALLEN, JR.
+SEAN M. ALLEN
+CONNER H. ALLENDER
+DAVID ALONSO
+AUSTIN R. ALVERSON
+JACOB P. AMON
+JAMISON T. AMONINO
+STEPHEN J. ANDERSON
+ALEKSANDER B. ANS
+WILLIAM A. ANTCZAK
+WALID ANWAR
+STEVEN J. ARANGO
+JAVIER J. ARENAS
+MATTHEW J. ARISMENDEZ
+WILLIAM J. ASHBY
+DANIEL K. ASHEIM
+TRISTAN D. ASSIMOS
+BRIAN R. ATKINSON
+ZACHARY F. AUSTIN
+VANCE P. BARDEN
+BILLY J. BAREFOOT II
+TAYLOR G. BAREFOOT
+WILLIAM D. BARNETT
+JONATHAN L. BARRAU
+KYLE A. BARRON
+ANDREW C. BARTEK
+KEITH M. BARTLETT
+ARCHIE C. BASS
+DONOVAN R. BATES
+PETER M. BATES
+CALEB R. BAUMGARN
+BENJAMIN S. BAUS
+NICHOLAS E. BAYUK
+PHILIP M. BECKMANN
+GRADY D. BELL
+LUIS E. BENAVIDES, JR.
+MICHAEL T. BENAVIDES
+JONATHAN K. BENDER
+ANDREW D. BENTON
+MATTHEW A. BERIT
+WILLIAM S. BERNARD
+JAMES S. BIGGER
+SHAVAUGHN M. BIRKS
+STUART M. BLAIR
+ERIK K. BLANKENBAKER
+ANDREW J. BLOEM
+STUART M. BLOMGREN
+GUILLERMO M. BOCANEGRA
+TRAVIS W. BOIVIN
+JOHN S. BOOTH
+JOSEPH F. BORDIUK
+MITCHELL A. BOTTINI
+VICTOR R. BOWEN, JR.
+GARRETT E. BOYCE
+LUKE A. BOYD
+QUINTON A. BOYD
+JEFFREY S. BOYLE
+MARK A. BOZZO
+DELANDO A. BRADFORD
+LUKE N. BRADLEY
+BENJAMIN I. BRANSON
+BLAKE S. BRENNAN
+JOSHUA J. BREWSTER
+RICHARD H. BRIGHTWELL, JR.
+KEON M. BRISCOE
+MATTHEW D. BROCK
+JUSTIN L. BROUSSARD
+JACOB L. BROWN
+SEAN M. BROWN
+CALEB R. BUBASH
+VIRGINIA J. BURGER
+WILLIAM J. BURSAW
+DANIEL J. BURTON
+JAMIE S. BUSH II
+WILLIAM T. BUSSICK
+MARQUES D. BUTLER
+BRENDAN M. BYAL
+KEVIN N. BYINGTON
+GUIRONG CAI
+DESMOND L. CALLOWAY
+JAMAL M. CAMPBELL
+VANESSA Y. CANNON
+KEVIN V. CAO
+ANTHONY M. CAPASSO
+JOSEPH H. CAREY
+ANDREW B. CARLSON
+BRETT D. CARLSON
+ERIK B. CARLSON
+LUKE CARPENTER III
+TYLER J. CARPENTER
+LONNIE W. CARRAWAY, JR.
+ANTHONY J. CARTER
+STEPHEN J. CARUANA
+MATTHEW G. CASPERS
+DIEGO CASTRO
+JOSEPH D. CASTRO
+CHRISTOPHER P. CAWTHON
+NICHOLAS G. CERF
+MARCUS V. CERRATO
+TYLER S. CERRATO
+DAVID F. CHANG
+ALEXANDER A. CHATMAN III
+MATTHEW L. CHAVEZ
+MICHELLE CHAVEZ
+ALLYN D. CHAVIS
+JACOB A. CHESNUT
+BRIAN P. CHILDRESS
+ANDY CHOI
+ROBERT M. CLARK, JR.
+STEVEN D. CLARK
+ROSS T. CLOUSE
+ZACHARY L. COFFMAN
+PETER C. COKE, JR.
+MAKETA R. COLBERT
+JOSHUA W. COLCOMBE
+BRIAN M. COLLINS
+CARTER J. COLLINS
+CODY J. COLLINS
+LOUIS R. COLLINS II
+MICHAELA A. CONNALLY
+ZACHARY T. CONSTABLE
+DOUGLAS M. CONWELL
+HOLDEN J. COON
+JEREMY R. COQUOZ
+SAMUEL E. COREY
+MARCOTULIO COTOCHANG
+CHRISTOPHER A. COUNTRYMAN
+CALEB G. CRISPELL
+DAVID D. CRUPI
+DAVID CRUZ
+ANDREW T. CURRY
+CVETOMIR V. CVETKOV
+MICHAEL S. DADOK
+SHEVAR S. DALEY
+ETHAN W. DALTON
+MICHAEL R. DARTNELL
+DEVIN A. DAVIS
+FRANCIS G. DAVIS III
+STEPHANIE L. DAVIS
+SCOTT J. DEANGELO
+CORY M. DEATON
+MATTHEW D. DECARLI
+MICHAEL P. DEGROVE
+CONNOR B. DEIGNAN
+LEAH R. DEIGNAN
+AARON M. DELBOSQUE
+JESSICA J. DELCASTILLO
+DYLAN W. DENISON
+PAUL J. DENISON
+MARIO J. DESALVO
+HENRY D. DESILETS
+MATTHEW P. DESROCHERS
+ANTHONY J. DEVERA
+HENRY W. DEWING, JR.
+ADDISON D. DISHART
+KRISTINE H. DOAN
+SEAN M. DOLAN
+LYDIA L. DONE
+DANIEL M. DONLON
+TRAVIS W. DONOHUE
+CHARLES H. DOOFE
+MATTHEW W. DORE
+BRETT E. DORNHEGELAZAROFF
+PATRICK D. DOSONO
+DUSTI M. DOSS
+JOSHUA D. DOTSON
+JOSHUA A. DOWERS
+CHRISTOPHER M. DOYAL
+SEAN A. DOYLE
+JACOB E. DRAHOS
+ALEXANDER J. DROZD
+AARON J. DSILVA
+DRYN H. DUBOIS
+STEVEN P. DUFAULT, JR.
+AUSTIN A. DUKE
+JORDAN R. DUNCAN
+MOLLY M. DUNDON
+MATTHEW J. DUQUETTE
+IVAN M. DURAN
+JOSHUA N. DURAN
+KYLE J. DURAND
+PATRICK L. EARNEST
+AMMON C. EBERT
+DANIEL P. ECKER
+DONALD R. EDWARDS, JR.
+MARK M. ELIAS
+MARK P. ELLIOTT
+ZACHARY D. ELSNER
+BRANT A. ESPRIT
+JOSEPH I. ETTIEN
+JORDAN C. EUBANKS
+AMBER E. EVANS
+BRENDAN P. EVANS
+JEFFREY T. EVANS
+PATRICK R. EWALD
+JOSHUA G. FALGOUST
+MICHAEL A. FARNAN
+BENJAMIN P. FAUSEY
+JERETT D. FAZENDINE
+JOHN T. FINDLEY
+SEAN P. FINN
+BENJAMIN J. FISCHER
+ALEXANDER D. FISHER
+PHILIP J. FISHLER
+SEAN FITZPATRICK
+KYLE J. FLITTON
+MITCHELL FLOREA
+MAXWELL D. FLOYD
+AMBER R. FOSTER
+NICHOLAS M. FOUST
+SAMUEL M. FOWLER
+THOMAS L. FRANKLIN
+BRIAN M. FRICK
+KYLER S. FRICKE
+RYAN W. FRONCZEK
+BRYCE A. FRONSTIN
+MELTON B. FULLERTON
+CASEY G. FUNK
+KRISTEN R. GABEL
+MARIE J. GABY
+MACKENZIE K. GAGE
+TRAVIS L. GALE
+RIO S. GALLEGOS
+ANTONIO R. GALLI
+JENNIFER N. GALVAN
+VINCENT M. GALVAN
+KAI T. GAMBLE
+MICHAEL A. GANNON
+COREY L. GARCIA
+DANIEL T. GARDNER
+STEVEN E. GARRETT
+RYAN P. GARVEY
+CODIE L. GAUTHIER
+JACOBY D. GETTY
+ROSS W. GILCHRIEST
+CHARLES F. GILES
+JARRED H. GILLIE
+SAMANTHA M. GLAESER
+ERICA M. GOBER
+TYLER R. GOBLE
+DANIEL L. GONZALES, JR.
+ALBERT T. GONZALEZ
+JONATHAN GONZALEZ
+MATTHEW A. GOODWIN
+JUSTIN M. GORLASKI
+PARKER J. GRACE
+WILLIAM N. GRAMMER II
+AUSTIN S. GREBE
+SHAUN P. GRECH
+MARK W. GREEN
+RACHEL D. GRIFFIN
+TANNER E. GRIFFITH
+RORY C. GROSS
+CHRISTOPHER R. GRUBB
+LARRY P. GUERRERO
+EVAN M. GUMBEL
+SEAN C. GUNN
+REYNALDO N. GUTIERREZ
+CHRISTINE E. HADFIELD
+JARED J. HAEG
+JULIAN V. HAGBERG
+KYLE R. HALES
+GREG A. HALL II
+ETHAN J. HAMILTON
+HEATHER E. HAMILTON
+NICHOLAS J. HAMILTON
+KERRI L. HANDS
+TYLER L. HARDEN
+CHAD E. HARPER
+HUNTER C. HARRELL
+RONALD E. HARRELL III
+GLENDREVIO V. HARRIS
+
+[[Page S6535]]
+
+ZACHARY J. HARTH
+DILLON R. HARTMANN
+NICHOLAS A. HARTMANN
+DAVID HASEGAN
+SAMANTHA R. HAWLEY
+SCOTT C. HAYMAN, JR.
+NATHANIEL J. HAYNES
+KALE E. HECKERSON
+RYAN T. HEDGCORTH
+ZACHERY M. HEDRICK
+JACOB E. HENDER
+JOSHUA K. HENDERSON
+ALEXANDER R. HENRY
+JE HER
+KENNETH J. HERMAN
+JONATHAN HERNANDEZ
+ALEJANDRO HERNANDEZCANDELARIO
+TAYLOR D. HERSHBERGER
+MARK P. HERZOG
+JOHN J. HEVER
+DALE M. HIGGINS
+PARKER A. HILLS
+BRUCE W. HILTY
+NICHOLAS J. HOEKSEMA
+STEVEN P. HOFFMAN
+ADAM C. HOGAN
+MICHAEL J. HOGAN
+NATHAN L. HOGUE
+CRAIG E. HOLLENSBE
+DAVID N. HOLVEY
+WILLIAM T. HORN
+RAYMOND M. HORNING
+CASEY N. HOSBURGH
+RAYMONDGRE D. HOWER
+VICENTE L. HUERTA
+ROY A. HUNDLEY, JR.
+JOHN F. HUNT
+TYLER J. HUSAR
+JERRY B. HYMAS
+JORGE IBARRA, JR.
+MATTHEW M. IRELAND
+CODY R. ISZLER
+ROBERT J. IZQUIERDO
+MELVIN D. JACOBS, JR.
+MIKE K. JACOBS
+MICHAEL J. JACOBSON
+BRENNEN B. JAEB
+KARAH M. JAEB
+NIKOLAS A. JAQUA
+ROGELIO JASSO
+JARED M. JEFFERSON
+CLARK E. JENSEN
+JOHN JENSEN
+KAREN E. JENSEN
+COLBY R. JERDEN
+GAVIN D. JERNIGAN
+BENJAMIN W. JEROME
+WILLIAM T. JEWELL
+STEVEN J. JOHNS
+ANDREW T. JOHNSON
+ASHER M. JOHNSON
+CHARLES L. JOHNSON
+EMILEE N. JOHNSON
+EMILY L. JOHNSON
+KADRICK M. JOHNSON
+JAMES M. JONES
+JOSHUA D. JONES
+KYLE J. JORDAN
+GENE S. JUNG
+ANDREW J. JUNIO
+TIMOTHY B. KAO
+NICHOLAS C. KASTILAHN
+KEVIN P. KAYSER
+DANIEL M. KEARNEY
+SAMUEL M. KEENAN
+JOSHUA M. KEEVEN
+JONATHAN J. KELLY
+KENNETH W. KENDRICK
+JAMES M. KENNY
+ADAM J. KERSTEN
+ROGER S. KERSTETTER
+JUSTIN B. KESLER
+DONALD A. KIDD, JR.
+DUSTIN R. KIDD
+MATTHEW T. KIEFER
+ANDREW S. KIM
+SHANE J. KIM
+JARRETT P. KING
+PHILIP M. KING
+MATTHEW J. KITAGAWA
+DAVID L. KIYABO
+DIEGO N. KLECKNER
+BRANDON J. KLEWICKI
+GABRIEL L. KNOLL
+MARIO A. KOHN
+DYLAN A. KOWAL
+ANTON J. KRAFT, JR.
+AARON M. KRATTIGER
+ASHLEY L. KRULIK
+KAYLYN E. KRZEMIEN
+CHRISTINE Y. LA
+JOSEPH B. LABRUZZO, JR.
+JOSEPH A. LAFFEY
+ERICK LALLEMAND
+JOSHUA A. LAMANNA
+JODY C. LAMB
+PIERRE T. LAMBARD
+DANIEL J. LAMM
+AUSTIN F. LANCASTER
+NICHOLAS A. LANE
+ANDREW J. LANGLOIS
+WILLIAM A. LAPONZA III
+PAULEMERSO R. LARA
+JAMES B. LARKIN
+EDWIN M. LATRELL
+JEFFREY A. LAWRENCE
+DREW W. LEDERER
+ALEXANDER J. LEE
+JANET J. LEE
+JOHN LEE
+STEPHEN M. LENNON
+LORENZO M. LEONARD
+BARBARA A. LESKO
+MATTHEW J. LESZCZYNSKI
+RYAN S. LEWANDOWSKI
+MARCUS A. LEWIS
+STEFAN J. LICHTFUSS
+CHARLES M. LINDINGER
+ERIK A. LINDSKOG
+ROBERT C. LOCKER, JR.
+RYAN D. LOFSWOLD
+HANNAH H. LOIS
+WARREN C. LOOPSTRA
+ALEXANDER K. LOPES III
+AUSTIN R. LORAH
+MATTHEW J. LORD
+JOSEPH A. LOVE
+JARED B. LUEBBERS
+BRYAN C. LUTHER
+KEITH A. MACDONALD
+KELLY R. MACKENZIE
+ELTON R. MACLEISH
+ROBERT A. MACOM
+MICHAEL L. MAFFETT
+STEVEN M. MAIRE
+JEFFREY T. MAJKA
+ALEJANDRO MALDONADO
+NICHOLAS D. MANTZ
+CRAIG M. MARCHIAFAVA
+JOHN R. MARINO
+CARLOS D. MARISCAL
+BRANDON M. MARQUETTE
+BENJAMIN R. MARSH
+KAREN V. MARTIN
+JUSTIN T. MARTINEZ
+MARC S. MARTINEZ
+NICHOLAS A. MARTINEZ
+URBANE S. MARTINEZ
+TANNER C. MAYBERRY
+ANTONIO F. MAYO
+WILLIAM J. MCCABE
+DANIEL J. MCCAFFREY
+JOHN A. MCCLINTON
+RYAN M. MCCORMIC
+JERAD E. MCDANIEL
+JASON R. MCDONALD
+MICHAEL W. MCDONALD
+MATTHEW C. MCELDOWNEY
+JOSEPH K. MCGRATH
+MATTHEW J. MCKENZIE
+ANDREW E. MCMILLAN
+JUSTIN R. MCNEELY
+CHRISTOPHER L. MCNEIL
+ANDREW R. MCNIECE
+DWIGHT A. MCPHERSON
+BRENDAN R. MCQUILKIN
+BENJAMIN S. MEADS
+LUIS F. MEDINAHERNANDEZ
+JULIANA B. MELLGARD
+JOHN H. MENSCH
+JAMES M. MERCURE, JR.
+DAVID A. MIELNIK
+KENNAN R. MILLER
+SIMON P. MILLER
+ASHLEY S. MILLIGAN
+MAURTICE O. MILLS
+WALKER D. MILLS
+ZACHERY L. MILLS
+MELANIE J. MOLANO
+ADAM S. MONGAR
+REX A. MONTES
+WILLIAM G. MONTGOMERY
+MITCHELL S. MOORE
+JOSEPH D. MORALES
+MYLEN M. MORALES
+JHONATHAN J. MORALESNAJERA
+JACKSON P. MORGAN
+KEVIN C. MORIARTY
+DAVID A. MORRIS
+JACOB E. MOSES
+JASON T. MOTYCKA
+EMILE G. MOUFARREJ
+BRENDAN P. MULCAHY
+CODI A. MULLEN
+SEAN M. MULLIGAN
+RASHIDI L. MULLINS
+TIMOTHY J. MULLINS
+NICHOLAS M. MUSQUIZ
+ROBERT M. MYERS II
+CARLIN P. MYRICK
+ABIGAIL E. NAGEL
+ZACHARY T. NELSON
+MICHAEL A. NERDAHL
+JOSHUA G. NG
+MATTHEW M. NILSON
+JUSTIN L. NOLE
+JENNIFER NORENA
+WILLIAM D. NORTON
+LOUISE M. NOWAK
+CONNOR B. OBERRICK
+JOSHUA L. OBLEA
+ALEXANDER M. OBREMSKI
+GAGE M. OCONNELL
+BRIAN E. ODEN
+PATRICK J. OKANE
+ALEXANDER P. OLIVO
+JOSE M. ORTIZ
+ANTHONY L. OSORIO
+ERIK A. OSTERMANN
+CECIL OTIENO
+CARLOS E. OVALLESOSA
+HIPOLITO OZUNA
+DANIEL J. PAGE
+NICHOLAS P. PALERMO
+JAMES E. PARADISE
+ABRAHAM H. PARK
+DANIEL PARK
+GREGORY R. PATTON
+DUSTIN PECHLER
+BLAKE E. PEEK
+GRANT D. PENNEY
+ADAM M. PENQUITE
+KRISTOPHER A. PENTON
+DILLON R. PERERA
+ANDREW D. PERKINS
+TREVOR W. PERKINS
+JOSHUA R. PERRAS
+SAMUEL T. PERRINE
+MICHAEL T. PETELLO
+SAMUEL A. PETERS
+CHRISTIAN J. PETERSON
+MARK E. PETERSON, JR.
+SEAN M. PETERSON
+SAMUEL J. PETKO
+JAMES V. PHAM
+BRANDON J. PHILLIPS
+EVAN PHILLIPS
+NATHAN S. PIATT
+EDWARD J. PINGEL
+KYLE W. PINGREY
+STEVEN C. PIPER
+NICOLE M. PLYMALE
+ADAM G. POLLARD
+ZACHARY C. POLSON
+AUSTIN T. POWELL
+JOSHUA L. PRICE
+GRAHAM H. PUGH
+KEITH L. RABIDEAU
+BENJAMIN G. RADEFF
+MATTHEW K. RAINER
+MANUEL A. RAMIREZ
+MIGUEL A. RAMIREZ, JR.
+ABRAHAM RAMOS
+NICO G. RAMOS
+JUAN A. RANGEL
+COLTON L. RASCHE
+DIEGO A. RAYAS
+JOSHUA L. RAYMOND
+TREVOR O. RAYMOND
+CARTER J. READING
+STEPHEN M. REAGIN
+JORDAN M. RECTOR
+KEVIN C. REDMOND
+ZACHARIAH W. REED
+JOHN G. REES
+PATRICK L. REILLY
+MEGHAN M. REINWALD
+MATTHEW D. REITH
+CHRISTINA J. RENEW
+DENNIS C. RENEW
+BRETT M. RENFROE
+CASEY B. RETTERER
+SIDNEY J. RILEY
+ADAN Z. RIVERA
+JONATHAN O. ROBERTS
+CONNER D. ROBERTSON
+EDWARD O. ROBINSON
+SHAKIR S. ROBINSON
+WILLIAM F. ROCK
+JOHN C. ROGERS
+CATHLEEN E. ROMERO
+SEVASTIAN J. ROMESSER
+TIMOTHY M. ROMINGER
+WILLIAM D. ROSE, JR.
+JOSHUA L. ROTHFELD
+ELLIS J. ROWE
+SEAN D. ROY
+NICHOLAS W. ROYER
+JOSE R. RUIZ, JR.
+JUAN C. RUIZVILLEGAS
+JOSEPH E. RUTH
+MICHAEL J. SAGAN
+VINCENT J. SALEM
+BRANDON J. SANCHEZ
+JAHZIEL J. SANCHEZ
+YVONNE SANCHEZGARCIA
+JASON T. SANDER
+JAMES D. SANDS II
+ANIRUDH SARSAM
+DAVID R. SAXON
+MICHAEL A. SCACCIA
+CAROLYN F. SCHAEFFER
+TROY B. SCHARFEN
+NOBLE F. SCHERMERHORN
+NICHOLAS A. SCHICHLER
+KYLE G. SCHIEGNER
+ROBERT A. SCHILLACI
+JOHN D. SCHMALTZ, JR.
+CODY W. SCHMIDT
+BARNEY R. SCHMIDTKE
+FREDERICK J. SCHMITT
+EDWIN A. SCHMOLDT
+JOHN E. SCHNEIDER
+BRADLEY C. SCHOLL
+STEVEN A. SCHWARTZ
+THOMAS J. SCHWERDTFEGER
+KALAN M. SCOTT
+JADE S. SEABROOK
+TROY M. SEARCY
+JACK C. SEEHOF
+WILLIAM D. SEIBOLD
+PATRICK M. SEXTON
+JAMES M. SHAHAYDA
+JOSHUA J. SHAKE
+JOEL M. SHARP
+THOMAS A. SHIIBA
+ERIK A. SHINKLE
+KEIL R. SILVA
+MICHAEL S. SIMASEK
+SHELDONIA C. SIMMERS
+MATTHEW T. SIMMONS
+
+[[Page S6536]]
+
+ELIZABETH A. SINCLAIR
+ALAN W. SMITH
+AMISH B. SMITH
+BRYAN A. SMITH
+JACOB L. SMITH
+WILLIAM J. SMITH
+AUSTIN C. SNYDER
+MELISSA D. SNYDER
+TIMOTHY R. SNYDER
+RYAN M. SOHM
+NIKOLAS A. SOLANA
+MATTHEW T. SOMMERS
+SAMUEL E. SORENSON
+GRAHAM A. SOULETTEMCLEAN
+MACKENZIE A. SPAICH
+MICHAEL J. SPAIN
+KIRSTIN M. SPANN
+CHRISTOPHER A. SPENCER
+JONATHAN R. STACK
+BARTON W. STARKEY
+EVAN W. STATON
+MICHAEL J. STAWICK
+CHRISTOPHER B. STEBBINS
+IAN M. STEEL
+LOUIS D. STEINHAUS
+JAY C. STELL
+MACKENZIE D. STEWART
+MICHAEL G. STICKEL
+LUKE D. STOCKMAN
+CHRISTOPHER A. STREICHER
+IAN M. STRINGER
+BRENNAN W. STROBEL
+SAM R. STROMSWOLD
+MITCHELL B. STUETELBERG
+KEVIN J. STUPAK
+JEFFERY D. SUGG
+SEAN M. SULLIVAN
+SOHROB SULLIVANDAVACHI
+ANDREW M. SUMNER
+BRANDON D. SUPER
+CODY J. SVIBA
+AUSTIN L. SWINK
+JEFFERSON S. TALICURAN
+WILLIAM P. TAYLOR
+CAMERON S. TEASLEY
+ANDREW T. TEIJEN
+JONATHAN A. TEJADAURENA
+JOSEPH M. TEKERIAN
+MICHAEL E. TENUTA
+CHRISTIAN M. THIESSEN
+JABARI A. THOMAS
+ANDREW R. THOMPSON
+EMMA E. THOMPSON
+TYLER J. THOMSEN
+IAN T. THORPE
+HANNA M. TILQUE
+ZACHARY W. TKACH
+JORDAN D. TOOTILL
+HIRAM D. TOSCO
+AARON J. TOVSKY
+NICOLAS A. TOWERS
+TIMOTHY E. TRACEY
+THOMAS C. TRAPANE, JR.
+JONATHAN M. UNG
+MATTHEW B. URIBE
+JARED M. VALESKE
+CHRISTOPHER L. VANDEWEERD
+REX J. VANKOEVERING
+ABISAID J. VASQUEZ
+JOHN E. VERES
+JASON M. VINES
+ALEXANDER J. VITANZA
+JOHN P. VOGEL
+MICHAEL T. VOLTA, JR.
+NATALIE C. WALLACE
+LUCAS R. WALTERS
+DANIEL H. WANG
+COLT A. WASHA
+KARL J. WATJE
+PAUL R. WATSON
+WILLIAM M. WATSON
+JUSTIN S. WEAVER
+JUSTIN A. WEEKS
+COLLIN R. WHEELER
+JONATHAN M. WHEELER
+ANGELICA A. WHITE
+KATHERINE A. WHITE
+MARQUIS D. WHITE
+SCOTT L. WHITLEY
+THOMAS N. WILCOX
+BRIAN J. WILKINS
+JOHN M. WILKINS
+JOHN J. WILKINSON
+GEORGE B. WILLIAMS III
+JUSTIN T. WILLIAMSON
+CEDRIC L. WILSON
+CYRUS C. WILSON
+THOMAS C. WILSON
+WILLIAM M. WINE
+BRANDON M. WINTERS
+MITCHELL L. WOLFE
+DAVID D. WON
+PHILLIP A. WOOD
+WESLEY A. WOOD
+TAYLOR V. WULFFMORRISON
+JOSEPH M. YANUZZI
+KEVIN E. YARNELL
+KENNETH C. YONKER
+JONATHAN S. YOO
+ISAAC K. YUEN
+TIMOTHY J. ZEBROWSKI
+SCOTT C. ZIEBELMAN
+HAILEY D. ZIEGLER
+
+
+                              IN THE NAVY
+
+       THE FOLLOWING NAMED INDIVIDUAL FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE NAVY RESERVE UNDER TITLE 10, U.S.C., SECTION 
+     12203:
+
+                             To be captain
+
+CHRISTOPHER K. KIM
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES NAVY UNDER TITLE 10, U.S.C., 
+     SECTION 624:
+
+                             To be captain
+
+JOHN M. CONNALLY
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES NAVY UNDER TITLE 10, U.S.C., 
+     SECTION 624:
+
+                            To be commander
+
+JORY S. MORR
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES NAVY UNDER TITLE 10, U.S.C., 
+     SECTION 624:
+
+                       To be lieutenant commander
+
+ANDREW R. DEMAIO
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES NAVY UNDER TITLE 10, U.S.C., 
+     SECTION 624:
+
+                       To be lieutenant commander
+
+CONOR C. HOZEY
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES NAVY UNDER TITLE 10, U.S.C., 
+     SECTION 624:
+
+                             To be captain
+
+MICHAEL J. KLAUER
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES NAVY UNDER TITLE 10, U.S.C., 
+     SECTION 624:
+
+                       To be lieutenant commander
+
+JOHN T. BLUM
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES NAVY UNDER TITLE 10, U.S.C., 
+     SECTION 624:
+
+                       To be lieutenant commander
+
+JANE E. SHELLEY
+
+
+                           IN THE SPACE FORCE
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES SPACE FORCE UNDER TITLE 10, 
+     U.S.C., SECTION 624:
+
+                        To be lieutenant colonel
+
+CHRISTOPHER K. JORDAN
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE GRADE 
+     INDICATED IN THE SPACE FORCE UNDER TITLE 10, U.S.C., SECTIONS 
+     531 AND 716:
+
+                              To be major
+
+PAUL BLOCKER III
+       THE FOLLOWING NAMED OFFICERS FOR APPOINTMENT TO THE GRADE 
+     INDICATED IN THE UNITED STATES SPACE FORCE UNDER TITLE 10, 
+     U.S.C., SECTION 624:
+
+                              To be major
+
+ALEXANDER L. HANSEN
+JESSE NGUYEN
+ANNAMARIE L. PRUHSMEIER
+CHAD K. RIVERA
+DAKOTA J. SAWYER
+
+
+                           IN THE COAST GUARD
+
+       THE FOLLOWING NAMED OFFICERS FOR APPOINTMENT IN THE UNITED 
+     STATES COAST GUARD RESERVE TO THE GRADE INDICATED UNDER TITLE 
+     10, U.S.C., SECTION 12203(A):
+
+                             To be captain
+
+THOMAS E. ADAMS
+IAN G. BROSNAN
+JAMES J. CARMANY
+BRIANNA M. NEASHAM
+TODD A. REMUSAT
+EDWARD G. SEE
+MARIE L. SEVIN
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES COAST GUARD TO THE GRADE INDICATED UNDER TITLE 14, 
+     U.S.C., SECTION 2121(E):
+
+                       To be lieutenant commander
+
+JESSE COLLINS
+       THE FOLLOWING NAMED OFFICERS FOR APPOINTMENT IN THE UNITED 
+     STATES COAST GUARD TO THE GRADE INDICATED UNDER TITLE 14 
+     U.S.C., SECTION 2121(E):
+
+                            To be commander
+
+JASON A. ACUNA
+KASEY L. ARGUELLES
+JOHNSTON G. ARIAIL
+ANDREW P. ARMSTRONG
+NATHANIEL J. BALADAD
+NATHAN D. BARNES
+MARTIN J. BERG
+ALFRED E. BETTS III
+THERESA J. BIGAY
+WILLIAM J. BIRCH, JR.
+DAVID H. BLUE
+KATHERINE M. BLUE
+TIMOTHY A. BONNER
+MEAGAN K. BOWIS
+JACOB W. BRANTLEY
+ZACHARY D. BROWN
+LYNN A. BUCHANAN
+RAYNOR L. BUCKLEY
+COLLINSON P. BURGWYN III
+KARA L. BURNS
+MATTHEW A. CARLTON
+RYAN C. CASSIDY
+DREW P. CAVANAGH
+ABIGAIL H. CLARK
+GEORGE R. COCKS
+DARIN S. COLEMAN
+MELANIE L. COLLIER
+JANE S. COLLINS
+PATRICK. COLLINS
+BRYAN E. CONRAD
+CAMERON D. COOPER
+ROY R. CROMER
+ANDREW L. DAUM
+LENNIE R. DAY, JR.
+JEFFREY S. DEITEL
+MATTHEW S. DELAHUNTY
+NICHOLAS G. DERENZO
+JOHN D. DININO
+BRIAN P. DOCHTERMANN
+BRENNAN P. DOUGHERTY
+NATHANIEL P. DUFRESNE
+MATTHEW P. DYRDAHL
+DOUGLAS A. EBERLY
+MATTHEW S. EDES
+STEPHEN P. FAINER
+BRIAN E. FIELD
+MICHAEL D. FIORI
+ALICIA J. FLANAGAN
+COLIN M. FOGARTY
+RACHEL E. FOOTE
+NICHOLAS A. FORNI
+CARRIE E. FOSTER
+PATRICK A. FROST
+JASON M. GANGEL
+LUIS F. GARCIA
+ANTHONY M. GAROFALO
+GORDON S. GERTISER
+CATHERINE M. GILLEN
+TONI A. GOODIN
+CURTIS A. GOOKIN
+CLIFTON J. GRAHAM
+PATRICIA G. GREEN
+KIRSTIN M. HAAS
+JAY B. HAGWOOD, JR.
+RORY K. HALEY
+JASON M. HARCZAK
+LISA M. HATLAND
+ERIK S. HEITHAUS
+CHRISTOPHER L. HEPP
+GREGORY R. HERSH
+JAMES L. HEUSER
+WILLIAM J. HICKEY IV
+MICHAEL P. HIGBIE
+SAMMY A. HILL
+ZACHERY S. HOEKWATER
+ASHLEY E. HOLM
+JASON W. HOLSTEAD
+CHRISTOPHER J. HOOPER
+THOMAS E. HOREJS
+BRIAN S. HOWARD
+RYAN M. HUDSON
+LESLIE W. HUNT
+TIMOTHY L. HURST
+KEONI A. HUTTON
+KAITLIN G. INSLEY
+DANIEL J. IPPOLITO
+MCCLAIN G. ISOM
+TORREY C. JACOBSEN
+CARLOS A. JARAMILLO
+CRAIG J. JOHNSON
+ERIC W. JOHNSON
+GRANT W. JOHNSON
+AARON R. JONES
+KAMRYN E. JONES
+JEFFREY C. JURIN
+THOMAS G. KAI
+KEVIN A. KEEFE
+JOSHUA M. KITENKO
+BRYAN C. KOCH
+BRITTANI J. KOROKNAY
+EDWARD P. KUNIGONIS
+PHILIPP C. KUNZE
+PAUL A. LEDBETTER
+SCOTT G. LEDEE
+JUSTIN M. LEWIS
+STEVEN A. LEWIS
+ERIC A. LIBNER
+JAKE R. LOBB
+JACOB J. LOMAN
+BENJAMIN C. LYONS
+JONATHAN D. MAGIN
+CHRISTOPHER S. MARQUIS
+MELISSA M. MARTINELLI
+JESSICA MCCOLLUM
+KATHRYN A. MCCORMACK
+LIAM P. MCCUE
+RYAN J. MCCUE
+NINA N. MCDONALD
+JESSICA L. MCINTYRE
+JOSEPH W. MESSINA
+BRIAN J. MICHKA
+EMILY C. MILETELLO
+LAUREN L. MILICI
+ALEXANDRA S. MILLER
+JOHNANDREW M. MINNITI
+TYLER A. MONEZ
+LISA T. MOTOI
+MICHAEL E. MOYSEOWICZ
+TRAVIS A. MURRAY
+ANTHONY J. MYERS
+
+[[Page S6537]]
+
+CRISTINA E. NELSON
+RYAN T. NEWMEYER
+SCOTT B. NICHOLS
+ANDREW S. NORBERG
+SEAN R. ODOWD
+TIMOTHY J. OLAH
+THOMAS E. OLSEN
+CHELSEY G. OLSON
+IAN A. OVIATT
+TIMOTHY K. OZIMEK
+ERIN L. PALMER
+BRITTANY P. PANETTA
+CHRIS M. PAPPE
+JARRETT S. PARKER
+CALEB L. PEACOCK
+MEGAN J. PETERS
+IAN N. PHILLIPS DEZALIA
+HAROLD N. PIPER III
+MATTHEW J. PRAHLER
+JOE W. PRICELARSON
+MICHAEL E. PROSSER
+ANDREA L. PSIMER
+SHEA A. QUINN
+DAVID S. RADIN
+JOHN D. REID
+CLAIRE M. REILLY
+JAMES S. REILY
+MYLES A. RICHARDSON
+KEVIN T. RILEY
+MICHAEL A. ROBERTS
+JOHN M. ROBERTSON III
+KEVIN M. ROBINSON
+MARQUESIO D. ROBINSON
+SARAH E. RODINO
+KRYSTYNA L. ROGERS
+BRYAN P. ROULEAU
+LEVI S. RUSCH
+RICHARD L. RUSSELL
+TASHA R. SADOWICZ
+RAPHAEL J. SADOWITZ
+KYLE M. SCHAFFNER
+PAUL T. SCHMITZ
+PETER T. SCHOFIELD
+RAFAEL. SHAMILOV
+HELEN J. SHAYE
+JAY M. SHIREY
+URDLEY N. SMITH
+JOSHUA J. SMOLOWITZ
+CLARE M. SNYDER
+EVAN J. STECKLE
+DANIEL A. SWAIM
+RYAN C. TAYLOR
+JOHN D. TOMLIN
+JAMES J. TOOHEY
+RIANNE S. TROUTMAN
+XIAOBIN TUO
+WILLIAM M. VAN CLEAVE
+FRANCIS A. VARRICHIO
+DAVID R. VIHONSKI
+ASHLEY J. VRYHEID
+KURT S. WALKER
+BRIAN S. WALLER
+ABIGAIL T. WALLIS
+LUKE A. WALSH
+ROCKY C. WARD
+THEODORE P. WARREN
+STEPHANIE E. WASHINGTON
+CHRISTOPHER L. WEBER
+JOSHUA J. WEIDMAN
+AVERY L. WESTON
+KEVIN P. WHALEN
+CHRISTIAN E. WILDHAGEN
+RYAN C. WINDHAM
+STEPHANIE D. WOOD
+MARGARET W. WOODBRIDGE
+MIKE H. WU
+CHAD A. YEAMANS
+RORY A. YODER
+DAVID J. ZWIRBLIS
+       THE FOLLOWING NAMED OFFICERS FOR APPOINTMENT IN THE UNITED 
+     STATES COAST GUARD TO THE GRADE INDICATED UNDER TITLE 14 
+     U.S.C., SECTION 2121(E):
+
+                             To be captain
+
+RYAN G. ANGELO
+ARMELL V. BALMACEDA
+CHRISTIAN J. BARGER
+ALEXANDER S. BARKER
+KELLY C. BLACKBURN
+BRIAN M. CHAPMAN
+ALEXANDRA K. CHERRY
+LEAH M. COLE
+NEAL A. CORBIN II
+CHARLENE R. CRISS
+CHRISTOPHER K. CUMBERLAND
+TODD R. DEVRIES
+BROCK S. ECKEL
+KRISTOPHER R. ENSLEY
+LAUREN U. FULLAM
+GAVIN V. GARCIA
+JOSEPH F. GRAHAM
+DOUGLAS D. GRAUL II
+BENEDICT S. GULLO III
+CORYDON F. HEARD
+JAMES L. HELLER
+ROBERTO R. HERRERA
+DANA E. HIATT
+KENNETH E. HOGUE
+GORDON A. HOOD
+JUSTIN C. HUNT
+WILLIAM J. JACOBS
+JEFFREY G. JANARO
+WILL D. JOHNSON
+LEE H. JONES II
+RYAN P. KELLY
+JEREMY A. KIME
+GREGORY J. KNOLL
+STEVEN A. KOCH
+AARON J. KOWALCZK
+FRANK R. KULESA
+BRIAN S. LIED
+TONYA M. LIM
+RHIANNA N. MACON
+ROGER M. MASSON
+MARC R. MCDONNELL
+JAMES R. MILLER, JR.
+PAUL J. MILLER
+JOSEPH W. MORGANS
+JUSTIN P. NADOLNY
+CORRINA OTT
+JEFFREY P. OWENS
+ERIC C. PARE
+PIERO A. PECORA
+CHRISTIAN T. POLYAK
+JONATHAN H. POTTERTON
+MATTHEW J. PRESS
+NICHOLAS O. RAMIREZ
+KELLY A. SAWYER
+MAEGAN R. SCHWARTZ
+COURTNEY A. SERGENT
+JOHN M. SINGLETARY
+BAXTER B. SMOAK
+KELLEY L. STEVENS
+BONNIE M. STEWART
+JUSTIN W. STROCK
+BRYAN J. SWINTEK
+MARIO B. TEIXEIRA
+TIMOTHY S. TILGHMAN
+JEREMY A. WEISS
+EUSTACIA Y. WEIST
+BRIAN R. WHISLER
+DUSTIN R. WILLIAMS
+KISMET R. WUNDER
+JEFFREY S. ZAMARIN
+       THE FOLLOWING NAMED OFFICERS FOR APPOINTMENT IN THE UNITED 
+     STATES COAST GUARD TO THE GRADE INDICATED UNDER TITLE 14 
+     U.S.C., SECTION 2121(E), INCLUDING THOSE RESERVE OFFICERS WHO 
+     ARE TO BE APPOINTED AS PERMANENT COMMISSIONED OFFICERS 
+     PURSUANT TO TITLE 14 U.S.C. SECTION 2101:
+
+                       To be lieutenant commander
+
+JOSHUA S. ALLEMAN
+AMES K. ALLING
+DAVID Q. ANDERSON
+CORY N. ARSENAULT
+JESSICA J. AYER
+NAKIA D. BACON
+SHEENA M. BANNON
+ANTHONY S. BARLETTA
+MELISSA M. BARRETT
+SEAN C. BARRY
+MARK A. BEHNE
+DANIELLE J. BENEDETTO
+ROBERT J. BERNARDI IV
+ADAM C. BIRCH
+JUSTIN R. BIXLER
+AARON C. BLACK
+ERIN H. BOHNER
+BLAKE E. BONIFAS
+JEFFREY S. BORS
+JAIME D. BRADY
+ANDREW A. BRITTON
+MICHAEL R. BROOKS
+BRIDGET Y. BROWN
+KIMBERLEE L. CAPP
+JAKE V. CARLTON
+KAITLIN M. CARRASQUILLO
+PATRICIA M. CARROW
+IIA CARTER
+ANDREW E. CAUDILL
+BENJAMIN A. CHAPMAN
+CHARLES M. CHAVTUR III
+JAMEL H. CHOKR
+TIMOTHY M. CHRISTENSON
+BRIAN J. CHRISTINA
+MICHAEL A. CLANCY
+BRANDON M. COLLINS
+JESSE O. COLLINS
+ROBERT E. COLLINS
+STEVE L. CONDE
+JORDAN D. CONVERSE
+ROBERT R. COPELAND II
+SAMANTHA E. CORCORAN
+JIMMY R. CRUZ
+JUSTIN S. DAVIS
+VINCENT T. DEEGAN
+KEVIN M. DEININGER
+ALISON G. DENNING
+GABRIELLA C. DEZA
+JENNIFER M. DIALS
+PETER A. DIAMONTOPULOS
+CHRISTIAN P. DIBARI
+VLADIMIR DOMANSKIY
+TRAVIS T. DOPP
+MITCHELL R. DOW
+BRIAN M. DUGAL
+RAYMOND L. ECHEVARRIA
+ARDY I. EFFENDI
+WILLIAM H. EHLIES III
+ANDREW N. ELLIS
+STASIA O. ELLIS
+JACK E. EMMONS
+COREY J. ENGEL
+JAMES D. ENGELHARDT
+AILEEN I. FAGAN
+AVERY A. FANNING
+MICHAEL A. FIGLIOTTI
+DAVIDSON K. FISHER
+ELIZABETH J. FLINT
+JAMES L. FORTIN
+WESTON J. FORTNA
+DIANE S. FRENCH
+REBECCA L. FULLER - MORRIS
+MICHAEL H. GAGEN II
+ANTHONY R. GALLEGOS
+ANDREW M. GARCIA
+DEAN J. GILBERT
+MEGEN M. GOLD
+DANIEL R. GOMEZ
+TIAGO M. GONCALVES
+KATHERINE E. GRAICHEN
+KELSEY E. GRAY
+TANESHA GREEN-BAKER
+PAUL C. GROTELUESCHEN
+CHRISTOPHER J. GUERNSEY
+SAMUEL R. GUINN
+SHANE D. GUNDERSON
+KARL A. GUNTHER
+JOSHUA J. GUTHLEIN
+JAMES W. HARDEY
+ANNE E. HARPER
+LUKE J. HARR
+CODY C. HARRIS
+RAHNAL D. HARRIS
+JUSTIN R. HEILMAN
+GARRETT R. HENDRICKSON
+KATIYA R. HENNING
+TYLER C. HENNING
+MITCHEL D. HERRADOR
+FREEMONT O. HINKLE
+TOWNSHEND F. HIRST
+VICTORIA A. HOLDER
+MATTHEW J. HUMPHRYS
+PETER HUTCHISON
+BRETT H. IGO
+ABIGAIL R. ISAACS
+ANDREW J. JACOT
+HANNA E. JANSSON
+JONATHAN H. JESTER
+VLADIMIR R. JIMENEZ
+PATRICK J. JOHNSEN
+EMILY R. JOHNSON
+JUSTIN L. JOHNSON
+RANDY L. JOHNSTON
+KRISTINE M. KAHL
+NICHOLAS T. KANE
+E'BRIA M. KAREGA
+KARISA L. KEALY
+LANCE A. KECKRITZ
+JOHN W. KEIFFER
+TIMOTHY D. KEILY
+KODY J. KEKOA
+CHRISTOPHER M. KING
+JASEN L. KINGSLEY
+MORGAN E. KINGSTON
+BETHANNIE J. KITTRELL
+ADAM D. KLINE
+DANIELLE A. KNOX
+JOSEPH B. KOLB III
+PAUL M. KRAFT
+MARK R. KREBS
+JACQUELYN S. KUBICKO
+ANDREW M. LAUF
+RICHARD A. LAWS
+JACOB R. LAWSON
+AIDAN E. LEDDY-PHILLIPS
+STEVEN M. LEIGHTY
+ERIC L. LENOIR
+ISABELLE C. LEVITSKY
+RICHARD J. LINCOLN
+WILLIAM R. LINDSEY
+BRADFORD D. LONG
+TIMOTHY P. LOVINS
+BRIAN J. MAFFUCCI
+ANDREW D. MANDLEY
+ROSS G. MARKHAM
+ELI M. MAURER
+KYLE S. MAXEY
+RODION MAZIN
+CHRISTOPHER R. MCBRAYER
+MATTHEW J. MCCAMMON
+ALEXANDER W. MCCONNELL
+SEAN P. MCGAUGHAN
+CHRISTINA M. MCGEE
+EMILY M. MCKENZIE
+RYAN C. MCNEIL
+JONATHAN A. MERRELL
+MARKUS G. MEYER-MINER
+TODD M. MIHILL
+ALYSSA C. MILANESE
+CAROLINE P. MILLER
+SCHUYLER B. MILLHAM
+BENJAMIN M. MILNE
+ROBERT L. MINEO
+ANDREW W. MOELLER
+KOACHAR Y. MOHAMMAD
+BRYCE J. MONACO
+TRENT D. MOON
+JUSTIN M. MOORE
+LEE J. MOORE
+BEN G. MORSETH
+WADE I. MYERS
+CLAUDE A. NADAL
+LE A. NELSON
+LINDSEY M. NEUMANN
+BRANDON R. NEWMAN
+KEITH W. NICHOLS
+MANUEL J. ORTEGA
+PABLO A. ORTIZ
+PATRICK J. OSHAUGHNESSY
+RYAN T. OSTRANDER
+JUSTIN H. PACHECO
+KEVIN M. PAINTEN
+STEPHEN A. PALMIERI
+CHRISTOPHER D. PAPAS
+MIMOSE PARVILUS
+TAYLOR E. PEACE
+DANIEL A. PEREIRA
+
+[[Page S6538]]
+
+MATTHEW O. PERYEA
+TYLER A. PFENNINGER
+CLAIRE Y. PHAM
+ANDREW W. PHELAN
+JENELLE L. PICHE
+THOMAS A. PORZILLO
+PAUL D. PUDDINGTON
+JONATHAN A. PUING
+SASHA N. QUEARY
+LAURA E. RAYBURN
+LYDIA J. RENFROW
+ERIC N. RESSEL
+JACOB R. RETTIG
+JOSEPH A. RIZZARDI
+JAMES R. RIZZO
+BOBBI-JO ROBERTSON
+RICARDO L. RODRIGUEZ
+SAMUEL P. ROETS
+NICHOLAS W. ROGERS
+AMY B. ROSS
+CHRISTINE J. ROUSSEAU
+ANTONIO L. RUSSELL
+DANIEL J. RUSSO
+ANDREA C. SALDANA
+NAKERA N. SALDANA
+CORI F. SANCHEZ
+CHANDRA M. SAUNDERS
+JEREMIAH M. SAVALI
+CHRISTOPHER M. SAYLOR
+SAMUEL M. SBALBI
+ANDREW E. SCHEFFEY
+DANA P. SCHMITT
+ADAM T. SCHOLL
+JADE M. SCHROEDER
+JACOB M. SCOTT
+ANGEL L. SERRANO JR
+HESSAMODDIN SHAFEIAN
+JOSEPH L. SMITH
+JOSHUA C. SMITH
+KYLE J. SMITH
+RYAN D. STILLE
+HUNTER D. STOWES
+ALEXANDER G. SULLIVAN
+PARK M. SUSKI
+EVAN C. SWINGHAMER
+EMILY T. SYSKO
+BRANDON W. TAYLOR
+VANESSA R. TAYLOR
+CODY J. TECSON
+RYAN W. THOMAS
+AMANDA L. THRASHER
+LARISSA D. TILLER
+ANDREA L. TOCCO
+PAUL E. TOMEO
+JUSTIN C. TOWNSEND
+ALLEN J. TUNCAP
+ROBERT P. TURLEY
+JEREMY D. TYRRELL
+ELIZABETH M. ULAN
+CAMEO R. ULBRICHT
+THOMAS P. VANDEZANDE
+ASHLEY E. VANSTRATEN
+CHRISTOPHER J. VARRICHIO
+KARLO J. VAZQUEZ
+PHILLIP E. WALKER
+JACOB A. WAWRZYNIAK
+CHRISTOPHER M. WEBER
+TEVIN A. WHITE
+ALEXIS D. WILDE
+JOHN R. WILLIAMS
+RICHARD J. WILLIAMS
+SAMUEL N. WILLIAMS
+JOSEPH G. WINEKE
+DANIEL S. WINTER
+KYLE P. WOOD
+ALLISON M. WRIEDEN
+JACOB O. YALLOWITZ
+MATTHEW G. ZAVALIJ
+
+
+                            FOREIGN SERVICE
+
+       THE FOLLOWING-NAMED CAREER MEMBERS OF THE SENIOR FOREIGN 
+     SERVICE OF THE DEPARTMENT OF STATE FOR PROMOTION WITHIN THE 
+     SENIOR FOREIGN SERVICE OF THE UNITED STATES OF AMERICA, CLASS 
+     OF MINISTER-COUNSELOR:
+CHRISTINA J. AGOR, of New York
+DARION K. AKINS, of Texas
+GEOFFREY J. ANISMAN, of the District of Columbia
+SUSAN E. ASTLEY-CASS, of California
+CHELSEA M.H. BAKKEN, of Virginia
+JOHN A. BALLARD, of Maryland
+MANU BHALLA, of Virginia
+KATELYN S. CHOE, of Florida
+NICHOLAS A. COLLURA, of Florida
+SONATA N. COULTER, of Virginia
+MARTIN A. DALE, of the District of Columbia
+JESSICA L. DAVIS BA, of the District of Columbia
+PETER A. DINOIA, of Virginia
+JULIE A. EADEH, of Virginia
+FIONA SCHOLAND EVANS, of Connecticut
+MARK ROBERT EVANS, of Virginia
+TRESSA R. FINERTY, of the District of Columbia
+JONATHAN S. FISCHER, of Washington
+MICHAEL FLORES, of Virginia
+AARON P. FORSBERG, of Washington
+RALPH A. GASPARD II, of Virginia
+ERIC VINCENT GAUDIOSI, of South Carolina
+JEFFREY G. GIAUQUE, of Virginia
+SILVIO I. GONZALEZ, of Texas
+ROBERT J. GREENAN, of South Dakota
+BRIAN M. GRIMM, of Virginia
+STEPHANIE L. HALLETT, of Virginia
+LESLIE M. HAYDEN, of Virginia
+JAMES DENVER HERREN, of Arkansas
+ANDREW R. HERRUP, of the District of Columbia
+CATHERINE E. HOLT, of California
+JOSHUA R. HUCK, of New York
+SUZANNE M. INZERILLO, of Virginia
+RAHIMA KANDAHARI, of Virginia
+SHERRY C. KENESON-HALL, of Virginia
+JENNIFER R. LITTLEJOHN, of Virginia
+JESSICA PATTERSON LONG, of Virginia
+CHARLES KENT MAY, of Texas
+GREGORY C. MAY, of Virginia
+RICHARD C. MICHAELS, of the District of Columbia
+DAVID JOSE MICO, of Virginia
+SHANTE MOORE, of Florida
+JUNAID M. MUNIR, of Michigan
+KEVIN T. MURAKAMI, of Virginia
+SHANE I. MYERS, of Washington
+PAUL F. NARAIN, of Virginia
+JENNIFER DAVIS PAGUADA, of Virginia
+RICHARD J. PETERSON, of Virginia
+SHANE C. PIERCE, of Virginia
+AMANDA C. PILZ, of California
+JASON P. REBHOLZ, of the District of Columbia
+TRACY E. ROBERTS-POUNDS, of Virginia
+CATHERINE RODRIGUEZ, of Florida
+MICHAEL STUART ROSS, of Maryland
+GREGORY K. SCHIFFER, of Virginia
+MICHAEL B. SCHOOLING, of California
+ANDREW K. SHERR, of Colorado
+WILLIAM B. STEVENS, of Virginia
+ANDREW D. STOWE, of Virginia
+KARIN B. SULLIVAN, of Virginia
+VICTORIA J. TAYLOR, of the District of Columbia
+KEVIN L. WAGGANER, of Missouri
+       THE FOLLOWING-NAMED CAREER MEMBERS OF THE SENIOR FOREIGN 
+     SERVICE OF THE DEPARTMENT OF STATE FOR PROMOTION WITHIN THE 
+     SENIOR FOREIGN SERVICE OF THE UNITED STATES OF AMERICA, CLASS 
+     OF CAREER MINISTER:
+JULIE J. CHUNG, of California
+DERECK J. HOGAN, of Virginia
+JOEY R. HOOD, of Virginia
+LISA A. JOHNSON, of Virginia
+YAEL LEMPERT, of the District of Columbia
+WILLIAM W. POPP, of Virginia
+       THE FOLLOWING-NAMED CAREER MEMBERS OF THE FOREIGN SERVICE 
+     OF THE DEPARTMENT OF STATE FOR PROMOTION INTO THE SENIOR 
+     FOREIGN SERVICE, CLASS OF COUNSELOR:
+ORY S. ABRAMOWICZ, of Illinois
+JAMES D. APPLEGATE, of the District of Columbia
+DAVID RAYMON ATKINSON, of Virginia
+KIMBERLY K. ATKINSON, of South Dakota
+JONATHAN T. AUSTIN, of Minnesota
+ALEXANDER N. AVELALLEMANT, of Texas
+JOSHUA N. BAKER, of Tennessee
+ZOJA D. BAZARNIC, of Arizona
+CARLA A. BENINI, of Washington
+BRETT BLACKSHAW, of Virginia
+SUSAN E. BRIDENSTINE, of Rhode Island
+KAREN L. BRONSON, of Washington
+ROBIN S. BROOKS, of the District of Columbia
+AMY CHRISTINE CARLON, of Virginia
+AMY ANNE CARNIE, of Virginia
+LYRA SHARON CARR, of Nevada
+ERIC CATALFAMO, of the District of Columbia
+JOHN E. CAVENESS, of Texas
+FARAH N. CHERY-MEDOR, of Maryland
+ANN MARIE CHIAPPETTA, of California
+MICHAEL D. CLAUSEN, of the District of Columbia
+MIKAEL CLEVERLEY, of Virginia
+WILLIAM P. COBB, of the District of Columbia
+ROBERT ALLYN COLLINS, of Virginia
+MICHAEL P. CRAGUN, of Oregon
+ROBERTO CUSTODIO, of Florida
+JENNIFER J. DANOVER, of Florida
+HADI K. DEEB, of Maryland
+DION SHANNON DORSEY, of Virginia
+ANA M. DUQUE-HIGGINS, of Virginia
+BRINILLE E. ELLIS, of Florida
+ERIN K. EUSSEN, of Washington
+YURIY R. FEDKIW, of South Dakota
+NATHAN D. FLOOK, of Pennsylvania
+ELIZABETH MARIE FRANOLICH, of Ohio
+ELAINE FRENCH, of New York
+LESLIE D. FRERIKSEN, of Texas
+DANIEL T. FROATS, of Florida
+ADRIENNE M. GALANEK, of New York
+STEVEN G.M. GILLEN, of Virginia
+CHARLES R. GOODMAN III, of Florida
+JOELLEN GORG, of Oregon
+JOHN R. GROCH, of the District of Columbia
+CHRISTOPHER C. GUEST, of Virginia
+HUGO A. GUEVARA, of Virginia
+GABRIELLE J. GUIMOND, of Massachusetts
+JONATHAN A. HABJAN, of Virginia
+ALEXANDER K. HARDIN, of the District of Columbia
+DANIELLE A. HARMS, of Virginia
+RUBEN HARUTUNIAN, of Virginia
+INGA HEEMINK, of Texas
+LANCE K. HEGERLE, of the District of Columbia
+PAUL J. HERMAN, of New York
+JUSTIN HIGGINS, of the District of Columbia
+LAURA L. HOCHLA, of New Mexico
+JEROME P. HOHMAN, of the District of Columbia
+DAVID I. HOPPER, of Pennsylvania
+JESSICA M. F. HUARACAYO, of Maryland
+JULIA I. JACOBY, of the District of Columbia
+JASON DOUGLAS KALBFLEISCH, of Alaska
+JEREMIAH A. KNIGHT, of Connecticut
+KEVIN KREUTNER, of the District of Columbia
+RICHARD N. LARSEN, of Virginia
+LISA S. LIAO, of New York
+GENEVIEVE LIBONATI, of Maryland
+YAGNYA V. LIMAYE, of Nevada
+ADHAM Z. LOUTFI, of California
+HAGEN D. MARONEY, of Rhode Island
+ELLEN BIENSTOCK MASI, of Pennsylvania
+DANIELLE H. MONOSSON, of Virginia
+EDWARD J. MONSTER, of Virginia
+KRISTIAN G. MOORE, of Vermont
+CHARLES H. MORRILL, of Maine
+JAMES M. MORRIS, of the District of Columbia
+SIRIANA K. NAIR, of the District of Columbia
+NICHOLAS S. NAMBA, of Virginia
+JENIFER LYNN NEIDHART DE ORTIZ, of Florida
+AARON A. NUUTINEN, of Virginia
+DOUGLAS S. O'NEILL, of Virginia
+ADEDEJI E. OKEDIJI, of the District of Columbia
+NICOLE I. OTALLAH, of Virginia
+KARI A. PAETZOLD, of Virginia
+ROBERT C. PALMER, of California
+JOHN B. PARKER, of Maryland
+LEAH M. PEASE, of Virginia
+RAFAEL A. PEREZ, of Virginia
+JAY R. RAMAN, of Virginia
+CHRISTOPHER R. REYNOLDS, of Virginia
+STEVEN BAILEY ROYSTER, of Virginia
+ERIN A. SAWYER, of Maryland
+JULIE M. SCHOHN, of Maryland
+GREGORY J. SHAW, of Virginia
+JOHN H. SILSON, of the District of Columbia
+CHRISTOPHER K. SNIPES, of California
+JONAS D. STEWART, of Washington
+KRISTIN M. STEWART, of Virginia
+RICHARD E. SWART III, of Maryland
+MELISSA A. SWEENEY, of Washington
+CATHERINE E. SWEET, of Maryland
+ZIA S. SYED, of Texas
+MICHAEL P. TAYLOR, of Virginia
+ERICA NICOLE THIBAULT, of the District of Columbia
+NATHANIEL TURNER, of Maryland
+ANNY LAM VU, of the District of Columbia
+JONATHAN K. WEBSTER, of Virginia
+TODD R. WHATLEY, of Minnesota
+DEBORAH D. WINTERS, of Virginia
+DAVID G. WISNER, of the District of Columbia
+SCOTT E. WOODARD, of Virginia
+JENNIFER YANG, of California
+SARA S. YUN, of Virginia
+ELISABETH F. ZENTOS, of Virginia
+       THE FOLLOWING-NAMED CAREER MEMBERS OF THE FOREIGN SERVICE 
+     FOR PROMOTION INTO THE SENIOR FOREIGN SERVICE, CLASS OF 
+     COUNSELOR, AND A FOREIGN SERVICE OFFICER, A CONSULAR OFFICER, 
+     AND A SECRETARY IN THE DIPLOMATIC SERVICE OF THE UNITED 
+     STATES OF AMERICA:
+ALEXANDRA STEPHANIE AITKEN, of Virginia
+GREGORY C. BATMAN, of Texas
+CHRISTOPHER R. BELMONTI, of Virginia
+BARRETT J. BISHOP, of Virginia
+RYAN M. BOERA, of Virginia
+DAVID J. BRIGHT, of Maryland
+RODNEY D. BURNEY, of Florida
+JOHN BUSH, of Virginia
+PETER CHORDAS, of California
+PAUL A. COMFORTI, of Virginia
+SILVIA MARIA DIPAOLO-SINGH, of Virginia
+JACQUELINE FIELDS, of Florida
+PAMELA E. GANZ, of Washington
+ZACHARY N. GERNES, of Wisconsin
+BARRY S. HALE, of Texas
+DAVID F. HAYDTER, of Virginia
+DANIEL P. HESS, of Florida
+MEREDITH S. HIEMSTRA, of Virginia
+NORIKO HORIUCHI, of Virginia
+WAGIH H. IBRAHIM, of South Carolina
+SCOTT P. KIM, of Virginia
+MARGARET C. KOSNAR, of Montana
+TIMOTHY P. LEEDS, of Virginia
+UMMI M. MYELLE, of Virginia
+JUSTIN L. NICHOLSON, of Virginia
+DAVID M. RICHESON, of Virginia
+MICHAEL EDWARD RUDISILE, of Oregon
+GREGORY EUGENE SANFORD, of Texas
+CATHERINE GENNINGS SAXBE, of Massachusetts
+JAIME R. SCARPATTI, of Florida
+DAVID R. SHAMBER, of Virginia
+DANIEL J. SMITH, of Kentucky
+CORYNN L. STRATTON, of Florida
+KEVIN G. TEHAN, of Virginia
+DANIEL J. WILHELM, of Maryland
+MICHAEL B. WOFFORD, of Texas
+
+                          ____________________
+```
