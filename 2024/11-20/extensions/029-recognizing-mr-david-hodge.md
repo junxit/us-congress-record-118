@@ -1,0 +1,68 @@
+---
+granule: CREC-2024-11-20-pt1-PgE1178-3
+date: 2024-11-20
+edition: CREC
+section: EXTENSIONS
+page: E1178
+citation: 170 Cong. Rec. E1178
+---
+
+# RECOGNIZING MR. DAVID HODGE
+
+**Speaking:** Valadao, David G. (V000129) [R-CA]
+
+```
+                      RECOGNIZING MR. DAVID HODGE
+
+                                 ______
+                                 
+
+                         HON. DAVID G. VALADAO
+
+                             of california
+
+                    in the house of representatives
+
+                      Wednesday, November 20, 2024
+
+  Mr. VALADAO. Mr. Speaker, I rise today to recognize Mr. David Hodge 
+for his dedicated service to the Tulare County community and to 
+congratulate him on his retirement from Tulare Western High School. Mr. 
+Hodge attended the College of the Sequoias before earning his Bachelor 
+of Arts in Physical Education from Fresno State University. During his 
+time at Fresno State, he was a member of the Water Polo team and served 
+as captain of the Swim team his senior year. Mr. Hodge's career in 
+education and passion for student success began in 1993, when he joined 
+Tulare Western High School. Six years later, he received the Staff 
+Yearbook Dedication, recognizing his dedication as an educator and the 
+meaningful connections he made with students. Throughout his tenure, 
+Mr. Hodge has taken on many important roles at Tulare Western, 
+including physical education teacher and head coach of the Varsity Boys 
+Water Polo and Swim teams. In 2020, he was appointed Department Chair 
+of the Physical Education Department. For over thirty years, Mr. Hodge 
+has had a profound impact on students at Tulare Western High School. As 
+both a teacher and a coach, he has dedicated himself to developing the 
+character and leadership skills of all his students. He is known by 
+colleagues as a strong leader and mentor who always puts his students 
+first. Mr. Hodge has received numerous awards throughout his career, 
+including Visalia Times Delta Swim Coach of the Year in 2015 and 
+California Interscholastic Federation (CIF) Central Section Division 3 
+Swim and Water Polo Coach of the Year in 2019. This year, he is 
+nominated for the CIF State Model Coach Award, which recognizes coaches 
+who demonstrate a longstanding commitment to fostering students' 
+potential. One of his greatest accomplishments is the success of his 
+sons, Austin and Daven, both of whom attended Tulare Western and played 
+key roles in the water polo team's championship victory during their 
+time as students. It is because of the commitment of educators like Mr. 
+Hodge that students in the Central Valley community thrive, and I want 
+to thank Mr. Hodge for creating an environment that helps our youth 
+become the best they can be. His dedication to the students at Tulare 
+Western High School is a true testament to his character, and I am 
+confident that his leadership will have a lasting impact on the Tulare 
+Western community for years to come. Mr. Speaker, I ask my colleagues 
+in the House of Representatives to join me in thanking Mr. David Hodge 
+for his decades of service to the Central Valley and wishing him a 
+happy and well-deserved retirement.
+
+                          ____________________
+```
