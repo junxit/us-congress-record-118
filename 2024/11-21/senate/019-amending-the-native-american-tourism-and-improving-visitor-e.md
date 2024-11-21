@@ -1,0 +1,17 @@
+---
+granule: CREC-2024-11-21-pt1-PgS6703-2
+date: 2024-11-21
+edition: CREC
+section: SENATE
+page: S6703
+citation: 170 Cong. Rec. S6703
+---
+
+# AMENDING THE NATIVE AMERICAN TOURISM AND IMPROVING VISITOR EXPERIENCE ACT
+
+```
+ AMENDING THE NATIVE AMERICAN TOURISM AND IMPROVING VISITOR EXPERIENCE 
+ACT
+
+                          ____________________
+```
