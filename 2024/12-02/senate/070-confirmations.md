@@ -1,0 +1,46 @@
+---
+granule: CREC-2024-12-02-pt1-PgS6761
+date: 2024-12-02
+edition: CREC
+section: SENATE
+page: S6761
+citation: 170 Cong. Rec. S6761
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate December 2, 2024:
+
+
+                             THE JUDICIARY
+
+       BRIAN EDWARD MURPHY, OF MASSACHUSETTS, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE DISTRICT OF MASSACHUSETTS.
+       ANNE HWANG, OF CALIFORNIA, TO BE UNITED STATES DISTRICT 
+     JUDGE FOR THE CENTRAL DISTRICT OF CALIFORNIA.
+
+
+                              IN THE ARMY
+
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES ARMY TO THE GRADE INDICATED WHILE ASSIGNED TO A 
+     POSITION OF IMPORTANCE AND RESPONSIBILITY UNDER TITLE 10, 
+     U.S.C., SECTION 601:
+
+                        To be lieutenant general
+
+MAJ. GEN. ALLAN M. PEPIN
+       THE FOLLOWING NAMED OFFICER FOR APPOINTMENT IN THE UNITED 
+     STATES ARMY TO THE GRADE INDICATED WHILE ASSIGNED TO A 
+     POSITION OF IMPORTANCE AND RESPONSIBILITY UNDER TITLE 10, 
+     U.S.C., SECTION 601:
+
+                             To be general
+
+LT. GEN. CHRISTOPHER T. DONAHUE
+
+                          ____________________
+```
