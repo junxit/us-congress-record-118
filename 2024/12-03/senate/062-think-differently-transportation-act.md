@@ -1,0 +1,100 @@
+---
+granule: CREC-2024-12-03-pt1-PgS6788
+date: 2024-12-03
+edition: CREC
+section: SENATE
+page: S6788
+citation: 170 Cong. Rec. S6788
+---
+
+# THINK DIFFERENTLY TRANSPORTATION ACT
+
+**Speaking:** Schumer, Charles E. (S000148) [D-NY]
+
+**Measures:** S. 4107
+
+```
+                  THINK DIFFERENTLY TRANSPORTATION ACT
+
+  Mr. SCHUMER. Mr. President, I ask unanimous consent that the Senate 
+proceed to the immediate consideration of Calendar No. 485, S. 4107.
+  The PRESIDING OFFICER. The clerk will report the bill by title.
+  The senior assistant legislative clerk read as follows:
+
+       A bill (S. 4107) to require Amtrak to report to Congress 
+     information on Amtrak compliance with the Americans with 
+     Disabilities Act of 1990 with respect to trains and stations.
+
+  There being no objection, the Senate proceeded to consider the bill, 
+which had been reported from the Committee on Commerce, Science, and 
+Transportation, with an amendment to strike out all after the enacting 
+clause and insert the part printed in italic as follows:
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Think Differently 
+     Transportation Act''.
+
+     SEC. 2. REPORT ON AMTRAK ADA COMPLIANCE.
+
+       Section 24315(b) of title 49, United States Code, is 
+     amended--
+       (1) in paragraph (1)--
+       (A) in subparagraph (B), by striking ``and'' at the end;
+       (B) in subparagraph (C), by striking the period at the end 
+     and inserting a semicolon; and
+       (C) by adding at the end the following:
+       ``(D) shall include an action plan for bringing Amtrak-
+     served stations that are not in compliance with the Americans 
+     with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.) into 
+     compliance with such Act, as required by the settlement 
+     agreement entered into in 2020 between Amtrak and the 
+     Department of Justice;
+       ``(E) shall include a status report on--
+       ``(i) Amtrak-served stations for which Amtrak is solely 
+     responsible for compliance with such Act based on a station 
+     assessment carried out by Amtrak, including a timeline for 
+     any required compliance with such Act, as required by the 
+     settlement agreement;
+       ``(ii) Amtrak-served stations for which Amtrak has a shared 
+     responsibility for compliance with such Act based on a 
+     station assessment carried out by Amtrak or by the party 
+     responsible for such compliance, including a timeline for any 
+     required compliance with such Act for the portions of the 
+     station for which Amtrak is the responsible party consistent 
+     with the terms of the settlement agreement, identifying who 
+     is responsible for compliance (and the status of the 
+     compliance of each responsible party with such Act) for such 
+     portions and the timeline for compliance in cases in which 
+     Amtrak is not the responsible party; and
+       ``(iii) the status of compliance with such Act for all 
+     Amtrak-served stations for which Amtrak is not the 
+     responsible party, nor is responsible for a portion of the 
+     station, and identify the entity or entities that have 
+     responsibility for compliance with such Act, based on a 
+     station assessment carried out by Amtrak or the party 
+     responsible under such Act.''; and
+       (2) by adding at the end the following:
+       ``(3) Amtrak may meet the requirements described in clauses 
+     (ii) and (iii) of paragraph (1)(E) by demonstrating that 
+     Amtrak took reasonable measures to obtain cooperation from 
+     responsible entities.
+       ``(4) Amtrak shall submit the action plan and status report 
+     required under subparagraphs (D) and (E) of paragraph (1)--
+       ``(A) annually while the settlement agreement referred to 
+     in paragraph (1)(D) is in effect; and
+       ``(B) every 5 years beginning on the first day the 
+     settlement is no longer in effect.''.
+
+  Mr. SCHUMER. I further ask that the committee-reported substitute 
+amendment be agreed to; that the bill, as amended, be considered read a 
+third time and passed; and that the motion to reconsider be considered 
+made and laid upon the table with no intervening action or debate.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The committee-reported amendment, in the nature of a substitute, was 
+agreed to.
+  The bill (S. 4107), as amended, was ordered to be engrossed for a 
+third reading, was read the third time, and passed.
+
+                          ____________________
+```
