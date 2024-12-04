@@ -1,0 +1,50 @@
+---
+granule: CREC-2024-12-04-pt1-PgE1223-2
+date: 2024-12-04
+edition: CREC
+section: EXTENSIONS
+page: E1223
+citation: 170 Cong. Rec. E1223
+---
+
+# HONORING DEPUTY SHERIFF JAHMAR ROBINSON
+
+**Speaking:** Frankel, Lois (F000462) [D-FL]
+
+```
+                HONORING DEPUTY SHERIFF JAHMAR ROBINSON
+
+                                 ______
+                                 
+
+                           HON. LOIS FRANKEL
+
+                               of florida
+
+                    in the house of representatives
+
+                      Wednesday, December 4, 2024
+
+  Ms. LOIS FRANKEL of Florida. Mr. Speaker, I rise today to honor Palm 
+Beach County Sheriff's Office (PBSO) Deputy Sheriff Jahmar Robinson, a 
+diligent public servant, to congratulate him on being named the Field 
+Operations Awardee at the 7th Annual Attorney General Awards for 
+Distinguished Service in Policing. During his time with PBSO, Deputy 
+Robinson has become a trusted presence and role model in the community.
+  Deputy Robinson's knowledge of the County and its residents has 
+prevented potential violent cnmes before they happen and has allowed 
+him to respond effectively when incidents arise. He serves our local 
+residents through community-oriented practices in policing, while 
+combating crime and decreasing recidivism.
+  Deputy Robinson serves as a positive role model for at-risk youth, 
+and his work goes above and beyond crime prevention and response. From 
+facilitating outreach to local schools to connecting local residents to 
+childcare resources and domestic violence crisis resources, his 
+dedication to enhancing safety and fostering civilian relationships has 
+lasting impacts on building a safer and more connected community.
+  Jahmar's dedication to public safety and his service to the people of 
+Palm Beach County is truly admirable. I am proud to celebrate him today 
+and wish him continued success.
+
+                          ____________________
+```
