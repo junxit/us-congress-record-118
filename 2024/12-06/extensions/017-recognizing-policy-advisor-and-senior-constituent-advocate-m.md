@@ -1,0 +1,77 @@
+---
+granule: CREC-2024-12-06-pt1-PgE1235
+date: 2024-12-06
+edition: CREC
+section: EXTENSIONS
+page: E1235
+citation: 170 Cong. Rec. E1235
+---
+
+# RECOGNIZING POLICY ADVISOR AND SENIOR CONSTITUENT ADVOCATE, MEG MONTGOMERY, FOR HER EXCELLENT WORK ON BEHALF OF MINNESOTA'S THIRD CONGRESSIONAL DISTRICT
+
+**Speaking:** Phillips, Dean (P000616) [D-MN]
+
+```
+    RECOGNIZING POLICY ADVISOR AND SENIOR CONSTITUENT ADVOCATE, MEG 
+   MONTGOMERY, FOR HER EXCELLENT WORK ON BEHALF OF MINNESOTA'S THIRD 
+                         CONGRESSIONAL DISTRICT
+
+                                 ______
+                                 
+
+                           HON. DEAN PHILLIPS
+
+                              of minnesota
+
+                    in the house of representatives
+
+                        Friday, December 6, 2024
+
+  Mr. PHILLIPS. Mr Speaker, I rise today to recognize my Policy Advisor 
+and Senior Constituent Advocate, Meg Montgomery, for her work on behalf 
+of every constituent in Minnesota's Third Congressional District. I 
+could not be more proud or grateful for her service.
+  Meg Montgomery was raised in Minnesota's Third Congressional 
+District. After graduating from Robbinsdale Armstrong High School, she 
+moved to North Carolina to attend Duke University where she obtained 
+both a degree in Biology and the ability to be completely insufferable 
+during March Madness. Meg spent a decade to New York, NY where she 
+completed her Masters in Public Health and worked in a variety of 
+health systems administration roles. Eventually she returned to 
+Minnesota and began working for me in March of 2019, where she has 
+covered both outreach and legislative activities in a variety of issue 
+areas including healthcare, environment, energy, agriculture, aging, 
+and education. The only things Meg loves more than health policy are 
+her husband Dan and three children Rory, Montgomery (Monty), and 
+Frances Miller.
+  As hilarious as she is brilliant, Meg always has a meme at the ready 
+for any, and all situations. Her quiet wit and good questions always 
+leave an impact on those around her. She provides invaluable advice on 
+any situation and has the best style around. Meg is incredibly humble 
+but should be so proud of her work in my office. She has helped me 
+introduce several bills including: The ADINA Act requiring the same 
+labeling standards for drugs as those that already exist for food; The 
+School Access to Naloxone Act which would provide funding for and 
+training on opioid reversal agents in schools; and The Expanding Health 
+Care Options for First Responders Act which would create a Medicare 
+buy-in program for first responders for the years between retirement 
+and Medicare eligibility.
+  Meg has an extraordinary talent of turning a compelling constituent 
+story into impactful legislation that will improve lives. She has 
+created a unique role for herself serving as a policy and outreach 
+staffer from the district office, which allows her the opportunity to 
+leverage deep stakeholder relationships in older to inform the 
+Congressman's legislative initiatives. Learning the legislative process 
+while in the DC office is one thing, handling from the district is 
+another matter. Meg is a bridge builder across various constituent 
+groups to gather perspectives and gain valuable knowledge. She 
+routinely guides me and our team through complex policy issues to make 
+informed decisions. She is an excellent representative of me in the 
+community and a trusted and high-performing team member.
+  The people of Minnesota's Third Congiessional District were lucky to 
+have her dedication and leadership, and she will be dearly missed. I 
+wish Meg all the best in her future endeavors and thank her for over 
+five years of faithful set vice to this Nation in my office.
+
+                          ____________________
+```
