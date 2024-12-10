@@ -1,0 +1,24 @@
+---
+granule: CREC-2024-12-10-pt1-PgS6939-4
+date: 2024-12-10
+edition: CREC
+section: SENATE
+page: S6939
+citation: 170 Cong. Rec. S6939
+---
+
+# CONFIRMATIONS
+
+```
+                             CONFIRMATIONS
+
+  Executive nominations confirmed by the Senate December 10, 2024:
+
+
+                             THE JUDICIARY
+
+       CYNTHIA VALENZUELA DIXON, OF CALIFORNIA, TO BE UNITED 
+     STATES DISTRICT JUDGE FOR THE CENTRAL DISTRICT OF CALIFORNIA.
+       KELI MARIE NEARY, OF PENNSYLVANIA, TO BE UNITED STATES 
+     DISTRICT JUDGE FOR THE MIDDLE DISTRICT OF PENNSYLVANIA.
+```

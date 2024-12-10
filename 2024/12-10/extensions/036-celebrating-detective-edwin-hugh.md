@@ -1,0 +1,57 @@
+---
+granule: CREC-2024-12-10-pt1-PgE1252-3
+date: 2024-12-10
+edition: CREC
+section: EXTENSIONS
+page: E1252
+citation: 170 Cong. Rec. E1252
+---
+
+# CELEBRATING DETECTIVE EDWIN HUGH
+
+**Speaking:** LaLota, Nick (L000598) [R-NY]
+
+```
+                    CELEBRATING DETECTIVE EDWIN HUGH
+
+                                 ______
+                                 
+
+                            HON. NICK LaLOTA
+
+                              of new york
+
+                    in the house of representatives
+
+                       Tuesday, December 10, 2024
+
+  Mr. LaLOTA. Mr. Speaker, today, I rise to celebrate Detective Edwin 
+Hugh of the Suffolk County Police Department, who has been honored with 
+the 7th Annual U.S. Attorney General's Award for Distinguished Service 
+in Community Policing. This prestigious recognition highlights 
+Detective Hugh's outstanding contributions to community safety and his 
+unwavering commitment to making Suffolk County a better place to live. 
+His achievements exemplify the core values of law enforcement: 
+integrity, dedication, and an unrelenting drive to protect and serve.
+  Detective Hugh has proven himself to be a leader in law enforcement, 
+building trust with residents and strengthening public safety across 
+Suffolk County. Whether pursuing justice for victims of crime or 
+engaging directly with the community to foster partnerships, Detective 
+Hugh consistently goes above and beyond the call of duty. Suffolk 
+County is a safer place because of Detective Hugh's hard work and 
+steadfast dedication to better our communities.
+  His efforts to combat crime, reduce harm, and improve the lives of 
+residents reflect his dedication not only to the badge he wears but 
+also to the people he serves. He understands that effective policing is 
+not just about enforcing laws--it is about creating an environment 
+where families feel secure, businesses can thrive, and communities can 
+flourish.
+  On behalf of the people of Suffolk County and the 1st Congressional 
+District of New York, I extend my sincere congratulations to Detective 
+Edwin Hugh and my heartfelt gratitude for his exceptional service. His 
+work serves as a model for law enforcement professionals across the 
+country, and his contributions to Suffolk County are a source of pride 
+for us all.
+
+                          ____________________
+```
