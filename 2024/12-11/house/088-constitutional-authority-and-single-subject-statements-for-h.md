@@ -1,0 +1,28 @@
+---
+granule: CREC-2024-12-11-pt1-PgH7112
+date: 2024-12-11
+edition: CREC
+section: HOUSE
+page: H7112
+citation: 170 Cong. Rec. H7112
+---
+
+# Constitutional Authority and Single Subject Statements for H.R. 10358
+
+**Measures:** H.R. 10358
+
+```
+           By Mr. CASTRO of Texas:
+       H.R. 10358.
+       Congress has the power to enact this legislation pursuant 
+     to the following:
+       Congressman Joaquin Castro
+       Constitutional Authority--Necessary and Proper Clause (Art. 
+     I, Sec. 8, Clause 18)
+       THE U.S. CONSTITUTION ARTICLE I, SECTION 8. POWERS OF 
+     CONGRESS CLAUSE 18
+       The Congress shall have power . . . To make all laws which 
+     shall be necessary and proper for
+       The single subject of this legislation is:
+       Foreign Affairs Administration
+```
