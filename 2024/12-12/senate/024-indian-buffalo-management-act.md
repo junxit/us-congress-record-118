@@ -1,0 +1,449 @@
+---
+granule: CREC-2024-12-12-pt1-PgS6992-2
+date: 2024-12-12
+edition: CREC
+section: SENATE
+page: S6992
+citation: 170 Cong. Rec. S6992
+---
+
+# INDIAN BUFFALO MANAGEMENT ACT
+
+**Speaking:** Schatz, Brian (S001194) [D-HI]
+
+**Measures:** S. 2908
+
+```
+                     INDIAN BUFFALO MANAGEMENT ACT
+
+  Mr. SCHATZ. Mr. President, as if in legislative session, I ask 
+unanimous consent that the Senate proceed to the immediate 
+consideration of Calendar No. 561, S. 2908.
+  The PRESIDING OFFICER. The clerk will report the bill by title.
+  The senior assistant legislative clerk read as follows:
+
+       A bill (S. 2908) to assist Tribal governments in the 
+     management of buffalo and buffalo habitat and the 
+     reestablishment of buffalo on Indian land.
+
+  There being no objection, the Senate proceeded to consider the bill 
+which had been reported from the Committee on Indian Affairs with 
+amendments as follows:
+  (The parts of the bill intended to be stricken are in boldface 
+brackets, and the parts of the bill intended to be inserted are in 
+italics.)
+
+                                S. 2908
+
+       Be it enacted by the Senate and House of Representatives of 
+     the United States of America in Congress assembled,
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Indian Buffalo Management 
+     Act''.
+
+     SEC. 2. FINDINGS; PURPOSES.
+
+       (a) Findings.--Congress finds that--
+       (1) buffalo sustained a majority of Indian Tribes in North 
+     America for many centuries before buffalo were nearly 
+     exterminated by non-Indian hunters in the mid-1800s;
+       (2) the historical, cultural, and spiritual connection 
+     between buffalo and Indian Tribes has not diminished over 
+     time;
+       (3) Indian Tribes have long desired the reestablishment of 
+     buffalo throughout Indian country for cultural, spiritual, 
+     and subsistence purposes; and
+       (4) the successful restoration of buffalo would allow an 
+     Indian Tribe to benefit from--
+       (A) the reintroduction of buffalo into the diets of the 
+     members of the Indian Tribe;
+       (B) the rekindling of the spiritual and cultural 
+     relationship between buffalo and the Indian Tribe; and
+       (C) the use of buffalo for economic development, in the 
+     case of an Indian Tribe that chooses to use buffalo for 
+     economic development.
+       (b) Purposes.--The purposes of this Act are--
+       (1) to fulfill the government-to-government relationship 
+     between Tribal governments and the United States in the 
+     management of buffalo and buffalo habitat;
+       (2) to promote and develop the capacity of Indian Tribes 
+     and Tribal organizations to manage buffalo and buffalo 
+     habitat;
+       (3) to protect, conserve, and enhance buffalo, which are 
+     important to the subsistence, culture, and economic 
+     development of many Indian Tribes;
+       (4) to promote the development and use of buffalo and 
+     buffalo habitat for the maximum practicable benefit of Indian 
+     Tribes and Tribal organizations, through management of 
+     buffalo and buffalo habitats in accordance with integrated 
+     resource management plans developed by Indian Tribes and 
+     Tribal organizations;
+       (5) to develop buffalo herds and increase production of 
+     buffalo in order to meet Tribal subsistence, health, 
+     cultural, and economic development needs; and
+       (6) to promote the inclusion of Indian Tribes and Tribal 
+     organizations in Department of the Interior, local, regional, 
+     national, or international--
+       (A) decision-making processes; and
+       (B) forums.
+
+     SEC. 3. DEFINITIONS.
+
+       In this Act:
+       (1) Buffalo.--The term ``buffalo'' means an animal of the 
+     subspecies Bison bison bison.
+       (2) Buffalo habitat.--The term ``buffalo habitat'' means 
+     Indian land that is managed for buffalo.
+       (3) Department.--The term ``Department'' means the 
+     Department of the Interior.
+       (4) Indian land.--The term ``Indian land'' has the meaning 
+     given the term in paragraph (2) of section 2601 of the Energy 
+     Policy Act of 1992 (25 U.S.C. 3501), except that, in that 
+     paragraph, the term ``Indian reservation'' shall be 
+     considered to have the meaning given the term ``Indian 
+     reservation'' in paragraph (3) of that section, without 
+     regard to the date specified in paragraph (3) of that 
+     section.
+       (5) Indian tribe.--The term ``Indian Tribe'' has the 
+     meaning given the term in section 4 of the Indian Self-
+     Determination and Education Assistance Act (25 U.S.C. 5304).
+       (6) Secretary.--The term ``Secretary'' means the Secretary 
+     of the Interior.
+       [(7) Tribal organization.--The term ``Tribal organization'' 
+     means a legally established organization of Indians that is 
+     chartered under section 17 of the Act of June 18, 1934 
+     (commonly known as the ``Indian Reorganization Act'') (25 
+     U.S.C. 5124) with demonstrable experience in the restoration 
+     of buffalo and buffalo habitat on Indian land.]
+       (7) Tribal organization.--The term ``Tribal organization'' 
+     means any legally established organization of Indians that--
+       (A)(i) is chartered under section 17 of the Act of June 18, 
+     1934, (commonly known as the ``Indian Reorganization Act''; 
+     25 U.S.C. 5124) and recognized by the governing body of one 
+     or more Indian Tribes; or
+       (ii) is a Tribal corporation federally chartered under 
+     section 3 of the Oklahoma Indian Welfare Act (25 U.S.C. 
+     5203); and
+       (B) has demonstrable experience in the restoration of 
+     buffalo and buffalo habitat on Indian land.
+
+     SEC. 4. BUFFALO RESOURCE MANAGEMENT.
+
+       (a) Program Established.--The Secretary shall establish a 
+     permanent program within the Department for the purposes of--
+       (1) promoting and developing the capacity of Indian Tribes 
+     and Tribal organizations to manage buffalo and buffalo 
+     habitat;
+       (2) promoting the ability of Indian Tribes and Tribal 
+     organizations to protect, conserve, and enhance populations 
+     of buffalo that are owned by Indian Tribes or Tribal 
+     organizations;
+       (3) promoting the development and use of buffalo and 
+     buffalo habitat for the maximum practicable benefit of Indian 
+     Tribes and Tribal organizations; and
+       (4) promoting the inclusion of Indian Tribes and Tribal 
+     organizations in Department, international, national, 
+     regional, and local decision making and forums regarding 
+     buffalo and buffalo habitat.
+       (b) Contracts and Grants Authorized.--
+       (1) In general.--The Secretary shall enter into contracts 
+     and cooperative agreements with, and award grants to, Indian 
+     Tribes and Tribal organizations to enable the Indian Tribes 
+     and Tribal organizations--
+
+[[Page S6993]]
+
+       (A) to plan, conduct, or implement a buffalo restoration or 
+     management program;
+       (B) to plan and execute commercial activities related to 
+     buffalo or buffalo products; [or]
+       (C) to support the use and deployment of mobile Tribal or 
+     Tribal organization meat processing facilities; or
+       [(C)](D) to carry out other activities relating to buffalo 
+     restoration and management.
+       (2) No diminishment of laws and regulations.--Nothing in 
+     this subsection diminishes any Federal or State law 
+     (including regulations) regarding diseased buffalo or buffalo 
+     that escape from Indian land.
+       (c) Technical Assistance.--The Secretary shall provide 
+     technical assistance to an Indian Tribe or Tribal 
+     organization that enters into a contract or cooperative 
+     agreement or receives a grant under this section to assist 
+     the Indian Tribe or Tribal organization in--
+       (1) carrying out the activities of a buffalo or buffalo 
+     habitat restoration or management program; and
+       (2) implementing the activities described in subparagraphs 
+     (A) through [(C)] (D) of subsection (b)(1).
+
+     SEC. 5. CONSULTATION; COORDINATION.
+
+       (a) Consultation.--Not later than 1 year after the date of 
+     enactment of this Act, and on an ongoing basis thereafter, 
+     the Secretary shall consult with Indian Tribes and Tribal 
+     organizations on initiatives of the Department that affect 
+     buffalo or buffalo habitat, including efforts of the 
+     Department to contain or eradicate diseased buffalo.
+       (b) Coordination.--The Secretary shall develop a policy 
+     relating to buffalo and buffalo habitat management activities 
+     on Indian land, in accordance with--
+       (1) the goals and objectives described in buffalo 
+     management programs approved by Indian Tribes; and
+       (2) Tribal laws and ordinances.
+
+     SEC. 6. PROTECTION OF INFORMATION.
+
+       Notwithstanding any other provision of law, the Secretary 
+     shall not disclose or cause to be disclosed any information 
+     provided to the Secretary by an Indian Tribe or Tribal 
+     organization that is identified by the Indian Tribe or Tribal 
+     organization as culturally sensitive, proprietary, or 
+     otherwise confidential.
+
+     SEC. 7. BUFFALO FROM FEDERAL LAND.
+
+       (a) In General.--The Secretary may enter into an agreement 
+     with an Indian Tribe or Tribal organization to dispose of 
+     surplus buffalo on Federal land administered by the 
+     Department, as applicable, by transporting such buffalo onto 
+     Indian land.
+       (b) Application.--An Indian Tribe or Tribal organization 
+     may submit to the Secretary an application to receive buffalo 
+     described in subsection (a) at such time, in such manner, and 
+     containing such information as the Secretary may require.
+       (c) Waiver of Charges.--The Secretary may waive any charges 
+     for the buffalo described in subsection (a), including any 
+     deposit or payment for services as described in section 10.2 
+     of title 36, Code of Federal Regulations (or any successor 
+     regulation).
+
+     SEC. 8. TREATY RIGHTS RETAINED.
+
+       Nothing in this Act alters, modifies, diminishes, or 
+     extinguishes the treaty rights of any Indian Tribe.
+
+     SEC. 9. AUTHORIZATION OF APPROPRIATIONS.
+
+       There is authorized to be appropriated to the Secretary to 
+     carry out this Act $14,000,000 for fiscal year 2024 and each 
+     fiscal year thereafter.
+
+  Mr. SCHATZ. Mr. President, I ask unanimous consent that the 
+committee-reported amendments be withdrawn; that the Heinrich 
+substitute amendment at the desk be considered and agreed to; and that 
+the bill, as amended, be considered read a third time.
+  The PRESIDING OFFICER. Without objection, it is so ordered.
+  The committee-reported amendments were withdrawn.
+  The amendment (No. 3324), in the nature of a substitute, was agreed 
+to as follows:
+
+                (Purpose: In the nature of a substitute)
+
+        Strike all after the enacting clause and insert the 
+     following:
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``Indian Buffalo Management 
+     Act''.
+
+     SEC. 2. FINDINGS; PURPOSES.
+
+       (a) Findings.--Congress finds that--
+       (1) buffalo sustained a majority of Indian Tribes in North 
+     America for many centuries before buffalo were nearly 
+     exterminated by non-Indian hunters in the mid-1800s;
+       (2) the historical, cultural, and spiritual connection 
+     between buffalo and Indian Tribes has not diminished over 
+     time;
+       (3) Indian Tribes have long desired the reestablishment of 
+     buffalo throughout Indian country for cultural, spiritual, 
+     and subsistence purposes; and
+       (4) the successful restoration of buffalo would allow an 
+     Indian Tribe to benefit from--
+       (A) the reintroduction of buffalo into the diets of the 
+     members of the Indian Tribe;
+       (B) the rekindling of the spiritual and cultural 
+     relationship between buffalo and the Indian Tribe; and
+       (C) the use of buffalo for economic development, in the 
+     case of an Indian Tribe that chooses to use buffalo for 
+     economic development.
+       (b) Purposes.--The purposes of this Act are--
+       (1) to fulfill the government-to-government relationship 
+     between Tribal governments and the United States in the 
+     management of buffalo and buffalo habitat;
+       (2) to promote and develop the capacity of Indian Tribes 
+     and Tribal organizations to manage buffalo and buffalo 
+     habitat;
+       (3) to protect, conserve, and enhance buffalo, which are 
+     important to the subsistence, culture, and economic 
+     development of many Indian Tribes;
+       (4) to promote the development and use of buffalo and 
+     buffalo habitat for the maximum practicable benefit of Indian 
+     Tribes and Tribal organizations, through management of 
+     buffalo and buffalo habitats in accordance with integrated 
+     resource management plans developed by Indian Tribes and 
+     Tribal organizations;
+       (5) to develop buffalo herds and increase production of 
+     buffalo in order to meet Tribal subsistence, health, 
+     cultural, and economic development needs; and
+       (6) to promote the inclusion of Indian Tribes and Tribal 
+     organizations in Department of the Interior, local, regional, 
+     national, or international--
+       (A) decision-making processes; and
+       (B) forums.
+
+     SEC. 3. DEFINITIONS.
+
+       In this Act:
+       (1) Buffalo.--The term ``buffalo'' means an animal of the 
+     subspecies Bison bison bison.
+       (2) Buffalo habitat.--The term ``buffalo habitat'' means 
+     Indian land that is managed for buffalo.
+       (3) Department.--The term ``Department'' means the 
+     Department of the Interior.
+       (4) Indian land.--The term ``Indian land'' has the meaning 
+     given the term in paragraph (2) of section 2601 of the Energy 
+     Policy Act of 1992 (25 U.S.C. 3501), except that, in that 
+     paragraph, the term ``Indian reservation'' shall be 
+     considered to have the meaning given the term ``Indian 
+     reservation'' in paragraph (3) of that section, without 
+     regard to the date specified in paragraph (3) of that 
+     section.
+       (5) Indian tribe.--The term ``Indian Tribe'' has the 
+     meaning given the term in section 4 of the Indian Self-
+     Determination and Education Assistance Act (25 U.S.C. 5304).
+       (6) Secretary.--The term ``Secretary'' means the Secretary 
+     of the Interior.
+       (7) Tribal organization.--The term ``Tribal organization'' 
+     means any legally established organization of Indians that--
+       (A)(i) is chartered under section 17 of the Act of June 18, 
+     1934, (commonly known as the ``Indian Reorganization Act''; 
+     25 U.S.C. 5124) and recognized by the governing body of one 
+     or more Indian Tribes; or
+       (ii) is a Tribal corporation federally chartered under 
+     section 3 of the Oklahoma Indian Welfare Act (25 U.S.C. 
+     5203); and
+       (B) has demonstrable experience in the restoration of 
+     buffalo and buffalo habitat on Indian land.
+
+     SEC. 4. BUFFALO RESOURCE MANAGEMENT.
+
+       (a) Program Established.--The Secretary shall establish a 
+     permanent program within the Department for the purposes of--
+       (1) promoting and developing the capacity of Indian Tribes 
+     and Tribal organizations to manage buffalo and buffalo 
+     habitat;
+       (2) promoting the ability of Indian Tribes and Tribal 
+     organizations to protect, conserve, and enhance populations 
+     of buffalo that are owned by Indian Tribes or Tribal 
+     organizations;
+       (3) promoting the development and use of buffalo and 
+     buffalo habitat for the maximum practicable benefit of Indian 
+     Tribes and Tribal organizations; and
+       (4) promoting the inclusion of Indian Tribes and Tribal 
+     organizations in Department, international, national, 
+     regional, and local decision making and forums regarding 
+     buffalo and buffalo habitat.
+       (b) Contracts and Grants Authorized.--
+       (1) In general.--The Secretary shall enter into contracts 
+     and cooperative agreements with, and award grants to, Indian 
+     Tribes and Tribal organizations to enable the Indian Tribes 
+     and Tribal organizations--
+       (A) to plan, conduct, or implement a buffalo restoration or 
+     management program;
+       (B) to plan and execute commercial activities related to 
+     buffalo or buffalo products;
+       (C) to support the use and deployment of mobile Tribal or 
+     Tribal organization meat processing facilities; or
+       (D) to carry out other activities relating to buffalo 
+     restoration and management.
+       (2) No diminishment of laws and regulations.--Nothing in 
+     this subsection diminishes any Federal or State law 
+     (including regulations) regarding diseased buffalo or buffalo 
+     that escape from Indian land.
+       (c) Technical Assistance.--The Secretary shall provide 
+     technical assistance to an Indian Tribe or Tribal 
+     organization that enters into a contract or cooperative 
+     agreement or receives a grant under this section to assist 
+     the Indian Tribe or Tribal organization in--
+       (1) carrying out the activities of a buffalo or buffalo 
+     habitat restoration or management program; and
+       (2) implementing the activities described in subparagraphs 
+     (A) through (D) of subsection (b)(1).
+
+     SEC. 5. CONSULTATION; COORDINATION.
+
+       (a) Consultation.--Not later than 1 year after the date of 
+     enactment of this Act, and on an ongoing basis thereafter, 
+     the Secretary shall consult with Indian Tribes and Tribal 
+     organizations on initiatives of the Department that affect 
+     buffalo or buffalo habitat,
+
+[[Page S6994]]
+
+     including efforts of the Department to contain or eradicate 
+     diseased buffalo.
+       (b) Coordination.--The Secretary shall develop a policy 
+     relating to buffalo and buffalo habitat management activities 
+     on Indian land, in accordance with--
+       (1) the goals and objectives described in buffalo 
+     management programs approved by Indian Tribes; and
+       (2) Tribal laws and ordinances.
+
+     SEC. 6. PROTECTION OF INFORMATION.
+
+       Notwithstanding any other provision of law, the Secretary 
+     shall not disclose or cause to be disclosed any information 
+     provided to the Secretary by an Indian Tribe or Tribal 
+     organization that is identified by the Indian Tribe or Tribal 
+     organization as culturally sensitive, proprietary, or 
+     otherwise confidential.
+
+     SEC. 7. BUFFALO FROM FEDERAL LAND.
+
+       (a) In General.--The Secretary may enter into an agreement 
+     with an Indian Tribe or Tribal organization to dispose of 
+     surplus buffalo on Federal land administered by the 
+     Department, as applicable, by transporting such buffalo onto 
+     Indian land.
+       (b) Application.--An Indian Tribe or Tribal organization 
+     may submit to the Secretary an application to receive buffalo 
+     described in subsection (a) at such time, in such manner, and 
+     containing such information as the Secretary may require.
+       (c) Waiver of Charges.--The Secretary may waive any charges 
+     for the buffalo described in subsection (a), including any 
+     deposit or payment for services as described in section 10.2 
+     of title 36, Code of Federal Regulations (or any successor 
+     regulation).
+
+     SEC. 8. TREATY RIGHTS RETAINED.
+
+       Nothing in this Act alters, modifies, diminishes, or 
+     extinguishes the treaty rights of any Indian Tribe.
+
+     SEC. 9. AUTHORIZATION OF APPROPRIATIONS.
+
+       There is authorized to be appropriated to the Secretary to 
+     carry out this Act $14,000,000 for fiscal year 2024 and each 
+     fiscal year thereafter.
+
+     SEC. 10. SUNSET.
+
+       The authority provided by this Act ceases to be effective 
+     on December 31, 2031.
+  The bill, as amended, was ordered to be engrossed for a third reading 
+and was read the third time.
+  Mr. SCHATZ. I know of no further debate on the bill, as amended.
+  The PRESIDING OFFICER. Is there further debate on the bill?
+  Hearing none, the bill having been read the third time, the question 
+is, Shall the bill pass?
+  The bill (S. 2908), as amended, was passed.
+  Mr. SCHATZ. Mr. President, I ask that the motion to reconsider be 
+considered made and laid upon the table.
+  The PRESIDING OFFICER. Is there objection?
+  Without objection, it is so ordered.
+
+                          ____________________
+```

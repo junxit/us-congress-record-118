@@ -1,0 +1,98 @@
+---
+granule: CREC-2024-12-12-pt1-PgS7040
+date: 2024-12-12
+edition: CREC
+section: SENATE
+page: S7040
+citation: 170 Cong. Rec. S7040
+---
+
+# Text of Senate Amendment 3328
+
+**Speaking:** Schumer, Charles E. (S000148) [D-NY]
+
+```
+  SA 3328. Mr. SCHUMER (for Mr. Booker (for himself and Mr. Schmitt)) 
+proposed an amendment to the bill S. 5046, to require the Secretary of 
+Health and Human Service, acting through the Commissioner of Food and 
+Drugs, to publish a final rule relating to nonclinical testing methods; 
+as follows:
+
+        Strike all after the enacting clause and insert the 
+     following:
+
+     SECTION 1. SHORT TITLE.
+
+       This Act may be cited as the ``FDA Modernization Act 3.0''.
+
+     SEC. 2. REGULATIONS ON NONCLINICAL TESTING METHODS.
+
+       (a) Interim Final Rule.--
+       (1) In general.--Not later than 1 year after the date of 
+     enactment of this Act, the Secretary of Health and Human 
+     Services, acting through the Commissioner of Food and Drugs, 
+     shall publish an interim final rule pursuant to subsections 
+     (b) and (c) to ensure implementation of the amendments to 
+     section 505(i) of the Federal Food, Drug, and Cosmetic Act 
+     (21 U.S.C. 355(i)) made by section 3209(a) of the 
+     Consolidated Appropriations Act, 2023 (Public Law 117-328; 
+     136 Stat. 5821).
+       (2) Effectiveness of interim final rule.--Notwithstanding 
+     subparagraph (B) of section 553(b) of title 5, United States 
+     Code, the interim final rule issued by the Secretary of 
+     Health and Human Services under paragraph (1) shall become 
+     immediately effective as an interim final rule without 
+     requiring the Secretary of Health and Human Services to 
+     demonstrate good cause therefor.
+       (b) Inclusions.--
+       (1) In general.--The interim final rule shall replace any 
+     references to ``animal'' tests, data, studies, models, and 
+     research with a reference to nonclinical tests, data, 
+     studies, models, and research in the following sections of 
+     title 21, Code of Federal Regulations:
+       (A) Section 312.22(c).
+       (B) Section 312.23(a)(3)(iv).
+       (C) Section 312.23(a)(5)(ii).
+       (D) Section 312.23(a)(5)(iii).
+       (E) Section 312.23(a)(8).
+       (F) Section 312.23(a)(8)(i).
+       (G) Section 312.23(a)(8)(ii).
+       (H) Section 312.23(a)(10)(i).
+       (I) Section 312.23(a)(10)(ii).
+       (J) Section 312.33(b)(6).
+       (K) Section 312.82(a).
+       (L) Section 312.88.
+       (M) Section 314.50(d)(2).
+       (N) Section 314.50(d)(2)(iv).
+       (O) Section 314.50(d)(5)(i).
+       (P) Section 314.50(d)(5)(vi)(a).
+       (Q) Section 314.50(d)(5)(vi)(b).
+       (R) Section 314.93(e)(2).
+       (S) Section 315.6(d).
+       (T) Section 330.10(a)(2).
+       (U) Section 601.35(d).
+       (V) Any other section necessary to ensure regulatory 
+     consistency with the amendments to section 505(i) of the 
+     Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(i)) made 
+     by section 3209(a) of the Consolidated Appropriations Act, 
+     2023 (Public Law 117-328; 136 Stat. 5821).
+       (2) Additional changes.--The Secretary may make such 
+     additional changes to the sections of title 21, Code of 
+     Federal Regulations, described in subparagraphs (A) through 
+     (V) of paragraph (1) as the Secretary determines appropriate 
+     to fully implement the replacement required under such 
+     paragraph.
+       (c) Definition of Nonclinical Test.--The definition of 
+     ``nonclinical test'' in section 505(z) of the Federal Food, 
+     Drug, and Cosmetic Act (21 U.S.C. 355(z)) shall be added to 
+     sections 312.3, 314.3, 315.2, and 601.31 of title 21, Code of 
+     Federal Regulations.
+       (d) Technical Amendment.--Section 505 of the Federal Food, 
+     Drug, and Cosmetic Act (21 U.S.C. 355) is amended by 
+     designating the second subsection (z) (relating to clinical 
+     trial diversity action plans), as added by section 3601(a) of 
+     the Health Extenders, Improving Access to Medicare, Medicaid, 
+     and CHIP, and Strengthening Public Health Act of 2022 
+     (division FF of Public Law 117-328), as subsection (aa).
+                                 ______
+```
